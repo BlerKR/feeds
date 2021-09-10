@@ -1,7 +1,7 @@
 [vibe_onstage]
 title = "VIBE ─ 온스테이지"
 url = "https://vibe.naver.com/onstage/season/2"
-entrySelector = "div.section_intro"
+entrySelector = "div.section_intro div.video_info"
 titleSelector = "a.title"
 linkSelector = "a.link_detail.scrollmagic.animated"
 waitUntilSelector = ".section_intro"
