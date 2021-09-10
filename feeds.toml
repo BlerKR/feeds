@@ -1,29 +1,8 @@
-[musicbank]
-title = "뮤직뱅크"
-url = "https://program.naver.com/p/659774/clip"
-entrySelector = "li.ClipCard_item__1ly4h"
-titleSelector = "strong.ClipCard_title__2I1pd"
-linkSelector = "a.ClipCard_link__2XpqM"
-imageSelector = "img.ClipCard_img__2XgXF"
-contentSelector = "span.ClipCard_time__128vc"
-waitUntil = "networkidle"
-
-[showmusiccore]
-title = "쇼! 음악중심"
-url = "https://program.naver.com/p/658837/clip"
-entrySelector = "li.ClipCard_item__1ly4h"
-titleSelector = "strong.ClipCard_title__2I1pd"
-linkSelector = "a.ClipCard_link__2XpqM"
-imageSelector = "img.ClipCard_img__2XgXF"
-contentSelector = "span.ClipCard_time__128vc"
-waitUntil = "networkidle"
-
-[inkigayo]
-title = "인기가요"
-url = "https://program.naver.com/p/658960/clip"
-entrySelector = "li.ClipCard_item__1ly4h"
-titleSelector = "strong.ClipCard_title__2I1pd"
-linkSelector = "a.ClipCard_link__2XpqM"
-imageSelector = "img.ClipCard_img__2XgXF"
-contentSelector = "span.ClipCard_time__128vc"
+[vibe_onstage]
+title = "VIBE ─ 온스테이지"
+url = "https://vibe.naver.com/onstage/season/2"
+entrySelector = "ul.list li.item"
+titleSelector = "strong.item_title"
+linkSelector = "div a.link_textarea"
+imageSelector = "img.thumbnail.horizontal"
 waitUntil = "networkidle"
