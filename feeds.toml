@@ -6,3 +6,11 @@ titleSelector = "strong.item_title"
 linkSelector = "a.link_textarea"
 contentSelector = "a p.desc"
 waitForSelector = "li.item"
+
+[vibe_onstage]
+title = "VIBE ─ 온스테이지"
+url = "https://vibe.naver.com/onstage/season/2"
+entrySelector = "div.section_intro div.video_info"
+titleSelector = "a.title"
+linkSelector = "div.button_area a.link_detail.scrollmagic.animated"
+waitForSelector = "div.section_intro"
