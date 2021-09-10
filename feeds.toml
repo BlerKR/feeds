@@ -4,13 +4,4 @@ url = "https://vibe.naver.com/onstage/season/2"
 entrySelector = "div.section_intro div.video_info"
 titleSelector = "a.title"
 linkSelector = "a.link_detail.scrollmagic.animated"
-
-[navertv_onstage]
-title = "ONSTAGE (온스테이지)"
-url = "https://tv.naver.com/onstage/clips"
-entrySelector = "div[class^='cds _MM_CARD']"
-titleSelector = "dt.title"
-linkSelector = "dt.title a"
-imageSelector = "div.cds_type a img"
-contentSelector = "span.tm_b"
 waitUntil = "networkidle"
