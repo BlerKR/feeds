@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BlerKR.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-10T16:16:05.045Z</updated>
+    <updated>2021-09-10T16:21:19.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2021-09-10T16:09:26.788Z</updated>
-        <content type="html"><![CDATA[<div class="main_text custom_font scrollmagic animated"><a href="/onstage/season/2/article/undefined" class="title"></a><p class="desc"></p></div><div class="button_area"><a href="/onstage/season/2/article/undefined" class="link_detail scrollmagic animated">자세히 보기</a><a href="#" role="button" class="button_sound mute"><span class="blind"><!---->볼륨 켜기</span></a></div>]]></content>
+        <title type="html"><![CDATA[씨알이 먹힐 때까지 블루스, CR태규 (VIBE ─ 온스테이지)]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/12401</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/12401"/>
+        <updated>2021-09-10T16:21:19.171Z</updated>
+        <content type="html"><![CDATA[미시시피 삼각주의 멜랑콜리와 교감하는 정통 블루스 뮤지션, CR태규를 소개합니다.]]></content>
     </entry>
 </feed>
