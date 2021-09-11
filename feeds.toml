@@ -6,3 +6,12 @@ titleSelector = "div.main_text.custom_font.scrollmagic.animated a.title"
 linkSelector = "div.button_area a.link_detail.scrollmagic.animated"
 contentSelector = "div.main_text.custom_font.scrollmagic.animated p.desc"
 waitForSelector = "div.video_info"
+
+[jisike]
+title = "지식채널e"
+url = "https://home.ebs.co.kr/jisike/replayList"
+entrySelector = "ul.list li"
+titleSelector = "p.tit"
+linkSelector = "p.pic a"
+contentSelector = "p.con"
+imageSelector = "p.pic a img"
