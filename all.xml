@@ -2,111 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BlerKR.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-12T17:37:47.185Z</updated>
+    <updated>2021-09-12T18:05:01.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[dio (디오) (THE HIT)]]></title>
-        <id>https://the-hit.co/services/IUB0FTZ44CjvbDEyPdab</id>
-        <link href="https://the-hit.co/services/IUB0FTZ44CjvbDEyPdab"/>
-        <updated>2021-09-12T16:57:32.926Z</updated>
-        <content type="html"><![CDATA[나를 이해하는 사람에게 조언을 들어보세요]]></content>
+        <title type="html"><![CDATA[박스히어로 (Disquiet)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-09-12T18:05:00.387Z</updated>
+        <content type="html"><![CDATA[모두를 위한 쉬운 재고관리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[바뱌 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/vkID0a8ktyNE9L0EjOeU</id>
-        <link href="https://the-hit.co/services/vkID0a8ktyNE9L0EjOeU"/>
-        <updated>2021-09-12T16:57:32.927Z</updated>
-        <content type="html"><![CDATA[AI 추천 육아용품 중고마켓 | 아기 울음소리 분석]]></content>
+        <title type="html"><![CDATA[위버딩 (Disquiet)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-09-12T18:05:00.387Z</updated>
+        <content type="html"><![CDATA[국내 최대 디지털 문방구]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더 폼 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/NF37ylJ1CuSZh3PGnBgC</id>
-        <link href="https://the-hit.co/services/NF37ylJ1CuSZh3PGnBgC"/>
-        <updated>2021-09-12T16:57:32.939Z</updated>
-        <content type="html"><![CDATA[모든 폼을 대신하는 폼나는 설문조사 종합 솔루션]]></content>
+        <title type="html"><![CDATA[인별엔터 (Disquiet)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-09-12T18:05:00.387Z</updated>
+        <content type="html"><![CDATA[인스타 유저를 위한 필수 도구]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모티너스 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/R9ksIl2zqp6G5s7jnqQC</id>
-        <link href="https://the-hit.co/services/R9ksIl2zqp6G5s7jnqQC"/>
-        <updated>2021-09-12T16:57:32.939Z</updated>
-        <content type="html"><![CDATA[커뮤니티 기반 CEO 루틴 만들기]]></content>
+        <title type="html"><![CDATA[우리집은 도서관 (Disquiet)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-09-12T18:05:00.393Z</updated>
+        <content type="html"><![CDATA[문 앞 배송 기반의 비대면 도서공유서비스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프리젠트 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/gqQvlWi7cONs2JFivKc2</id>
-        <link href="https://the-hit.co/services/gqQvlWi7cONs2JFivKc2"/>
-        <updated>2021-09-12T16:57:32.940Z</updated>
-        <content type="html"><![CDATA[소셜 프리젠테이션 플랫폼]]></content>
+        <title type="html"><![CDATA[마을 (Disquiet)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-09-12T18:05:00.393Z</updated>
+        <content type="html"><![CDATA[힘들게 만든 서베이, 근데 해줄 사람이 없다면..?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비보트 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/MFMif8MRV15aIufdNS7A</id>
-        <link href="https://the-hit.co/services/MFMif8MRV15aIufdNS7A"/>
-        <updated>2021-09-12T16:57:32.940Z</updated>
-        <content type="html"><![CDATA[가치소비 큐레이션 커머스 비보트]]></content>
+        <title type="html"><![CDATA[로우차트 (Disquiet)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-09-12T18:05:00.394Z</updated>
+        <content type="html"><![CDATA[쿠팡 가격 변동 추적 - 쿠팡 로켓배송 싸게 사기]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[달링크 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/eHRbpsGjscVrxmApY0RP</id>
-        <link href="https://the-hit.co/services/eHRbpsGjscVrxmApY0RP"/>
-        <updated>2021-09-12T16:57:32.943Z</updated>
-        <content type="html"><![CDATA[가장 쉬운 멀티링크 서비스]]></content>
+        <title type="html"><![CDATA[Feedst 피드스트 (Disquiet)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-09-12T18:05:00.395Z</updated>
+        <content type="html"><![CDATA[Entertainment &amp; Sports분야 1:1 전문 피드백플랫폼]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[바바리뷰 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/6Y82G6JKnoUzutiHxCf2</id>
-        <link href="https://the-hit.co/services/6Y82G6JKnoUzutiHxCf2"/>
-        <updated>2021-09-12T16:57:32.951Z</updated>
-        <content type="html"><![CDATA[통합 미디어 리뷰 플랫폼(동영상+텍스트+사진)]]></content>
+        <title type="html"><![CDATA[얼마집 (Disquiet)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-09-12T18:05:00.397Z</updated>
+        <content type="html"><![CDATA[아파트 최신 호가 발견 서비스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[낸내 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/hgGPrv5rKw8CQTEyxf0B</id>
-        <link href="https://the-hit.co/services/hgGPrv5rKw8CQTEyxf0B"/>
-        <updated>2021-09-12T16:57:32.951Z</updated>
-        <content type="html"><![CDATA[상업적으로 이용할 수 있는 무료 한글 폰트]]></content>
+        <title type="html"><![CDATA[파우치 Pauch (Disquiet)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-09-12T18:05:00.399Z</updated>
+        <content type="html"><![CDATA[온라인 즐겨찾기 플랫폼입니다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오큐파이 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/70AJnoRseyJ9cKLEPdlo</id>
-        <link href="https://the-hit.co/services/70AJnoRseyJ9cKLEPdlo"/>
-        <updated>2021-09-12T16:57:32.952Z</updated>
-        <content type="html"><![CDATA[고객센터 구축부터 상담·리뷰 관리까지, 고객센터 솔루션]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청소연구소 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/p5o9g0MZHiEMqiWBafWU</id>
-        <link href="https://the-hit.co/services/p5o9g0MZHiEMqiWBafWU"/>
-        <updated>2021-09-12T16:57:32.952Z</updated>
-        <content type="html"><![CDATA[가사도우미 플랫폼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘수거 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/T12ky9fBVyCM8oUZNVo4</id>
-        <link href="https://the-hit.co/services/T12ky9fBVyCM8oUZNVo4"/>
-        <updated>2021-09-12T16:57:32.952Z</updated>
-        <content type="html"><![CDATA[런드리고 쓰레기 버전, 비대면 생활폐기물 수거 서비스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아웃코드 (THE HIT)]]></title>
-        <id>https://the-hit.co/services/8vaR8kCT72U5Xh4YZlIs</id>
-        <link href="https://the-hit.co/services/8vaR8kCT72U5Xh4YZlIs"/>
-        <updated>2021-09-12T16:57:32.955Z</updated>
-        <content type="html"><![CDATA[운영업무 자동화,  아웃코드에서 개발자 없이 쉽게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KoreanHoon (THE HIT)]]></title>
-        <id>https://the-hit.co/services/JDXxrHzgWyD7Hxnfqb5u</id>
-        <link href="https://the-hit.co/services/JDXxrHzgWyD7Hxnfqb5u"/>
-        <updated>2021-09-12T16:57:32.956Z</updated>
-        <content type="html"><![CDATA[엔터테이닝한 한국어 학습 플랫폼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[heybunny (THE HIT)]]></title>
-        <id>https://the-hit.co/services/Gs6F71rEcgCJevk6hfyI</id>
-        <link href="https://the-hit.co/services/Gs6F71rEcgCJevk6hfyI"/>
-        <updated>2021-09-12T16:57:32.957Z</updated>
-        <content type="html"><![CDATA[뉴스레터용 메일함 서비스]]></content>
+        <title type="html"><![CDATA[이노톡 (Disquiet)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-09-12T18:05:00.401Z</updated>
+        <content type="html"><![CDATA[스타트업 플랫폼]]></content>
     </entry>
 </feed>
