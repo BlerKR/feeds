@@ -1,8 +1,7 @@
-[disquiet]
-title = "Disquiet"
-url = "https://disquiet.io/"
-entrySelector = "div.sc-gVgnHT.bfDGHw div.sc-XhUPp.kiNLFp"
-titleSelector = "h3.title"
-linkSelector = "div.sc-fbNXWD.emHwAg"
-contentSelector = "div.sc-gsxnyZ.gILzWP"
-waitUntil = "networkidle"
+[38_ipo]
+title = "38커뮤니케이션 ─ 공모주 청약일정"
+url = "http://www.38.co.kr/html/fund/index.htm?o=k"
+entrySelector = "table[summary='공모주 청약일정'] tbody tr"
+titleSelector = "td a font"
+linkSelector = "td:nth-child(1) > a"
+contentSelector = "td:nth-child(2)"
