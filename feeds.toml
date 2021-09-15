@@ -1,8 +1,8 @@
-[38_ipo]
-title = "38커뮤니케이션 ─ 공모주 청약일정"
-url = "http://www.38.co.kr/html/fund/index.htm?o=k"
-entrySelector = "table[summary='공모주 청약일정'] tbody tr"
-titleSelector = "td a font"
-linkSelector = "td:nth-child(1) > a"
-contentSelector = "td:nth-child(2)"
-waitForSelector = "table[summary='공모주 청약일정']"
+[kakaotv_eanakim]
+title = "kakaoTV ─ 톡이나 할까?"
+url = "https://tv.kakao.com/channel/3647846/video"
+entrySelector = "ul.list_vertical li"
+titleSelector = "strong.tit_item"
+linkSelector = "a"
+contentSelector = "span.mark_play"
+imageSelector = "span.thumb_box img.thumb_img"
