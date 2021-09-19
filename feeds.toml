@@ -10,7 +10,7 @@ waitUntil = "networkidle"
 
 [billboard_video]
 title = "Billboard Korea ─ VIDEO"
-url = "http://billboard.co.kr/main/news/list"
+url = "http://billboard.co.kr/main/videos/list"
 entrySelector = "ul.clr.news li"
 titleSelector = "div.txt span"
 linkSelector = "a"
