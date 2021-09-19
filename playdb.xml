@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.playdb.co.kr/magazine/magazine_temp.asp?kindno=ALL</id>
-    <title>플레이DB ─ 매거진</title>
-    <updated>2021-09-19T17:36:59.762Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.playdb.co.kr/magazine/favicon.ico</icon>
-</feed>
