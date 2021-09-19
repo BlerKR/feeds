@@ -1,19 +1,9 @@
-[billboard_news]
-title = "Billboard Korea ─ NEWS"
-url = "http://billboard.co.kr/main/news/list"
-entrySelector = "ul.clr.news li"
-titleSelector = "div.txt span"
+[sbsnews_fact]
+title = "SBS뉴스 ─ 사실은"
+url = "https://news.sbs.co.kr/news/fact.do"
+entrySelector = "ul.type_thumb li"
+titleSelector = "strong"
 linkSelector = "a"
-imageSelector = "div.img-con img"
-contentSelector = "div[class='txt'] span"
-waitUntil = "networkidle"
-
-[billboard_video]
-title = "Billboard Korea ─ VIDEO"
-url = "http://billboard.co.kr/main/videos/list"
-entrySelector = "ul.clr.news li"
-titleSelector = "div.txt span"
-linkSelector = "a"
-imageSelector = "div.img-con img"
-contentSelector = "div[class='txt'] span"
+imageSelector = "span.thumb img"
+contentSelector = "a.reporter"
 waitUntil = "networkidle"
