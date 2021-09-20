@@ -1,9 +1,8 @@
-[sbsnews_fact]
-title = "SBS뉴스 ─ 사실은"
-url = "https://news.sbs.co.kr/news/fact.do"
-entrySelector = "ul.type_thumb li"
-titleSelector = "strong"
-linkSelector = "a"
-imageSelector = "span.thumb img"
-contentSelector = "a.reporter"
+[snufactcheck]
+title = "SNU 팩트체크"
+url = "http://factcheck.snu.ac.kr/v2/facts"
+entrySelector = "ul li.fcItem_wrap_li"
+titleSelector = "div.prg.fcItem_li p:nth-child(3)"
+linkSelector = "div.prg.fcItem_li > p:nth-child(3) a"
+contentSelector = "div.meter-label"
 waitUntil = "networkidle"
