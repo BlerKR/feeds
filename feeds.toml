@@ -1,9 +1,9 @@
 [wwit]
 title = "WWIT"
 url = "https://wwit.design/"
-entrySelector = "h2.c-post-card__title"
-titleSelector = "a.c-post-card__title-link"
-linkSelector = "h2 a"
-contentSelector = "div.c-post-card__meta"
+entrySelector = "div.c-post-card"
+titleSelector = "h2.c-post-card__title"
+linkSelector = "h2 a.c-post-card__title-link"
+contentSelector = "div.c-post-card__content > div > div:nth-child(2) > a"
 imageSelector = "img.c-post-card__image.js-fadein.is-inview:nth-child(1)"
 waitUntil = "networkidle"
