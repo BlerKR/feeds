@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Sep 2021 06:43:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 06:50:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,11 +12,7 @@
             <link>https://wwit.design/2021/09/16/kakaowebtoon/</link>
             <guid>https://wwit.design/2021/09/16/kakaowebtoon/</guid>
             <pubDate>Mon, 20 Sep 2021 06:31:06 GMT</pubDate>
-            <content:encoded><![CDATA[<img src="/images/posts/kw/kw_splash.PNG" class="c-post-card__image js-fadein is-inview" alt="카카오웹툰">
-          <img src="/images/posts/kw/kw_home_01.PNG" class="c-post-card__image js-fadein is-inview" alt="카카오웹툰">
-          <img src="/images/posts/kw/kw_home_14.PNG" class="c-post-card__image js-fadein is-inview" alt="카카오웹툰">
-          <img src="/images/posts/kw/kw_view_01.PNG" class="c-post-card__image js-fadein is-inview" alt="카카오웹툰">
-          <img src="/images/posts/kw/kw_my_03.PNG" class="c-post-card__image js-fadein is-inview" alt="카카오웹툰">]]></content:encoded>
+            <content:encoded><![CDATA[entertainment]]></content:encoded>
             <enclosure url="https://wwit.design/images/posts/kw/kw_splash.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
@@ -24,44 +20,28 @@
             <link>https://wwit.design/2021/07/27/coupang/</link>
             <guid>https://wwit.design/2021/07/27/coupang/</guid>
             <pubDate>Mon, 20 Sep 2021 06:31:06 GMT</pubDate>
-            <content:encoded><![CDATA[<img src="/images/posts/coupang/coupang_splash.PNG" class="c-post-card__image js-fadein" alt="쿠팡">
-          <img src="/images/posts/coupang/coupang_home_01.PNG" class="c-post-card__image js-fadein" alt="쿠팡">
-          <img src="/images/posts/coupang/coupang_detail_01.PNG" class="c-post-card__image js-fadein" alt="쿠팡">
-          <img src="/images/posts/coupang/coupang_my_orderlist_01.PNG" class="c-post-card__image js-fadein" alt="쿠팡">
-          <img src="/images/posts/coupang/coupang_my_01.PNG" class="c-post-card__image js-fadein" alt="쿠팡">]]></content:encoded>
+            <content:encoded><![CDATA[shopping]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뤼이드 튜터 (WWIT)]]></title>
             <link>https://wwit.design/2021/07/26/ruiiidtutor/</link>
             <guid>https://wwit.design/2021/07/26/ruiiidtutor/</guid>
             <pubDate>Mon, 20 Sep 2021 06:31:06 GMT</pubDate>
-            <content:encoded><![CDATA[<img src="/images/posts/ruiiidtutor/ruiiidtutor_splash.PNG" class="c-post-card__image js-fadein" alt="뤼이드 튜터">
-          <img src="/images/posts/ruiiidtutor/ruiiidtutor_onboarding_01.PNG" class="c-post-card__image js-fadein" alt="뤼이드 튜터">
-          <img src="/images/posts/ruiiidtutor/ruiiidtutor_home_01.PNG" class="c-post-card__image js-fadein" alt="뤼이드 튜터">
-          <img src="/images/posts/ruiiidtutor/ruiiidtutor_analysis_01.PNG" class="c-post-card__image js-fadein" alt="뤼이드 튜터">
-          <img src="/images/posts/ruiiidtutor/ruiiidtutor_selective_01.PNG" class="c-post-card__image js-fadein" alt="뤼이드 튜터">]]></content:encoded>
+            <content:encoded><![CDATA[education]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카닥 (WWIT)]]></title>
             <link>https://wwit.design/2021/07/11/cardoc/</link>
             <guid>https://wwit.design/2021/07/11/cardoc/</guid>
             <pubDate>Mon, 20 Sep 2021 06:31:06 GMT</pubDate>
-            <content:encoded><![CDATA[<img src="/images/posts/cardoc/cardoc_onboarding_01.PNG" class="c-post-card__image js-fadein" alt="카닥">
-          <img src="/images/posts/cardoc/cardoc_home_02.PNG" class="c-post-card__image js-fadein" alt="카닥">
-          <img src="/images/posts/cardoc/cardoc_shopping_07.PNG" class="c-post-card__image js-fadein" alt="카닥">
-          <img src="/images/posts/cardoc/cardoc_comm_11.PNG" class="c-post-card__image js-fadein" alt="카닥">
-          <img src="/images/posts/cardoc/cardoc_my_01.PNG" class="c-post-card__image js-fadein" alt="카닥">]]></content:encoded>
+            <content:encoded><![CDATA[life]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[캐시슬라이드 (WWIT)]]></title>
             <link>https://wwit.design/2021/07/10/cashslide/</link>
             <guid>https://wwit.design/2021/07/10/cashslide/</guid>
             <pubDate>Mon, 20 Sep 2021 06:31:06 GMT</pubDate>
-            <content:encoded><![CDATA[<img src="/images/posts/cashslide/cs_splash_01.PNG" class="c-post-card__image js-fadein" alt="캐시슬라이드">
-          <img src="/images/posts/cashslide/cs_onboarding_01.PNG" class="c-post-card__image js-fadein" alt="캐시슬라이드">
-          <img src="/images/posts/cashslide/cs_home_01.PNG" class="c-post-card__image js-fadein" alt="캐시슬라이드">
-          <img src="/images/posts/cashslide/cs_group_04.PNG" class="c-post-card__image js-fadein" alt="캐시슬라이드">
-          <img src="/images/posts/cashslide/cs_setting_01.PNG" class="c-post-card__image js-fadein" alt="캐시슬라이드">]]></content:encoded>
+            <content:encoded><![CDATA[life]]></content:encoded>
         </item>
     </channel>
 </rss>
