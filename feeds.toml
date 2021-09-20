@@ -1,7 +1,9 @@
-[snufactcheck_notice]
-title = "SNU 팩트체크 ─ 공지사항"
-url = "http://factcheck.snu.ac.kr/documents?doc_type=notice"
-entrySelector = "table.notice_table tbody tr"
-titleSelector = "td a"
-linkSelector = "td:nth-child(1) > a"
-contentSelector = "td:nth-child(2)"
+[wwit]
+title = "WWIT"
+url = "https://wwit.design/"
+entrySelector = "h2.c-post-card__title"
+titleSelector = "a.c-post-card__title-link"
+linkSelector = "h2 a"
+contentSelector = "div.c-post-card__meta"
+imageSelector = "img.c-post-card__image.js-fadein.is-inview:nth-child(1)"
+waitUntil = "networkidle"
