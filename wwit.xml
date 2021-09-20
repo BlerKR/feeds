@@ -1,49 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://BlerKR.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-09-20T06:25:49.055Z</updated>
+    <id>https://wwit.design/</id>
+    <title>WWIT</title>
+    <updated>2021-09-20T06:25:49.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://wwit.design/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[카카오웹툰 (WWIT)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[카카오웹툰]]></title>
+        <id>https://wwit.design/</id>
+        <link href="https://wwit.design/"/>
         <updated>2021-09-20T06:25:48.134Z</updated>
         <content type="html"><![CDATA[<a href="/2021/09/16/kakaowebtoon/" class="c-post-card__title-link" target="_blank">
           카카오웹툰
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쿠팡 (WWIT)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[쿠팡]]></title>
+        <id>https://wwit.design/</id>
+        <link href="https://wwit.design/"/>
         <updated>2021-09-20T06:25:48.135Z</updated>
         <content type="html"><![CDATA[<a href="/2021/07/27/coupang/" class="c-post-card__title-link" target="_blank">
           쿠팡
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뤼이드 튜터 (WWIT)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[뤼이드 튜터]]></title>
+        <id>https://wwit.design/</id>
+        <link href="https://wwit.design/"/>
         <updated>2021-09-20T06:25:48.136Z</updated>
         <content type="html"><![CDATA[<a href="/2021/07/26/ruiiidtutor/" class="c-post-card__title-link" target="_blank">
           뤼이드 튜터
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카닥 (WWIT)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[카닥]]></title>
+        <id>https://wwit.design/</id>
+        <link href="https://wwit.design/"/>
         <updated>2021-09-20T06:25:48.149Z</updated>
         <content type="html"><![CDATA[<a href="/2021/07/11/cardoc/" class="c-post-card__title-link" target="_blank">
           카닥
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐시슬라이드 (WWIT)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[캐시슬라이드]]></title>
+        <id>https://wwit.design/</id>
+        <link href="https://wwit.design/"/>
         <updated>2021-09-20T06:25:48.149Z</updated>
         <content type="html"><![CDATA[<a href="/2021/07/10/cashslide/" class="c-post-card__title-link" target="_blank">
           캐시슬라이드
