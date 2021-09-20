@@ -1,8 +1,7 @@
-[snufactcheck]
-title = "SNU 팩트체크"
-url = "http://factcheck.snu.ac.kr/v2/facts"
-entrySelector = "ul li.fcItem_wrap_li"
-titleSelector = "div.prg.fcItem_li p:nth-child(3)"
-linkSelector = "div.prg.fcItem_li > p:nth-child(3) a"
-contentSelector = "div.meter-label"
-waitUntil = "networkidle"
+[snufactcheck_notice]
+title = "SNU 팩트체크 ─ 공지사항"
+url = "http://factcheck.snu.ac.kr/documents?doc_type=notice"
+entrySelector = "table.notice_table tbody tr"
+titleSelector = "td a"
+linkSelector = "td:nth-child(1) > a"
+contentSelector = "td:nth-child(2)"
