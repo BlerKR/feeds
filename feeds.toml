@@ -1,7 +1,7 @@
 [gaonchart_notice]
 title = "가온차트 ─ 공지사항"
 url = "http://www.gaonchart.co.kr/main/section/notice/list.gaon"
-entrySelector = "table tbody tr"
+entrySelector = "div.boardlist table tbody tr:not(:first-child)"
 titleSelector = "td.al"
 linkSelector = "td.al a"
 contentSelector = "td:nth-child(3)"
