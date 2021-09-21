@@ -1,9 +1,9 @@
-[kbsnews_factcheckk]
-title = "KBS 뉴스 ─ 팩트체크K"
-url = "https://news.kbs.co.kr/news/list.do?mcd=1032"
-entrySelector = "ul.list-type.list-thumb li"
-titleSelector = "em.tit"
+[daum_factcheck]
+title = "다음 뉴스 ─ 팩트체크"
+url = "https://focus.daum.net/ch/news/factcheck"
+entrySelector = "ul.list_news.news_type2 li"
+titleSelector = "strong.tit_txt"
 linkSelector = "a"
-contentSelector = "span.script"
-imageSelector = "span.img-center img"
+contentSelector = "div.desc_thumb"
+imageSelector = "div.wrap_thumb img"
 waitUntil = "networkidle"
