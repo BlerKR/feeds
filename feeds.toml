@@ -1,7 +1,8 @@
-[jisike]
-title = "지식채널e"
-url = "https://jisike.ebs.co.kr/jisike/replayListNew"
-entrySelector = "ul.list li"
-titleSelector = "p.tit"
-linkSelector = "div.vodmeta a"
+[ticketlink]
+title = "티켓링크"
+url = "http://www.ticketlink.co.kr/help/notice"
+entrySelector = "//tbody[@id='nTableBody']/tr"
+titleSelector = "//td[@class='tl p_reative']/a"
+linkSelector = "//td[2]/a/@href"
+contentSelector = "//td[@class='open_info']/text()"
 waitUntil = "networkidle"
