@@ -1,9 +1,8 @@
-[jisike]
+[jisike_main]
 title = "지식채널e"
-url = "https://jisike.ebs.co.kr/jisike/replayListNew"
-entrySelector = "ul.list li"
-titleSelector = "p.tit"
-linkSelector = "div.vodmeta a"
-contentSelector = "p.con"
-imageSelector = "p.pic a img"
-waitForSelector = "ul.list"
+url = "https://jisike.ebs.co.kr/jisike/index"
+entrySelector = "div.owl-stage div.owl-item.active"
+titleSelector = "span.txt_tit"
+linkSelector = "a.moving"
+imageSelector = "div.img_area img.owl-lazy"
+waitUntil = "networkidle"
