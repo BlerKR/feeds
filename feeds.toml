@@ -1,19 +1,9 @@
-[movie_magazine]
-title = "다음 영화 ─ 매거진"
-url = "https://movie.daum.net/contents/1boon"
-entrySelector = "ul.list_contents li"
-titleSelector = "strong a.link_txt"
-linkSelector = "a.link_txt"
-contentSelector = "span.txt_info"
-imageSelector = "span.bg_img"
-waitUntil = "networkidle"
-
-[movie_brunch]
-title = "다음 영화 ─ 브런치"
-url = "https://movie.daum.net/contents/brunch"
-entrySelector = "ul.list_contents li"
-titleSelector = "strong a.link_txt"
-linkSelector = "a.link_txt"
-contentSelector = "span.txt_info"
-imageSelector = "span.bg_img"
+[entertain_news_music]
+title = "다음 연예 ─ 뉴스 ─ 뮤직"
+url = "https://entertain.daum.net/news/music"
+entrySelector = "ul.list_news li"
+titleSelector = "a.link_txt"
+linkSelector = "a.link_thumb"
+contentSelector = "p.desc_thumb"
+imageSelector = "a.link_thumb img.thumb_g"
 waitUntil = "networkidle"
