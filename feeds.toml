@@ -1,7 +1,9 @@
-[newspeppermint]
-title = "뉴스페퍼민트"
-url = "https://newspeppermint.com/"
-entrySelector = "ul.block2 li"
-titleSelector = "h6.regular.art-title a"
-linkSelector = "a"
-contentSelector = "span.meta:nth-child(1)"
+[jisike]
+title = "지식채널e"
+url = "https://jisike.ebs.co.kr/jisike/replayListNew"
+entrySelector = "ul.list li"
+titleSelector = "p.tit"
+linkSelector = "div.vodmeta a"
+contentSelector = "p.con"
+imageSelector = "p.pic a img"
+waitUntil = "networkidle"
