@@ -1,8 +1,18 @@
-[mbc_idol]
+[mbc_enews_idol]
 title = "iMBC 연예 ─ 아이돌"
 url = "http://enews.imbc.com/ThemeIdol"
 entrySelector = "ul.news-list.list-square.list-latest li"
 titleSelector = "p.summary"
 linkSelector = "a"
+imageSelector = "a img"
+waitUntil = "networkidle"
+
+[mbc_enews_movie]
+title = "iMBC 연예 ─ 영화"
+url = "http://enews.imbc.com/Search?searchText=%EC%98%81%ED%99%94"
+entrySelector = "ul.news-list.list-square.list-latest li"
+titleSelector = "p.summary"
+linkSelector = "a"
+contentSelector = ""
 imageSelector = "a img"
 waitUntil = "networkidle"
