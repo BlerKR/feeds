@@ -1,39 +1,9 @@
-[kbs_kstar_movie]
-title = "KBS연예 ─ 영화"
-url = "https://kstar.kbs.co.kr/list.html?cate=MV"
-entrySelector = "ul.slice-grid3 li"
-titleSelector = "span.max-progtit"
+[mbc_idol]
+title = "iMBC 연예 ─ 아이돌"
+url = "http://enews.imbc.com/ThemeIdol"
+entrySelector = "ul.news-list.list-square.list-latest li"
+titleSelector = "p.summary"
 linkSelector = "a"
-imageSelector = "span.img-thum span.img-center img"
-
-[kbs_kstar_music]
-title = "KBS연예 ─ 음악"
-url = "https://kstar.kbs.co.kr/list.html?cate=MU"
-entrySelector = "ul.slice-grid3 li"
-titleSelector = "span.max-progtit"
-linkSelector = "a"
-imageSelector = "span.img-thum span.img-center img"
-
-[kbs_kstar_star]
-title = "KBS연예 ─ 연예"
-url = "https://kstar.kbs.co.kr/list.html?cate=ST"
-entrySelector = "ul.slice-grid3 li"
-titleSelector = "span.max-progtit"
-linkSelector = "a"
-imageSelector = "span.img-thum span.img-center img"
-
-[kbs_kstar_tv]
-title = "KBS연예 ─ TVs"
-url = "https://kstar.kbs.co.kr/list.html?cate=TV"
-entrySelector = "ul.slice-grid3 li"
-titleSelector = "span.max-progtit"
-linkSelector = "a"
-imageSelector = "span.img-thum span.img-center img"
-
-[kbs_kstar_kbs]
-title = "KBS연예 ─ KBS"
-url = "https://kstar.kbs.co.kr/list.html?cate=BC"
-entrySelector = "ul.slice-grid3 li"
-titleSelector = "span.max-progtit"
-linkSelector = "a"
-imageSelector = "span.img-thum span.img-center img"
+contentSelector = ""
+imageSelector = "a img"
+waitUntil = "networkidle"
