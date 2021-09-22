@@ -1,9 +1,9 @@
-[entertain_news_music]
-title = "다음 연예 ─ 뉴스 ─ 뮤직"
-url = "https://entertain.daum.net/news/music"
-entrySelector = "ul.list_news li"
-titleSelector = "a.link_txt"
-linkSelector = "a.link_txt"
-contentSelector = "p.desc_thumb"
-imageSelector = "img.thumb_g"
+[naver_entertain_news_music]
+title = "네이버 TV연예 ─ 최신뉴스 ─ 뮤직"
+url = "https://m.entertain.naver.com/now?sid=7a5"
+entrySelector = "ul.news_lst li"
+titleSelector = "p.tx"
+linkSelector = "a"
+contentSelector = "span.press"
+imageSelector = "div.thumb.ch_visbl img"
 waitUntil = "networkidle"
