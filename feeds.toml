@@ -7,3 +7,13 @@ linkSelector = "a"
 contentSelector = "span.press"
 imageSelector = "div.thumb.ch_visbl img"
 waitUntil = "networkidle"
+
+[naver_entertain_now_music]
+title = "네이버 TV연예 ─ 최신뉴스 ─ 뮤직"
+url = "https://entertain.naver.com/now?sid=7a5"
+entrySelector = "ul.news_lst.news_lst2 li"
+titleSelector = "a.tit"
+linkSelector = "a"
+contentSelector = "p.summary"
+imageSelector = "a.thumb_area img"
+waitUntil = "networkidle"
