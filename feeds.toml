@@ -1,8 +1,8 @@
 [ticketlink]
 title = "티켓링크"
 url = "http://www.ticketlink.co.kr/help/notice"
-entrySelector = "//tbody[@id='nTableBody']/tr"
-titleSelector = "//td[@class='tl p_reative']/a"
-linkSelector = "//td[2]/a/@href"
-contentSelector = "//td[@class='open_info']/text()"
+entrySelector = "tbody[id='nTableBody'] tr"
+titleSelector = "td.tl.p_reative > a"
+linkSelector = "td a"
+contentSelector = "td[class='open_info']"
 waitForSelector = ".basic_tbl"
