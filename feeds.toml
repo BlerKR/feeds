@@ -1,8 +1,9 @@
-[ticketlink]
-title = "티켓링크"
-url = "http://www.ticketlink.co.kr/help/notice"
-entrySelector = "tbody[id='nTableBody'] tr"
-titleSelector = "td.tl.p_reative > a"
-linkSelector = "td a"
-contentSelector = "td[class='open_info']"
-waitForSelector = ".basic_tbl"
+[privatecurve_notice]
+title = "PRIVATE CURVE ─ Notice"
+url = "http://www.privatecurve.com/bbs/board.php?bo_table=news"
+entrySelector = "div.total-sizing-wrap.grid div.gal-box.notice-box"
+titleSelector = "h1.bold.line15"
+linkSelector = "a"
+contentSelector = "h2.ft14.col03"
+imageSelector = "div.notice-images-box img"
+waitUntil = "networkidle"
