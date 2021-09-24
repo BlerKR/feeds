@@ -1,7 +1,7 @@
 [dc_taeyeon]
 title = "태연갤러리 ─ 개념글"
 url = "https://gall.dcinside.com/board/lists?id=taeyeon_new1&exception_mode=recommend"
-entrySelector = "tbody tr[data-type^='icon_recom']"
+entrySelector = "table.gall_list tbody tr[data-type^='icon_recom']"
 titleSelector = "td.gall_tit.ub-word a"
 linkSelector = "td.gall_tit.ub-word > a:nth-child(1)"
-waitForSelector ="tbody"
+waitForSelector ="table.gall_list"
