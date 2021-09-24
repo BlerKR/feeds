@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://BlerKR.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-09-24T06:16:36.983Z</updated>
+    <id>https://vibe.naver.com/onstage/season/2</id>
+    <title>VIBE ─ 온스테이지</title>
+    <updated>2021-09-24T06:16:36.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
         <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
         <updated>2021-09-24T06:16:36.247Z</updated>
