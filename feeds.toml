@@ -1,9 +1,9 @@
-[privatecurve_notice]
-title = "PRIVATE CURVE ─ Notice"
-url = "http://www.privatecurve.com/bbs/board.php?bo_table=news"
-entrySelector = "div.total-sizing-wrap.grid div.gal-box.notice-box"
-titleSelector = "h1.bold.line15"
-linkSelector = "a"
-contentSelector = "h2.ft14.col03"
-imageSelector = "div.notice-images-box img"
-waitForSelector = "div[class='total-sizing-wrap grid']"
+[vibe_recent]
+title = "VIBE ─ 온스테이지"
+url = "https://vibe.naver.com/onstage/season/2"
+entrySelector = "div.section_intro div.video_info"
+titleSelector = "a.title"
+linkSelector = "div.main_text.custom_font.scrollmagic.animated a.title"
+contentSelector = "p.desc"
+waitForSelector = "div.section_intro"
+onFail = "stale"
