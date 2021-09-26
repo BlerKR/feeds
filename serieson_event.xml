@@ -1,123 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://BlerKR.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-09-26T00:39:06.360Z</updated>
+    <id>https://serieson.naver.com/movie/eventList.nhn</id>
+    <title>[시리즈온] 이벤트</title>
+    <updated>2021-09-26T00:39:06.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[👓프리 시티로 얼른 오세요~ '프리 가이' 예약 구매 중 ([시리즈온] 이벤트)]]></title>
+        <title type="html"><![CDATA[👓프리 시티로 얼른 오세요~ '프리 가이' 예약 구매 중]]></title>
         <id>https://serieson.naver.com/event/details.nhn?eventNo=13580&amp;productType=movie</id>
         <link href="https://serieson.naver.com/event/details.nhn?eventNo=13580&amp;productType=movie"/>
         <updated>2021-09-26T00:39:05.701Z</updated>
         <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13580&amp;productType=movie" class=" NPI=a:list">👓프리 시티로 얼른 오세요~ '프리 가이' 예약 구매 중</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[휴잭맨의 기억 추적 미스터리🕵️영화 '레미니센스' 오픈! ([시리즈온] 이벤트)]]></title>
+        <title type="html"><![CDATA[휴잭맨의 기억 추적 미스터리🕵️영화 '레미니센스' 오픈!]]></title>
         <id>https://serieson.naver.com/event/details.nhn?eventNo=13577&amp;productType=movie</id>
         <link href="https://serieson.naver.com/event/details.nhn?eventNo=13577&amp;productType=movie"/>
         <updated>2021-09-26T00:39:05.701Z</updated>
         <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13577&amp;productType=movie" class=" NPI=a:list">휴잭맨의 기억 추적 미스터리🕵️영화 '레미니센스' 오픈! </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[추억 조작하는 청춘 영화 바이블💚영화 '남색대문' 오픈! ([시리즈온] 이벤트)]]></title>
+        <title type="html"><![CDATA[추억 조작하는 청춘 영화 바이블💚영화 '남색대문' 오픈!]]></title>
         <id>https://serieson.naver.com/event/details.nhn?eventNo=13578&amp;productType=movie</id>
         <link href="https://serieson.naver.com/event/details.nhn?eventNo=13578&amp;productType=movie"/>
         <updated>2021-09-26T00:39:05.701Z</updated>
         <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13578&amp;productType=movie" class=" NPI=a:list">추억 조작하는 청춘 영화 바이블💚영화 '남색대문' 오픈!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🔥쉴 틈을 안 주는 넥스트 레블 매운맛 공포! 맨 인 더 다크 2 ([시리즈온] 이벤트)]]></title>
+        <title type="html"><![CDATA[🔥쉴 틈을 안 주는 넥스트 레블 매운맛 공포! 맨 인 더 다크 2]]></title>
         <id>https://serieson.naver.com/event/details.nhn?eventNo=13579&amp;productType=movie</id>
         <link href="https://serieson.naver.com/event/details.nhn?eventNo=13579&amp;productType=movie"/>
         <updated>2021-09-26T00:39:05.703Z</updated>
         <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13579&amp;productType=movie" class=" NPI=a:list">🔥쉴 틈을 안 주는 넥스트 레블 매운맛 공포! 맨 인 더 다크 2</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CJ X 시리즈온👀연휴에 몰아보기 딱 좋은 영화만 모아모아 ([시리즈온] 이벤트)]]></title>
+        <title type="html"><![CDATA[CJ X 시리즈온👀연휴에 몰아보기 딱 좋은 영화만 모아모아]]></title>
         <id>https://serieson.naver.com/event/details.nhn?eventNo=13563&amp;productType=movie</id>
         <link href="https://serieson.naver.com/event/details.nhn?eventNo=13563&amp;productType=movie"/>
         <updated>2021-09-26T00:39:05.704Z</updated>
         <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13563&amp;productType=movie" class=" NPI=a:list">CJ X 시리즈온👀연휴에 몰아보기 딱 좋은 영화만 모아모아</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[✔️ 웃픈 도심형 재난 영화 '싱크홀' 시리즈온 오픈! ([시리즈온] 이벤트)]]></title>
+        <title type="html"><![CDATA[✔️ 웃픈 도심형 재난 영화 '싱크홀' 시리즈온 오픈!]]></title>
         <id>https://serieson.naver.com/event/details.nhn?eventNo=13551&amp;productType=movie</id>
         <link href="https://serieson.naver.com/event/details.nhn?eventNo=13551&amp;productType=movie"/>
         <updated>2021-09-26T00:39:05.705Z</updated>
         <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13551&amp;productType=movie" class=" NPI=a:list">✔️ 웃픈 도심형 재난 영화 '싱크홀' 시리즈온 오픈!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[😎액션 카타르시스는 계속 되어야 한다! 블랙 위도우 ([시리즈온] 이벤트)]]></title>
+        <title type="html"><![CDATA[😎액션 카타르시스는 계속 되어야 한다! 블랙 위도우]]></title>
         <id>https://serieson.naver.com/event/details.nhn?eventNo=13562&amp;productType=movie</id>
         <link href="https://serieson.naver.com/event/details.nhn?eventNo=13562&amp;productType=movie"/>
         <updated>2021-09-26T00:39:05.712Z</updated>
         <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13562&amp;productType=movie" class=" NPI=a:list">😎액션 카타르시스는 계속 되어야 한다! 블랙 위도우</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[⏱인간의 근원적 공포를 마주한다! '올드'와 함께 푸짐한 경품이 가득! ([시리즈온] 이벤트)]]></title>
+        <title type="html"><![CDATA[⏱인간의 근원적 공포를 마주한다! '올드'와 함께 푸짐한 경품이 가득!]]></title>
         <id>https://serieson.naver.com/event/details.nhn?eventNo=13564&amp;productType=movie</id>
         <link href="https://serieson.naver.com/event/details.nhn?eventNo=13564&amp;productType=movie"/>
         <updated>2021-09-26T00:39:05.712Z</updated>
         <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13564&amp;productType=movie" class=" NPI=a:list">⏱인간의 근원적 공포를 마주한다! '올드'와 함께 푸짐한 경품이 가득!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[📌영화를 가장 스마트하게 즐기는 방법! 네플멤과 함께 100% 쿠폰 한 장 더~! ([시리즈온] 이벤트)]]></title>
+        <title type="html"><![CDATA[📌영화를 가장 스마트하게 즐기는 방법! 네플멤과 함께 100% 쿠폰 한 장 더~!]]></title>
         <id>https://serieson.naver.com/event/details.nhn?eventNo=13561&amp;productType=movie</id>
         <link href="https://serieson.naver.com/event/details.nhn?eventNo=13561&amp;productType=movie"/>
         <updated>2021-09-26T00:39:05.712Z</updated>
         <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13561&amp;productType=movie" class=" NPI=a:list">📌영화를 가장 스마트하게 즐기는 방법! 네플멤과 함께 100% 쿠폰 한 장 더~!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🐲용과 주근깨 공주 개봉 기념! 호소다 마모루 감독 특별전 진행 ([시리즈온] 이벤트)]]></title>
+        <title type="html"><![CDATA[🐲용과 주근깨 공주 개봉 기념! 호소다 마모루 감독 특별전 진행]]></title>
         <id>https://serieson.naver.com/event/details.nhn?eventNo=13572&amp;productType=movie</id>
         <link href="https://serieson.naver.com/event/details.nhn?eventNo=13572&amp;productType=movie"/>
         <updated>2021-09-26T00:39:05.712Z</updated>
         <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13572&amp;productType=movie" class=" NPI=a:list">🐲용과 주근깨 공주 개봉 기념! 호소다 마모루 감독 특별전 진행</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🦇배트맨 데이 기념! 고담 시티로 함께 떠나요~ ([시리즈온] 이벤트)]]></title>
+        <title type="html"><![CDATA[🦇배트맨 데이 기념! 고담 시티로 함께 떠나요~]]></title>
         <id>https://serieson.naver.com/event/details.nhn?eventNo=13575&amp;productType=movie</id>
         <link href="https://serieson.naver.com/event/details.nhn?eventNo=13575&amp;productType=movie"/>
         <updated>2021-09-26T00:39:05.712Z</updated>
         <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13575&amp;productType=movie" class=" NPI=a:list">🦇배트맨 데이 기념! 고담 시티로 함께 떠나요~</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조제의 용기와 사랑을 응원해💕'조제, 호랑이 그리고 물고기들' 오픈! ([시리즈온] 이벤트)]]></title>
+        <title type="html"><![CDATA[조제의 용기와 사랑을 응원해💕'조제, 호랑이 그리고 물고기들' 오픈!]]></title>
         <id>https://serieson.naver.com/event/details.nhn?eventNo=13559&amp;productType=movie</id>
         <link href="https://serieson.naver.com/event/details.nhn?eventNo=13559&amp;productType=movie"/>
         <updated>2021-09-26T00:39:05.712Z</updated>
         <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13559&amp;productType=movie" class=" NPI=a:list">조제의 용기와 사랑을 응원해💕'조제, 호랑이 그리고 물고기들' 오픈!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[놓치기 아까운 다양성 영화 2천 캐시 혜택과 만나자! 시리즈온 X 경기인디시네마 ([시리즈온] 이벤트)]]></title>
+        <title type="html"><![CDATA[놓치기 아까운 다양성 영화 2천 캐시 혜택과 만나자! 시리즈온 X 경기인디시네마]]></title>
         <id>https://serieson.naver.com/event/details.nhn?eventNo=13570&amp;productType=movie</id>
         <link href="https://serieson.naver.com/event/details.nhn?eventNo=13570&amp;productType=movie"/>
         <updated>2021-09-26T00:39:05.715Z</updated>
         <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13570&amp;productType=movie" class=" NPI=a:list">놓치기 아까운 다양성 영화 2천 캐시 혜택과 만나자! 시리즈온 X 경기인디시네마</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8년만에 컴백💥스네이크 아이즈: 지.아이.조 극장 동시 개봉! ([시리즈온] 이벤트)]]></title>
+        <title type="html"><![CDATA[8년만에 컴백💥스네이크 아이즈: 지.아이.조 극장 동시 개봉!]]></title>
         <id>https://serieson.naver.com/event/details.nhn?eventNo=13554&amp;productType=movie</id>
         <link href="https://serieson.naver.com/event/details.nhn?eventNo=13554&amp;productType=movie"/>
         <updated>2021-09-26T00:39:05.715Z</updated>
         <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13554&amp;productType=movie" class=" NPI=a:list">8년만에 컴백💥스네이크 아이즈: 지.아이.조 극장 동시 개봉!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[귀여움으로 중무장한 강아지 어벤져스🐶퍼피 구조대: 더 무비 오픈! ([시리즈온] 이벤트)]]></title>
+        <title type="html"><![CDATA[귀여움으로 중무장한 강아지 어벤져스🐶퍼피 구조대: 더 무비 오픈!]]></title>
         <id>https://serieson.naver.com/event/details.nhn?eventNo=13549&amp;productType=movie</id>
         <link href="https://serieson.naver.com/event/details.nhn?eventNo=13549&amp;productType=movie"/>
         <updated>2021-09-26T00:39:05.717Z</updated>
         <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13549&amp;productType=movie" class=" NPI=a:list">귀여움으로 중무장한 강아지 어벤져스🐶퍼피 구조대: 더 무비 오픈!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9월 우수이용자! 놓치지 말고 확인! ([시리즈온] 이벤트)]]></title>
+        <title type="html"><![CDATA[9월 우수이용자! 놓치지 말고 확인!]]></title>
         <id>https://serieson.naver.com/event/details.nhn?eventNo=13541&amp;productType=movie</id>
         <link href="https://serieson.naver.com/event/details.nhn?eventNo=13541&amp;productType=movie"/>
         <updated>2021-09-26T00:39:05.718Z</updated>
         <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13541&amp;productType=movie" class=" NPI=a:list">9월 우수이용자! 놓치지 말고 확인!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이번주 가격인하작, 시리즈온에서 확인! ([시리즈온] 이벤트)]]></title>
+        <title type="html"><![CDATA[이번주 가격인하작, 시리즈온에서 확인!]]></title>
         <id>https://serieson.naver.com/event/details.nhn?eventNo=13192&amp;productType=movie</id>
         <link href="https://serieson.naver.com/event/details.nhn?eventNo=13192&amp;productType=movie"/>
         <updated>2021-09-26T00:39:05.722Z</updated>
