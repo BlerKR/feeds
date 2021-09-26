@@ -1,8 +1,7 @@
-[dc_taeyeon]
-title = "태연갤러리 ─ 개념글"
-url = "https://gall.dcinside.com/board/lists?id=taeyeon_new1&exception_mode=recommend"
-entrySelector = "tr[data-type^='icon_recom']"
-titleSelector = "td.gall_tit.ub-word a"
-linkSelector = "td.gall_tit.ub-word > a:nth-child(1)"
-contentSelector = "td.gall_writer.ub-writer"
-waitForSelector = ".gall_list"
+[serieson_event ]
+title = "[시리즈온] 이벤트"
+url = "https://serieson.naver.com/movie/eventList.nhn"
+entrySelector = "ul li.event:not(:first-child)"
+titleSelector = "a"
+linkSelector = "a"
+waitUntil = "networkidle"
