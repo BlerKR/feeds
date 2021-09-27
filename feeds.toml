@@ -1,8 +1,7 @@
-[factcheck]
-title = "다음 뉴스 ─ 팩트체크"
-url = "https://focus.daum.net/ch/news/factcheck"
-entrySelector = "ul.list_news.type2 li"
-titleSelector = "strong.tit_txt"
+[geeknews_show]
+title = "GeekNews Show"
+url = "https://news.hada.io/show"
+entrySelector = ""
+titleSelector = "td.topictitle h1"
 linkSelector = "a"
-contentSelector = "div.desc_thumb"
 waitUntil = "networkidle"
