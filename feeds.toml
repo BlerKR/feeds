@@ -1,7 +1,7 @@
 [geeknews_show]
 title = "GeekNews Show"
 url = "https://news.hada.io/show"
-entrySelector = "tbody td.topictitle"
-titleSelector = "td.topictitle h1"
+entrySelector = "td.topictitle"
+titleSelector = "h1"
 linkSelector = "a"
 waitUntil = "networkidle"
