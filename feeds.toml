@@ -1,3 +1,12 @@
+[geeknews_new]
+title = "GeekNews ─ 최신글"
+url = "https://news.hada.io/new"
+entrySelector = "table tbody tr.topic"
+titleSelector = "td.topictitle a h1"
+linkSelector = "td.topictitle a"
+contentSelector = "span.topicurl"
+waitUntil = "networkidle"
+
 [geeknews_show]
 title = "GeekNews Show"
 url = "https://news.hada.io/show"
