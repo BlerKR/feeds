@@ -87,3 +87,13 @@ linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
 waitUntil = "networkidle"
+
+[cine21_dailynews]
+title = "씨네21 ─ 데일리뉴스"
+url = "http://www.cine21.com/news/issue/list"
+entrySelector = "ul.news li:not(:nth-child(5))"
+titleSelector = "span.tit"
+linkSelector = "a"
+contentSelector = "span.nothumb"
+imageSelector = "span.thumb img.thumb_img"
+waitUntil = "networkidle"
