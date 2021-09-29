@@ -1,8 +1,9 @@
-[kakao_contentv_maxmovie]
-title = "맥스무비 ─ 카카오 콘텐츠뷰"
-url = "https://content.v.daum.net/2249/contents"
-entrySelector = "ul.list_column li"
-titleSelector = "strong.tit_item"
-linkSelector = "a.link_column"
-imageSelector = "img.thumb_g"
+[cine21_playing]
+title = "씨네21 ─ 영화 ─ 현재 상영중"
+url = "http://www.cine21.com/movie/lists/playing"
+entrySelector = "ul.mov_info_list li.mov_info_li"
+titleSelector = "div.over span.tit"
+linkSelector = "a"
+contentSelector = "div.over span.open_date"
+imageSelector = "a img.thumb"
 waitUntil = "networkidle"
