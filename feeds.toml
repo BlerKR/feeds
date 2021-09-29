@@ -47,3 +47,43 @@ linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
 waitUntil = "networkidle"
+
+[cine21_article_column]
+title = "씨네21 ─ 기사 ─ 칼럼"
+url = "http://www.cine21.com/news/list/?idx=5"
+entrySelector = "ul.news li:not(:nth-child(5))"
+titleSelector = "span.tit"
+linkSelector = "a"
+contentSelector = "span.nothumb"
+imageSelector = "span.thumb img.thumb_img"
+waitUntil = "networkidle"
+
+[cine21_article_critic]
+title = "씨네21 ─ 기사 ─ 평론"
+url = "http://www.cine21.com/news/list/?idx=6"
+entrySelector = "ul.news li:not(:nth-child(5))"
+titleSelector = "span.tit"
+linkSelector = "a"
+contentSelector = "span.nothumb"
+imageSelector = "span.thumb img.thumb_img"
+waitUntil = "networkidle"
+
+[cine21_article_culture]
+title = "씨네21 ─ 기사 ─ 컬쳐"
+url = "http://www.cine21.com/news/list/?idx=7"
+entrySelector = "ul.news li:not(:nth-child(5))"
+titleSelector = "span.tit"
+linkSelector = "a"
+contentSelector = "span.nothumb"
+imageSelector = "span.thumb img.thumb_img"
+waitUntil = "networkidle"
+
+[cine21_article_filmfest]
+title = "씨네21 ─ 기사 ─ 영화제"
+url = "http://www.cine21.com/news/list/?idx=8"
+entrySelector = "ul.news li:not(:nth-child(5))"
+titleSelector = "span.tit"
+linkSelector = "a"
+contentSelector = "span.nothumb"
+imageSelector = "span.thumb img.thumb_img"
+waitUntil = "networkidle"
