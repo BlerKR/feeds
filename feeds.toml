@@ -7,3 +7,13 @@ linkSelector = "a"
 contentSelector = "div.over span.open_date"
 imageSelector = "a img.thumb"
 waitUntil = "networkidle"
+
+[cine21_coming]
+title = "씨네21 ─ 영화 ─ 개봉일 확정"
+url = "http://www.cine21.com/movie/lists/coming_date"
+entrySelector = "ul.mov_info_list li.mov_info_li"
+titleSelector = "div.over span.tit"
+linkSelector = "a"
+contentSelector = "div.over span.open_date"
+imageSelector = "a img.thumb"
+waitUntil = "networkidle"
