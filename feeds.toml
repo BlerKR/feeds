@@ -1,7 +1,9 @@
-[hani_seunghan]
-title = "한겨레S ─ 이승한의 술탄 오브 더 티브이"
-url = "https://www.hani.co.kr/arti/SERIES/508/"
-entrySelector = "div.series-list-area ul.one-type li"
-titleSelector = "a"
+[cine21_news]
+title = "씨네21 ─ 뉴스"
+url = "http://www.cine21.com/news/list/?idx=1"
+entrySelector = "ul.news li"
+titleSelector = "span.tit"
 linkSelector = "a"
-waitForSelector = ".one-type"
+contentSelector = "span.nothumb"
+imageSelector = "span.thumb img.thumb_img"
+waitUntil = "networkidle"
