@@ -1,7 +1,7 @@
 [cine21_news]
 title = "씨네21 ─ 뉴스"
 url = "http://www.cine21.com/news/list/?idx=1"
-entrySelector = "ul.news li"
+entrySelector = "ul.news li:not(:nth-child(5))"
 titleSelector = "span.tit"
 linkSelector = "a"
 contentSelector = "span.nothumb"
