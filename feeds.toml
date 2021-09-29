@@ -17,3 +17,33 @@ linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
 waitUntil = "networkidle"
+
+[cine21_article_planning]
+title = "씨네21 ─ 기사 ─ 기획"
+url = "http://www.cine21.com/news/list/?idx=2"
+entrySelector = "ul.news li:not(:nth-child(5))"
+titleSelector = "span.tit"
+linkSelector = "a"
+contentSelector = "span.nothumb"
+imageSelector = "span.thumb img.thumb_img"
+waitUntil = "networkidle"
+
+[cine21_article_review]
+title = "씨네21 ─ 기사 ─ 기획"
+url = "http://www.cine21.com/news/list/?idx=3"
+entrySelector = "ul.news li:not(:nth-child(5))"
+titleSelector = "span.tit"
+linkSelector = "a"
+contentSelector = "span.nothumb"
+imageSelector = "span.thumb img.thumb_img"
+waitUntil = "networkidle"
+
+[cine21_article_interview]
+title = "씨네21 ─ 기사 ─ 인터뷰"
+url = "http://www.cine21.com/news/list/?idx=4"
+entrySelector = "ul.news li:not(:nth-child(5))"
+titleSelector = "span.tit"
+linkSelector = "a"
+contentSelector = "span.nothumb"
+imageSelector = "span.thumb img.thumb_img"
+waitUntil = "networkidle"
