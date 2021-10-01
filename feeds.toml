@@ -1,9 +1,10 @@
-[elle_fashion]
-title = "엘르 코리아 ─ 패션"
-url = "https://www.elle.co.kr/fashion"
-entrySelector = "div.articlebox"
-titleSelector = "em.title a"
-linkSelector = "em a"
-contentSelector = "p.excerpt a"
-imageSelector = "div.imgbox.Thumb455"
+[vogue_fashion]
+title = "보그 코리아 ─ 패션"
+url = "https://www.vogue.co.kr/category/fashion/"
+entrySelector = "div.fusion-post-wrapper"
+titleSelector = "h2.entry-title.fusion-post-title a"
+linkSelector = "a"
+dateSelector = "span.updated.rich-snippet-hidden"
+contentSelector = "span.fn a"
+imageSelector = "img.attachment-full.size-full.wp-post-image"
 waitUntil = "networkidle"
