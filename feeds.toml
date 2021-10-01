@@ -1,7 +1,7 @@
 [elle_fashion]
 title = "엘르 코리아 ─ 패션"
 url = "https://www.elle.co.kr/fashion"
-entrySelector = "div.articlebox div.textbox"
+entrySelector = "div.articlebox"
 titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
