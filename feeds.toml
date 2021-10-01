@@ -1,9 +1,8 @@
-[longblack]
-title = "LongBlack"
-url = "https://www.longblack.co/"
-entrySelector = "div[id='main-today-note']"
-titleSelector = "h2.today-note-title"
-linkSelector = "a"
-contentSelector = "p.today-note-desc"
-imageSelector = "div.bg-img.ratio-4-3"
+[alookso_trend]
+title = "alookso ─ 뜨는 글"
+url = "https://alook.so/discover/trendiest"
+entrySelector = "div.flex-auto.space-y-2"
+titleSelector = "h5 a "
+linkSelector = "h5 a "
+contentSelector = "h6 a span"
 waitUntil = "networkidle"
