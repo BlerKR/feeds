@@ -1,7 +1,7 @@
 [ticket]
 title = "예스24 티켓"
 url = "http://ticket.yes24.com/New/Notice/NoticeMain.aspx"
-entrySelector = "//html/body/div/div/div/div/table/tbody/tr"
+entrySelector = "//html/body/div/div/div/div/table/tbody/tr[position()>1]"
 titleSelector = "//td[2]"
 linkSelector = "//td[2]/a[1]/em[2]/ancestor-or-self::node()/@href"
 contentSelector = "//td[3]/text()"
