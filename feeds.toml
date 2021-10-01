@@ -1,17 +1,8 @@
-[alookso_trend]
-title = "alookso ─ 뜨는 글"
-url = "https://alook.so/discover/trendiest"
-entrySelector = "div.flex-auto.space-y-2"
-titleSelector = "h5 a "
-linkSelector = "h5 a "
-contentSelector = "h6 a span"
-waitUntil = "networkidle"
-
-[alookso_latest]
-title = "alookso ─ 최신 글"
-url = "https://alook.so/discover/latest"
-entrySelector = "div.flex-auto.space-y-2"
-titleSelector = "h5 a "
-linkSelector = "h5 a "
-contentSelector = "h6 a span"
+[ticket]
+title = "예스24 티켓"
+url = "http://ticket.yes24.com/New/Notice/NoticeMain.aspx"
+entrySelector = "tbody tr:not(:first-child)"
+titleSelector = "a > em:not(:nth-child(1))"
+linkSelector = "td:nth-child(2) > a"
+contentSelector = "td:nth-child(3)"
 waitUntil = "networkidle"
