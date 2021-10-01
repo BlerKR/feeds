@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-01T02:51:24.590Z</updated>
+    <updated>2021-10-01T03:16:44.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.714Z</updated>
+        <updated>2021-10-01T03:16:31.049Z</updated>
         <content type="html"><![CDATA[<th scope="col">구분</th><th scope="col">제목</th><th scope="col">티켓오픈 일시</th><th scope="col">조회수</th>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.715Z</updated>
+        <updated>2021-10-01T03:16:31.050Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -26,14 +26,14 @@
                     <td>
                         2021.10.05(화) 15:00</td>
                     <td>
-                        146
+                        150
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.716Z</updated>
+        <updated>2021-10-01T03:16:31.050Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -43,14 +43,14 @@
                     <td>
                         2021.10.08(금) 14:00</td>
                     <td>
-                        67
+                        68
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.718Z</updated>
+        <updated>2021-10-01T03:16:31.050Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -60,14 +60,14 @@
                     <td>
                         2021.10.05(화) 16:00</td>
                     <td>
-                        84
+                        86
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.719Z</updated>
+        <updated>2021-10-01T03:16:31.055Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -77,14 +77,14 @@
                     <td>
                         2021.10.19(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2021.10.13(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a></td>
                     <td>
-                        2,793
+                        2,799
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.720Z</updated>
+        <updated>2021-10-01T03:16:31.056Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -94,14 +94,14 @@
                     <td>
                         2021.10.06(수) 14:00</td>
                     <td>
-                        454
+                        463
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.725Z</updated>
+        <updated>2021-10-01T03:16:31.056Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -111,14 +111,14 @@
                     <td>
                         2021.10.01(금) 20:00</td>
                     <td>
-                        2,152
+                        2,156
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.726Z</updated>
+        <updated>2021-10-01T03:16:31.056Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -135,7 +135,7 @@
         <title type="html"><![CDATA[8]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.727Z</updated>
+        <updated>2021-10-01T03:16:31.058Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -152,7 +152,7 @@
         <title type="html"><![CDATA[9]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.729Z</updated>
+        <updated>2021-10-01T03:16:31.059Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -169,7 +169,7 @@
         <title type="html"><![CDATA[10]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.730Z</updated>
+        <updated>2021-10-01T03:16:31.060Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -186,7 +186,7 @@
         <title type="html"><![CDATA[11]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.731Z</updated>
+        <updated>2021-10-01T03:16:31.063Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -203,7 +203,7 @@
         <title type="html"><![CDATA[12]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.733Z</updated>
+        <updated>2021-10-01T03:16:31.065Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -220,7 +220,7 @@
         <title type="html"><![CDATA[13]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.734Z</updated>
+        <updated>2021-10-01T03:16:31.067Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -237,7 +237,7 @@
         <title type="html"><![CDATA[14]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.735Z</updated>
+        <updated>2021-10-01T03:16:31.068Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -254,7 +254,7 @@
         <title type="html"><![CDATA[15]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.737Z</updated>
+        <updated>2021-10-01T03:16:31.069Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -271,7 +271,7 @@
         <title type="html"><![CDATA[16]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.739Z</updated>
+        <updated>2021-10-01T03:16:31.071Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -288,7 +288,7 @@
         <title type="html"><![CDATA[17]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.741Z</updated>
+        <updated>2021-10-01T03:16:31.072Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -305,7 +305,7 @@
         <title type="html"><![CDATA[18]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.743Z</updated>
+        <updated>2021-10-01T03:16:31.073Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -322,7 +322,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.744Z</updated>
+        <updated>2021-10-01T03:16:31.075Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -339,7 +339,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T02:51:21.745Z</updated>
+        <updated>2021-10-01T03:16:31.076Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>

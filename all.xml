@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://BlerKR.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-10-01T02:51:24.563Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.714Z</updated>
-        <content type="html"><![CDATA[<th scope="col">구분</th><th scope="col">제목</th><th scope="col">티켓오픈 일시</th><th scope="col">조회수</th>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.715Z</updated>
-        <content type="html"><![CDATA[<td>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 01 Oct 2021 03:16:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<th scope="col">구분</th><th scope="col">제목</th><th scope="col">티켓오픈 일시</th><th scope="col">조회수</th>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -25,15 +28,15 @@
                     <td>
                         2021.10.05(화) 15:00</td>
                     <td>
-                        146
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.716Z</updated>
-        <content type="html"><![CDATA[<td>
+                        150
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -42,15 +45,15 @@
                     <td>
                         2021.10.08(금) 14:00</td>
                     <td>
-                        67
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.718Z</updated>
-        <content type="html"><![CDATA[<td>
+                        68
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -59,15 +62,15 @@
                     <td>
                         2021.10.05(화) 16:00</td>
                     <td>
-                        84
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.719Z</updated>
-        <content type="html"><![CDATA[<td>
+                        86
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -76,15 +79,15 @@
                     <td>
                         2021.10.19(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2021.10.13(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a></td>
                     <td>
-                        2,793
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.720Z</updated>
-        <content type="html"><![CDATA[<td>
+                        2,799
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -93,15 +96,15 @@
                     <td>
                         2021.10.06(수) 14:00</td>
                     <td>
-                        454
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.725Z</updated>
-        <content type="html"><![CDATA[<td>
+                        463
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -110,15 +113,15 @@
                     <td>
                         2021.10.01(금) 20:00</td>
                     <td>
-                        2,152
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.726Z</updated>
-        <content type="html"><![CDATA[<td>
+                        2,156
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -128,14 +131,14 @@
                         2021.09.29(수) 12:00<a class="noti-btn-pop" presaletit1="9와 숫자들 RED" presaletit2="" presaletime1="2021.09.29(수) 16:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a></td>
                     <td>
                         256
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.727Z</updated>
-        <content type="html"><![CDATA[<td>
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -145,14 +148,14 @@
                         2021.10.01(금) 14:00</td>
                     <td>
                         367
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.729Z</updated>
-        <content type="html"><![CDATA[<td>
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -162,14 +165,14 @@
                         2021.09.29(수) 14:00</td>
                     <td>
                         170
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.730Z</updated>
-        <content type="html"><![CDATA[<td>
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -179,14 +182,14 @@
                         2021.10.05(화) 14:00</td>
                     <td>
                         206
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.731Z</updated>
-        <content type="html"><![CDATA[<td>
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -196,14 +199,14 @@
                         2021.09.28(화) 16:00</td>
                     <td>
                         765
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.733Z</updated>
-        <content type="html"><![CDATA[<td>
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -213,14 +216,14 @@
                         2021.09.28(화) 10:00</td>
                     <td>
                         451
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.734Z</updated>
-        <content type="html"><![CDATA[<td>
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -230,14 +233,14 @@
                         2021.09.29(수) 14:00</td>
                     <td>
                         234
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.735Z</updated>
-        <content type="html"><![CDATA[<td>
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -247,14 +250,14 @@
                         2021.09.27(월) 10:00</td>
                     <td>
                         246
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.737Z</updated>
-        <content type="html"><![CDATA[<td>
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -264,14 +267,14 @@
                         2021.09.28(화) 14:00</td>
                     <td>
                         452
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.739Z</updated>
-        <content type="html"><![CDATA[<td>
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -281,14 +284,14 @@
                         2021.09.28(화) 15:00</td>
                     <td>
                         535
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.741Z</updated>
-        <content type="html"><![CDATA[<td>
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -298,14 +301,14 @@
                         2021.09.29(수) 14:00</td>
                     <td>
                         288
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.743Z</updated>
-        <content type="html"><![CDATA[<td>
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -315,14 +318,14 @@
                         2021.09.29(수) 14:00</td>
                     <td>
                         790
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.744Z</updated>
-        <content type="html"><![CDATA[<td>
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -332,14 +335,14 @@
                         2021.09.29(수) 14:00</td>
                     <td>
                         431
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (예스24 티켓)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-01T02:51:21.745Z</updated>
-        <content type="html"><![CDATA[<td>
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
                     <td>
@@ -349,6 +352,47 @@
                         2021.09.29(수) 14:00</td>
                     <td>
                         473
-                    </td>]]></content>
-    </entry>
-</feed>
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [V 에버 애프터] 3차 티켓 오픈안내 (예스24 티켓 ─ 하이라이트)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11183&amp;Gcode=009_208_001</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11183&amp;Gcode=009_208_001</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.05(화) 15:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202108/20210812/20210812-39879.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [브라더스 까라마조프] 티켓 오픈 안내 (예스24 티켓 ─ 하이라이트)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11181&amp;Gcode=009_208_001</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11181&amp;Gcode=009_208_001</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.05(화) 16:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/BoardNotice/202109/20210930/20210930-64c22982-c8b0-4a54-911c-15dc5cfd3677.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 지킬앤하이드 3차 티켓오픈 안내 (예스24 티켓 ─ 하이라이트)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11179&amp;Gcode=009_208_001</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11179&amp;Gcode=009_208_001</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.06(수) 14:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202109/20210923/20210923-39997.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 권진아 단독 공연 ＇우리의 방식＇ 티켓오픈 안내 (예스24 티켓 ─ 하이라이트)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11177&amp;Gcode=009_208_001</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11177&amp;Gcode=009_208_001</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.01(금) 20:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202109/20210930/20210930-40291.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [천변카바레] 티켓 오픈 안내 (예스24 티켓 ─ 하이라이트)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11175&amp;Gcode=009_208_001</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11175&amp;Gcode=009_208_001</guid>
+            <pubDate>Fri, 01 Oct 2021 03:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.01(금) 14:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202109/20210930/20210930-40306.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+    </channel>
+</rss>
