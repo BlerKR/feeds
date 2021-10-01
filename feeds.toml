@@ -6,3 +6,12 @@ titleSelector = "h5 a "
 linkSelector = "h5 a "
 contentSelector = "h6 a span"
 waitUntil = "networkidle"
+
+[alookso_latest]
+title = "alookso ─ 최신 글"
+url = "https://alook.so/discover/latest"
+entrySelector = "div.flex-auto.space-y-2"
+titleSelector = "h5 a "
+linkSelector = "h5 a "
+contentSelector = "h6 a span"
+waitUntil = "networkidle"
