@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://BlerKR.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-10-01T00:54:33.769Z</updated>
+    <id>https://www.longblack.co/</id>
+    <title>LongBlack</title>
+    <updated>2021-10-01T00:54:33.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[콰이칸 :  1분 안에 읽는 스낵 웹툰,  2억 중국 MZ를 사로잡다 (LongBlack)]]></title>
+        <title type="html"><![CDATA[콰이칸 :  1분 안에 읽는 스낵 웹툰,  2억 중국 MZ를 사로잡다]]></title>
         <id>https://www.longblack.co/note/35</id>
         <link href="https://www.longblack.co/note/35"/>
         <updated>2021-10-01T00:54:32.952Z</updated>
