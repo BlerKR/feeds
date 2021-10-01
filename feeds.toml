@@ -1,9 +1,9 @@
-[yna_factcheck]
-title = "연합뉴스 ─ 팩트체크"
-url = "https://www.yna.co.kr/theme-list/factcheck?site=navi_factcheck"
-entrySelector = "div.list-type038 ul.list li"
-titleSelector = "strong.tit-news"
-linkSelector = "div.news-con a"
-contentSelector = "p.lead"
-imageSelector = "figure.img-con img"
+[longblack]
+title = "LongBlack"
+url = "https://www.longblack.co/"
+entrySelector = "div[id='main-today-note']"
+titleSelector = "h2.today-note-title"
+linkSelector = "a"
+contentSelector = "p.today-note-desc"
+imageSelector = "div.bg-img.ratio-4-3"
 waitUntil = "networkidle"
