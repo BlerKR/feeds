@@ -1,7 +1,7 @@
 [ticket]
 title = "예스24 티켓"
 url = "http://ticket.yes24.com/New/Notice/NoticeMain.aspx"
-entrySelector = "tbody tr:not(:first-child)"
+entrySelector = "tr > td:nth-child(2) > a > em:nth-child(2)"
 titleSelector = "a > em:not(:nth-child(1))"
 linkSelector = "td:nth-child(2) > a"
 contentSelector = "td:nth-child(3)"
