@@ -2,21 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-01T04:53:09.966Z</updated>
+    <updated>2021-10-01T05:46:53.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[0]]></title>
+        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [블랙메리포핀스] 앵콜 1차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.315Z</updated>
-        <content type="html"><![CDATA[<th scope="col">구분</th><th scope="col">제목</th><th scope="col">티켓오픈 일시</th><th scope="col">조회수</th>]]></content>
+        <updated>2021-10-01T05:46:36.203Z</updated>
+        <content type="html"><![CDATA[<td>
+                        티켓오픈
+                    </td>
+                    <td>
+                        <a href="#id=11185"><em>2021 웰컴대학로-웰컴씨어터 뮤지컬 [블랙메리포핀스] 앵콜 1차 티켓 오픈 안내</em></a>
+                    </td>
+                    <td>
+                        2021.10.05(화) 14:00</td>
+                    <td>
+                        10
+                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매정세운 팬미팅〈레쓰꽁 럭키!〉티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
+        <updated>2021-10-01T05:46:36.205Z</updated>
+        <content type="html"><![CDATA[<td>
+                        티켓오픈
+                    </td>
+                    <td>
+                        <a href="#id=11184"><em><span>단독판매</span></em><em>정세운 팬미팅〈레쓰꽁 럭키!〉티켓오픈안내</em></a>
+                    </td>
+                    <td>
+                        2021.10.08(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2021.10.06(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a></td>
+                    <td>
+                        529
+                    </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 3차 티켓 오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.373Z</updated>
+        <updated>2021-10-01T05:46:36.205Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -26,14 +53,14 @@
                     <td>
                         2021.10.05(화) 15:00</td>
                     <td>
-                        161
+                        180
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 4차 티켓 오픈! (Musical Hadestown) 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.374Z</updated>
+        <updated>2021-10-01T05:46:36.207Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -43,14 +70,14 @@
                     <td>
                         2021.10.08(금) 14:00</td>
                     <td>
-                        81
+                        85
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [브라더스 까라마조프] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.376Z</updated>
+        <updated>2021-10-01T05:46:36.207Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -60,14 +87,14 @@
                     <td>
                         2021.10.05(화) 16:00</td>
                     <td>
-                        93
+                        105
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매WONHO CONCERT〈WE ARE YOUNG〉티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.378Z</updated>
+        <updated>2021-10-01T05:46:36.214Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -77,14 +104,14 @@
                     <td>
                         2021.10.19(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2021.10.13(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a></td>
                     <td>
-                        2,826
+                        2,840
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 지킬앤하이드 3차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.379Z</updated>
+        <updated>2021-10-01T05:46:36.214Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -94,14 +121,14 @@
                     <td>
                         2021.10.06(수) 14:00</td>
                     <td>
-                        501
+                        512
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2021 권진아 단독 공연 ＇우리의 방식＇ 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.381Z</updated>
+        <updated>2021-10-01T05:46:36.216Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -111,14 +138,14 @@
                     <td>
                         2021.10.01(금) 20:00</td>
                     <td>
-                        2,196
+                        2,220
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매9와 숫자들 GREEN & RED CONCERT 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.385Z</updated>
+        <updated>2021-10-01T05:46:36.217Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -128,14 +155,14 @@
                     <td>
                         2021.09.29(수) 12:00<a class="noti-btn-pop" presaletit1="9와 숫자들 RED" presaletit2="" presaletime1="2021.09.29(수) 16:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a></td>
                     <td>
-                        258
+                        260
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [천변카바레] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.386Z</updated>
+        <updated>2021-10-01T05:46:36.221Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -145,14 +172,14 @@
                     <td>
                         2021.10.01(금) 14:00</td>
                     <td>
-                        376
+                        380
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제16회 부산국제매직페스티벌 매직위크 1차 티켓 오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.390Z</updated>
+        <updated>2021-10-01T05:46:36.222Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -162,14 +189,14 @@
                     <td>
                         2021.09.29(수) 14:00</td>
                     <td>
-                        172
+                        174
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페스티벌 나다 2021 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.392Z</updated>
+        <updated>2021-10-01T05:46:36.222Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -179,14 +206,14 @@
                     <td>
                         2021.10.05(화) 14:00</td>
                     <td>
-                        209
+                        211
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 1차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.394Z</updated>
+        <updated>2021-10-01T05:46:36.222Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -196,14 +223,14 @@
                     <td>
                         2021.09.28(화) 16:00</td>
                     <td>
-                        768
+                        769
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매제8회 해운대재즈페스티벌 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.395Z</updated>
+        <updated>2021-10-01T05:46:36.223Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -213,14 +240,14 @@
                     <td>
                         2021.09.28(화) 10:00</td>
                     <td>
-                        455
+                        456
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 세종 체임버시리즈 Ⅲ - 신창용 김동현 듀오 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.397Z</updated>
+        <updated>2021-10-01T05:46:36.223Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -230,14 +257,14 @@
                     <td>
                         2021.09.29(수) 14:00</td>
                     <td>
-                        236
+                        237
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 [여행] - 대구 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.398Z</updated>
+        <updated>2021-10-01T05:46:36.225Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -247,14 +274,14 @@
                     <td>
                         2021.09.27(월) 10:00</td>
                     <td>
-                        248
+                        249
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [시카고]  - 천안 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.400Z</updated>
+        <updated>2021-10-01T05:46:36.226Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -264,14 +291,14 @@
                     <td>
                         2021.09.28(화) 14:00</td>
                     <td>
-                        454
+                        456
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [풍월주] 3차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.403Z</updated>
+        <updated>2021-10-01T05:46:36.229Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -281,14 +308,14 @@
                     <td>
                         2021.09.28(화) 15:00</td>
                     <td>
-                        537
+                        538
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 [일의 기쁨과 슬픔] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.406Z</updated>
+        <updated>2021-10-01T05:46:36.230Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -298,14 +325,14 @@
                     <td>
                         2021.09.29(수) 14:00</td>
                     <td>
-                        291
+                        292
                     </td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [뱀파이어 아더] 프리뷰 ＆ 1차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.408Z</updated>
+        <updated>2021-10-01T05:46:36.231Z</updated>
         <content type="html"><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -315,41 +342,7 @@
                     <td>
                         2021.09.29(수) 14:00</td>
                     <td>
-                        792
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [허길동전] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.409Z</updated>
-        <content type="html"><![CDATA[<td>
-                        티켓오픈
-                    </td>
-                    <td>
-                        <a href="#id=11164"><em>연극 [허길동전] 티켓 오픈 안내</em></a>
-                    </td>
-                    <td>
-                        2021.09.29(수) 14:00</td>
-                    <td>
-                        433
-                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [우리들의 사랑] 1차 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx"/>
-        <updated>2021-10-01T04:52:49.410Z</updated>
-        <content type="html"><![CDATA[<td>
-                        티켓오픈
-                    </td>
-                    <td>
-                        <a href="#id=11163"><em>뮤지컬 [우리들의 사랑] 1차 티켓오픈안내</em></a>
-                    </td>
-                    <td>
-                        2021.09.29(수) 14:00</td>
-                    <td>
-                        475
+                        793
                     </td>]]></content>
     </entry>
 </feed>

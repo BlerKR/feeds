@@ -4,21 +4,48 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 04:53:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 05:46:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[undefined (예스24 티켓)]]></title>
+            <title><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [블랙메리포핀스] 앵콜 1차 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
-            <content:encoded><![CDATA[<th scope="col">구분</th><th scope="col">제목</th><th scope="col">티켓오픈 일시</th><th scope="col">조회수</th>]]></content:encoded>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                        티켓오픈
+                    </td>
+                    <td>
+                        <a href="#id=11185"><em>2021 웰컴대학로-웰컴씨어터 뮤지컬 [블랙메리포핀스] 앵콜 1차 티켓 오픈 안내</em></a>
+                    </td>
+                    <td>
+                        2021.10.05(화) 14:00</td>
+                    <td>
+                        10
+                    </td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매정세운 팬미팅〈레쓰꽁 럭키!〉티켓오픈안내 (예스24 티켓)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                        티켓오픈
+                    </td>
+                    <td>
+                        <a href="#id=11184"><em><span>단독판매</span></em><em>정세운 팬미팅〈레쓰꽁 럭키!〉티켓오픈안내</em></a>
+                    </td>
+                    <td>
+                        2021.10.08(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2021.10.06(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a></td>
+                    <td>
+                        529
+                    </td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [V 에버 애프터] 3차 티켓 오픈안내 (예스24 티켓)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -28,14 +55,14 @@
                     <td>
                         2021.10.05(화) 15:00</td>
                     <td>
-                        161
+                        180
                     </td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 4차 티켓 오픈! (Musical Hadestown) 티켓오픈안내 (예스24 티켓)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -45,14 +72,14 @@
                     <td>
                         2021.10.08(금) 14:00</td>
                     <td>
-                        81
+                        85
                     </td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [브라더스 까라마조프] 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -62,14 +89,14 @@
                     <td>
                         2021.10.05(화) 16:00</td>
                     <td>
-                        93
+                        105
                     </td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매WONHO CONCERT〈WE ARE YOUNG〉티켓오픈안내 (예스24 티켓)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -79,14 +106,14 @@
                     <td>
                         2021.10.19(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2021.10.13(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a></td>
                     <td>
-                        2,826
+                        2,840
                     </td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 지킬앤하이드 3차 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -96,14 +123,14 @@
                     <td>
                         2021.10.06(수) 14:00</td>
                     <td>
-                        501
+                        512
                     </td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매2021 권진아 단독 공연 ＇우리의 방식＇ 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -113,14 +140,14 @@
                     <td>
                         2021.10.01(금) 20:00</td>
                     <td>
-                        2,196
+                        2,220
                     </td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매9와 숫자들 GREEN & RED CONCERT 티켓오픈안내 (예스24 티켓)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -130,14 +157,14 @@
                     <td>
                         2021.09.29(수) 12:00<a class="noti-btn-pop" presaletit1="9와 숫자들 RED" presaletit2="" presaletime1="2021.09.29(수) 16:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a></td>
                     <td>
-                        258
+                        260
                     </td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [천변카바레] 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -147,14 +174,14 @@
                     <td>
                         2021.10.01(금) 14:00</td>
                     <td>
-                        376
+                        380
                     </td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제16회 부산국제매직페스티벌 매직위크 1차 티켓 오픈안내 (예스24 티켓)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -164,14 +191,14 @@
                     <td>
                         2021.09.29(수) 14:00</td>
                     <td>
-                        172
+                        174
                     </td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[페스티벌 나다 2021 티켓오픈안내 (예스24 티켓)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -181,14 +208,14 @@
                     <td>
                         2021.10.05(화) 14:00</td>
                     <td>
-                        209
+                        211
                     </td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 1차 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -198,14 +225,14 @@
                     <td>
                         2021.09.28(화) 16:00</td>
                     <td>
-                        768
+                        769
                     </td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매제8회 해운대재즈페스티벌 티켓오픈안내 (예스24 티켓)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -215,14 +242,14 @@
                     <td>
                         2021.09.28(화) 10:00</td>
                     <td>
-                        455
+                        456
                     </td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 세종 체임버시리즈 Ⅲ - 신창용 김동현 듀오 티켓오픈안내 (예스24 티켓)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -232,14 +259,14 @@
                     <td>
                         2021.09.29(수) 14:00</td>
                     <td>
-                        236
+                        237
                     </td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 [여행] - 대구 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -249,14 +276,14 @@
                     <td>
                         2021.09.27(월) 10:00</td>
                     <td>
-                        248
+                        249
                     </td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [시카고]  - 천안 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -266,14 +293,14 @@
                     <td>
                         2021.09.28(화) 14:00</td>
                     <td>
-                        454
+                        456
                     </td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [풍월주] 3차 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -283,14 +310,14 @@
                     <td>
                         2021.09.28(화) 15:00</td>
                     <td>
-                        537
+                        538
                     </td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 [일의 기쁨과 슬픔] 티켓오픈안내 (예스24 티켓)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -300,14 +327,14 @@
                     <td>
                         2021.09.29(수) 14:00</td>
                     <td>
-                        291
+                        292
                     </td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [뱀파이어 아더] 프리뷰 ＆ 1차 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
+            <pubDate>Fri, 01 Oct 2021 05:46:36 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                         티켓오픈
                     </td>
@@ -317,41 +344,7 @@
                     <td>
                         2021.09.29(수) 14:00</td>
                     <td>
-                        792
-                    </td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 [허길동전] 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>https://BlerKR.github.io/feeds/all.xml</link>
-            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                        티켓오픈
-                    </td>
-                    <td>
-                        <a href="#id=11164"><em>연극 [허길동전] 티켓 오픈 안내</em></a>
-                    </td>
-                    <td>
-                        2021.09.29(수) 14:00</td>
-                    <td>
-                        433
-                    </td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [우리들의 사랑] 1차 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>https://BlerKR.github.io/feeds/all.xml</link>
-            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 04:52:49 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                        티켓오픈
-                    </td>
-                    <td>
-                        <a href="#id=11163"><em>뮤지컬 [우리들의 사랑] 1차 티켓오픈안내</em></a>
-                    </td>
-                    <td>
-                        2021.09.29(수) 14:00</td>
-                    <td>
-                        475
+                        793
                     </td>]]></content:encoded>
         </item>
         <item>
@@ -393,6 +386,20 @@
             <pubDate>Fri, 01 Oct 2021 03:16:40 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.01(금) 14:00]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202109/20210930/20210930-40306.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [블랙메리포핀스] 앵콜 1차 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11185</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11185</guid>
+            <pubDate>Fri, 01 Oct 2021 05:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.05(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매정세운 팬미팅〈레쓰꽁 럭키!〉티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11184</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11184</guid>
+            <pubDate>Fri, 01 Oct 2021 05:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2021.10.06(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [V 에버 애프터] 3차 티켓 오픈안내 (예스24 티켓)]]></title>
@@ -517,20 +524,6 @@
             <title><![CDATA[뮤지컬 [뱀파이어 아더] 프리뷰 ＆ 1차 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11165</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11165</guid>
-            <pubDate>Fri, 01 Oct 2021 04:53:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.29(수) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 [허길동전] 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11164</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11164</guid>
-            <pubDate>Fri, 01 Oct 2021 04:53:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.29(수) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [우리들의 사랑] 1차 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11163</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11163</guid>
             <pubDate>Fri, 01 Oct 2021 04:53:07 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.29(수) 14:00]]></content:encoded>
         </item>
