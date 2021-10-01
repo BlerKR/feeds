@@ -6,3 +6,13 @@ titleSelector = "//td[2]/a[1]/em[2]/text()"
 linkSelector = "//td[2]/a[1]/em[2]/ancestor-or-self::node()/@href"
 contentSelector = "//td[3]/text()"
 waitUntil = "networkidle"
+
+[yes24_top]
+title = "예스24 티켓 ─ 하이라이트"
+url = "http://ticket.yes24.com/New/Notice/NoticeMain.aspx"
+entrySelector = "div.swiper-container.ticketo div.swiper-wrapper div.swiper-slide"
+titleSelector = "p.ticket-tit"
+linkSelector = "a"
+contentSelector = "p.ticket-date"
+imageSelector = "a img.lazyload"
+waitUntil = "networkidle"
