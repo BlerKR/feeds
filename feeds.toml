@@ -1,19 +1,9 @@
-[publy_all]
-title = "PUBLY ─ ALL"
-url = "https://publy.co/topic/all"
-entrySelector = "div.col-4.mb-4"
-titleSelector = "div > a > h6"
-linkSelector = "a.d-block.position-relative"
-contentSelector = "p.font-size-xsmall.text-gray-600"
-imageSelector = "img.m-0.rounded"
-waitUntil = "networkidle"
-
-[careet]
-title = "캐릿 ─ 전체보기"
-url = "https://www.careet.net/Content/All"
-entrySelector = "ul.list-wrap.gly-list.col3 li"
-titleSelector = "p.list-tit"
-linkSelector = "a"
-contentSelector = "p.txt-elp.list-desc"
-imageSelector = "div.list-thumb img.thumb-img"
+[jisike]
+title = "지식채널e"
+url = "https://jisike.ebs.co.kr/jisike/replayListNew"
+entrySelector = "ul.list li"
+titleSelector = "p.tit"
+linkSelector = "div.vodmeta a"
+contentSelector = "p.con"
+imageSelector = "p.pic a img"
 waitUntil = "networkidle"
