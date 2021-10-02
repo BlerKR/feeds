@@ -1,9 +1,9 @@
 [jisike]
 title = "지식채널e"
 url = "https://jisike.ebs.co.kr/jisike/replayListNew"
-entrySelector = "ul.list li"
+entrySelector = "div.replay ul.list li"
 titleSelector = "p.tit"
 linkSelector = "div.vodmeta a"
 contentSelector = "p.con"
 imageSelector = "p.pic a img"
-waitForSelector = "ul.list"
+waitForSelector = "div.replay ul.list"
