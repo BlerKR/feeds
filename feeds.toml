@@ -10,7 +10,7 @@ waitUntil = "networkidle"
 [alookso_8letPq]
 title = "alookso ─ 천관율"
 url = "https://alook.so/users/8letPq"
-entrySelector = "div.flex.flex-col.w-full.min-w-0.py-4.break-words.bg-white.border-b.last\:border-none.standalone_post_4Xteld.px-4.lg\:px-0"
+entrySelector = "div.flex.flex-col.w-full.min-w-0.py-4.break-words.bg-white.border-b.last:border-none.standalone_post_4Xteld.px-4.lg:px-0"
 titleSelector = "h5.font-medium.text-break a.text-xl.text-gray-800.font-semibold.line-clamp-2"
 linkSelector = "h5.font-medium.text-break a"
 contentSelector = "a.line-clamp-5"
