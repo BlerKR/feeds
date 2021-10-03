@@ -2,90 +2,293 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BlerKR.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-03T14:35:29.708Z</updated>
+    <updated>2021-10-03T14:51:33.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[[프롤로그] 인터뷰어 황선우 : 연재를 시작하며 (카카오페이지 ─ 멋있으면 다 언니 황선우의 스압 인터뷰)]]></title>
+        <title type="html"><![CDATA['블록체인 트렌드' 가볍게 읽어보고 싶다면 (폴인)]]></title>
         <id>https://BlerKR.github.io/feeds/all.xml</id>
         <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-03T14:35:29.091Z</updated>
-        <content type="html"><![CDATA[<div class="css-15nmk6d"><div style="height: 84px;" class="jsx-231022459 container"><div class="jsx-922166243 imageWrapper"><img src="//dn-img-page.kakao.com/download/resource?kid=caAlvs/hyEdgbb4Bw/dhrUthLm20Hz0QRWnk6411&amp;filename=th1" data-src="//dn-img-page.kakao.com/download/resource?kid=caAlvs/hyEdgbb4Bw/dhrUthLm20Hz0QRWnk6411&amp;filename=th1" alt="[프롤로그] 인터뷰어 황선우 : 연재를 시작하며" style="width: 62.2657px; height: 84px; margin-left: -1.13287px; margin-top: 0px;" draggable="false" class="jsx-922166243"></div></div></div><div class="css-5kca0g"><div class="css-yrdov8"><div class="css-mud90i"><div class="css-1wr4r5e"><img src="https://static-page.kakao.com/static/common/badge_free.png?7dcc113cd2b553523a2fc3f93f96f77d" alt="" class="css-seevdo"></div><div class="text-ellipsis css-1mn7vax">[프롤로그] 인터뷰어 황선우 : 연재를 시작하며</div></div><div class="css-1o0fa02">2020.08.01</div><div class="css-jgbei8"></div></div></div>]]></content>
+        <updated>2021-10-03T14:51:32.646Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유튜브 <Korea Grandma> 김유라 PD : 괜찮아, 자신감이란 실패할 용기니까 (카카오페이지 ─ 멋있으면 다 언니 황선우의 스압 인터뷰)]]></title>
+        <title type="html"><![CDATA[송리단길과 제주 탑동이 가진 공통점은? (폴인)]]></title>
         <id>https://BlerKR.github.io/feeds/all.xml</id>
         <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-03T14:35:29.095Z</updated>
-        <content type="html"><![CDATA[<div class="css-15nmk6d"><div style="height: 84px;" class="jsx-231022459 container"><div class="jsx-922166243 imageWrapper"><img src="//dn-img-page.kakao.com/download/resource?kid=WtR2o/hyfOmfyKBA/bp8jJxHSxLWiiMOig2Qu01&amp;filename=th1" data-src="//dn-img-page.kakao.com/download/resource?kid=WtR2o/hyfOmfyKBA/bp8jJxHSxLWiiMOig2Qu01&amp;filename=th1" alt="유튜브 <Korea Grandma> 김유라 PD : 괜찮아, 자신감이란 실패할 용기니까" style="width: 62.2657px; height: 84px; margin-left: -1.13287px; margin-top: 0px;" draggable="false" class="jsx-922166243"></div></div></div><div class="css-5kca0g"><div class="css-yrdov8"><div class="css-mud90i"><div class="text-ellipsis css-1mn7vax">유튜브 &lt;Korea Grandma&gt; 김유라 PD : 괜찮아, 자신감이란 실패할 용기니까</div></div><div class="css-1o0fa02">2020.08.01</div><div class="css-jgbei8"></div></div></div>]]></content>
+        <updated>2021-10-03T14:51:32.646Z</updated>
+        <content type="html"><![CDATA[<li>공간</li>
+                                <li>라이프스타일</li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영화 <벌새> 김보라 감독 : 뼛속까지 내려가서 만든다는 것 (카카오페이지 ─ 멋있으면 다 언니 황선우의 스압 인터뷰)]]></title>
+        <title type="html"><![CDATA[의대 교수 3명은 왜 1년 차 창업가가 됐을까 (폴인)]]></title>
         <id>https://BlerKR.github.io/feeds/all.xml</id>
         <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-03T14:35:29.095Z</updated>
-        <content type="html"><![CDATA[<div class="css-15nmk6d"><div style="height: 84px;" class="jsx-231022459 container"><div class="jsx-922166243 imageWrapper"><img src="//dn-img-page.kakao.com/download/resource?kid=pvBtZ/hyEdhuujuD/836JXevYDrj393cGf6a1O0&amp;filename=th1" data-src="//dn-img-page.kakao.com/download/resource?kid=pvBtZ/hyEdhuujuD/836JXevYDrj393cGf6a1O0&amp;filename=th1" alt="영화 <벌새> 김보라 감독 : 뼛속까지 내려가서 만든다는 것" style="width: 62.2657px; height: 84px; margin-left: -1.13287px; margin-top: 0px;" draggable="false" class="jsx-922166243"></div></div></div><div class="css-5kca0g"><div class="css-yrdov8"><div class="css-mud90i"><div class="text-ellipsis css-1mn7vax">영화 &lt;벌새&gt; 김보라 감독 : 뼛속까지 내려가서 만든다는 것</div></div><div class="css-1o0fa02">2020.08.08</div><div class="css-jgbei8"></div></div></div>]]></content>
+        <updated>2021-10-03T14:51:32.652Z</updated>
+        <content type="html"><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[<일간 이슬아> 이슬아 작가 : 재능을 이기는 꾸준함 (카카오페이지 ─ 멋있으면 다 언니 황선우의 스압 인터뷰)]]></title>
+        <title type="html"><![CDATA[자기다움으로 시너지 내는 대학내일의 조직문화 (폴인)]]></title>
         <id>https://BlerKR.github.io/feeds/all.xml</id>
         <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-03T14:35:29.095Z</updated>
-        <content type="html"><![CDATA[<div class="css-15nmk6d"><div style="height: 84px;" class="jsx-231022459 container"><div class="jsx-922166243 imageWrapper"><img src="//dn-img-page.kakao.com/download/resource?kid=dzR2OV/hyCQ9cPGf2/D3xtRJYeqFxguynsh1PAqk&amp;filename=th1" data-src="//dn-img-page.kakao.com/download/resource?kid=dzR2OV/hyCQ9cPGf2/D3xtRJYeqFxguynsh1PAqk&amp;filename=th1" alt="<일간 이슬아> 이슬아 작가 : 재능을 이기는 꾸준함" style="width: 62.2657px; height: 84px; margin-left: -1.13287px; margin-top: 0px;" draggable="false" class="jsx-922166243"></div></div></div><div class="css-5kca0g"><div class="css-yrdov8"><div class="css-mud90i"><div class="text-ellipsis css-1mn7vax">&lt;일간 이슬아&gt; 이슬아 작가 : 재능을 이기는 꾸준함</div></div><div class="css-1o0fa02">2020.08.15</div><div class="css-jgbei8"></div></div></div>]]></content>
+        <updated>2021-10-03T14:51:32.654Z</updated>
+        <content type="html"><![CDATA[<li>워크</li>
+                                <li>조직문화</li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21대 국회의원 장혜영 : 저는 낙관주의자예요, 제가 행동할 거니까요 (카카오페이지 ─ 멋있으면 다 언니 황선우의 스압 인터뷰)]]></title>
+        <title type="html"><![CDATA[아트테크, '사는 사람'보다 '파는 사람'이 되려면 (폴인)]]></title>
         <id>https://BlerKR.github.io/feeds/all.xml</id>
         <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-03T14:35:29.095Z</updated>
-        <content type="html"><![CDATA[<div class="css-15nmk6d"><div style="height: 84px;" class="jsx-231022459 container"><div class="jsx-922166243 imageWrapper"><img src="//dn-img-page.kakao.com/download/resource?kid=BQDiR/hyEdjzffGr/dAL4mcbK0rOPYSrIpqPMuk&amp;filename=th1" data-src="//dn-img-page.kakao.com/download/resource?kid=BQDiR/hyEdjzffGr/dAL4mcbK0rOPYSrIpqPMuk&amp;filename=th1" alt="21대 국회의원 장혜영 : 저는 낙관주의자예요, 제가 행동할 거니까요" style="width: 62.2657px; height: 84px; margin-left: -1.13287px; margin-top: 0px;" draggable="false" class="jsx-922166243"></div></div></div><div class="css-5kca0g"><div class="css-yrdov8"><div class="css-mud90i"><div class="text-ellipsis css-1mn7vax">21대 국회의원 장혜영 : 저는 낙관주의자예요, 제가 행동할 거니까요</div></div><div class="css-1o0fa02">2020.08.22</div><div class="css-jgbei8"></div></div></div>]]></content>
+        <updated>2021-10-03T14:51:32.654Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>라이프스타일</li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[피아니스트 손열음 : 예술가의 49%와 직업인의 100% (카카오페이지 ─ 멋있으면 다 언니 황선우의 스압 인터뷰)]]></title>
+        <title type="html"><![CDATA[모두가 MZ를 얘기할 때, 40대를 주목해야 하는 이유 (폴인)]]></title>
         <id>https://BlerKR.github.io/feeds/all.xml</id>
         <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-03T14:35:29.098Z</updated>
-        <content type="html"><![CDATA[<div class="css-15nmk6d"><div style="height: 84px;" class="jsx-231022459 container"><div class="jsx-922166243 imageWrapper"><img src="//dn-img-page.kakao.com/download/resource?kid=TEk2v/hyEdljzNnF/Bh0aiW6JRUWuyhcuAcQX71&amp;filename=th1" data-src="//dn-img-page.kakao.com/download/resource?kid=TEk2v/hyEdljzNnF/Bh0aiW6JRUWuyhcuAcQX71&amp;filename=th1" alt="피아니스트 손열음 : 예술가의 49%와 직업인의 100%" style="width: 62.2657px; height: 84px; margin-left: -1.13287px; margin-top: 0px;" draggable="false" class="jsx-922166243"></div></div></div><div class="css-5kca0g"><div class="css-yrdov8"><div class="css-mud90i"><div class="text-ellipsis css-1mn7vax">피아니스트 손열음 : 예술가의 49%와 직업인의 100%</div></div><div class="css-1o0fa02">2020.08.29</div><div class="css-jgbei8"></div></div></div>]]></content>
+        <updated>2021-10-03T14:51:32.656Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[월드 바리스타 챔피언 전주연 : 내 이름 뒤의 사람들 (카카오페이지 ─ 멋있으면 다 언니 황선우의 스압 인터뷰)]]></title>
+        <title type="html"><![CDATA['월 1000만원 테크트리' 프리랜서의 콘텐츠가 되다 (폴인)]]></title>
         <id>https://BlerKR.github.io/feeds/all.xml</id>
         <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-03T14:35:29.098Z</updated>
-        <content type="html"><![CDATA[<div class="css-15nmk6d"><div style="height: 84px;" class="jsx-231022459 container"><div class="jsx-922166243 imageWrapper"><img src="https://static-page.kakao.com/static/common/bg_noImg.png?d0b47a2245ca6f22b0660775a3d5c27a" data-src="//dn-img-page.kakao.com/download/resource?kid=ejp8op/hyF22V2u1H/OXklstmRQkKIaKe2uygdnK&amp;filename=th1" alt="월드 바리스타 챔피언 전주연 : 내 이름 뒤의 사람들" style="width: 122.384px; height: 84px; margin-left: -31.1921px; margin-top: 0px;" draggable="false" class="jsx-922166243"></div></div></div><div class="css-5kca0g"><div class="css-yrdov8"><div class="css-mud90i"><div class="text-ellipsis css-1mn7vax">월드 바리스타 챔피언 전주연 : 내 이름 뒤의 사람들</div></div><div class="css-1o0fa02">2020.09.05</div><div class="css-jgbei8"></div></div></div>]]></content>
+        <updated>2021-10-03T14:51:32.657Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>라이프스타일</li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[웹소설 『에보니』작가 자야 : 할머니가 되어서도 좋아하는 일을 하고 싶어 (카카오페이지 ─ 멋있으면 다 언니 황선우의 스압 인터뷰)]]></title>
+        <title type="html"><![CDATA[루닛 직원들이 근무 시간에 영어 과외를 받는 이유 (폴인)]]></title>
         <id>https://BlerKR.github.io/feeds/all.xml</id>
         <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-03T14:35:29.098Z</updated>
-        <content type="html"><![CDATA[<div class="css-15nmk6d"><div style="height: 84px;" class="jsx-231022459 container"><div class="jsx-922166243 imageWrapper"><img src="https://static-page.kakao.com/static/common/bg_noImg.png?d0b47a2245ca6f22b0660775a3d5c27a" data-src="//dn-img-page.kakao.com/download/resource?kid=bdzr3x/hynaCOX6cO/QeQlPNKSe2sAF2P2BVGJTK&amp;filename=th1" alt="웹소설 『에보니』작가 자야 : 할머니가 되어서도 좋아하는 일을 하고 싶어" style="width: 122.384px; height: 84px; margin-left: -31.1921px; margin-top: 0px;" draggable="false" class="jsx-922166243"></div></div></div><div class="css-5kca0g"><div class="css-yrdov8"><div class="css-mud90i"><div class="text-ellipsis css-1mn7vax">웹소설 『에보니』작가 자야 : 할머니가 되어서도 좋아하는 일을 하고 싶어</div></div><div class="css-1o0fa02">2020.09.12</div><div class="css-jgbei8"></div></div></div>]]></content>
+        <updated>2021-10-03T14:51:32.658Z</updated>
+        <content type="html"><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지션 헤이즈 : 어떤 경험이든 내 이야기의 재료가 돼요 (카카오페이지 ─ 멋있으면 다 언니 황선우의 스압 인터뷰)]]></title>
+        <title type="html"><![CDATA[직원이 행복한 회사, '대학내일'이 일하는 법 (폴인)]]></title>
         <id>https://BlerKR.github.io/feeds/all.xml</id>
         <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-03T14:35:29.100Z</updated>
-        <content type="html"><![CDATA[<div class="css-15nmk6d"><div style="height: 84px;" class="jsx-231022459 container"><div class="jsx-922166243 imageWrapper"><img src="https://static-page.kakao.com/static/common/bg_noImg.png?d0b47a2245ca6f22b0660775a3d5c27a" data-src="//dn-img-page.kakao.com/download/resource?kid=A0Wyg/hyfN5rqGXq/f8NClukiiaMd5WXywDZrDK&amp;filename=th1" alt="뮤지션 헤이즈 : 어떤 경험이든 내 이야기의 재료가 돼요" style="width: 122.384px; height: 84px; margin-left: -31.1921px; margin-top: 0px;" draggable="false" class="jsx-922166243"></div></div></div><div class="css-5kca0g"><div class="css-yrdov8"><div class="css-mud90i"><div class="text-ellipsis css-1mn7vax">뮤지션 헤이즈 : 어떤 경험이든 내 이야기의 재료가 돼요</div></div><div class="css-1o0fa02">2020.09.19</div><div class="css-jgbei8"></div></div></div>]]></content>
+        <updated>2021-10-03T14:51:32.660Z</updated>
+        <content type="html"><![CDATA[<li>워크</li>
+                                <li>조직문화</li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[범죄 심리학자 이수정 : 먼저 걸어가는 사람 (카카오페이지 ─ 멋있으면 다 언니 황선우의 스압 인터뷰)]]></title>
+        <title type="html"><![CDATA[네이버 브랜드 기획자가 다시 정의하는 '몰입' (폴인)]]></title>
         <id>https://BlerKR.github.io/feeds/all.xml</id>
         <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-03T14:35:29.101Z</updated>
-        <content type="html"><![CDATA[<div class="css-15nmk6d"><div style="height: 84px;" class="jsx-231022459 container"><div class="jsx-922166243 imageWrapper"><img src="https://static-page.kakao.com/static/common/bg_noImg.png?d0b47a2245ca6f22b0660775a3d5c27a" data-src="//dn-img-page.kakao.com/download/resource?kid=3q8X6/hyF27DwtjA/MAnvW4t63PEubfRSY2mRx0&amp;filename=th1" alt="범죄 심리학자 이수정 : 먼저 걸어가는 사람" style="width: 122.384px; height: 84px; margin-left: -31.1921px; margin-top: 0px;" draggable="false" class="jsx-922166243"></div></div></div><div class="css-5kca0g"><div class="css-yrdov8"><div class="css-mud90i"><div class="text-ellipsis css-1mn7vax">범죄 심리학자 이수정 : 먼저 걸어가는 사람</div></div><div class="css-1o0fa02">2020.10.17</div><div class="css-jgbei8"></div></div></div>]]></content>
+        <updated>2021-10-03T14:51:32.662Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>워크</li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스브스뉴스 <문명특급> 재재 PD : 우리니까, 지금이라서 가능한 것들 (카카오페이지 ─ 멋있으면 다 언니 황선우의 스압 인터뷰)]]></title>
+        <title type="html"><![CDATA[좋은 멘토 찾기 전, 나를 돌아볼 6가지 기준 (폴인)]]></title>
         <id>https://BlerKR.github.io/feeds/all.xml</id>
         <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-03T14:35:29.101Z</updated>
-        <content type="html"><![CDATA[<div class="css-15nmk6d"><div style="height: 84px;" class="jsx-231022459 container"><div class="jsx-922166243 imageWrapper"><img src="https://static-page.kakao.com/static/common/bg_noImg.png?d0b47a2245ca6f22b0660775a3d5c27a" data-src="//dn-img-page.kakao.com/download/resource?kid=bJJROG/hyF29aowko/17IVXxyOeQ2vcudH1ukUY1&amp;filename=th1" alt="스브스뉴스 <문명특급> 재재 PD : 우리니까, 지금이라서 가능한 것들" style="width: 122.384px; height: 84px; margin-left: -31.1921px; margin-top: 0px;" draggable="false" class="jsx-922166243"></div></div></div><div class="css-5kca0g"><div class="css-yrdov8"><div class="css-mud90i"><div class="text-ellipsis css-1mn7vax">스브스뉴스 &lt;문명특급&gt; 재재 PD : 우리니까, 지금이라서 가능한 것들</div></div><div class="css-1o0fa02">2020.10.24</div><div class="css-jgbei8"></div></div></div>]]></content>
+        <updated>2021-10-03T14:51:32.663Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[에필로그] 인터뷰어 황선우 : 연재를 마치며 (카카오페이지 ─ 멋있으면 다 언니 황선우의 스압 인터뷰)]]></title>
+        <title type="html"><![CDATA[월급 100배 늘린 '신사임당'이 매일 아침 하는 일? (폴인)]]></title>
         <id>https://BlerKR.github.io/feeds/all.xml</id>
         <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-03T14:35:29.101Z</updated>
-        <content type="html"><![CDATA[<div class="css-15nmk6d"><div style="height: 84px;" class="jsx-231022459 container"><div class="jsx-922166243 imageWrapper"><img src="https://static-page.kakao.com/static/common/bg_noImg.png?d0b47a2245ca6f22b0660775a3d5c27a" data-src="//dn-img-page.kakao.com/download/resource?kid=civ2v0/hyF25y4t05/KPAdqrLhuUQpHZ6v4wiX7k&amp;filename=th1" alt="[에필로그] 인터뷰어 황선우 : 연재를 마치며" style="width: 122.384px; height: 84px; margin-left: -31.1921px; margin-top: 0px;" draggable="false" class="jsx-922166243"></div></div></div><div class="css-5kca0g"><div class="css-yrdov8"><div class="css-mud90i"><div class="text-ellipsis css-1mn7vax">[에필로그] 인터뷰어 황선우 : 연재를 마치며</div></div><div class="css-1o0fa02">2020.10.24</div><div class="css-jgbei8"></div></div></div>]]></content>
+        <updated>2021-10-03T14:51:32.665Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전문의만 11명 채용한 스타트업이 바라보는 곳은? (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.666Z</updated>
+        <content type="html"><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[회사 안에서 ‘나답게’ 일할 때 일어나는 일 (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.667Z</updated>
+        <content type="html"><![CDATA[<li>워크</li>
+                                <li>조직문화</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['범 내려온다', 3억 뷰를 만든 5가지 포인트 (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.669Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>조직문화</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['범 내려온다' 광고를 만든 아이디어 4 (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.670Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>조직문화</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라이카에서만 10년 일한 마케터가 말하는 '몰입' (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.671Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아모레퍼시픽 마케터가 주목한 유튜브 채널 3 (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.673Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>라이프스타일</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개발자는 4번째 창업 아이템으로 왜 '잠'을 골랐을까 (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.674Z</updated>
+        <content type="html"><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이슬립이 일찍이 CES 2022 진출을 확정한 이유 (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.675Z</updated>
+        <content type="html"><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[힐링페이퍼가 직원들의 B면을 살리는 법 (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.676Z</updated>
+        <content type="html"><![CDATA[<li>워크</li>
+                                <li>조직문화</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나에도 '카페꼼마'에 입점 문의가 이어진 이유 (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.678Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김키미 마케터 "SNS를 글쓰기에 활용하는 방법" (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.679Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>조직문화</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브런치 마케터는 어떻게 퍼스널 브랜딩을 하고 있을까? (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.680Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>조직문화</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김민석 PD "급변하는 업계에서 변하지 않는 3가지" (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.682Z</updated>
+        <content type="html"><![CDATA[<li>워크</li>
+                                <li>조직문화</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["휴식도 배워야 한다" 화가가 여유를 찾는 법 (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.683Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본 1위 광고회사 덴츠가 B팀을 만든 이유 (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.684Z</updated>
+        <content type="html"><![CDATA[<li>워크</li>
+                                <li>조직문화</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유퀴즈 팀 '자막의 신' 박근형 PD 인터뷰 (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.686Z</updated>
+        <content type="html"><![CDATA[<li>워크</li>
+                                <li>조직문화</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도쿄R부동산이 '재미'와 '성과' 동시에 잡는 법 (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.687Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["반응이 반반? 잘 살려서 쌓아나가야죠" 김민석 PD (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.688Z</updated>
+        <content type="html"><![CDATA[<li>워크</li>
+                                <li>조직문화</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요시 셰피 "ESG 도입, 중소기업에도 기회 있다" (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.690Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MZ 아닌 중년 잡은 퀸잇이 165억 투자받은 비결 (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.691Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페이스북에서 24만 Z세대 사로잡은 비결, 대학생너구리 (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.692Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나도 회사도 성장하는 'B면' 프로젝트 (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.693Z</updated>
+        <content type="html"><![CDATA[<li>워크</li>
+                                <li>조직문화</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최고 AI 인재 모은 업스테이지, 왜 노하우 공개할까? (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.695Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유퀴즈'의 인사이트가 남다를 수밖에 없는 이유 (폴인)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-03T14:51:32.697Z</updated>
+        <content type="html"><![CDATA[<li>워크</li>
+                                <li>조직문화</li>]]></content>
     </entry>
 </feed>
