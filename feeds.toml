@@ -13,3 +13,11 @@ entrySelector = "//section[1]/section/div/div/div/h5"
 titleSelector = "//a"
 linkSelector = "//a/ancestor-or-self::node()/@href"
 waitUntil = "networkidle"
+
+[alookso_showdam]
+title = "alookso ─ 조소담"
+url = "https://alook.so/users/qQPtde"
+entrySelector = "//section[1]/section/div/div/div/h5"
+titleSelector = "//a"
+linkSelector = "//a/ancestor-or-self::node()/@href"
+waitUntil = "networkidle"
