@@ -1,8 +1,8 @@
-[kakaopage_sunwoohwang]
-title = "카카오페이지 ─ 멋있으면 다 언니 황선우의 스압 인터뷰"
-url = "https://page.kakao.com/home?seriesId=55414926"
-entrySelector = "ul.css-14gr98z li"
-titleSelector = "div.text-ellipsis.css-1mn7vax"
-linkSelector = "div.jsx-922166243.imageWrapper"
-dateSelector = "css-1o0fa02"
+[folin]
+title = "폴인"
+url = "https://www.folin.co/story"
+entrySelector = "//html/body/div[1]/div/article/section[2]/div/div/div[1]/ul/li"
+titleSelector = "//a/div/h3"
+linkSelector = "//a/@href"
+contentSelector = "//a/div[2]/ul[1]"
 waitUntil = "networkidle"
