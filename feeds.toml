@@ -1,8 +1,9 @@
-[folin]
-title = "폴인"
-url = "https://www.folin.co/story"
-entrySelector = "ul.component-grid4.story-list-contain li a:nth-child(1):not(.activity-like)"
-titleSelector = "h3.item-title.line-clamp"
-linkSelector = "a"
-contentSelector = "ul.category-type"
+[bookjournalism]
+title = "북저널리즘"
+url = "https://www.bookjournalism.com/books"
+entrySelector = "div.item"
+titleSelector = "span.summary"
+linkSelector = "a.link-inner"
+contentSelector = "span.post-title"
+imageSelector = "span.cover"
 waitUntil = "networkidle"
