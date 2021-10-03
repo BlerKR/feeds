@@ -1,9 +1,9 @@
-[dongascience_factcheck]
-title = "동아사이언스 ─ 팩트체크"
-url = "https://www.dongascience.com/special.php?category=001_148"
-entrySelector = "div.article-A2 ul li"
-titleSelector = "span.tit"
-linkSelector = "a"
-contentSelector = "span.cont div.two-lines"
-imageSelector = "dt.thum img"
+[kakaopage_sunwoohwang]
+title = "카카오페이지 ─ 멋있으면 다 언니 황선우의 스압 인터뷰"
+url = "https://page.kakao.com/home?seriesId=55414926"
+entrySelector = "ul.css-14gr98z li"
+titleSelector = "div.text-ellipsis.css-1mn7vax"
+linkSelector = ""
+imageSelector = "img.jsx-922166243"
+dateSelector = "css-1o0fa02"
 waitUntil = "networkidle"
