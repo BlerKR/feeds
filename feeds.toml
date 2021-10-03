@@ -3,7 +3,7 @@ title = "카카오페이지 ─ 멋있으면 다 언니 황선우의 스압 인�
 url = "https://page.kakao.com/home?seriesId=55414926"
 entrySelector = "ul.css-14gr98z li"
 titleSelector = "div.text-ellipsis.css-1mn7vax"
-linkSelector = ""
+linkSelector = "div.jsx-922166243.imageWrapper"
 imageSelector = "img.jsx-922166243"
 dateSelector = "css-1o0fa02"
 waitUntil = "networkidle"
