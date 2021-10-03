@@ -1,8 +1,15 @@
-[alookso_8letPq]
+[alookso_gwanyul]
 title = "alookso ─ 천관율"
 url = "https://alook.so/users/8letPq"
-entrySelector = "//section[1]/section/div/div/div"
-titleSelector = "//h5/a"
-linkSelector = "//h5/a/ancestor-or-self::node()/@href"
-contentSelector = "//h6/a/span"
+entrySelector = "//section[1]/section/div/div/div/h5"
+titleSelector = "//a"
+linkSelector = "//a/ancestor-or-self::node()/@href"
+waitUntil = "networkidle"
+
+[alookso_somewon]
+title = "alookso ─ 윤성원"
+url = "https://alook.so/users/8Ogtna"
+entrySelector = "//section[1]/section/div/div/div/h5"
+titleSelector = "//a"
+linkSelector = "//a/ancestor-or-self::node()/@href"
 waitUntil = "networkidle"
