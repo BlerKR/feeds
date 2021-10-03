@@ -1,8 +1,9 @@
-[daum_hani_tintin]
-title = "다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이"
-url = "https://entertain.daum.net/news/series/3306"
-entrySelector = "ul.list_news li"
-titleSelector = "a.link_txt"
-linkSelector = "a.link_thumb"
-contentSelector = "p.desc_thumb"
+[dongascience_factcheck]
+title = "동아사이언스 ─ 팩트체크"
+url = "https://www.dongascience.com/special.php?category=001_148"
+entrySelector = "div.article-A2 ul li"
+titleSelector = "span.tit"
+linkSelector = "a"
+contentSelector = "span.cont div.two-lines"
+imageSelector = "dt.thum img"
 waitUntil = "networkidle"
