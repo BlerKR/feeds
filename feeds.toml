@@ -1,8 +1,8 @@
-[folin]
-title = "폴인"
-url = "https://www.folin.co/story"
-entrySelector = "//html/body/div[1]/div/article/section[2]/div/div/div[1]/ul/li"
-titleSelector = "//a/div/h3"
-linkSelector = "//a"
-contentSelector = "//a/div[2]/ul[1]"
+[alookso_latest]
+title = "alookso ─ 최신 글"
+url = "https://alook.so/discover/latest"
+entrySelector = "div.flex-auto.space-y-2"
+titleSelector = "h5 a "
+linkSelector = "h5 a "
+contentSelector = "h6 a span"
 waitUntil = "networkidle"
