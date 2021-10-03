@@ -1,17 +1,8 @@
-[alookso_latest]
-title = "alookso ─ 최신 글"
-url = "https://alook.so/discover/latest"
-entrySelector = "div.flex-auto.space-y-2"
-titleSelector = "h5 a "
-linkSelector = "h5 a "
-contentSelector = "h6 a span"
-waitUntil = "networkidle"
-
 [alookso_8letPq]
 title = "alookso ─ 천관율"
 url = "https://alook.so/users/8letPq"
-entrySelector = "div.flex.flex-col.w-full.min-w-0.py-4.break-words.bg-white.border-b.last:border-none.standalone_post_4Xteld.px-4.lg:px-0"
-titleSelector = "h5.font-medium.text-break a.text-xl.text-gray-800.font-semibold.line-clamp-2"
-linkSelector = "h5.font-medium.text-break a"
-contentSelector = "a.line-clamp-5"
+entrySelector = "//section[1]/section/div/div/div"
+titleSelector = "//h5/a"
+linkSelector = "//h5/a"
+contentSelector = "//h6/a"
 waitUntil = "networkidle"
