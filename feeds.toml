@@ -1,7 +1,8 @@
 [alookso_8letPq]
 title = "alookso ─ 천관율"
 url = "https://alook.so/users/8letPq"
-entrySelector = "//section[1]/section/div/div/div/h5"
-titleSelector = "//a"
-linkSelector = "//a/ancestor-or-self::node()/@href"
+entrySelector = "//section[1]/section/div/div/div"
+titleSelector = "//h5/a"
+linkSelector = "//h5/a///h5/a/ancestor-or-self::node()/@href"
+contentSelector = "//h6/a/span"
 waitUntil = "networkidle"
