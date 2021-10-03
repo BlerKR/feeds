@@ -1,8 +1,7 @@
 [alookso_8letPq]
 title = "alookso ─ 천관율"
 url = "https://alook.so/users/8letPq"
-entrySelector = "//section[1]/section/div/div/div"
-titleSelector = "//h5/a"
-linkSelector = "//h5/a"
-contentSelector = "//h6/a"
+entrySelector = "//section[1]/section/div/div/div/h5"
+titleSelector = "//a"
+linkSelector = "//a"
 waitUntil = "networkidle"
