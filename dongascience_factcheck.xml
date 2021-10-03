@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Combined feed</title>
+        <title>동아사이언스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
         <lastBuildDate>Sun, 03 Oct 2021 14:07:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
+            <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답]]></title>
             <link>https://www.dongascience.com/news.php?idx=49497</link>
             <guid>https://www.dongascience.com/news.php?idx=49497</guid>
             <pubDate>Sun, 03 Oct 2021 14:07:16 GMT</pubDate>
@@ -16,7 +16,7 @@
             <enclosure url="https://api.dongascience.com/portal/common/getThumbnail?src=https://image.dongascience.com/Photo/2021/09/39ca6f1de5817c02f740794665dc5677.jpg&w=160&h=90" length="0" type="image//portal/common/getThumbnail"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] mRNA 백신에 산화 그래핀이 들어 있다? (동아사이언스 ─ 팩트체크)]]></title>
+            <title><![CDATA[[팩트체크] mRNA 백신에 산화 그래핀이 들어 있다?]]></title>
             <link>https://www.dongascience.com/news.php?idx=49167</link>
             <guid>https://www.dongascience.com/news.php?idx=49167</guid>
             <pubDate>Sun, 03 Oct 2021 14:07:16 GMT</pubDate>
@@ -24,7 +24,7 @@
             <enclosure url="https://api.dongascience.com/portal/common/getThumbnail?src=https://image.dongascience.com/Photo/2021/09/16308992150032.jpg&w=160&h=90" length="0" type="image//portal/common/getThumbnail"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크]립밤이 코로나 확산 막는다? (동아사이언스 ─ 팩트체크)]]></title>
+            <title><![CDATA[[팩트체크]립밤이 코로나 확산 막는다?]]></title>
             <link>https://www.dongascience.com/news.php?idx=48889</link>
             <guid>https://www.dongascience.com/news.php?idx=48889</guid>
             <pubDate>Sun, 03 Oct 2021 14:07:16 GMT</pubDate>
@@ -32,7 +32,7 @@
             <enclosure url="https://api.dongascience.com/portal/common/getThumbnail?src=https://image.dongascience.com/Photo/2021/08/16297668553448.jpg&w=160&h=90" length="0" type="image//portal/common/getThumbnail"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크]어린이는 코로나19에 걸려도 비교적 안전하다? (동아사이언스 ─ 팩트체크)]]></title>
+            <title><![CDATA[[팩트체크]어린이는 코로나19에 걸려도 비교적 안전하다?]]></title>
             <link>https://www.dongascience.com/news.php?idx=48690</link>
             <guid>https://www.dongascience.com/news.php?idx=48690</guid>
             <pubDate>Sun, 03 Oct 2021 14:07:16 GMT</pubDate>
@@ -40,7 +40,7 @@
             <enclosure url="https://api.dongascience.com/portal/common/getThumbnail?src=https://image.dongascience.com/Photo/2021/08/16288206398491.jpg&w=160&h=90" length="0" type="image//portal/common/getThumbnail"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크]코로나19 백신 접종 후 식욕 늘었다? (동아사이언스 ─ 팩트체크)]]></title>
+            <title><![CDATA[[팩트체크]코로나19 백신 접종 후 식욕 늘었다?]]></title>
             <link>https://www.dongascience.com/news.php?idx=47479</link>
             <guid>https://www.dongascience.com/news.php?idx=47479</guid>
             <pubDate>Sun, 03 Oct 2021 14:07:16 GMT</pubDate>
@@ -48,7 +48,7 @@
             <enclosure url="https://api.dongascience.com/portal/common/getThumbnail?src=https://image.dongascience.com/Photo/2021/06/16244379657253.jpg&w=160&h=90" length="0" type="image//portal/common/getThumbnail"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크]백신 맞고 하루이틀이면 술 마셔도 될까 (동아사이언스 ─ 팩트체크)]]></title>
+            <title><![CDATA[[팩트체크]백신 맞고 하루이틀이면 술 마셔도 될까]]></title>
             <link>https://www.dongascience.com/news.php?idx=47204</link>
             <guid>https://www.dongascience.com/news.php?idx=47204</guid>
             <pubDate>Sun, 03 Oct 2021 14:07:16 GMT</pubDate>
@@ -56,7 +56,7 @@
             <enclosure url="https://api.dongascience.com/portal/common/getThumbnail?src=https://image.dongascience.com/Photo/2021/06/16233047885148.jpg&w=160&h=90" length="0" type="image//portal/common/getThumbnail"/>
         </item>
         <item>
-            <title><![CDATA[[만연하는 가짜 의학정보] 코로나 백신, 싸면 비지떡인가 (동아사이언스 ─ 팩트체크)]]></title>
+            <title><![CDATA[[만연하는 가짜 의학정보] 코로나 백신, 싸면 비지떡인가]]></title>
             <link>https://www.dongascience.com/news.php?idx=46644</link>
             <guid>https://www.dongascience.com/news.php?idx=46644</guid>
             <pubDate>Sun, 03 Oct 2021 14:07:16 GMT</pubDate>
@@ -64,7 +64,7 @@
             <enclosure url="https://api.dongascience.com/portal/common/getThumbnail?src=https://image.dongascience.com/Photo/2021/05/16213202998246.JPG&w=160&h=90" length="0" type="image//portal/common/getThumbnail"/>
         </item>
         <item>
-            <title><![CDATA[[만연하는 가짜 의학정보]백신 맞기 전 알레르기약 복용하면 덜 아플까 (동아사이언스 ─ 팩트체크)]]></title>
+            <title><![CDATA[[만연하는 가짜 의학정보]백신 맞기 전 알레르기약 복용하면 덜 아플까]]></title>
             <link>https://www.dongascience.com/news.php?idx=45382</link>
             <guid>https://www.dongascience.com/news.php?idx=45382</guid>
             <pubDate>Sun, 03 Oct 2021 14:07:16 GMT</pubDate>
@@ -72,7 +72,7 @@
             <enclosure url="https://api.dongascience.com/portal/common/getThumbnail?src=https://image.dongascience.com/Photo/2021/04/16176703094023.jpg&w=160&h=90" length="0" type="image//portal/common/getThumbnail"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크]백신 맞으면 유전자가 바뀐다? (동아사이언스 ─ 팩트체크)]]></title>
+            <title><![CDATA[[팩트체크]백신 맞으면 유전자가 바뀐다?]]></title>
             <link>https://www.dongascience.com/news.php?idx=44366</link>
             <guid>https://www.dongascience.com/news.php?idx=44366</guid>
             <pubDate>Sun, 03 Oct 2021 14:07:16 GMT</pubDate>
@@ -80,7 +80,7 @@
             <enclosure url="https://api.dongascience.com/portal/common/getThumbnail?src=https://image.dongascience.com/Photo/2021/03/16146460236674.jpg&w=160&h=90" length="0" type="image//portal/common/getThumbnail"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크]코백스 백신에 중국산 포함되나 (동아사이언스 ─ 팩트체크)]]></title>
+            <title><![CDATA[[팩트체크]코백스 백신에 중국산 포함되나]]></title>
             <link>https://www.dongascience.com/news.php?idx=43467</link>
             <guid>https://www.dongascience.com/news.php?idx=43467</guid>
             <pubDate>Sun, 03 Oct 2021 14:07:16 GMT</pubDate>
