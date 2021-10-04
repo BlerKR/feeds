@@ -1,9 +1,9 @@
-[cjazit]
-title = "CJ문화재단 ─ 공연예매"
-url = "https://www.cjazit.org/cjazit/book/list"
-entrySelector = "div.list div.item"
-titleSelector = "h3.item-heading"
-linkSelector = "div.item-body a"
-contentSelector = "div.item-details"
-imageSelector = "div.item-thumb img"
+[cine21_event]
+title = "씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트"
+url = "http://www.cine21.com/event/list"
+entrySelector = "li.event_list_li"
+titleSelector = "p.title"
+linkSelector = "a"
+contentSelector = "div.info"
+imageSelector = "img.thumb"
 waitUntil = "networkidle"
