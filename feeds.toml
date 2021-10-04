@@ -10,7 +10,7 @@ dateFormat = "yyyy.mm.dd"
 imageSelector = "figure.article-image img.d-block.w-100"
 waitUntil = "networkidle"
 
-[%EA%B3%B5%EC%A7%81%EA%B0%90%EC%8B%9C]
+[surveillance]
 title = "뉴스타파"
 url = "http://newstapa.org/category/%EA%B3%B5%EC%A7%81%EA%B0%90%EC%8B%9C"
 entrySelector = "article.article"
