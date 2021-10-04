@@ -1,9 +1,10 @@
-[yes24livehall]
-title = "예스24 라이브홀"
-url = "https://yes24livehall.com/ko/show/list.php"
-entrySelector = "div.shows"
-titleSelector = "a.title"
-linkSelector = "a"
-contentSelector = "a.datetime"
-imageSelector = "a.poster img"
+[newstapa]
+title = "뉴스타파"
+url = "http://newstapa.org/recent"
+entrySelector = "article.article"
+titleSelector = "h6.font-weight-bold"
+linkSelector = "h6.font-weight-bold a"
+contentSelector = "h6.font-weight-bold a"
+dateSelector = "p.float-right.mt-2.date"
+imageSelector = "figure.article-image img.d-block.w-100"
 waitUntil = "networkidle"
