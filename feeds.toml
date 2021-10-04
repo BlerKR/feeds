@@ -1,8 +1,9 @@
-[gurumare]
-title = "구름아래소극장 ─ 공연안내"
-url = "http://gurumare.co.kr/show"
-entrySelector = "div.col-xs-6.col-lg-3.col-md-6"
-titleSelector = "div.col-xs-6.col-lg-3.col-md-6"
-linkSelector = "div a"
-imageSelector = "a img"
+[yes24livehall]
+title = "예스24 라이브홀"
+url = "https://yes24livehall.com/ko/show/list.php"
+entrySelector = "div.shows"
+titleSelector = "a.title"
+linkSelector = "a"
+contentSelector = "a.datetime"
+imageSelector = "a.poster img"
 waitUntil = "networkidle"
