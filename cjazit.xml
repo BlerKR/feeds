@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Combined feed</title>
+        <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
         <lastBuildDate>Mon, 04 Oct 2021 13:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[오소영 데뷔 20주년 단독 콘서트 (CJ문화재단 ─ 공연예매)]]></title>
+            <title><![CDATA[오소영 데뷔 20주년 단독 콘서트]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/196</link>
             <guid>https://www.cjazit.org/cjazit/book/view/196</guid>
             <pubDate>Mon, 04 Oct 2021 13:09:00 GMT</pubDate>
@@ -32,7 +32,7 @@
             <enclosure url="https://www.cjazit.org/image/schedule/ny/vj/wz149509117sg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Tune Up Stage _ Dear Autumn (CJ문화재단 ─ 공연예매)]]></title>
+            <title><![CDATA[Tune Up Stage _ Dear Autumn]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/195</link>
             <guid>https://www.cjazit.org/cjazit/book/view/195</guid>
             <pubDate>Mon, 04 Oct 2021 13:09:00 GMT</pubDate>
