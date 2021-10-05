@@ -1,4 +1,4 @@
-[cine21_review_E20041252]
+[cine21_review_parkpyungsik]
 title = "씨네21 ─ 리뷰 ─ 박평식"
 url = "http://m.cine21.com/movie/review/cine21_view/?pre_code=E20041252"
 entrySelector = "ul.expert_review li"
@@ -6,4 +6,5 @@ titleSelector = "div.title"
 linkSelector = "div.title a"
 contentSelector = "div.info"
 imageSelector = "div.thub_img a img"
-waitUntil = "networkidle"
+waitForSelector = ".expert_review"
+onFail = "stale"
