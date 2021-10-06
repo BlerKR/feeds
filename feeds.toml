@@ -1,3 +1,14 @@
+[cine21_notice]
+title = "씨네21 ─ 공지사항"
+url = "http://www.cine21.com/misc/cs/notice_list/"
+entrySelector = "table.tb_list tr:nth-child(n+4)"
+titleSelector = "td.subject a"
+linkSelector = "td.subject a"
+contentSelector = "td:nth-child(1)"
+dataSelector = "td:nth-child(3)"
+dateFormat = "yyyy-MM-dd"
+waitUntil = "networkidle"
+
 [cine21_review_E20041252]
 title = "씨네21 ─ 리뷰 ─ 박평식"
 url = "http://m.cine21.com/movie/review/cine21_view/?pre_code=E20041252"
