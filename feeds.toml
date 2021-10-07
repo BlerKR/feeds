@@ -7,3 +7,11 @@ linkSelector = "//div/div[1]/a"
 contentSelector = "//div/div[1]/p"
 waitForSelector = ".video_info"
 onFail = "stale"
+
+[showdeerocks]
+title = "쇼디락스"
+url = "http://showdeerocks.info/"
+entrySelector = "div div.Line"
+titleSelector = "span.Artist"
+linkSelector = "span.Link a"
+waitUntil = "networkidle"
