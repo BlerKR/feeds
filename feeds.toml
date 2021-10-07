@@ -10,8 +10,8 @@ onFail = "stale"
 
 [showdeerocks]
 title = "쇼디락스"
-url = "http://showdeerocks.info/"
-entrySelector = "div div.Line"
-titleSelector = "span.Artist"
-linkSelector = "span.Link a"
+url = "http://showdeerocks.info/article.html"
+entrySelector = "//html/body/div"
+titleSelector = "//span"
+linkSelector = "//span[@class='Link']/a"
 waitUntil = "networkidle"
