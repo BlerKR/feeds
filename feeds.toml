@@ -9,7 +9,7 @@ waitForSelector = ".video_info"
 onFail = "stale"
 
 [showdeerocks]
-title = "쇼디락스"
+title = "ShowdeeRocks"
 url = "http://showdeerocks.info/article.html"
 entrySelector = "//html/body/div"
 titleSelector = "//div[@class='Line']"
