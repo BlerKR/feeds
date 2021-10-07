@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://showdeerocks.info/</id>
+    <id>http://showdeerocks.info/article.html</id>
     <title>쇼디락스</title>
-    <updated>2021-10-07T04:34:37.283Z</updated>
+    <updated>2021-10-07T04:47:20.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://showdeerocks.info/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.655Z</updated>
+        <content type="html"><![CDATA[10월 1일(금)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카더가든,임금비 -]]></title>
         <id>https://tickets.interpark.com/goods/21007010</id>
@@ -90,6 +97,13 @@
     </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[8]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.656Z</updated>
+        <content type="html"><![CDATA[10월 2일(토)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[샷걸, 배드램, 동이혼, 국빈관진상들, 홀로씨티, 빈시트, 트랩 -]]></title>
         <id>https://tickets.interpark.com/goods/21007507</id>
         <link href="https://tickets.interpark.com/goods/21007507"/>
@@ -105,7 +119,7 @@
         <title type="html"><![CDATA[SURL (설) -]]></title>
         <id>https://ticket.melon.com/performance/index.htm?prodId=206176</id>
         <link href="https://ticket.melon.com/performance/index.htm?prodId=206176"/>
-        <updated>2021-10-07T04:34:36.487Z</updated>
+        <updated>2021-10-07T04:34:36.480Z</updated>
         <content type="html"><![CDATA[<span class="Artist">SURL (설) - </span>
     <span class="Site">CJ 아지트 광흥창 </span>
     <span class="Time">17:00 </span>
@@ -201,7 +215,7 @@
         <title type="html"><![CDATA[세바퀴로 가능 빵, 양병집, 손지연, 김용덕 -]]></title>
         <id>https://www.instagram.com/p/CUUgyFYF5z0/</id>
         <link href="https://www.instagram.com/p/CUUgyFYF5z0/"/>
-        <updated>2021-10-07T04:34:36.502Z</updated>
+        <updated>2021-10-07T04:34:36.485Z</updated>
         <content type="html"><![CDATA[<span class="Artist">세바퀴로 가능 빵, 양병집, 손지연, 김용덕 - </span>
         <span class="Site">클럽 빵</span>
         <span class="Time">19:30 </span>
@@ -222,10 +236,17 @@
             </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.657Z</updated>
+        <content type="html"><![CDATA[10월 3일(일)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[웨이브투어스 -]]></title>
         <id>https://ticket.melon.com/performance/index.htm?prodId=206173</id>
         <link href="https://ticket.melon.com/performance/index.htm?prodId=206173"/>
-        <updated>2021-10-07T04:34:36.519Z</updated>
+        <updated>2021-10-07T04:34:36.488Z</updated>
         <content type="html"><![CDATA[<span class="Artist">웨이브투어스 - </span>
     <span class="Site">KT&amp;G 상상마당 라이브홀 </span>
     <span class="Time">18:00 </span>
@@ -249,13 +270,20 @@
         <title type="html"><![CDATA[신, 이지구, 시골, 박종범 -]]></title>
         <id>https://www.instagram.com/p/CUUgyFYF5z0/</id>
         <link href="https://www.instagram.com/p/CUUgyFYF5z0/"/>
-        <updated>2021-10-07T04:34:36.520Z</updated>
+        <updated>2021-10-07T04:34:36.485Z</updated>
         <content type="html"><![CDATA[<span class="Artist">신, 이지구, 시골, 박종범 - </span>
         <span class="Site">클럽 빵</span>
         <span class="Time">18:30 </span>
         <span class="Link">
         <a href="https://www.instagram.com/p/CUUgyFYF5z0/" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
         </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[24]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.657Z</updated>
+        <content type="html"><![CDATA[10월 4일(월)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[백아 -]]></title>
@@ -282,6 +310,20 @@
     </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[27]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.658Z</updated>
+        <content type="html"><![CDATA[10월 5일(화)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[28]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.658Z</updated>
+        <content type="html"><![CDATA[10월 6일(수)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[당기시오 -]]></title>
         <id>https://ticket.melon.com/performance/index.htm?prodId=206205</id>
         <link href="https://ticket.melon.com/performance/index.htm?prodId=206205"/>
@@ -306,6 +348,25 @@
 </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[화단, 박연두, 임현승, 율랴율례쁑 -]]></title>
+        <id>https://www.instagram.com/p/CUpgsUMlreB/</id>
+        <link href="https://www.instagram.com/p/CUpgsUMlreB/"/>
+        <updated>2021-10-07T04:47:19.316Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">화단, 박연두, 임현승, 율랴율례쁑 - </span>
+    <span class="Site">클럽빵</span>
+    <span class="Time">19:30 </span>
+    <span class="Link">
+    <a href="https://www.instagram.com/p/CUpgsUMlreB/" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
+    </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[32]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.659Z</updated>
+        <content type="html"><![CDATA[10월 7일(목)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[너드커넥션, 최유리, 솔루션스, 해리빅버튼 -]]></title>
         <id>https://form.office.naver.com/form/responseView.cmd?formkey=ZDMyZDk4YzMtMjI0ZS00YTQ0LThlMTAtNDlkZWIxNTBmYWE1&amp;sourceId=urlshare</id>
         <link href="https://form.office.naver.com/form/responseView.cmd?formkey=ZDMyZDk4YzMtMjI0ZS00YTQ0LThlMTAtNDlkZWIxNTBmYWE1&amp;sourceId=urlshare"/>
@@ -328,6 +389,37 @@
 <span class="Link">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdoQ9S6SAlt28QqvJv38NDWnFx7WTprHZxsSUDGrVyKLHIMHA/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
 </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크라잉넛 -]]></title>
+        <id>https://www.instagram.com/p/CUms37flt6Q/</id>
+        <link href="https://www.instagram.com/p/CUms37flt6Q/"/>
+        <updated>2021-10-07T04:47:19.319Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">크라잉넛 - </span>
+<span class="Site">크라잉넛 유튜브</span>
+<span class="Time">20:30 </span>
+<span class="Link">
+<a href="https://www.instagram.com/p/CUms37flt6Q/" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
+</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[끌림, 구오즈, 배드넘버나인 -]]></title>
+        <id>https://www.instagram.com/p/CUpgsUMlreB/</id>
+        <link href="https://www.instagram.com/p/CUpgsUMlreB/"/>
+        <updated>2021-10-07T04:47:19.319Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">끌림, 구오즈, 배드넘버나인 - </span>
+<span class="Site">클럽빵</span>
+<span class="Time">19:30 </span>
+<span class="Link">
+<a href="https://www.instagram.com/p/CUpgsUMlreB/" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
+</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[37]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.659Z</updated>
+        <content type="html"><![CDATA[10월 8일(금)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박소은 -]]></title>
@@ -438,6 +530,25 @@
 </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[차차, 클라프, 비포유슬립 -]]></title>
+        <id>https://www.instagram.com/p/CUpgsUMlreB/</id>
+        <link href="https://www.instagram.com/p/CUpgsUMlreB/"/>
+        <updated>2021-10-07T04:47:19.328Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">차차, 클라프, 비포유슬립 - </span>
+<span class="Site">클럽빵</span>
+<span class="Time">19:30 </span>
+<span class="Link">
+<a href="https://www.instagram.com/p/CUpgsUMlreB/" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
+</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[48]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.660Z</updated>
+        <content type="html"><![CDATA[10월 9일(토)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[자라섬재즈페스티벌 -]]></title>
         <id>https://www.instagram.com/p/CUUU5KoM1YB/</id>
         <link href="https://www.instagram.com/p/CUUU5KoM1YB/"/>
@@ -465,7 +576,7 @@
         <title type="html"><![CDATA[알코, 더어쿠스틱, 소수빈 -]]></title>
         <id>https://tickets.interpark.com/goods/21008179</id>
         <link href="https://tickets.interpark.com/goods/21008179"/>
-        <updated>2021-10-07T04:34:36.542Z</updated>
+        <updated>2021-10-07T04:34:36.526Z</updated>
         <content type="html"><![CDATA[<span class="Artist">알코, 더어쿠스틱, 소수빈 - </span>
 <span class="Site">온라인 공연 </span>
 <span class="Time">18:00 </span>
@@ -477,7 +588,7 @@
         <title type="html"><![CDATA[나상현씨밴드 -]]></title>
         <id>https://ticket.melon.com/performance/index.htm?prodId=206176</id>
         <link href="https://ticket.melon.com/performance/index.htm?prodId=206176"/>
-        <updated>2021-10-07T04:34:36.543Z</updated>
+        <updated>2021-10-07T04:34:36.480Z</updated>
         <content type="html"><![CDATA[<span class="Artist">나상현씨밴드 - </span>
 <span class="Site">CJ 아지트 광흥창 </span>
 <span class="Time">20:00 </span>
@@ -582,10 +693,53 @@
     </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[잭킹콩, 오프더메뉴 -]]></title>
+        <id>https://ticket.melon.com/performance/index.htm?prodId=206206</id>
+        <link href="https://ticket.melon.com/performance/index.htm?prodId=206206"/>
+        <updated>2021-10-07T04:34:36.519Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">잭킹콩, 오프더메뉴 - </span>
+        <span class="Site">벨로주 홍대</span>
+        <span class="Time">17:30 </span>
+        <span class="Link">
+        <a href="https://ticket.melon.com/performance/index.htm?prodId=206206" target="_blank" class="Design1-1">[예매 링크]</a>
+        </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공기별, 청요일, 코튼스틱, 리뎀션즈 -]]></title>
+        <id>https://www.instagram.com/p/CUpgsUMlreB/</id>
+        <link href="https://www.instagram.com/p/CUpgsUMlreB/"/>
+        <updated>2021-10-07T04:47:19.349Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">공기별, 청요일, 코튼스틱, 리뎀션즈 - </span>
+            <span class="Site">클럽빵</span>
+            <span class="Time">19:30 </span>
+            <span class="Link">
+            <a href="https://www.instagram.com/p/CUpgsUMlreB/" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
+            </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동이혼, 허드, 바투 -]]></title>
+        <id>https://www.instagram.com/p/CUfFKlGlPkt/</id>
+        <link href="https://www.instagram.com/p/CUfFKlGlPkt/"/>
+        <updated>2021-10-07T04:47:19.349Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">동이혼, 허드, 바투 - </span>
+                <span class="Site">클럽 A.O.R </span>
+                <span class="Time">18:00 </span>
+                <span class="Link">
+                <a href="https://www.instagram.com/p/CUfFKlGlPkt/" target="_blank" class="Design1-1">[예매 링크]</a>
+                </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[64]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.675Z</updated>
+        <content type="html"><![CDATA[10월 10일(일)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[자라섬재즈페스티벌 -]]></title>
         <id>https://www.instagram.com/p/CUUU5KoM1YB/</id>
         <link href="https://www.instagram.com/p/CUUU5KoM1YB/"/>
-        <updated>2021-10-07T04:34:36.561Z</updated>
+        <updated>2021-10-07T04:34:36.541Z</updated>
         <content type="html"><![CDATA[<span class="Artist">자라섬재즈페스티벌 - </span>
 <span class="Site">자라섬 </span>
 <span class="Time">16:00 </span>
@@ -597,7 +751,7 @@
         <title type="html"><![CDATA[눈우주, 스웨이, 죠지 -]]></title>
         <id>https://tickets.interpark.com/goods/21008179</id>
         <link href="https://tickets.interpark.com/goods/21008179"/>
-        <updated>2021-10-07T04:34:36.562Z</updated>
+        <updated>2021-10-07T04:34:36.526Z</updated>
         <content type="html"><![CDATA[<span class="Artist">눈우주, 스웨이, 죠지 - </span>
 <span class="Site">온라인 공연 </span>
 <span class="Time">17:00 </span>
@@ -609,7 +763,7 @@
         <title type="html"><![CDATA[천용성, 위댄스 -]]></title>
         <id>https://docs.google.com/forms/d/1d9_CbxV90ReBPYq6sUDZuHRxvyqeDScC-IKdVOJ-ZvY/viewform?edit_requested=true</id>
         <link href="https://docs.google.com/forms/d/1d9_CbxV90ReBPYq6sUDZuHRxvyqeDScC-IKdVOJ-ZvY/viewform?edit_requested=true"/>
-        <updated>2021-10-07T04:34:36.562Z</updated>
+        <updated>2021-10-07T04:34:36.541Z</updated>
         <content type="html"><![CDATA[<span class="Artist">천용성, 위댄스 - </span>
 <span class="Site">통영 삼문당 커피컴퍼니 </span>
 <span class="Time">19:30 </span>
@@ -654,10 +808,29 @@
 </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[소매, 연영석, 크로크노트 -]]></title>
+        <id>https://www.instagram.com/p/CUpgsUMlreB/</id>
+        <link href="https://www.instagram.com/p/CUpgsUMlreB/"/>
+        <updated>2021-10-07T04:47:19.360Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">소매, 연영석, 크로크노트 - </span>
+<span class="Site">클럽빵</span>
+<span class="Time">18:30 </span>
+<span class="Link">
+<a href="https://www.instagram.com/p/CUpgsUMlreB/" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
+</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[72]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.675Z</updated>
+        <content type="html"><![CDATA[10월11일(월)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[자라섬재즈페스티벌 -]]></title>
         <id>https://www.instagram.com/p/CUUU5KoM1YB/</id>
         <link href="https://www.instagram.com/p/CUUU5KoM1YB/"/>
-        <updated>2021-10-07T04:34:36.565Z</updated>
+        <updated>2021-10-07T04:34:36.541Z</updated>
         <content type="html"><![CDATA[<span class="Artist">자라섬재즈페스티벌 - </span>
 <span class="Site">자라섬 </span>
 <span class="Time">16:00 </span>
@@ -690,6 +863,25 @@
 </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[반말, 비컨, 베어풋인더가든, 메리헤이데이 -]]></title>
+        <id>https://www.instagram.com/p/CUkuA5TpoMY/</id>
+        <link href="https://www.instagram.com/p/CUkuA5TpoMY/"/>
+        <updated>2021-10-07T04:47:19.363Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">반말, 비컨, 베어풋인더가든, 메리헤이데이 - </span>
+    <span class="Site">클럽 A.O.R</span>
+    <span class="Time">17:00 </span>
+    <span class="Link">
+    <a href="https://www.instagram.com/p/CUkuA5TpoMY/" target="_blank" class="Design2-1">[예매 정보 링크]</a>
+    </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[77]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.676Z</updated>
+        <content type="html"><![CDATA[10월 12일(화)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[윤딴딴, 빌리어코스티, 한올, 정아로, 예빛-]]></title>
         <id>https://ticket.melon.com/performance/index.htm?prodId=206196</id>
         <link href="https://ticket.melon.com/performance/index.htm?prodId=206196"/>
@@ -700,6 +892,13 @@
 <span class="Link">
 <a href="https://ticket.melon.com/performance/index.htm?prodId=206196" target="_blank" class="Design1-1">[예매 링크]</a>
 </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[79]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.677Z</updated>
+        <content type="html"><![CDATA[10월 13일(수)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤딴딴, 브로콜리너마저, 프롬, 김수영, 최유리 -]]></title>
@@ -714,16 +913,35 @@
 </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[낭만선, 민광진, 김재슬, 리켄즈 -]]></title>
+        <id>https://www.instagram.com/p/CUpgsUMlreB/</id>
+        <link href="https://www.instagram.com/p/CUpgsUMlreB/"/>
+        <updated>2021-10-07T04:47:19.366Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">낭만선, 민광진, 김재슬, 리켄즈 - </span>
+<span class="Site">클럽빵</span>
+<span class="Time">19:30 </span>
+<span class="Link">
+<a href="https://www.instagram.com/p/CUpgsUMlreB/" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
+</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[쏜애플 -]]></title>
         <id>https://tickets.interpark.com/goods/21008684</id>
         <link href="https://tickets.interpark.com/goods/21008684"/>
-        <updated>2021-10-07T04:34:36.568Z</updated>
+        <updated>2021-10-07T04:34:36.521Z</updated>
         <content type="html"><![CDATA[<span class="Artist">쏜애플 - </span>
 <span class="Site">롤링홀 </span>
 <span class="Time">20:00 </span>
 <span class="Link">
 <a href="https://tickets.interpark.com/goods/21008684" target="_blank" class="Design1-1">[예매 링크]</a>
 </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[83]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.686Z</updated>
+        <content type="html"><![CDATA[10월 14일(목)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[동양고주파, 잠비나이 -]]></title>
@@ -738,10 +956,29 @@
 </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[김파다, 구십구십구, 펑크온파이어, 사이버파크게임랜드 -]]></title>
+        <id>https://www.instagram.com/p/CUpgsUMlreB/</id>
+        <link href="https://www.instagram.com/p/CUpgsUMlreB/"/>
+        <updated>2021-10-07T04:47:19.373Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">김파다, 구십구십구, 펑크온파이어, 사이버파크게임랜드 - </span>
+<span class="Site">클럽빵</span>
+<span class="Time">19:30 </span>
+<span class="Link">
+<a href="https://www.instagram.com/p/CUpgsUMlreB/" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
+</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[86]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.686Z</updated>
+        <content type="html"><![CDATA[10월 15일(금)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[연보라, 여름스웨터, 옥상달빛 -]]></title>
         <id>https://tickets.interpark.com/goods/21008179</id>
         <link href="https://tickets.interpark.com/goods/21008179"/>
-        <updated>2021-10-07T04:34:36.570Z</updated>
+        <updated>2021-10-07T04:34:36.526Z</updated>
         <content type="html"><![CDATA[<span class="Artist">연보라, 여름스웨터, 옥상달빛 - </span>
 <span class="Site">온라인 공연 </span>
 <span class="Time">20:00 </span>
@@ -786,6 +1023,25 @@
 </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[비컨, 윈터폴, 선셋온더브릿지 -]]></title>
+        <id>https://www.instagram.com/p/CUpgsUMlreB/</id>
+        <link href="https://www.instagram.com/p/CUpgsUMlreB/"/>
+        <updated>2021-10-07T04:47:19.378Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">비컨, 윈터폴, 선셋온더브릿지 - </span>
+<span class="Site">클럽빵</span>
+<span class="Time">19:30 </span>
+<span class="Link">
+<a href="https://www.instagram.com/p/CUpgsUMlreB/" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
+</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[92]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.734Z</updated>
+        <content type="html"><![CDATA[10월 16일(토)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[그랜드 민트 페스티벌 2021 -]]></title>
         <id>https://tickets.interpark.com/goods/21008296#</id>
         <link href="https://tickets.interpark.com/goods/21008296#"/>
@@ -801,7 +1057,7 @@
         <title type="html"><![CDATA[정튠, 정예원, 스텔라장 -]]></title>
         <id>https://tickets.interpark.com/goods/21008179</id>
         <link href="https://tickets.interpark.com/goods/21008179"/>
-        <updated>2021-10-07T04:34:36.575Z</updated>
+        <updated>2021-10-07T04:34:36.526Z</updated>
         <content type="html"><![CDATA[<span class="Artist">정튠, 정예원, 스텔라장 - </span>
 <span class="Site">온라인 공연 </span>
 <span class="Time">18:00 </span>
@@ -897,7 +1153,7 @@
         <title type="html"><![CDATA[양태환, 포세컨즈, 더 블루스 베리즈, 아프리카 -]]></title>
         <id>http://www.cwcf.or.kr/art_info/art_info_view.asp?p_idx=5933</id>
         <link href="http://www.cwcf.or.kr/art_info/art_info_view.asp?p_idx=5933"/>
-        <updated>2021-10-07T04:34:36.590Z</updated>
+        <updated>2021-10-07T04:34:36.571Z</updated>
         <content type="html"><![CDATA[<span class="Artist">양태환, 포세컨즈, 더 블루스 베리즈, 아프리카 - </span>
     <span class="Site">진해야외공연장</span>
     <span class="Time">19:00 </span>
@@ -918,10 +1174,41 @@
         </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[폴그라운드, REGO, 오씰, 호아, 원디비 -]]></title>
+        <id>https://smartstore.naver.com/bullgamasound/products/5905993880</id>
+        <link href="https://smartstore.naver.com/bullgamasound/products/5905993880"/>
+        <updated>2021-10-07T04:47:19.390Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">폴그라운드, REGO, 오씰, 호아, 원디비 - </span>
+<span class="Site">네스트나다</span>
+<span class="Time">18:00 </span>
+<span class="Link">
+<a href="https://smartstore.naver.com/bullgamasound/products/5905993880" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윾, 콘트라젤리, 아웃라이어즈, 모스크바서핑클럽 -]]></title>
+        <id>https://www.instagram.com/p/CUpgsUMlreB/</id>
+        <link href="https://www.instagram.com/p/CUpgsUMlreB/"/>
+        <updated>2021-10-07T04:47:19.390Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">윾, 콘트라젤리, 아웃라이어즈, 모스크바서핑클럽 - </span>
+    <span class="Site">클럽빵</span>
+    <span class="Time">19:30 </span>
+    <span class="Link">
+    <a href="https://www.instagram.com/p/CUpgsUMlreB/" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
+    </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[106]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.746Z</updated>
+        <content type="html"><![CDATA[10월 17일(일)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[그랜드 민트 페스티벌 2021 -]]></title>
         <id>https://tickets.interpark.com/goods/21008296#</id>
         <link href="https://tickets.interpark.com/goods/21008296#"/>
-        <updated>2021-10-07T04:34:36.592Z</updated>
+        <updated>2021-10-07T04:34:36.574Z</updated>
         <content type="html"><![CDATA[<span class="Artist">그랜드 민트 페스티벌 2021 - </span>
 <span class="Site">올림픽공원 88잔디마당 </span>
 <span class="Time"><del>13:20</del> </span>
@@ -933,7 +1220,7 @@
         <title type="html"><![CDATA[임지수, 은희, W24 -]]></title>
         <id>https://tickets.interpark.com/goods/21008179</id>
         <link href="https://tickets.interpark.com/goods/21008179"/>
-        <updated>2021-10-07T04:34:36.593Z</updated>
+        <updated>2021-10-07T04:34:36.526Z</updated>
         <content type="html"><![CDATA[<span class="Artist">임지수, 은희, W24 - </span>
 <span class="Site">온라인 공연 </span>
 <span class="Time">17:00 </span>
@@ -957,7 +1244,7 @@
         <title type="html"><![CDATA[잠비나이, 다크미러오브트레지디, 컴배티브 포스트, 동이혼, 진격, 다이섹티스트 -]]></title>
         <id>https://booking.naver.com/booking/12/bizes/569938?area=ple</id>
         <link href="https://booking.naver.com/booking/12/bizes/569938?area=ple"/>
-        <updated>2021-10-07T04:34:36.595Z</updated>
+        <updated>2021-10-07T04:34:36.589Z</updated>
         <content type="html"><![CDATA[<span class="Artist">잠비나이, 다크미러오브트레지디, 컴배티브 포스트, 동이혼, 진격, 다이섹티스트 - </span>
 <span class="Site">영등포 아트홀 </span>
 <span class="Time">16:00 </span>
@@ -1002,6 +1289,25 @@
     </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[덥, 스코브, 물과음, 한강의기적 -]]></title>
+        <id>https://www.instagram.com/p/CUpgsUMlreB/</id>
+        <link href="https://www.instagram.com/p/CUpgsUMlreB/"/>
+        <updated>2021-10-07T04:47:19.396Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">덥, 스코브, 물과음, 한강의기적 - </span>
+        <span class="Site">클럽빵</span>
+        <span class="Time">18:30 </span>
+        <span class="Link">
+        <a href="https://www.instagram.com/p/CUpgsUMlreB/" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
+        </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[115]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.746Z</updated>
+        <content type="html"><![CDATA[10월 18일(월)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[브로콜리너마저 -]]></title>
         <id>https://ticket.melon.com/performance/index.htm?prodId=206201</id>
         <link href="https://ticket.melon.com/performance/index.htm?prodId=206201"/>
@@ -1014,10 +1320,17 @@
 </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[117]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.762Z</updated>
+        <content type="html"><![CDATA[10월 19일(화)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[브로콜리너마저 -]]></title>
         <id>https://ticket.melon.com/performance/index.htm?prodId=206201</id>
         <link href="https://ticket.melon.com/performance/index.htm?prodId=206201"/>
-        <updated>2021-10-07T04:34:36.601Z</updated>
+        <updated>2021-10-07T04:34:36.598Z</updated>
         <content type="html"><![CDATA[<span class="Artist">브로콜리너마저 - </span>
 <span class="Site">구름아래소극장 </span>
 <span class="Time">20:00 </span>
@@ -1026,16 +1339,61 @@
 </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[119]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.762Z</updated>
+        <content type="html"><![CDATA[10월 20일(수)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[쏜애플 -]]></title>
         <id>https://tickets.interpark.com/goods/21008684</id>
         <link href="https://tickets.interpark.com/goods/21008684"/>
-        <updated>2021-10-07T04:34:36.602Z</updated>
+        <updated>2021-10-07T04:34:36.521Z</updated>
         <content type="html"><![CDATA[<span class="Artist">쏜애플 - </span>
 <span class="Site">롤링홀 </span>
 <span class="Time">20:00 </span>
 <span class="Link">
 <a href="https://tickets.interpark.com/goods/21008684" target="_blank" class="Design1-1">[예매 링크]</a>
 </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전다인, 김태인, 베이비슈가 -]]></title>
+        <id>https://www.instagram.com/p/CUpgsUMlreB/</id>
+        <link href="https://www.instagram.com/p/CUpgsUMlreB/"/>
+        <updated>2021-10-07T04:47:19.399Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">전다인, 김태인, 베이비슈가 - </span>
+    <span class="Site">클럽빵</span>
+    <span class="Time">19:30 </span>
+    <span class="Link">
+    <a href="https://www.instagram.com/p/CUpgsUMlreB/" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
+    </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[122]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.762Z</updated>
+        <content type="html"><![CDATA[10월 21일(목)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[희야, 은하단, 찰리*브라운 -]]></title>
+        <id>https://www.instagram.com/p/CUpgsUMlreB/</id>
+        <link href="https://www.instagram.com/p/CUpgsUMlreB/"/>
+        <updated>2021-10-07T04:47:19.400Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">희야, 은하단, 찰리*브라운 - </span>
+    <span class="Site">클럽빵</span>
+    <span class="Time">19:30 </span>
+    <span class="Link">
+    <a href="https://www.instagram.com/p/CUpgsUMlreB/" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
+    </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[124]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.762Z</updated>
+        <content type="html"><![CDATA[10월 22일(금)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[조규찬, 박학기, 김현철, 동물원 -]]></title>
@@ -1074,10 +1432,41 @@
 </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[터치드, 로큰롤라디오 -]]></title>
+        <id>https://ticket.melon.com/performance/index.htm?prodId=206238</id>
+        <link href="https://ticket.melon.com/performance/index.htm?prodId=206238"/>
+        <updated>2021-10-07T04:47:19.403Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">터치드, 로큰롤라디오 - </span>
+    <span class="Site">프리즘홀</span>
+    <span class="Time">19:30 </span>
+    <span class="Link">
+    <a href="https://ticket.melon.com/performance/index.htm?prodId=206238" target="_blank" class="Design1-1">[예매 링크]</a>
+    </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허튼, 행간소음, 스크린스, 시나쓰는앨리스 -]]></title>
+        <id>https://www.instagram.com/p/CUpgsUMlreB/</id>
+        <link href="https://www.instagram.com/p/CUpgsUMlreB/"/>
+        <updated>2021-10-07T04:47:19.404Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">허튼, 행간소음, 스크린스, 시나쓰는앨리스 - </span>
+        <span class="Site">클럽빵</span>
+        <span class="Time">19:30 </span>
+        <span class="Link">
+        <a href="https://www.instagram.com/p/CUpgsUMlreB/" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
+        </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[130]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.762Z</updated>
+        <content type="html"><![CDATA[10월 23일(토)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[함춘호, 유리상자, 장필순, 여행스케치, 박학기 -]]></title>
         <id>https://tickets.interpark.com/goods/21008113</id>
         <link href="https://tickets.interpark.com/goods/21008113"/>
-        <updated>2021-10-07T04:34:36.605Z</updated>
+        <updated>2021-10-07T04:34:36.602Z</updated>
         <content type="html"><![CDATA[<span class="Artist">함춘호, 유리상자, 장필순, 여행스케치, 박학기 - </span>
 <span class="Site">블루스퀘어 마스터카드홀 </span>
 <span class="Time">18:00 </span>
@@ -1089,7 +1478,7 @@
         <title type="html"><![CDATA[그랜드 민트 페스티벌 2021 -]]></title>
         <id>https://tickets.interpark.com/goods/21008296#</id>
         <link href="https://tickets.interpark.com/goods/21008296#"/>
-        <updated>2021-10-07T04:34:36.605Z</updated>
+        <updated>2021-10-07T04:34:36.574Z</updated>
         <content type="html"><![CDATA[<span class="Artist">그랜드 민트 페스티벌 2021 - </span>
     <span class="Site">올림픽공원 88잔디마당 </span>
     <span class="Time"><del>13:20</del> </span>
@@ -1161,7 +1550,7 @@
         <title type="html"><![CDATA[57, 차세대, 스프링스, HeMeets -]]></title>
         <id>https://booking.naver.com/booking/12/bizes/583002/items/4093635</id>
         <link href="https://booking.naver.com/booking/12/bizes/583002/items/4093635"/>
-        <updated>2021-10-07T04:34:36.611Z</updated>
+        <updated>2021-10-07T04:34:36.590Z</updated>
         <content type="html"><![CDATA[<span class="Artist">57, 차세대, 스프링스, HeMeets - </span>
 <span class="Site">부천 아트벙커 B39 </span>
 <span class="Time">16:00 </span>
@@ -1194,10 +1583,41 @@
 </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[미루, 까르 -]]></title>
+        <id>https://docs.google.com/forms/d/e/1FAIpQLSeOMyMTe6eefOroYCHo9E9-GTJ0AIRUkj8Qy7HpKqQ43E5nhg/viewform</id>
+        <link href="https://docs.google.com/forms/d/e/1FAIpQLSeOMyMTe6eefOroYCHo9E9-GTJ0AIRUkj8Qy7HpKqQ43E5nhg/viewform"/>
+        <updated>2021-10-07T04:47:19.417Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">미루, 까르 - </span>
+<span class="Site">VOFOL</span>
+<span class="Time">19:30 </span>
+<span class="Link">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeOMyMTe6eefOroYCHo9E9-GTJ0AIRUkj8Qy7HpKqQ43E5nhg/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11도, 반말, 체셔 -]]></title>
+        <id>https://www.instagram.com/p/CUpgsUMlreB/</id>
+        <link href="https://www.instagram.com/p/CUpgsUMlreB/"/>
+        <updated>2021-10-07T04:47:19.418Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">11도, 반말, 체셔 - </span>
+    <span class="Site">클럽빵</span>
+    <span class="Time">19:30 </span>
+    <span class="Link">
+    <a href="https://www.instagram.com/p/CUpgsUMlreB/" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
+    </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[143]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.762Z</updated>
+        <content type="html"><![CDATA[10월 24일(일)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[강이채 -]]></title>
         <id>https://tickets.interpark.com/goods/21008700</id>
         <link href="https://tickets.interpark.com/goods/21008700"/>
-        <updated>2021-10-07T04:34:36.614Z</updated>
+        <updated>2021-10-07T04:34:36.607Z</updated>
         <content type="html"><![CDATA[<span class="Artist">강이채 - </span>
 <span class="Site">온라인 공연 </span>
 <span class="Time">19:00 </span>
@@ -1209,7 +1629,7 @@
         <title type="html"><![CDATA[그랜드 민트 페스티벌 2021 -]]></title>
         <id>https://tickets.interpark.com/goods/21008296#</id>
         <link href="https://tickets.interpark.com/goods/21008296#"/>
-        <updated>2021-10-07T04:34:36.615Z</updated>
+        <updated>2021-10-07T04:34:36.574Z</updated>
         <content type="html"><![CDATA[<span class="Artist">그랜드 민트 페스티벌 2021 - </span>
 <span class="Site">올림픽공원 88잔디마당 </span>
 <span class="Time"><del>13:20</del> </span>
@@ -1233,7 +1653,7 @@
         <title type="html"><![CDATA[9와 숫자들 -]]></title>
         <id>http://ticket.yes24.com/Perf/40257</id>
         <link href="http://ticket.yes24.com/Perf/40257"/>
-        <updated>2021-10-07T04:34:36.618Z</updated>
+        <updated>2021-10-07T04:34:36.610Z</updated>
         <content type="html"><![CDATA[<span class="Artist">9와 숫자들 - </span>
 <span class="Site">KT&amp;G 상상마당 홍대 라이브홀 </span>
 <span class="Time">18:00 </span>
@@ -1257,13 +1677,32 @@
         <title type="html"><![CDATA[옥상달빛 -]]></title>
         <id>https://ticket.melon.com/performance/index.htm?prodId=206208</id>
         <link href="https://ticket.melon.com/performance/index.htm?prodId=206208"/>
-        <updated>2021-10-07T04:34:36.619Z</updated>
+        <updated>2021-10-07T04:34:36.614Z</updated>
         <content type="html"><![CDATA[<span class="Artist">옥상달빛 - </span>
     <span class="Site">세종문화회관 M씨어터</span>
     <span class="Time">19:00 </span>
     <span class="Link">
     <a href="https://ticket.melon.com/performance/index.htm?prodId=206208" target="_blank" class="Design1-1">[예매 링크]</a>
     </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미미키스, 레이디버드, 트리키네코 -]]></title>
+        <id>https://www.instagram.com/p/CUpgsUMlreB/</id>
+        <link href="https://www.instagram.com/p/CUpgsUMlreB/"/>
+        <updated>2021-10-07T04:47:19.429Z</updated>
+        <content type="html"><![CDATA[<span class="Artist">미미키스, 레이디버드, 트리키네코 - </span>
+        <span class="Site">클럽빵</span>
+        <span class="Time">18:30 </span>
+        <span class="Link">
+        <a href="https://www.instagram.com/p/CUpgsUMlreB/" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
+        </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[151]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.816Z</updated>
+        <content type="html"><![CDATA[10월 25일(월)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김마리 -]]></title>
@@ -1278,16 +1717,44 @@
 </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[153]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.816Z</updated>
+        <content type="html"><![CDATA[10월 26일(화)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[154]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.816Z</updated>
+        <content type="html"><![CDATA[10월 27일(수)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[쏜애플 -]]></title>
         <id>https://tickets.interpark.com/goods/21008684</id>
         <link href="https://tickets.interpark.com/goods/21008684"/>
-        <updated>2021-10-07T04:34:36.621Z</updated>
+        <updated>2021-10-07T04:34:36.521Z</updated>
         <content type="html"><![CDATA[<span class="Artist">쏜애플 - </span>
 <span class="Site">롤링홀 </span>
 <span class="Time">20:00 </span>
 <span class="Link">
 <a href="https://tickets.interpark.com/goods/21008684" target="_blank" class="Design1-1">[예매 링크]</a>
 </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[156]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.816Z</updated>
+        <content type="html"><![CDATA[10월 28일(목)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[157]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.816Z</updated>
+        <content type="html"><![CDATA[10월 29일(금)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정태춘, 박은옥 -]]></title>
@@ -1314,10 +1781,17 @@
 </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[160]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.816Z</updated>
+        <content type="html"><![CDATA[10월 30일(토)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[정태춘, 박은옥 -]]></title>
         <id>https://tickets.interpark.com/goods/21008016</id>
         <link href="https://tickets.interpark.com/goods/21008016"/>
-        <updated>2021-10-07T04:34:36.623Z</updated>
+        <updated>2021-10-07T04:34:36.621Z</updated>
         <content type="html"><![CDATA[<span class="Artist">정태춘, 박은옥 - </span>
 <span class="Site">전북대학교 삼성문화회관 </span>
 <span class="Time">19:00 </span>
@@ -1341,7 +1815,7 @@
         <title type="html"><![CDATA[빅베이비드라이버, 규민수림, 임현정과 SirinWinds, 4분쉼표 -]]></title>
         <id>https://booking.naver.com/booking/12/bizes/583002/items/4093635</id>
         <link href="https://booking.naver.com/booking/12/bizes/583002/items/4093635"/>
-        <updated>2021-10-07T04:34:36.625Z</updated>
+        <updated>2021-10-07T04:34:36.590Z</updated>
         <content type="html"><![CDATA[<span class="Artist">빅베이비드라이버, 규민수림, 임현정과 SirinWinds, 4분쉼표 - </span>
 <span class="Site">부천 아트벙커 B39 </span>
 <span class="Time">16:00 </span>
@@ -1362,10 +1836,17 @@
     </span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[165]]></title>
+        <id>http://showdeerocks.info/article.html</id>
+        <link href="http://showdeerocks.info/article.html"/>
+        <updated>2021-10-07T04:47:18.830Z</updated>
+        <content type="html"><![CDATA[10월 31일(일)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[청춘 페스티벌 2021 -]]></title>
         <id>https://tickets.interpark.com/goods/20003069</id>
         <link href="https://tickets.interpark.com/goods/20003069"/>
-        <updated>2021-10-07T04:34:36.627Z</updated>
+        <updated>2021-10-07T04:34:36.624Z</updated>
         <content type="html"><![CDATA[<span class="Artist">청춘 페스티벌 2021 - </span>
 <span class="Site">추후 공개 </span>
 <span class="Time">11:00 </span>
@@ -1377,7 +1858,7 @@
         <title type="html"><![CDATA[서울숲 재즈 페스티벌 -]]></title>
         <id>https://tickets.interpark.com/goods/21007874</id>
         <link href="https://tickets.interpark.com/goods/21007874"/>
-        <updated>2021-10-07T04:34:36.627Z</updated>
+        <updated>2021-10-07T04:34:36.626Z</updated>
         <content type="html"><![CDATA[<span class="Artist">서울숲 재즈 페스티벌 - </span>
     <span class="Site">서울숲</span>
     <span class="Time">15:00 </span>
