@@ -1,19 +1,8 @@
-[naver_premium_free]
-title = "네이버 프리미엄콘텐츠 ─ 무료 프로모션"
-url = "https://contents.premium.naver.com/"
-entrySelector = "ul.promotion_list._PROMOTION_LIST li.promotion_item"
-titleSelector = "strong.promotion_title"
-linkSelector = "div a.promotion_link_2"
-contentSelector = "p.promotion_info"
-imageSelector = "div.promotion_img_area img._LAZY_LOADING"
-waitUntil = "networkidle"
-onFail = "stale"
-
 [figk]
 title = "FIGK"
 url = "https://figk.net/"
 entrySelector = "div.styles_MasonryGridContainer__15gIV div.styles_MasonryGridColumn__1BH2-"
 titleSelector = "div.styles_Title__2bpAt"
 linkSelector = "div.styles_ToolBox__2vzTh > a"
-contentSelector = "div h3"
+contentSelector = "div.styles_TextFIGKContainer__1iZw8"
 waitUntil = "networkidle"
