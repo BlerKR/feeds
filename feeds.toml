@@ -1,11 +1,12 @@
-[alookso_alookso]
-title = "alookso ─ alookso"
-url = "https://alook.so/users/x4WtnB"
+[alookso_somewon]
+title = "alookso ─ 윤성원"
+url = "https://alook.so/users/8Ogtna"
 entrySelector = "//html/body/main/div[2]/div/div/section[1]/section/div/div"
 titleSelector = "//div[2]/h5/a"
 linkSelector = "//div[2]/h5/a"
 contentSelector = "//div[2]/h6/a/div"
 dateSelector = "//div[1]/div/div[2]/div[2]"
 dateFormat = "yyyy.MM.dd."
+filters = "답글"
 waitUntil = "networkidle"
 onFail = "stale"
