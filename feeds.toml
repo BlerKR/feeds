@@ -1,7 +1,8 @@
-[figk]
-title = "FIGK"
-url = "https://figk.net/text"
-entrySelector = "//html/body/div[1]/div/div[2]/div/div/div/div"
-titleSelector = "//h1/div[1]"
-linkSelector = "//h1/div[2]/a"
-waitForSelector = "//html/body/div[1]/div/div/div/div"
+[ranking_popular]
+title = "다음 뉴스 ─ 랭킹 ─ 많이 본"
+url = "https://news.daum.net/ranking/popular"
+entrySelector = "//ul[@class='list_news2']/li[@data-tiara-layer='news_list']"
+titleSelector = "//div[2]/strong/a"
+linkSelector = "//div[2]/strong/a"
+contentSelector = "//div[2]/strong/span[@class='info_news']"
+waitUntil = "networkidle"
