@@ -2,7 +2,7 @@
 title = "다음 뉴스 ─ 랭킹 ─ 많이 본"
 url = "https://news.daum.net/ranking/popular"
 entrySelector = "ul.list_news2 li"
-titleSelector = "strong.tit_thumb"
+titleSelector = "strong.tit_thumb a.link_txt"
 linkSelector = "strong a.link_txt"
 contentSelector = "span.info_news"
 
