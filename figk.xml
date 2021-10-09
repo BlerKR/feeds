@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://figk.net/</id>
+    <id>https://figk.net/text</id>
     <title>FIGK</title>
-    <updated>2021-10-09T01:47:41.902Z</updated>
+    <updated>2021-10-09T01:59:13.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://figk.net/favicon.ico</icon>
 </feed>
