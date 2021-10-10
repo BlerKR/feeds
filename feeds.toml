@@ -1,9 +1,9 @@
-[kmooc_ing]
-title = "K-MOOC ─ 진행중"
-url = "http://www.kmooc.kr/courses?range=i"
-entrySelector = "li.courses-listing-item"
-titleSelector = "span.course-title.kr01-Msilder-title"
-linkSelector = "article.course.ing a"
-contentSelector = "div.course-date.kr01_moviesubtit"
-imageSelector = "div.cover-image img"
+[naver_live]
+title = "네이버 공연"
+url = "https://live.naver.com/"
+entrySelector = "ul.list-item li.item"
+titleSelector = "div.detail-info a"
+linkSelector = "div.detail-info a"
+contentSelector = "p.date.ico-before"
+imageSelector = "img._lazyImage"
 waitUntil = "networkidle"
