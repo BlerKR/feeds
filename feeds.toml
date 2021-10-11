@@ -7,3 +7,4 @@ linkSelector = "a.link_txt"
 contentSelector = "p.desc_thumb"
 waitForSelector = "ul.list_news"
 onFail = "stale"
+timeout=180
