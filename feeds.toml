@@ -5,6 +5,6 @@ entrySelector = "ul.list_news li"
 titleSelector = "div.cont_thumb strong.tit_thumb a.link_txt"
 linkSelector = "div.cont_thumb strong.tit_thumb a.link_txt"
 contentSelector = "div.cont_thumb p.desc_thumb"
-waitForSelector = "ul.list_news"
+waitForSelector = "ul.list_news li"
 onFail = "stale"
 timeout= 180
