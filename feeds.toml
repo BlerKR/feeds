@@ -5,5 +5,5 @@ entrySelector = "//html/body/div[2]/div[2]/main/section[1]/article[2]/div[2]/tab
 titleSelector = "//td[3]/a[1]"
 linkSelector = "//td[3]/a[1]"
 contentSelector = "//td[2]"
-waitForSelector = "table.gall_list tr"
+waitForSelector = "table.gall_list"
 onFail = "stale"
