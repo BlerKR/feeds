@@ -1,8 +1,8 @@
-[dc_taeyeon]
-title = "태연갤러리 ─ 개념글"
-url = "https://gall.dcinside.com/board/lists?id=taeyeon_new1&exception_mode=recommend"
-entrySelector = "//html/body/div[2]/div[2]/main/section[1]/article[2]/div[2]/table/tbody/tr[contains(@data-type, 'icon_recom')]"
-titleSelector = "//td[3]/a[1]"
-linkSelector = "//td[3]/a[1]"
-contentSelector = "//td[2]"
-waitForSelector = "table.gall_list tbody tr"
+[yes24_ticket_exclusive]
+title = "YES24 티켓 ─ 공지사항 (단독판매)"
+url = "http://ticket.yes24.com/New/Notice/NoticeMain.aspx#list=Y&page=1"
+entrySelector = "//html/body/div/div/div/div/table/tbody/tr"
+titleSelector = "//td[2]/a[1]/em[2]"
+linkSelector = "//td[2]/a[1]/em[2]"
+contentSelector = "td[3]"
+waitUntil = "networkidle"
