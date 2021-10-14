@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BlerKR.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-14T18:58:41.880Z</updated>
+    <updated>2021-10-14T19:05:05.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (alookso ─ 윤성원)]]></title>
@@ -228,5 +228,40 @@
         <link href="https://BlerKR.github.io/feeds/all.xml"/>
         <updated>2021-10-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<span>꼰대 같지만, 저는 1만 원 보상은 '트리거'나 '촉매제'일 뿐, 1만 원 보상이 얼룩소에서 글 쓰는 이유나 전부가 되어서는 안 된다고 생각하는 편입니다. 그리고 글쓰기 또한 생각을 표현하는 수단일 뿐이고, 글쓰기보다 더 중요한 건 '더 나은 사회를 위해 나 자신이 어떤 질문을 던질 것인가'가 아닐까 싶네요. 짧은 제 생각으로는, 자신이 필요하다고 생각했던 질문을 던졌을 때 그것을 관심을 가지고 답변을 해주는 사람들이 많다면, 그런 사람들 자체가, 혹은 그런 커뮤니티 자체가 얼룩소가 우리 사회에 줄 수 있는 최고의 보상이자 여정이 아닐까 싶네요. 호호!</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기존 신문들을 다 무너뜨리겠다는 도발적인 뉴미디어, 디 애슬레틱 ㄷㄷ (alookso ─ 제목용)]]></title>
+        <id>https://alook.so/posts/njtX12</id>
+        <link href="https://alook.so/posts/njtX12"/>
+        <updated>2021-10-14T19:05:04.549Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtX12">기존 신문들을 다 무너뜨리겠다는 도발적인 뉴미디어, 디 애슬레틱 ㄷㄷ</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 콘텐츠는 도대체 왜 글로벌에서 이렇게나 인기가 있을까? (alookso ─ 제목용)]]></title>
+        <id>https://alook.so/posts/E7t9ye</id>
+        <link href="https://alook.so/posts/E7t9ye"/>
+        <updated>2021-10-14T19:05:04.551Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t9ye">한국 콘텐츠는 도대체 왜 글로벌에서 이렇게나 인기가 있을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어쩌면 오징어 게임의 흥행 이유를 모르는 게 당연할 수 있어요! (alookso ─ 제목용)]]></title>
+        <id>https://alook.so/posts/70tkWw</id>
+        <link href="https://alook.so/posts/70tkWw"/>
+        <updated>2021-10-14T19:05:04.552Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/70tkWw">어쩌면 오징어 게임의 흥행 이유를 모르는 게 당연할 수 있어요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백신 2차 접종을 맞았다 (alookso ─ 제목용)]]></title>
+        <id>https://alook.so/posts/M9t40a</id>
+        <link href="https://alook.so/posts/M9t40a"/>
+        <updated>2021-10-14T19:05:04.553Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/M9t40a">백신 2차 접종을 맞았다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최근에 새롭게 런칭한 미디어-콘텐츠 서비스 리뷰 (alookso ─ 제목용)]]></title>
+        <id>https://alook.so/posts/dzt2Ow</id>
+        <link href="https://alook.so/posts/dzt2Ow"/>
+        <updated>2021-10-14T19:05:04.555Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2Ow">최근에 새롭게 런칭한 미디어-콘텐츠 서비스 리뷰</a>]]></content>
     </entry>
 </feed>
