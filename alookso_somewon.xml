@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://BlerKR.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-10-14T18:27:31.007Z</updated>
+    <id>https://alook.so/users/8Ogtna</id>
+    <title>alookso ─ 윤성원</title>
+    <updated>2021-10-14T18:27:31.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[undefined (alookso ─ 윤성원)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://alook.so/users/8Ogtna</id>
+        <link href="https://alook.so/users/8Ogtna"/>
         <updated>2021-10-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="relative pb-6">
   <span class="absolute top-5 left-5 -ml-1 h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
@@ -114,7 +115,7 @@
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기존 신문들을 다 무너뜨리겠다는 도발적인 뉴미디어, 디 애슬레틱 ㄷㄷ (alookso ─ 윤성원)]]></title>
+        <title type="html"><![CDATA[기존 신문들을 다 무너뜨리겠다는 도발적인 뉴미디어, 디 애슬레틱 ㄷㄷ]]></title>
         <id>https://alook.so/posts/njtX12</id>
         <link href="https://alook.so/posts/njtX12"/>
         <updated>2021-10-14T00:00:00.000Z</updated>
@@ -215,7 +216,7 @@
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국 콘텐츠는 도대체 왜 글로벌에서 이렇게나 인기가 있을까? (alookso ─ 윤성원)]]></title>
+        <title type="html"><![CDATA[한국 콘텐츠는 도대체 왜 글로벌에서 이렇게나 인기가 있을까?]]></title>
         <id>https://alook.so/posts/E7t9ye</id>
         <link href="https://alook.so/posts/E7t9ye"/>
         <updated>2021-10-13T00:00:00.000Z</updated>
@@ -316,9 +317,9 @@
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (alookso ─ 윤성원)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://alook.so/users/8Ogtna</id>
+        <link href="https://alook.so/users/8Ogtna"/>
         <updated>2021-10-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="relative pb-6">
   <span class="absolute top-5 left-5 -ml-1 h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
@@ -431,7 +432,7 @@
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어쩌면 오징어 게임의 흥행 이유를 모르는 게 당연할 수 있어요! (alookso ─ 윤성원)]]></title>
+        <title type="html"><![CDATA[어쩌면 오징어 게임의 흥행 이유를 모르는 게 당연할 수 있어요!]]></title>
         <id>https://alook.so/posts/70tkWw</id>
         <link href="https://alook.so/posts/70tkWw"/>
         <updated>2021-10-11T00:00:00.000Z</updated>
@@ -526,9 +527,9 @@
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (alookso ─ 윤성원)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://alook.so/users/8Ogtna</id>
+        <link href="https://alook.so/users/8Ogtna"/>
         <updated>2021-10-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="relative pb-6">
   <span class="absolute top-5 left-5 -ml-1 h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
@@ -639,7 +640,7 @@
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[백신 2차 접종을 맞았다 (alookso ─ 윤성원)]]></title>
+        <title type="html"><![CDATA[백신 2차 접종을 맞았다]]></title>
         <id>https://alook.so/posts/M9t40a</id>
         <link href="https://alook.so/posts/M9t40a"/>
         <updated>2021-10-08T00:00:00.000Z</updated>
@@ -726,7 +727,7 @@
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최근에 새롭게 런칭한 미디어-콘텐츠 서비스 리뷰 (alookso ─ 윤성원)]]></title>
+        <title type="html"><![CDATA[최근에 새롭게 런칭한 미디어-콘텐츠 서비스 리뷰]]></title>
         <id>https://alook.so/posts/dzt2Ow</id>
         <link href="https://alook.so/posts/dzt2Ow"/>
         <updated>2021-10-06T00:00:00.000Z</updated>
@@ -817,9 +818,9 @@
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (alookso ─ 윤성원)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[8]]></title>
+        <id>https://alook.so/users/8Ogtna</id>
+        <link href="https://alook.so/users/8Ogtna"/>
         <updated>2021-10-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="relative pb-6">
   <span class="absolute top-5 left-5 -ml-1 h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
@@ -926,9 +927,9 @@
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (alookso ─ 윤성원)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[9]]></title>
+        <id>https://alook.so/users/8Ogtna</id>
+        <link href="https://alook.so/users/8Ogtna"/>
         <updated>2021-10-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="relative pb-6">
   <span class="absolute top-5 left-5 -ml-1 h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
