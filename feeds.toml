@@ -9,3 +9,12 @@ dateSelector = "//div[1]/div/div[2]/div[2]"
 dateFormat = "yyyy.MM.dd."
 waitUntil = "networkidle"
 onFail = "stale"
+
+[alookso_title]
+title = "alookso ─ 제목용"
+url = "https://alook.so/users/8Ogtna"
+entrySelector = "//html/body/main/div/div[2]/div/div/section[1]/section/div/div/div[2]/h5"
+titleSelector = "//a"
+linkSelector = "//a"
+waitUntil = "networkidle"
+onFail = "stale"
