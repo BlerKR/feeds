@@ -1,8 +1,11 @@
-[yes24_ticket_exclusive]
-title = "YES24 티켓 ─ 공지사항 (단독판매)"
-url = "http://ticket.yes24.com/New/Notice/NoticeMain.aspx#list=Y&page=1"
-entrySelector = "//html/body/div/div/div/div/table/tbody/tr"
-titleSelector = "//td[2]/a[1]/em[2]"
-linkSelector = "//td[2]/a[1]/em[2]"
-contentSelector = "//td[3]"
+[alookso_somewon]
+title = "alookso ─ 윤성원"
+url = "https://alook.so/users/8Ogtna"
+entrySelector = "//html/body/main/div/div[2]/div/div/section[1]/section/div/div"
+titleSelector = "//div/h5[@data-qa='post-title']/a[@class='text-xl text-gray-800 font-semibold line-clamp-2']"
+linkSelector = "//div/h5[@data-qa='post-title']/a[@class='text-xl text-gray-800 font-semibold line-clamp-2']"
+contentSelector = "//div[@class='flex-auto space-y-2 mt-2']/h6/a/div[@class='trix-content']"
+dateSelector = "//div[1]/div/div[2]/div[2]"
+dateFormat = "yyyy.MM.dd."
 waitUntil = "networkidle"
+onFail = "stale"
