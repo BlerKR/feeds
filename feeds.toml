@@ -1,9 +1,9 @@
 [alookso_test]
 title = "테스트"
 url = "https://alook.so/users/8Ogtna"
-entrySelector = "//section[1]/section/div/div/div[@class='flex-auto mt-2 space-y-2']/h5"
-titleSelector = "//a"
-linkSelector = "//a"
-contentSelector = "//div[2]/h6/a/div[@class='trix-content']"
+entrySelector = "//section[1]/section/div/div/div[@class='flex-auto mt-2 space-y-2']"
+titleSelector = "//h5[1]/a[1]"
+linkSelector = "//h5[1]/a[1]"
+contentSelector = "//h6[1]/a[1]/div[1]"
 waitUntil = "networkidle"
 onFail = "stale"
