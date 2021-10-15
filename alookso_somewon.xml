@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/8Ogtna</id>
     <title>alookso ─ 윤성원</title>
-    <updated>2021-10-14T19:05:05.263Z</updated>
+    <updated>2021-10-15T07:10:37.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -203,6 +203,13 @@
         <content type="html"><![CDATA[<span>신기한 서비스를 만들어주셔서 감사합니다. 언젠가 간략한 리뷰를 언젠가 쓰기 할 텐데, 저 개인적으로는 어제 alookso를 보면서 한국판 레딧이 등장한 느낌을 받았어요! 좀 더 지적인 버전의 레딧 느낌이라고나 할까요? 그저 첫 느낌이 그렇다는 것이고, 레딧은 아예 생각나지 않을 정도로 멋진 서비스를 만들어주실 것이라 믿습니다!! (호호)</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://alook.so/users/8Ogtna</id>
+        <link href="https://alook.so/users/8Ogtna"/>
+        <updated>2021-10-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>오호홍! 재미있네요. 앞으로도 요런 양질의 alookso 오리지널들이 많이 나왔으면 하는 소망이 있습니담 ^^</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[기존 신문들을 다 무너뜨리겠다는 도발적인 뉴미디어, 디 애슬레틱 ㄷㄷ]]></title>
         <id>https://alook.so/users/8Ogtna</id>
         <link href="https://alook.so/users/8Ogtna"/>
@@ -222,12 +229,5 @@
 <span>2. 유료 가입자 중 무려 75%가 쿨하게 연간 구독을 하고 있을 정도로, 가입자들의 충성도가 높은 디 애틀래틱은 과거 뉴욕타임즈와의 인터뷰에서 “우리는 모든 지역 신문들이 무너질 때까지 계속 출혈경쟁을 벌일 것이고, 우리는 그들이 사업을 하는 것을 극도로 어렵게 할 것”이라고 당돌하게 선언을 해, 많은 사람들을 놀라게 만들기도 했습니다.</span><br>
 <br>
 <span>...</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[19]]></title>
-        <id>https://alook.so/users/8Ogtna</id>
-        <link href="https://alook.so/users/8Ogtna"/>
-        <updated>2021-10-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<span>꼰대 같지만, 저는 1만 원 보상은 '트리거'나 '촉매제'일 뿐, 1만 원 보상이 얼룩소에서 글 쓰는 이유나 전부가 되어서는 안 된다고 생각하는 편입니다. 그리고 글쓰기 또한 생각을 표현하는 수단일 뿐이고, 글쓰기보다 더 중요한 건 '더 나은 사회를 위해 나 자신이 어떤 질문을 던질 것인가'가 아닐까 싶네요. 짧은 제 생각으로는, 자신이 필요하다고 생각했던 질문을 던졌을 때 그것을 관심을 가지고 답변을 해주는 사람들이 많다면, 그런 사람들 자체가, 혹은 그런 커뮤니티 자체가 얼룩소가 우리 사회에 줄 수 있는 최고의 보상이자 여정이 아닐까 싶네요. 호호!</span>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BlerKR.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-14T19:05:05.197Z</updated>
+    <updated>2021-10-15T07:10:37.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (alookso ─ 윤성원)]]></title>
@@ -202,6 +202,13 @@
         <content type="html"><![CDATA[<span>신기한 서비스를 만들어주셔서 감사합니다. 언젠가 간략한 리뷰를 언젠가 쓰기 할 텐데, 저 개인적으로는 어제 alookso를 보면서 한국판 레딧이 등장한 느낌을 받았어요! 좀 더 지적인 버전의 레딧 느낌이라고나 할까요? 그저 첫 느낌이 그렇다는 것이고, 레딧은 아예 생각나지 않을 정도로 멋진 서비스를 만들어주실 것이라 믿습니다!! (호호)</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[undefined (alookso ─ 윤성원)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>오호홍! 재미있네요. 앞으로도 요런 양질의 alookso 오리지널들이 많이 나왔으면 하는 소망이 있습니담 ^^</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[기존 신문들을 다 무너뜨리겠다는 도발적인 뉴미디어, 디 애슬레틱 ㄷㄷ (alookso ─ 윤성원)]]></title>
         <id>https://BlerKR.github.io/feeds/all.xml</id>
         <link href="https://BlerKR.github.io/feeds/all.xml"/>
@@ -221,13 +228,6 @@
 <span>2. 유료 가입자 중 무려 75%가 쿨하게 연간 구독을 하고 있을 정도로, 가입자들의 충성도가 높은 디 애틀래틱은 과거 뉴욕타임즈와의 인터뷰에서 “우리는 모든 지역 신문들이 무너질 때까지 계속 출혈경쟁을 벌일 것이고, 우리는 그들이 사업을 하는 것을 극도로 어렵게 할 것”이라고 당돌하게 선언을 해, 많은 사람들을 놀라게 만들기도 했습니다.</span><br>
 <br>
 <span>...</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (alookso ─ 윤성원)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-10-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<span>꼰대 같지만, 저는 1만 원 보상은 '트리거'나 '촉매제'일 뿐, 1만 원 보상이 얼룩소에서 글 쓰는 이유나 전부가 되어서는 안 된다고 생각하는 편입니다. 그리고 글쓰기 또한 생각을 표현하는 수단일 뿐이고, 글쓰기보다 더 중요한 건 '더 나은 사회를 위해 나 자신이 어떤 질문을 던질 것인가'가 아닐까 싶네요. 짧은 제 생각으로는, 자신이 필요하다고 생각했던 질문을 던졌을 때 그것을 관심을 가지고 답변을 해주는 사람들이 많다면, 그런 사람들 자체가, 혹은 그런 커뮤니티 자체가 얼룩소가 우리 사회에 줄 수 있는 최고의 보상이자 여정이 아닐까 싶네요. 호호!</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기존 신문들을 다 무너뜨리겠다는 도발적인 뉴미디어, 디 애슬레틱 ㄷㄷ (alookso ─ 제목용)]]></title>
@@ -263,5 +263,45 @@
         <link href="https://alook.so/posts/dzt2Ow"/>
         <updated>2021-10-14T19:05:04.555Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2Ow">최근에 새롭게 런칭한 미디어-콘텐츠 서비스 리뷰</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맥주 한 잔의 여유 (테스트)]]></title>
+        <id>https://alook.so/posts/yEtV9Y</id>
+        <link href="https://alook.so/posts/yEtV9Y"/>
+        <updated>2021-10-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>저녁에 맥주 한 캔 씩 마시는 막간의 여유를 여러분은 얼마나 자주 즐기고 계신가요?
+<br>한여름에는 시원한 맥주 생각도 간절하더니 이제 선선하다 못해 아침저녁으로 쌀쌀해진 계절이 되니 맥주 생각도 슬그머니 줄어드는 것 같아요. 
+<br>뿐만아니라 술도 적당히 바쁠때나 기분 내는 것이 가능하지 너무 바쁘면 술 마실 기운(?)도 없구나 라는 것도 느끼는 요즘입니다. 
+<br>오늘 읽은 재미있는 기사를 공유해요. 
+<br>2700년 전에도 인간이 치즈와 맥주를 즐겼다는 것을 인분을 검사하며 알게 되었다는 내용의 기사입니다. 
+<br>아주 오랜 시간이 흘러 4000년대 미래인류(라는 것이 가능하다면)가&nbsp; 2000년대 인류의 인분을 들여다본다면&nbsp; 무엇을 느끼게 될까요. 맥주 한 잔 하면서 생각해보겠습미다…..</span><br>
+<br>
+<span>&nbsp;2700년 전 인분서 놀라운 발견 뭐길래…"그때도 맥주와 치즈 즐겼다"&nbsp; 2700년 전 인류의 인분을 연구·분석한 결과 발효 기술을 활용해 맥주와 치즈를 즐겨 먹었다는 결과가 나왔다고 영국 가디언이 13일(현지...</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[셀카 좋아하시나요? (테스트)]]></title>
+        <id>https://alook.so/posts/bWtBXb</id>
+        <link href="https://alook.so/posts/bWtBXb"/>
+        <updated>2021-10-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>신간들을 둘러보다 눈길이 갔던 책이었는데, 제가 좋아하는 곽아람 기자님께서 재빠르게 읽고 리뷰를 남겨주셨습니다. 윌 스토의 &lt;셀피&gt; 라는 책이에요.</span><br>
+<br>
+<span>https://m.blog.naver.com/jjxo/222531839328
+<br>-&gt; 기사의 원문은 요기를 클릭!</span><br>
+<br>
+<span>저자는 자존감의 중요성을 학습한 부모로부터 ‘넌 특별하다’라는 주입을 받고 자란 MZ 세대가 어떻게 ‘높은 자존감’의 강박 속에서 불행해지는지를 끊임없이 소셜미디어에 완벽한(완벽하게 보정된) 자신의 셀카를 올리는 문화를 통해 진단합니다.&nbsp;
+<br>글쎄, ‘넌 특별하다’ 라는 말은 굳이 MZ 세대만 특별히 듣고 자랐을까 라는 생각이 들긴 합니다. 뭐 예부터 한국에서 남성으로 태어난 사람들은 ‘넌 특별하다’는 메세지를 그냥 집안공기로 마시며 자라왔을테고 그게 그들에게는 칭찬이자 부담이었겠죠.
+<br>그치만 ‘셀카’ 라는 것, 그리고 거기에서 파생된 다양한 보정기술을 보며 이런저런 생각이 오랫동안 들긴 했습니다.&nbsp;
+<br>...</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나를 괴롭히는 책들 (테스트)]]></title>
+        <id>https://alook.so/posts/70tkvR</id>
+        <link href="https://alook.so/posts/70tkvR"/>
+        <updated>2021-10-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>책방을 운영하고 있다보면 원없이 책을 읽을 수 있어서 좋겠다는 말을 종종 듣습니다.
+<br>저도 사실은 그럴 줄 알고 책방을 시작했는데… 책방을 하고나서는 일을 하느라 읽고 싶은 책을 더 못읽게 되고 말았습니다. 아마 저 뿐 아니라 출판사든 방송국이든 책을 매일 만지고 다루는 분들은 어쩐지 모두 비슷한 고민을 하시지 않을까 짐작해보는데요. 책은 자신을 싫어하는 사람보다 좋아하는 사람에게 더 가혹한 물건 같습니다. 
+<br>요즘 저를 괴롭히고 있는 책들을 소개해드리고 싶어요. 너무 읽고 싶은데 바빠서 못읽고 있는 책이에요.
+<br>&nbsp;
+<br>앤 카슨의 신간 &lt;짧은 이야기들&gt;, &lt;유리, 아이러니 그리고 신&gt; 이 얼마전 함께 선보였습니다. 서울에서 책방을 운영할 때 &lt;남편의 아름다움&gt;을 얼마나 많이 영업(?)했는지 몰라요. 이렇게 두 권의 책이 한번에 나와주다니 너무 신나서 안절부절입니다. 그 뿐 아니라, 마음산책 출판사의 ‘말’ 시리즈에서는 &lt;뒤라스의 말&gt; 이 출간되...</span>]]></content>
     </entry>
 </feed>
