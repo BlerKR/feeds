@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/8Ogtna</id>
     <title>alookso ─ 윤성원</title>
-    <updated>2021-10-15T07:13:53.092Z</updated>
+    <updated>2021-10-15T07:39:33.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://alook.so/users/8Ogtna</id>
         <link href="https://alook.so/users/8Ogtna"/>
-        <updated>2021-10-15T07:13:52.321Z</updated>
+        <updated>2021-10-15T07:39:32.560Z</updated>
         <content type="html"><![CDATA[<div class="relative pb-6">
   <span class="absolute top-5 left-5 -ml-1 h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
   <div class="flex items-center justify-between text-gray-900">
@@ -97,12 +97,12 @@
 </a>          </span>
           <div class="flex items-center space-x-4">
             <div class="h-full whitespace-nowrap like_button_post_vKt6aB">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvNjExNwY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE1VDA3OjEzOjUwLjQ3N1oGOwBU--88e5ee2709fcee45d1bdbdaba6c1fdaf5f35c315"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvNjExNwY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE1VDA3OjM5OjMwLjY2MloGOwBU--afe8358c6394e4423014e37b30e48e5b531816a2"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-980becba33ff5775625b73e0409369145b0da8c1df7bcfebf4430c8a8eb2a689.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       7
     </span>
-</button><input type="hidden" name="authenticity_token" value="1Ys7YDcexOkJ6rB8T1KM40F7Cwnnype31ti0GUVrugFJbcGC_1vMA75QSeUfKKJOgJ1ZCaKYcLKBqmOVwKK16g"></form></div>
+</button><input type="hidden" name="authenticity_token" value="-ht8wTpRVnECq4dm7xx4Bg2TV5GYGB7LID8Qq9x1kGq-kPjDPHrkpbXurNRZ7KKAfZoURTUPp_UK0K_Tt60k6Q"></form></div>
             <div>
   <div class="relative">
     <a tabindex="0" class="inline-block select-none share_post_vKt6aB" data-method="get" href="/posts/vKt6aB/share">
@@ -156,7 +156,7 @@
         <title type="html"><![CDATA[3]]></title>
         <id>https://alook.so/users/8Ogtna</id>
         <link href="https://alook.so/users/8Ogtna"/>
-        <updated>2021-10-15T07:13:52.326Z</updated>
+        <updated>2021-10-15T07:39:32.560Z</updated>
         <content type="html"><![CDATA[<div class="relative pb-6">
   <span class="absolute top-5 left-5 -ml-1 h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
   <div class="flex items-center justify-between text-gray-900">
@@ -250,12 +250,12 @@
 </a>          </span>
           <div class="flex items-center space-x-4">
             <div class="h-full whitespace-nowrap like_button_post_LKt7j8">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvNTE3MQY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE1VDA3OjEzOjUwLjUwMloGOwBU--f3dcd53d7643e2c72f3ce59e7eb604fc9c8bf7d8"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvNTE3MQY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE1VDA3OjM5OjMwLjY4OFoGOwBU--d489a905df3ef622b36ed304ae4374353424b201"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-980becba33ff5775625b73e0409369145b0da8c1df7bcfebf4430c8a8eb2a689.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       7
     </span>
-</button><input type="hidden" name="authenticity_token" value="1Ys7YDcexOkJ6rB8T1KM40F7Cwnnype31ti0GUVrugFJbcGC_1vMA75QSeUfKKJOgJ1ZCaKYcLKBqmOVwKK16g"></form></div>
+</button><input type="hidden" name="authenticity_token" value="-ht8wTpRVnECq4dm7xx4Bg2TV5GYGB7LID8Qq9x1kGq-kPjDPHrkpbXurNRZ7KKAfZoURTUPp_UK0K_Tt60k6Q"></form></div>
             <div>
   <div class="relative">
     <a tabindex="0" class="inline-block select-none share_post_LKt7j8" data-method="get" href="/posts/LKt7j8/share">
@@ -282,7 +282,7 @@
         <title type="html"><![CDATA[5]]></title>
         <id>https://alook.so/users/8Ogtna</id>
         <link href="https://alook.so/users/8Ogtna"/>
-        <updated>2021-10-15T07:13:52.326Z</updated>
+        <updated>2021-10-15T07:39:32.562Z</updated>
         <content type="html"><![CDATA[<div class="relative pb-6">
   <span class="absolute top-5 left-5 -ml-1 h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
   <div class="flex items-center justify-between text-gray-900">
@@ -374,12 +374,12 @@
 </a>          </span>
           <div class="flex items-center space-x-4">
             <div class="h-full whitespace-nowrap like_button_post_zvtJ6B">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvNDIxOAY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE1VDA3OjEzOjUwLjUxOVoGOwBU--22115db429d1a225f0aa78c1739679eea5a2c76e"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvNDIxOAY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE1VDA3OjM5OjMwLjcwNVoGOwBU--50862ea99dece0616cc396371347de507244eebc"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-980becba33ff5775625b73e0409369145b0da8c1df7bcfebf4430c8a8eb2a689.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       14
     </span>
-</button><input type="hidden" name="authenticity_token" value="1Ys7YDcexOkJ6rB8T1KM40F7Cwnnype31ti0GUVrugFJbcGC_1vMA75QSeUfKKJOgJ1ZCaKYcLKBqmOVwKK16g"></form></div>
+</button><input type="hidden" name="authenticity_token" value="-ht8wTpRVnECq4dm7xx4Bg2TV5GYGB7LID8Qq9x1kGq-kPjDPHrkpbXurNRZ7KKAfZoURTUPp_UK0K_Tt60k6Q"></form></div>
             <div>
   <div class="relative">
     <a tabindex="0" class="inline-block select-none share_post_zvtJ6B" data-method="get" href="/posts/zvtJ6B/share">
@@ -419,7 +419,7 @@
         <title type="html"><![CDATA[8]]></title>
         <id>https://alook.so/users/8Ogtna</id>
         <link href="https://alook.so/users/8Ogtna"/>
-        <updated>2021-10-15T07:13:52.337Z</updated>
+        <updated>2021-10-15T07:39:32.563Z</updated>
         <content type="html"><![CDATA[<div class="relative pb-6">
   <span class="absolute top-5 left-5 -ml-1 h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
   <div class="flex items-center justify-between text-gray-900">
@@ -507,12 +507,12 @@
 </a>          </span>
           <div class="flex items-center space-x-4">
             <div class="h-full whitespace-nowrap like_button_post_Bata7P">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMjU0NgY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE1VDA3OjEzOjUwLjU0M1oGOwBU--be4ca67b8f69be3af25bf898577ca653e75ff42f"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMjU0NgY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE1VDA3OjM5OjMwLjcyOVoGOwBU--0f7bcc63eeed07f4c859e52f4a958b7080e85a25"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-980becba33ff5775625b73e0409369145b0da8c1df7bcfebf4430c8a8eb2a689.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       3
     </span>
-</button><input type="hidden" name="authenticity_token" value="1Ys7YDcexOkJ6rB8T1KM40F7Cwnnype31ti0GUVrugFJbcGC_1vMA75QSeUfKKJOgJ1ZCaKYcLKBqmOVwKK16g"></form></div>
+</button><input type="hidden" name="authenticity_token" value="-ht8wTpRVnECq4dm7xx4Bg2TV5GYGB7LID8Qq9x1kGq-kPjDPHrkpbXurNRZ7KKAfZoURTUPp_UK0K_Tt60k6Q"></form></div>
             <div>
   <div class="relative">
     <a tabindex="0" class="inline-block select-none share_post_Bata7P" data-method="get" href="/posts/Bata7P/share">
@@ -528,7 +528,7 @@
         <title type="html"><![CDATA[9]]></title>
         <id>https://alook.so/users/8Ogtna</id>
         <link href="https://alook.so/users/8Ogtna"/>
-        <updated>2021-10-15T07:13:52.339Z</updated>
+        <updated>2021-10-15T07:39:32.568Z</updated>
         <content type="html"><![CDATA[<div class="relative pb-6">
   <span class="absolute top-5 left-5 -ml-1 h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
   <div class="flex items-center justify-between text-gray-900">
@@ -616,12 +616,12 @@
 </a>          </span>
           <div class="flex items-center space-x-4">
             <div class="h-full whitespace-nowrap like_button_post_J5tO5X">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMjQ2MgY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE1VDA3OjEzOjUwLjU1MloGOwBU--1a1b33192700ad424f4419aad5eff8d3fffe485a"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMjQ2MgY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE1VDA3OjM5OjMwLjczN1oGOwBU--fa608cb371f09c372cc79d35db4c03007c19a0d8"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-980becba33ff5775625b73e0409369145b0da8c1df7bcfebf4430c8a8eb2a689.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       3
     </span>
-</button><input type="hidden" name="authenticity_token" value="1Ys7YDcexOkJ6rB8T1KM40F7Cwnnype31ti0GUVrugFJbcGC_1vMA75QSeUfKKJOgJ1ZCaKYcLKBqmOVwKK16g"></form></div>
+</button><input type="hidden" name="authenticity_token" value="-ht8wTpRVnECq4dm7xx4Bg2TV5GYGB7LID8Qq9x1kGq-kPjDPHrkpbXurNRZ7KKAfZoURTUPp_UK0K_Tt60k6Q"></form></div>
             <div>
   <div class="relative">
     <a tabindex="0" class="inline-block select-none share_post_J5tO5X" data-method="get" href="/posts/J5tO5X/share">
