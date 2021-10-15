@@ -4,6 +4,6 @@ url = "https://ticket.melon.com/csoon/index.htm#orderType=0&pageIndex=1&schGcode
 entrySelector = "//html/body/div/div/div/div/div/div/div/div/div/ul/li/div[@class='cont']"
 titleSelector = "//strong[@class='tit_consert']"
 linkSelector = "//a[@class='thumb_160x225']"
-contentSelector = "//span[@class='date']/text()"
+contentSelector = "//span[@class='date']"
 imageSelector = "//a/span[@class='img']/img"
 waitUntil = "networkidle"
