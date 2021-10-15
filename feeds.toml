@@ -1,6 +1,6 @@
 [alookso_test]
 title = "테스트"
-url = "https://alook.so/users/8Ogtd9"
+url = "https://alook.so/users/8Ogtna"
 entrySelector = "//section[1]/section/div/div"
 titleSelector = "//div/h5/a"
 linkSelector = "//div/h5/a"
