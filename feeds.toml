@@ -1,15 +1,3 @@
-[alookso_somewon]
-title = "alookso ─ 윤성원"
-url = "https://alook.so/users/8Ogtna"
-entrySelector = "section section div[id^='post']"
-titleSelector = "div.flex-auto.mt-2.space-y-2 h5[data-qa='post-title']"
-linkSelector = "div.flex-auto.mt-2.space-y-2 h5[data-qa='post-title']"
-contentSelector = "div.trix-content"
-dateSelector = "//div[1]/div/div[2]/div[2]"
-dateFormat = "yyyy.MM.dd."
-waitUntil = "networkidle"
-onFail = "stale"
-
 [alookso_title]
 title = "alookso ─ 제목용"
 url = "https://alook.so/users/8Ogtna"
@@ -22,6 +10,18 @@ onFail = "stale"
 [alookso_yozoh]
 title = "테스트"
 url = "https://alook.so/users/8Ogtd9"
+entrySelector = "//html/body/main/div/div[2]/div/div/section[1]/section/div/div"
+titleSelector = "//div[2]/h5"
+linkSelector = "//div[2]/h5/a"
+contentSelector = "//div[2]/h6/a/div[@class='trix-content']"
+dateSelector = "//div[1]/div/div/div[2]/div[@class='font-light text-gray-400 text-xxs']"
+dateFormat = "yyyy.MM.dd."
+waitUntil = "networkidle"
+onFail = "stale"
+
+[alookso_somewon]
+title = "alookso ─ 윤성원"
+url = "https://alook.so/users/8Ogtna"
 entrySelector = "//html/body/main/div/div[2]/div/div/section[1]/section/div/div"
 titleSelector = "//div[2]/h5"
 linkSelector = "//div[2]/h5/a"
