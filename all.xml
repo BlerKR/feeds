@@ -2,55 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BlerKR.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-18T13:14:07.850Z</updated>
+    <updated>2021-10-18T14:04:12.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[20세가 바라보는 국민연금 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/0ktmJM</id>
-        <link href="https://alook.so/posts/0ktmJM"/>
-        <updated>2021-10-18T13:14:06.981Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktmJM">20세가 바라보는 국민연금</a>]]></content>
+        <title type="html"><![CDATA[소상공인 20년차 언제나 고민이 있었습니다.지금은 고통이네요. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/G1t9nj</id>
+        <link href="https://alook.so/posts/G1t9nj"/>
+        <updated>2021-10-18T14:04:11.771Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1t9nj">소상공인 20년차 언제나 고민이 있었습니다.지금은 고통이네요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[궁금해서... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/4XtOzE</id>
-        <link href="https://alook.so/posts/4XtOzE"/>
-        <updated>2021-10-18T13:14:06.982Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/4XtOzE">궁금해서...</a>]]></content>
+        <title type="html"><![CDATA[계속해서 새로운 일자리의 발생 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/OEtOJ1</id>
+        <link href="https://alook.so/posts/OEtOJ1"/>
+        <updated>2021-10-18T14:04:11.772Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/OEtOJ1">계속해서 새로운 일자리의 발생</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 할수있다 우리는 할수있다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/XBt3My</id>
-        <link href="https://alook.so/posts/XBt3My"/>
-        <updated>2021-10-18T13:14:06.983Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBt3My">나는 할수있다 우리는 할수있다</a>]]></content>
+        <title type="html"><![CDATA[재택근무를 포함하면 주4일제 가능하지않을까요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/DjtlOv</id>
+        <link href="https://alook.so/posts/DjtlOv"/>
+        <updated>2021-10-18T14:04:11.773Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/DjtlOv">재택근무를 포함하면 주4일제 가능하지않을까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나한테 쌍욕하던 “갑” 고객님 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/w9tydZ</id>
-        <link href="https://alook.so/posts/w9tydZ"/>
-        <updated>2021-10-18T13:14:06.985Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/w9tydZ">나한테 쌍욕하던 “갑” 고객님 </a>]]></content>
+        <title type="html"><![CDATA[나의 반려동물 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/1RtMY4</id>
+        <link href="https://alook.so/posts/1RtMY4"/>
+        <updated>2021-10-18T14:04:11.774Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/1RtMY4">나의 반려동물</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김도비의 일기 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/xltJzK</id>
-        <link href="https://alook.so/posts/xltJzK"/>
-        <updated>2021-10-18T13:14:06.986Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/xltJzK">김도비의 일기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지방은 어떤 모습이어야 할까요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/kZtLvw</id>
-        <link href="https://alook.so/posts/kZtLvw"/>
-        <updated>2021-10-18T13:14:06.989Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/kZtLvw">지방은 어떤 모습이어야 할까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘도 가끔 신해철이 그립습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Batqld</id>
-        <link href="https://alook.so/posts/Batqld"/>
-        <updated>2021-10-18T13:14:06.990Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Batqld">요즘도 가끔 신해철이 그립습니다.</a>]]></content>
+        <title type="html"><![CDATA[가족같이 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/YytDXq</id>
+        <link href="https://alook.so/posts/YytDXq"/>
+        <updated>2021-10-18T14:04:11.775Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/YytDXq">가족같이</a>]]></content>
     </entry>
 </feed>
