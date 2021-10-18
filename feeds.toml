@@ -1,5 +1,5 @@
 [alookso_latest]
-title = ""
+title = "alookso ─ 둘러보기 ─ 최신 글"
 url = "https://alook.so/discover/latest"
 entrySelector = "//div[@class='flex-auto mt-2 space-y-2']/h5[@class='font-medium text-break']"
 titleSelector = "//a[@class='text-xl text-gray-800 font-semibold line-clamp-2']"
