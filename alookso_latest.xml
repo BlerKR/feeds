@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-18T07:17:56.169Z</updated>
+    <updated>2021-10-18T07:20:28.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[주 4일제는 가능할까요?]]></title>
+        <id>https://alook.so/posts/VnteWZ</id>
+        <link href="https://alook.so/posts/VnteWZ"/>
+        <updated>2021-10-18T07:20:27.955Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/VnteWZ">주 4일제는 가능할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘 뭐 먹지부터 고민]]></title>
+        <id>https://alook.so/posts/2xtMxw</id>
+        <link href="https://alook.so/posts/2xtMxw"/>
+        <updated>2021-10-18T07:20:27.956Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/2xtMxw">오늘 뭐 먹지부터 고민</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오일남 종양 완치?!?!?]]></title>
         <id>https://alook.so/posts/WLtJnp</id>
@@ -46,19 +60,5 @@
         <link href="https://alook.so/posts/w9tyr6"/>
         <updated>2021-10-18T07:17:55.639Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/w9tyr6">전반적으로 동의하는 글이었습니다:)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채식은 정신건강에 좋지 않다고 하네요.]]></title>
-        <id>https://alook.so/posts/RGtqay</id>
-        <link href="https://alook.so/posts/RGtqay"/>
-        <updated>2021-10-18T07:17:55.640Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGtqay">채식은 정신건강에 좋지 않다고 하네요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[k pop이 성공 할 수 밖에 없는 이유?]]></title>
-        <id>https://alook.so/posts/kZtLqV</id>
-        <link href="https://alook.so/posts/kZtLqV"/>
-        <updated>2021-10-18T07:17:55.641Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/kZtLqV">k pop이 성공 할 수 밖에 없는 이유?</a>]]></content>
     </entry>
 </feed>
