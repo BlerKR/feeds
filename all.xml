@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BlerKR.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-18T19:03:48.189Z</updated>
+    <updated>2021-10-18T20:04:59.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[안정성과 공평성, 획일성 때문에... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/E7t3dW</id>
+        <link href="https://alook.so/posts/E7t3dW"/>
+        <updated>2021-10-18T20:04:58.910Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t3dW">안정성과 공평성, 획일성 때문에...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열이 홍준표에게 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/lat1wR</id>
+        <link href="https://alook.so/posts/lat1wR"/>
+        <updated>2021-10-18T20:04:58.911Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/lat1wR">윤석열이 홍준표에게</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배고파요 먹고싶은 음식 추천해주세요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/92t3Zn</id>
+        <link href="https://alook.so/posts/92t3Zn"/>
+        <updated>2021-10-18T20:04:58.911Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92t3Zn">배고파요 먹고싶은 음식 추천해주세요</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리가 행복하지 않은 이유 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/Kmtkb2</id>
@@ -31,19 +52,5 @@
         <link href="https://alook.so/posts/o7t0ky"/>
         <updated>2021-10-18T18:05:53.356Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7t0ky">월배당주에 꽂힌 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성 전자 주식 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/70tm8b</id>
-        <link href="https://alook.so/posts/70tm8b"/>
-        <updated>2021-10-18T18:05:53.357Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/70tm8b">삼성 전자 주식</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국방비에 대한 생각 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/YytDE2</id>
-        <link href="https://alook.so/posts/YytDE2"/>
-        <updated>2021-10-18T18:05:53.358Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/YytDE2">국방비에 대한 생각</a>]]></content>
     </entry>
 </feed>
