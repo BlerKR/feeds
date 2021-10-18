@@ -1,11 +1,7 @@
-[yongin_kakao]
-title = "용인시 ─ 카카오톡 채널"
-url = "https://pf.kakao.com/_SxkxoYxl"
-entrySelector = "div.wrap_post"
-titleSelector = "p.desc_post"
-linkSelector = "span.txt_time a"
-contentSelector = "p.desc_post"
-DateSelector = "span.txt_time a"
-DateFormat = "MM월 dd일 .. hh:mm"
-imageSelector = "a.link_thumb div.wrap_thumb"
+[alookso_test]
+title = "테스트"
+url = "https://alook.so/users/8letPq"
+entrySelector = "//div[@class='border-b']/section[@class='bg-white lg:px-12']/div/div[@class='divide-y']/div[@class='px-4 py-4 lg:px-0 md:py-6']"
+titleSelector = "//div/div[@class='flex-auto mt-2 space-y-2']/h5[@class='font-medium text-break']/a[@class='text-xl text-gray-800 font-semibold line-clamp-2']"
+linkSelector = "//div/div[@class='flex-auto mt-2 space-y-2']/h5[@class='font-medium text-break']/a[@class='text-xl text-gray-800 font-semibold line-clamp-2']"
 waitUntil = "networkidle"
