@@ -5,3 +5,4 @@ entrySelector = "//div[@class='flex-auto mt-2 space-y-2']/h5[@class='font-medium
 titleSelector = "//a[@class='text-xl text-gray-800 font-semibold line-clamp-2']"
 linkSelector = "//a[@class='text-xl text-gray-800 font-semibold line-clamp-2']"
 waitUntil = "networkidle"
+onFail = "stale"
