@@ -1,8 +1,9 @@
-[alookso_latest]
-title = "alookso ─ 둘러보기 ─ 최신 글"
-url = "https://alook.so/discover/latest"
-entrySelector = "//div[@class='flex-auto mt-2 space-y-2']/h5[@class='font-medium text-break']"
-titleSelector = "//a[@class='text-xl text-gray-800 font-semibold line-clamp-2']"
-linkSelector = "//a[@class='text-xl text-gray-800 font-semibold line-clamp-2']"
+[prismhall]
+title = "프리즘홀"
+url = "https://www.kamimusic.com/tobe"
+entrySelector = "//div[@class='info-element-text']"
+titleSelector = "//div[@class='info-member info-element-title']/span"
+linkSelector = "a"
+contentSelector = "//div[@class='info-member info-element-description']/span"
+imageSelector = "//div[1]/picture/img"
 waitUntil = "networkidle"
-onFail = "stale"
