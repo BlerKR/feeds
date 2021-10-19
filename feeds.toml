@@ -27,3 +27,13 @@ linkSelector = "span.show_title a"
 contentSelector = "td.show_date"
 imageSelector = "div.thumb_90x125.img a img"
 waitUntil = "networkidle"
+
+[naver_premiumcontents_tmifm]
+title = "네이버 프리미엄콘텐츠 ─ TMI.FM 팬덤랩스"
+url = "https://contents.premium.naver.com/tmifm/labs/contents"
+entrySelector = "ul.content_list._CONTENT_LIST li.content_item.as_thumb"
+titleSelector = "strong.content_title"
+linkSelector = "a.content_text_link"
+contentSelector = "a.content_category"
+imageSelector = "a.content_thumb img"
+waitUntil = "networkidle"
