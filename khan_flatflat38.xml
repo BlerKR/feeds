@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Combined feed</title>
+        <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
         <lastBuildDate>Sat, 23 Oct 2021 13:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['결혼하면 왜 남편 성을 따라야 하나?' 일본 여성들이 묻기 시작했다 (경향신문 ─ 플랫)]]></title>
+            <title><![CDATA['결혼하면 왜 남편 성을 따라야 하나?' 일본 여성들이 묻기 시작했다]]></title>
             <link>https://www.khan.co.kr/world/japan/article/202110221033001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/world/japan/article/202110221033001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Sat, 23 Oct 2021 13:24:36 GMT</pubDate>
@@ -16,7 +16,7 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/22/2021102001002496200212831.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오늘부터 '스토킹 처벌법' 시행된다 (경향신문 ─ 플랫)]]></title>
+            <title><![CDATA[오늘부터 '스토킹 처벌법' 시행된다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202110211640001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202110211640001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Sat, 23 Oct 2021 13:24:36 GMT</pubDate>
@@ -25,7 +25,7 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/21/2021102101002791000236201.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["범죄자의 팬이 됐지만 '그 사람' 때문에 울고싶진 않아" (경향신문 ─ 플랫)]]></title>
+            <title><![CDATA["범죄자의 팬이 됐지만 '그 사람' 때문에 울고싶진 않아"]]></title>
             <link>https://www.khan.co.kr/culture/movie/article/202110211009001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/culture/movie/article/202110211009001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Sat, 23 Oct 2021 13:24:36 GMT</pubDate>
@@ -33,7 +33,7 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/21/2021101801002187400186931.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#MeToo가 바꾼 미국 사회, 유색인종 여성의 평가는 '아직' (경향신문 ─ 플랫)]]></title>
+            <title><![CDATA[#MeToo가 바꾼 미국 사회, 유색인종 여성의 평가는 '아직']]></title>
             <link>https://www.khan.co.kr/world/america/article/202110201502001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/world/america/article/202110201502001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Sat, 23 Oct 2021 13:24:36 GMT</pubDate>
@@ -41,7 +41,7 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/20/2021101901002424100205301.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['갯마을 차차차'의 '사람 냄새'가 감추는 여성대상 범죄의 현실 (경향신문 ─ 플랫)]]></title>
+            <title><![CDATA['갯마을 차차차'의 '사람 냄새'가 감추는 여성대상 범죄의 현실]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202110201011001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202110201011001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Sat, 23 Oct 2021 13:24:36 GMT</pubDate>
@@ -49,7 +49,7 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/20/2021101801002201300187921.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가해자는 왜 반성하지 않을까 (경향신문 ─ 플랫)]]></title>
+            <title><![CDATA[가해자는 왜 반성하지 않을까]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202110191348001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/opinion/column/article/202110191348001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Sat, 23 Oct 2021 13:24:36 GMT</pubDate>
@@ -58,7 +58,7 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/19/2021101901002318700197612.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[강릉 소녀들은 '서울'이라는 무지개를 좇아 대관령을 넘었다 (경향신문 ─ 플랫)]]></title>
+            <title><![CDATA[강릉 소녀들은 '서울'이라는 무지개를 좇아 대관령을 넘었다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202110191028001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202110191028001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Sat, 23 Oct 2021 13:24:36 GMT</pubDate>
@@ -67,7 +67,7 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/19/2021101801002159000184551.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['헬저팬'에 살던 나, 페미니즘을 만나 장수하고 싶어졌다 (경향신문 ─ 플랫)]]></title>
+            <title><![CDATA['헬저팬'에 살던 나, 페미니즘을 만나 장수하고 싶어졌다]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202110181033001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202110181033001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Sat, 23 Oct 2021 13:24:36 GMT</pubDate>
@@ -75,7 +75,7 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/18/2021101501001937200163971.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아침의 수영장에서 만나는 여자들의 얼굴 (경향신문 ─ 플랫)]]></title>
+            <title><![CDATA[아침의 수영장에서 만나는 여자들의 얼굴]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202110151550001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202110151550001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Sat, 23 Oct 2021 13:24:36 GMT</pubDate>
@@ -85,7 +85,7 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/15/2021092801003241300279151.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['박사방' 조주빈의 징역 42년형 확정이 갖는 의미 (경향신문 ─ 플랫)]]></title>
+            <title><![CDATA['박사방' 조주빈의 징역 42년형 확정이 갖는 의미]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202110151141001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202110151141001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Sat, 23 Oct 2021 13:24:36 GMT</pubDate>
@@ -98,7 +98,7 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/15/2021101501001887800159491.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나를 잘 먹고 잘 살게 한 '좋아하는 언니들'에게 (경향신문 ─ 플랫)]]></title>
+            <title><![CDATA[나를 잘 먹고 잘 살게 한 '좋아하는 언니들'에게]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202110141110011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/opinion/column/article/202110141110011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Sat, 23 Oct 2021 13:24:36 GMT</pubDate>
@@ -107,7 +107,7 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/14/2021101401001714300145452.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[8살 동갑내기로 만난 엄마와 딸의 '평등한 우정' (경향신문 ─ 플랫)]]></title>
+            <title><![CDATA[8살 동갑내기로 만난 엄마와 딸의 '평등한 우정']]></title>
             <link>https://www.khan.co.kr/culture/movie/article/202110131657001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/culture/movie/article/202110131657001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Sat, 23 Oct 2021 13:24:36 GMT</pubDate>
