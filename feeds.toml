@@ -1,39 +1,10 @@
-[prismhall]
-title = "프리즘홀"
-url = "https://www.kamimusic.com/tobe"
-entrySelector = "//div[@class='info-element-text']"
-titleSelector = "//div[@class='info-member info-element-title']/span"
-linkSelector = "a"
-contentSelector = "//div[@class='info-member info-element-description']/span"
-imageSelector = "//div[1]/picture/img"
-waitUntil = "networkidle"
-
-[melonticket_prismhall]
-title = "멜론 티켓 ─ 프리즘홀"
-url = "https://ticket.melon.com/place/index.htm?placeId=731"
-entrySelector = "tbody[id='list_list'] tr"
-titleSelector = "span.show_title"
-linkSelector = "span.show_title a"
-contentSelector = "td.show_date"
-imageSelector = "div.thumb_90x125.img a img"
-waitUntil = "networkidle"
-
-[place_rollinghall]
-title = "멜론 티켓 ─ 롤링홀"
-url = "https://ticket.melon.com/place/index.htm?placeId=43"
-entrySelector = "tbody[id='list_list'] tr"
-titleSelector = "span.show_title"
-linkSelector = "span.show_title a"
-contentSelector = "td.show_date"
-imageSelector = "div.thumb_90x125.img a img"
-waitUntil = "networkidle"
-
-[naver_premiumcontents_tmifm]
-title = "네이버 프리미엄콘텐츠 ─ TMI.FM 팬덤랩스"
-url = "https://contents.premium.naver.com/tmifm/labs/contents"
-entrySelector = "ul.content_list._CONTENT_LIST li.content_item.as_thumb"
-titleSelector = "strong.content_title"
-linkSelector = "a.content_text_link"
-contentSelector = "a.content_category"
-imageSelector = "a.content_thumb img"
+[khan_flatflat38]
+title = "경향신문 ─ 플랫"
+url = "http://www.khan.co.kr/reporter_article.html?id=584"
+entrySelector = "ul.list_df li"
+titleSelector = "strong.tit_thumb.line_clamp3"
+linkSelector = "a.link_cont"
+contentSelector = "span.lead"
+dateFormat =  "span.info_area span.byline em.letter"
+imageSelector = "img.thumb_g"
 waitUntil = "networkidle"
