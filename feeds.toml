@@ -1,10 +1,9 @@
-[khan_flatflat38]
-title = "경향신문 ─ 플랫"
-url = "http://www.khan.co.kr/reporter_article.html?id=584"
-entrySelector = "ul.list_df li"
-titleSelector = "strong.tit_thumb.line_clamp3"
-linkSelector = "a.link_cont"
-contentSelector = "span.lead"
-dateFormat =  "span.info_area span.byline em.letter"
-imageSelector = "img.thumb_g"
+[kobis_Daily]
+title = "KOBIS ─ 일별 박스오피스"
+url = "https://www.kobis.or.kr/kobis/mobile/main/findDailyBoxOfficeList.do"
+entrySelector = "ul.list_mvie li"
+titleSelector = "strong.tit.ellip"
+linkSelector = ""
+contentSelector = "div.desc"
+imageSelector = "span.thumb.boxofimg img"
 waitUntil = "networkidle"
