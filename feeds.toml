@@ -6,10 +6,3 @@ titleSelector = "div.link-meta p[class='inpock-typography paragraph-2 titleClass
 linkSelector = "."
 imageSelector = "div[class='link gtm-link-click-visitor'] div.image"
 waitUntil = "networkidle"
-
-[nestnada]
-title = "네스트나다 ─ 인포크링크"
-url = "https://link.inpock.co.kr/nestnada"
-entrySelector = "//a[@class='link-a']"
-titleSelector = "//p[@class='inpock-typography paragraph-2 titleClass title']"
-linkSelector = "//."
