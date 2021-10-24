@@ -1,29 +1,8 @@
-[kobis_daily]
-title = "KOBIS ─ 일별 박스오피스"
-url = "https://www.kobis.or.kr/kobis/mobile/main/findDailyBoxOfficeList.do"
-entrySelector = "ul.list_mvie li"
-titleSelector = "strong.tit.ellip"
+[nestnada_inpock]
+title = "네스트나다 ─ 인포크링크"
+url = "https://link.inpock.co.kr/nestnada"
+entrySelector = "div.links a"
+titleSelector = "div.link-meta p[class='inpock-typography paragraph-2 titleClass title']"
 linkSelector = "a"
-contentSelector = "div.desc"
-imageSelector = "span.thumb.boxofimg img"
-waitUntil = "networkidle"
-
-[kobis_weekly]
-title = "KOBIS ─ 주간 박스오피스"
-url = "https://www.kobis.or.kr/kobis/mobile/main/findWeeklyBoxOfficeList.do?sWeekGb=0"
-entrySelector = "ul.list_mvie li"
-titleSelector = "strong.tit.ellip"
-linkSelector = "a"
-contentSelector = "div.desc"
-imageSelector = "span.thumb.boxofimg img"
-waitUntil = "networkidle"
-
-[kobis_weekend]
-title = "KOBIS ─ 주말 박스오피스"
-url = "https://www.kobis.or.kr/kobis/mobile/main/findWeeklyBoxOfficeList.do?sWeekGb=1"
-entrySelector = "ul.list_mvie li"
-titleSelector = "strong.tit.ellip"
-linkSelector = "a"
-contentSelector = "div.desc"
-imageSelector = "span.thumb.boxofimg img"
+imageSelector = "div[class='link gtm-link-click-visitor'] div.image"
 waitUntil = "networkidle"
