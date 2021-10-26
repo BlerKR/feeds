@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://BlerKR.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-10-26T08:06:47.138Z</updated>
+    <id>https://poclanos.com/category/interview/</id>
+    <title>POCLANOS ─ Interview</title>
+    <updated>2021-10-26T08:06:47.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://poclanos.com/drmvsn/wp-content/uploads/2020/08/Android-Chrome-home_196x196-96x96.png</icon>
     <entry>
-        <title type="html"><![CDATA[I Mean Us (w/ ENG) (POCLANOS ─ Interview)]]></title>
+        <title type="html"><![CDATA[I Mean Us (w/ ENG)]]></title>
         <id>https://poclanos.com/interview/i-mean-us/</id>
         <link href="https://poclanos.com/interview/i-mean-us/"/>
         <updated>2021-10-26T08:06:46.212Z</updated>
@@ -13,7 +14,7 @@
 				<span class="posted-on">Posted on <a href="https://poclanos.com/interview/i-mean-us/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2021-10-15T18:00:41+09:00">2021년 10월 15일</time><time class="updated" datetime="2021-10-15T18:39:06+09:00">2021년 10월 15일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알레프 (ALEPH) (POCLANOS ─ Interview)]]></title>
+        <title type="html"><![CDATA[알레프 (ALEPH)]]></title>
         <id>https://poclanos.com/interview/aleph/</id>
         <link href="https://poclanos.com/interview/aleph/"/>
         <updated>2021-10-26T08:06:46.225Z</updated>
@@ -21,7 +22,7 @@
 				<span class="posted-on">Posted on <a href="https://poclanos.com/interview/aleph/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2021-09-30T18:00:56+09:00">2021년 9월 30일</time><time class="updated" datetime="2021-09-30T18:14:54+09:00">2021년 9월 30일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김예림 (Lim Kim) (POCLANOS ─ Interview)]]></title>
+        <title type="html"><![CDATA[김예림 (Lim Kim)]]></title>
         <id>https://poclanos.com/interview/lim-kim/</id>
         <link href="https://poclanos.com/interview/lim-kim/"/>
         <updated>2021-10-26T08:06:46.226Z</updated>
@@ -29,7 +30,7 @@
 				<span class="posted-on">Posted on <a href="https://poclanos.com/interview/lim-kim/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2021-08-24T12:00:49+09:00">2021년 8월 24일</time><time class="updated" datetime="2021-08-24T19:37:58+09:00">2021년 8월 24일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전진희 (Jeon Jin Hee) (POCLANOS ─ Interview)]]></title>
+        <title type="html"><![CDATA[전진희 (Jeon Jin Hee)]]></title>
         <id>https://poclanos.com/interview/jeon-jin-hee/</id>
         <link href="https://poclanos.com/interview/jeon-jin-hee/"/>
         <updated>2021-10-26T08:06:46.227Z</updated>
@@ -37,7 +38,7 @@
 				<span class="posted-on">Posted on <a href="https://poclanos.com/interview/jeon-jin-hee/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2021-07-23T18:00:59+09:00">2021년 7월 23일</time><time class="updated" datetime="2021-08-17T18:22:04+09:00">2021년 8월 17일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실리카겔 (Silica Gel) (POCLANOS ─ Interview)]]></title>
+        <title type="html"><![CDATA[실리카겔 (Silica Gel)]]></title>
         <id>https://poclanos.com/interview/silicagel/</id>
         <link href="https://poclanos.com/interview/silicagel/"/>
         <updated>2021-10-26T08:06:46.228Z</updated>
@@ -45,7 +46,7 @@
 				<span class="posted-on">Posted on <a href="https://poclanos.com/interview/silicagel/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2021-06-18T18:00:40+09:00">2021년 6월 18일</time><time class="updated" datetime="2021-08-17T12:39:47+09:00">2021년 8월 17일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구름 (Cloud) (POCLANOS ─ Interview)]]></title>
+        <title type="html"><![CDATA[구름 (Cloud)]]></title>
         <id>https://poclanos.com/interview/cloud/</id>
         <link href="https://poclanos.com/interview/cloud/"/>
         <updated>2021-10-26T08:06:46.229Z</updated>
@@ -53,7 +54,7 @@
 				<span class="posted-on">Posted on <a href="https://poclanos.com/interview/cloud/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2021-03-12T18:00:56+09:00">2021년 3월 12일</time><time class="updated" datetime="2021-07-05T13:52:28+09:00">2021년 7월 5일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새소년 (SE SO NEON) (POCLANOS ─ Interview)]]></title>
+        <title type="html"><![CDATA[새소년 (SE SO NEON)]]></title>
         <id>https://poclanos.com/interview/sesoneon/</id>
         <link href="https://poclanos.com/interview/sesoneon/"/>
         <updated>2021-10-26T08:06:46.230Z</updated>
@@ -61,7 +62,7 @@
 				<span class="posted-on">Posted on <a href="https://poclanos.com/interview/sesoneon/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2021-03-05T17:37:10+09:00">2021년 3월 5일</time><time class="updated" datetime="2021-07-05T14:08:44+09:00">2021년 7월 5일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[백예린 (Yerin Baek) (POCLANOS ─ Interview)]]></title>
+        <title type="html"><![CDATA[백예린 (Yerin Baek)]]></title>
         <id>https://poclanos.com/interview/yerinbaek/</id>
         <link href="https://poclanos.com/interview/yerinbaek/"/>
         <updated>2021-10-26T08:06:46.231Z</updated>
