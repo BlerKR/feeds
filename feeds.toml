@@ -1,8 +1,9 @@
-[poclanos_interview]
+[interview]
 title = "POCLANOS ─ Interview"
-url = "https://poclanos.com/articles/"
-entrySelector = "div.article-group.interview.content-current div.append-only-list div.single-article"
-titleSelector = "h2.single-title"
-linkSelector = "a"
-imageSelector = "a span img"
+url = "https://poclanos.com/category/interview/"
+entrySelector = "header.entry-header"
+titleSelector = "h2.entry-title a"
+linkSelector = "h2.entry-title a"
+contentSelector = "div.entry-content"
+imageSelector = "a.post-thumbnail img "
 waitUntil = "networkidle"
