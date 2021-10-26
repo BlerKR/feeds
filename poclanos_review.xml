@@ -1,30 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Combined feed</title>
+        <title>POCLANOS ─ Review</title>
         <link>undefined</link>
         <description>undefined</description>
         <lastBuildDate>Tue, 26 Oct 2021 03:04:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[10월 14일 목요일 8시 ﻿"oo_mool Serenade Vol.2 10/10(일)오전 10:00 예매 오픈! (네스트나다 ─ 인포크링크)]]></title>
-            <link>https://BlerKR.github.io/feeds/all.xml</link>
-            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Tue, 26 Oct 2021 03:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="link gtm-link-click-visitor" data-v-56297a18=""><div class="image" style="background-image: url(&quot;https://storage.googleapis.com/inpock-link-media-storage/deploy/media/images/2021/10/7/thumb@300_2021-10-7-1633583094261.png&quot;);" data-v-56297a18=""></div> <div class="link-meta" data-v-56297a18=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-56297a18="">10월 14일 목요일 8시 ﻿"oo_mool Serenade Vol.2 10/10(일)오전 10:00 예매 오픈!</p></div></div>]]></content:encoded>
-            <enclosure url="https://storage.googleapis.com/inpock-link-media-storage/deploy/media/images/2021/10/7/thumb@300_2021-10-7-1633583094261.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[10월 23일, 24일 "Festival NADA 2021" 10/5(화) 오후 2시 YES 24 티켓오픈! (네스트나다 ─ 인포크링크)]]></title>
-            <link>https://BlerKR.github.io/feeds/all.xml</link>
-            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Tue, 26 Oct 2021 03:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="link gtm-link-click-visitor" data-v-56297a18=""><div class="image" style="background-image: url(&quot;https://storage.googleapis.com/inpock-link-media-storage/deploy/media/images/2021/9/30/thumb@300_2021-9-30-1632971699205.png&quot;);" data-v-56297a18=""></div> <div class="link-meta" data-v-56297a18=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-56297a18="">10월 23일, 24일 "Festival NADA 2021" 10/5(화) 오후 2시 YES 24 티켓오픈!</p></div></div>]]></content:encoded>
-            <enclosure url="https://storage.googleapis.com/inpock-link-media-storage/deploy/media/images/2021/9/30/thumb@300_2021-9-30-1632971699205.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[hiko [police] (POCLANOS ─ Review)]]></title>
+            <title><![CDATA[hiko [police]]]></title>
             <link>https://poclanos.com/review/police/</link>
             <guid>https://poclanos.com/review/police/</guid>
             <pubDate>Tue, 26 Oct 2021 03:04:21 GMT</pubDate>
@@ -36,7 +20,7 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/police-900x900.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Suwon Yim (임수원) [When It Falls] (POCLANOS ─ Review)]]></title>
+            <title><![CDATA[Suwon Yim (임수원) [When It Falls]]]></title>
             <link>https://poclanos.com/review/when-it-falls/</link>
             <guid>https://poclanos.com/review/when-it-falls/</guid>
             <pubDate>Tue, 26 Oct 2021 03:04:21 GMT</pubDate>
@@ -48,7 +32,7 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/When-it-Falls-900x900.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김라마, Khundi Panda [송정맨션] (POCLANOS ─ Review)]]></title>
+            <title><![CDATA[김라마, Khundi Panda [송정맨션]]]></title>
             <link>https://poclanos.com/review/song-jeong-mansion/</link>
             <guid>https://poclanos.com/review/song-jeong-mansion/</guid>
             <pubDate>Tue, 26 Oct 2021 03:04:21 GMT</pubDate>
@@ -60,7 +44,7 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/song-jeong-mansion-900x900.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오영 [피카레스크] (POCLANOS ─ Review)]]></title>
+            <title><![CDATA[오영 [피카레스크]]]></title>
             <link>https://poclanos.com/review/picaresque/</link>
             <guid>https://poclanos.com/review/picaresque/</guid>
             <pubDate>Tue, 26 Oct 2021 03:04:21 GMT</pubDate>
@@ -72,7 +56,7 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/PICARESQUE-900x900.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[박제신 [Deep Mind] (POCLANOS ─ Review)]]></title>
+            <title><![CDATA[박제신 [Deep Mind]]]></title>
             <link>https://poclanos.com/review/deep-mind/</link>
             <guid>https://poclanos.com/review/deep-mind/</guid>
             <pubDate>Tue, 26 Oct 2021 03:04:21 GMT</pubDate>
@@ -84,7 +68,7 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Deep-Mind-900x900.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[PAR [PC음악] (POCLANOS ─ Review)]]></title>
+            <title><![CDATA[PAR [PC음악]]]></title>
             <link>https://poclanos.com/review/pc-music/</link>
             <guid>https://poclanos.com/review/pc-music/</guid>
             <pubDate>Tue, 26 Oct 2021 03:04:21 GMT</pubDate>
@@ -96,7 +80,7 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/09/0906-pc-music-900x900.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[pleasepleaseplease [Please Pray for the Pigs] (POCLANOS ─ Review)]]></title>
+            <title><![CDATA[pleasepleaseplease [Please Pray for the Pigs]]]></title>
             <link>https://poclanos.com/review/please-pray-for-the-pigs/</link>
             <guid>https://poclanos.com/review/please-pray-for-the-pigs/</guid>
             <pubDate>Tue, 26 Oct 2021 03:04:21 GMT</pubDate>
@@ -108,7 +92,7 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/09/Please-Pray-for-the-Pigs-900x900.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[protonebula [Biophilia] (POCLANOS ─ Review)]]></title>
+            <title><![CDATA[protonebula [Biophilia]]]></title>
             <link>https://poclanos.com/review/biophilia/</link>
             <guid>https://poclanos.com/review/biophilia/</guid>
             <pubDate>Tue, 26 Oct 2021 03:04:21 GMT</pubDate>
@@ -120,7 +104,7 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/09/Biophilia-900x900.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[D’allant [PROLOGUE] (POCLANOS ─ Review)]]></title>
+            <title><![CDATA[D’allant [PROLOGUE]]]></title>
             <link>https://poclanos.com/review/prologue/</link>
             <guid>https://poclanos.com/review/prologue/</guid>
             <pubDate>Tue, 26 Oct 2021 03:04:21 GMT</pubDate>
@@ -132,7 +116,7 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/09/0909_PROLOGUE-900x900.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Suwon Yim (임수원) [애벌레] (POCLANOS ─ Review)]]></title>
+            <title><![CDATA[Suwon Yim (임수원) [애벌레]]]></title>
             <link>https://poclanos.com/review/caterpillar/</link>
             <guid>https://poclanos.com/review/caterpillar/</guid>
             <pubDate>Tue, 26 Oct 2021 03:04:21 GMT</pubDate>
