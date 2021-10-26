@@ -1,11 +1,3 @@
-[nestnada_inpock]
-title = "네스트나다 ─ 인포크링크"
-url = "https://link.inpock.co.kr/nestnada"
-entrySelector = "a.link-a"
-titleSelector = "div.link-meta p[class='inpock-typography paragraph-2 titleClass title']"
-linkSelector = "a.link-a"
-imageSelector = "div[class='link gtm-link-click-visitor'] div.image"
-waitUntil = "networkidle"
 [poclanos_review]
 title = "POCLANOS ─ Review"
 url = "https://poclanos.com/articles/"
@@ -25,10 +17,20 @@ imageSelector = "a span img"
 waitUntil = "networkidle"
 
 [poclanos_featured]
-title = "POCLANOS ─ featured"
+title = "POCLANOS ─ Featured"
 url = "https://poclanos.com/articles/"
 entrySelector = "div.article-group.featured div.append-only-list div.single-article"
 titleSelector = "h2.single-title"
 linkSelector = "a"
 imageSelector = "a span img"
+waitUntil = "networkidle"
+
+[poclanos_album]
+title = "POCLANOS ─ Album"
+url = "https://poclanos.com/album-list/"
+entrySelector = "div.album-container div[class^='album-single']"
+titleSelector = "div.alb-title-gr span"
+linkSelector = "a"
+contentSelector = "a.album-title.album-artist"
+imageSelector = "div.album-wrap img"
 waitUntil = "networkidle"
