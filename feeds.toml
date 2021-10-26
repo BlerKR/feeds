@@ -6,3 +6,12 @@ titleSelector = "div.link-meta p[class='inpock-typography paragraph-2 titleClass
 linkSelector = "a.link-a"
 imageSelector = "div[class='link gtm-link-click-visitor'] div.image"
 waitUntil = "networkidle"
+
+[poclanos_review]
+title = "POCLANOS ─ Review"
+url = "https://poclanos.com/articles/"
+entrySelector = "div.article-container div.article-group.review.content-current div.single-article"
+titleSelector = "h2.single-title"
+linkSelector = "a"
+imageSelector = "a span img"
+waitUntil = "networkidle"
