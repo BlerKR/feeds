@@ -1,7 +1,7 @@
 [interview]
 title = "POCLANOS ─ Interview"
 url = "https://poclanos.com/category/interview/"
-entrySelector = "header.entry-header"
+entrySelector = "article[class^='post']"
 titleSelector = "h2.entry-title a"
 linkSelector = "h2.entry-title a"
 imageSelector = "a.post-thumbnail img"
