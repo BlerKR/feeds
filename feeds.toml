@@ -1,9 +1,9 @@
-[vlive_membership]
-title = "V LIVE ─ STORE ─ MEMBERSHIP"
-url = "https://www.vlive.tv/vstore/membership"
-entrySelector = "ul.channel_fanship_list._mem_list li"
-titleSelector = "strong.title"
-linkSelector = "a.store_fanship_card"
-contentSelector = "em.icon_fanship"
-imageSelector = "div.thumb_area img"
+[cine21_media_cover_photo]
+title = "씨네21 ─ 멀티미디어 ─ 커버 ─ 사진"
+url = "http://www.cine21.com/media/cover/photo"
+entrySelector = "ul.coverdata li"
+titleSelector = "div.tit_box p.ho_num"
+linkSelector = "a.cover_image"
+contentSelector = "div.tit_box p.date"
+imageSelector = "img.thumb"
 waitUntil = "networkidle"
