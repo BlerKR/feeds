@@ -1,9 +1,9 @@
-[luck-d]
-title = "LUCKY DRAW"
-url = "https://www.luck-d.com/home/"
-entrySelector = "div.gallery div.gallery_cell_layer"
-titleSelector = "h5 a"
-linkSelector = "h5 a"
-contentSelector = "div.agent_site_info p"
-imageSelector = "div.product_thumb_layer a img"
+[vlive_membership]
+title = "V LIVE ─ STORE ─ MEMBERSHIP"
+url = "https://www.vlive.tv/vstore/membership"
+entrySelector = "ul.channel_fanship_list._mem_list li"
+titleSelector = "strong.title"
+linkSelector = "a.store_fanship_card"
+contentSelector = "em.icon_fanship"
+imageSelector = "div.thumb_area img"
 waitUntil = "networkidle"
