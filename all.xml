@@ -1,123 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Combined feed</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 16:47:09 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.8 <박소은> (Artists'Card)]]></title>
-            <link>https://BlerKR.github.io/feeds/all.xml</link>
-            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Sat, 30 Oct 2021 16:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.05 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://media.artistscard.com/imgs/artistscard/ticket/concert-1416e8f6-84ea-4c8f-8261-557c4b7c33f8/c53585a7-4b55-4ee1-89a8-6456db476722?size=960x540&format=jpeg" length="0" type="image//imgs/artistscard/ticket/concert-1416e8f6-84ea-4c8f-8261-557c4b7c33f8/c53585a7-4b55-4ee1-89a8-6456db476722"/>
-        </item>
-        <item>
-            <title><![CDATA[원테이크 콘서트 <황세희> (Artists'Card)]]></title>
-            <link>https://BlerKR.github.io/feeds/all.xml</link>
-            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Sat, 30 Oct 2021 16:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.06 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://media.artistscard.com/imgs/artistscard/ticket/concert-1fb6f7dc-6bab-4f1e-80d7-247c66742dc0/1c6ae63f-d237-4aa7-8d6f-a9e871ef23b0?size=960x540&format=jpeg" length="0" type="image//imgs/artistscard/ticket/concert-1fb6f7dc-6bab-4f1e-80d7-247c66742dc0/1c6ae63f-d237-4aa7-8d6f-a9e871ef23b0"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.9 <BOYHOOD> (Artists'Card)]]></title>
-            <link>https://BlerKR.github.io/feeds/all.xml</link>
-            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Sat, 30 Oct 2021 16:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.07 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://media.artistscard.com/imgs/artistscard/ticket/concert-d7f55686-0e9f-41d3-9a10-4ed65211c207/d2ab3c56-6215-48d3-ad95-9e54a780e08e?size=960x540&format=jpeg" length="0" type="image//imgs/artistscard/ticket/concert-d7f55686-0e9f-41d3-9a10-4ed65211c207/d2ab3c56-6215-48d3-ad95-9e54a780e08e"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.10 <임세모> (Artists'Card)]]></title>
-            <link>https://BlerKR.github.io/feeds/all.xml</link>
-            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Sat, 30 Oct 2021 16:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.14 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://media.artistscard.com/imgs/artistscard/ticket/concert-65203d3f-94f4-4671-a832-34e96c8f57a9/f04b014d-7362-438d-a175-9526057755d9?size=960x540&format=jpeg" length="0" type="image//imgs/artistscard/ticket/concert-65203d3f-94f4-4671-a832-34e96c8f57a9/f04b014d-7362-438d-a175-9526057755d9"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.12 <케빈오> 1회차 (Artists'Card)]]></title>
-            <link>https://BlerKR.github.io/feeds/all.xml</link>
-            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Sat, 30 Oct 2021 16:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.21 15:00 (KST)]]></content:encoded>
-            <enclosure url="https://media.artistscard.com/imgs/artistscard/ticket/concert-e7b09e35-e235-416d-a24e-35e82ab95a12/16f795c7-6294-43b1-a267-44dbdff0b278?size=960x540&format=jpeg" length="0" type="image//imgs/artistscard/ticket/concert-e7b09e35-e235-416d-a24e-35e82ab95a12/16f795c7-6294-43b1-a267-44dbdff0b278"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.12 <케빈오> 2회차 (Artists'Card)]]></title>
-            <link>https://BlerKR.github.io/feeds/all.xml</link>
-            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Sat, 30 Oct 2021 16:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.21 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://media.artistscard.com/imgs/artistscard/ticket/concert-faa882bd-4786-4593-b5a5-a8cf25f78c80/ed80fa69-15ff-4bd5-9267-6fd6265fba8b?size=960x540&format=jpeg" length="0" type="image//imgs/artistscard/ticket/concert-faa882bd-4786-4593-b5a5-a8cf25f78c80/ed80fa69-15ff-4bd5-9267-6fd6265fba8b"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.14 <권순관> (Artists'Card)]]></title>
-            <link>https://BlerKR.github.io/feeds/all.xml</link>
-            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Sat, 30 Oct 2021 16:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.27 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://media.artistscard.com/imgs/artistscard/ticket/concert-0d09480e-b5d8-4492-9da6-9d73b7ba38ae/e6e56fe1-186d-43a4-a520-b71a04fe8477?size=960x540&format=jpeg" length="0" type="image//imgs/artistscard/ticket/concert-0d09480e-b5d8-4492-9da6-9d73b7ba38ae/e6e56fe1-186d-43a4-a520-b71a04fe8477"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.6 <강이채> 2회차 (Artists'Card)]]></title>
-            <link>https://BlerKR.github.io/feeds/all.xml</link>
-            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Sat, 30 Oct 2021 16:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.24 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://media.artistscard.com/imgs/artistscard/ticket/concert-259dd887-c220-4277-a8c2-df1be9b5ab09/61baba97-ff25-4660-9673-bfb39512eb40?size=960x540&format=jpeg" length="0" type="image//imgs/artistscard/ticket/concert-259dd887-c220-4277-a8c2-df1be9b5ab09/61baba97-ff25-4660-9673-bfb39512eb40"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.6 <강이채> 1회차 (Artists'Card)]]></title>
-            <link>https://BlerKR.github.io/feeds/all.xml</link>
-            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Sat, 30 Oct 2021 16:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.23 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://media.artistscard.com/imgs/artistscard/ticket/concert-7486a308-9614-42c7-825e-7189cd2dd750/54faf1ac-ffa4-4761-b4b3-ad68a5d3f7a2?size=960x540&format=jpeg" length="0" type="image//imgs/artistscard/ticket/concert-7486a308-9614-42c7-825e-7189cd2dd750/54faf1ac-ffa4-4761-b4b3-ad68a5d3f7a2"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.5 <전태원> (Artists'Card)]]></title>
-            <link>https://BlerKR.github.io/feeds/all.xml</link>
-            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Sat, 30 Oct 2021 16:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.09 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://media.artistscard.com/imgs/artistscard/ticket/concert-5eb5e11c-0425-4b5d-a10f-0ac67f0d8864/db801719-ba15-483b-aa3a-76a315504fa0?size=960x540&format=jpeg" length="0" type="image//imgs/artistscard/ticket/concert-5eb5e11c-0425-4b5d-a10f-0ac67f0d8864/db801719-ba15-483b-aa3a-76a315504fa0"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.4 <황인경> (Artists'Card)]]></title>
-            <link>https://BlerKR.github.io/feeds/all.xml</link>
-            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Sat, 30 Oct 2021 16:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.02 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://media.artistscard.com/imgs/artistscard/ticket/concert-30e394a2-3491-4cc7-966a-5be202532e78/7423d00e-4a02-4bd9-b75f-bf14f0f255d9?size=960x540&format=jpeg" length="0" type="image//imgs/artistscard/ticket/concert-30e394a2-3491-4cc7-966a-5be202532e78/7423d00e-4a02-4bd9-b75f-bf14f0f255d9"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.3 <재주소년> (Artists'Card)]]></title>
-            <link>https://BlerKR.github.io/feeds/all.xml</link>
-            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Sat, 30 Oct 2021 16:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.25 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://media.artistscard.com/imgs/artistscard/ticket/concert-a883b8ba-37e5-4298-b08c-18f5b63a64ca/dca9ce18-fc08-4788-8275-4fbe7eb0c355?size=960x540&format=jpeg" length="0" type="image//imgs/artistscard/ticket/concert-a883b8ba-37e5-4298-b08c-18f5b63a64ca/dca9ce18-fc08-4788-8275-4fbe7eb0c355"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.2 <이설아> (Artists'Card)]]></title>
-            <link>https://BlerKR.github.io/feeds/all.xml</link>
-            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Sat, 30 Oct 2021 16:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.04 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://media.artistscard.com/imgs/artistscard/ticket/concert-7be24367-4daf-413f-aa8d-7f14412e514a/496a33ef-c4fa-475f-8eaa-96b4627ca0a9?size=960x540&format=jpeg" length="0" type="image//imgs/artistscard/ticket/concert-7be24367-4daf-413f-aa8d-7f14412e514a/496a33ef-c4fa-475f-8eaa-96b4627ca0a9"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.1 <우예린> (Artists'Card)]]></title>
-            <link>https://BlerKR.github.io/feeds/all.xml</link>
-            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Sat, 30 Oct 2021 16:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.28 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://media.artistscard.com/imgs/artistscard/ticket/1/0de5ef26-7518-4ea6-af33-f21fd51e0f5f?size=960x540&format=jpeg" length="0" type="image//imgs/artistscard/ticket/1/0de5ef26-7518-4ea6-af33-f21fd51e0f5f"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://BlerKR.github.io/feeds/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2021-10-30T16:56:19.430Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol.8 <박소은> (Artists'Card)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-30T16:56:18.725Z</updated>
+        <content type="html"><![CDATA[2021.11.05 20:00 (KST)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원테이크 콘서트 <황세희> (Artists'Card)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-30T16:56:18.730Z</updated>
+        <content type="html"><![CDATA[2021.11.06 19:00 (KST)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol.9 <BOYHOOD> (Artists'Card)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-30T16:56:18.733Z</updated>
+        <content type="html"><![CDATA[2021.11.07 19:00 (KST)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol.10 <임세모> (Artists'Card)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-30T16:56:18.733Z</updated>
+        <content type="html"><![CDATA[2021.11.14 19:00 (KST)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol.12 <케빈오> 1회차 (Artists'Card)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-30T16:56:18.733Z</updated>
+        <content type="html"><![CDATA[2021.11.21 15:00 (KST)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol.12 <케빈오> 2회차 (Artists'Card)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-30T16:56:18.733Z</updated>
+        <content type="html"><![CDATA[2021.11.21 19:00 (KST)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol.14 <권순관> (Artists'Card)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-30T16:56:18.734Z</updated>
+        <content type="html"><![CDATA[2021.11.27 19:00 (KST)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol.6 <강이채> 2회차 (Artists'Card)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-30T16:56:18.734Z</updated>
+        <content type="html"><![CDATA[2021.10.24 19:00 (KST)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol.6 <강이채> 1회차 (Artists'Card)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-30T16:56:18.734Z</updated>
+        <content type="html"><![CDATA[2021.10.23 19:00 (KST)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol.5 <전태원> (Artists'Card)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-30T16:56:18.735Z</updated>
+        <content type="html"><![CDATA[2021.10.09 19:00 (KST)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol.4 <황인경> (Artists'Card)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-30T16:56:18.736Z</updated>
+        <content type="html"><![CDATA[2021.10.02 19:00 (KST)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol.3 <재주소년> (Artists'Card)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-30T16:56:18.738Z</updated>
+        <content type="html"><![CDATA[2021.09.25 19:00 (KST)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol.2 <이설아> (Artists'Card)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-30T16:56:18.739Z</updated>
+        <content type="html"><![CDATA[2021.09.04 19:00 (KST)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol.1 <우예린> (Artists'Card)]]></title>
+        <id>https://BlerKR.github.io/feeds/all.xml</id>
+        <link href="https://BlerKR.github.io/feeds/all.xml"/>
+        <updated>2021-10-30T16:56:18.740Z</updated>
+        <content type="html"><![CDATA[2021.08.28 19:00 (KST)]]></content>
+    </entry>
+</feed>
