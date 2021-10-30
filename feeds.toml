@@ -1,9 +1,9 @@
-[cine21_media_cover_photo]
-title = "씨네21 ─ 멀티미디어 ─ 커버 ─ 사진"
-url = "http://www.cine21.com/media/cover/photo"
-entrySelector = "ul.coverdata li"
-titleSelector = "div.tit_box p.ho_num"
-linkSelector = "a.cover_image"
-contentSelector = "div.tit_box p.date"
-imageSelector = "img.thumb"
+[artistscard]
+title = "Artists'Card"
+url = "https://artistscard.com/ko/ticket"
+entrySelector = "div[class='sc-1cyq3hq-3 jzKJLm'] div[class='sc-1e3tjec-0 gbEYpG']"
+titleSelector = "div[class='sc-1e3tjec-5 sc-1e3tjec-7 bcogIH jxILRF']"
+linkSelector = "a"
+contentSelector = "div[class='sc-1e3tjec-5 sc-1e3tjec-8 bcogIH fEyMUm']"
+imageSelector = "div[class='sc-1e3tjec-2 dhDTZI'] img[class='sc-1e3tjec-3 bJvJd']"
 waitUntil = "networkidle"
