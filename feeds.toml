@@ -1,5 +1,5 @@
 [gugak_month]
-title = "국립국악원 ─ 공연/행사정보 ─ 월간공연일정"
+title = "국립국악원 ─ 월간공연일정"
 url = "https://www.gugak.go.kr/site/program/performance/month_list?menuid=001001001001&lang=ko"
 entrySelector = "//html/body/div[2]/div[4]/div[1]/div[2]/div[6]/ul/li"
 titleSelector = "//div[2]/p/strong/a"
