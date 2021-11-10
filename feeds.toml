@@ -1,9 +1,9 @@
-[event]
-title = "네이버쇼핑 ─ 아트윈도 ─ 테마"
-url = "https://shopping.naver.com/art/event"
-entrySelector = "ul.XNP0X_c-6J li"
-titleSelector = "a strong"
-linkSelector = "a"
-contentSelector = "p.S7nFgeJfh8"
-imageSelector = "div img"
+[xindieticket_ticket]
+title = "XINDIE ─ TICKET"
+url = "https://xindieticket.kr/tickets/"
+entrySelector = "xi-card.ng-scope"
+titleSelector = "h1 div.ng-binding"
+linkSelector = "a.ng-scope"
+contentSelector = "div.ng-scope"
+imageSelector = "a.ng-scope div:nth-child(1)"
 waitUntil = "networkidle"
