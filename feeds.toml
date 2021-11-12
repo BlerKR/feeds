@@ -1,9 +1,9 @@
-[xindieticket_ticket]
-title = "XINDIE ─ TICKET"
-url = "https://xindieticket.kr/tickets/"
-entrySelector = "xi-card.ng-scope"
-titleSelector = "h1 div.ng-binding"
-linkSelector = "a.ng-scope"
-contentSelector = "div.ng-scope"
-imageSelector = "a.ng-scope div:nth-child(1)"
+[thearer_3607]
+title = "YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스"
+url = "http://ticket.yes24.com/Theater/3607"
+entrySelector = "div.venue-view-list-wrap ul li"
+titleSelector = "p.whot-tit"
+linkSelector = "div.whot-list a"
+contentSelector = "p.whot-detail"
+imageSelector = "div.whot-list a img"
 waitUntil = "networkidle"
