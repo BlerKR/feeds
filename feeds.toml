@@ -7,3 +7,13 @@ linkSelector = "span.fw_bold a"
 contentSelector = "td.Rkdate:nth-child(4)"
 imageSelector = "td.RKthumb a img"
 waitUntil = "networkidle"
+
+[west-bridge]
+title = "웨스트브릿지 ─ 공연정보"
+url = "https://www.west-bridge.co.kr/team-4"
+entrySelector = "fluid-columns-repeater._3VOaq div._1vNJf"
+titleSelector = "p.font_7 span span span"
+linkSelector = "div[id^='comp-kw3943ge'] a[data-testid='linkElement']"
+contentSelector = "p.font_5 span span"
+imageSelector = "wix-image._1-6YJ._1Fe8- img"
+waitUntil = "networkidle"
