@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 07:05:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 08:07:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,15 +80,6 @@
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21011582_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［2021전시지원］살바도르 달리전(~12.5까지 사용) (인터파크 티켓 ─ 전시/행사 ─ 전시)]]></title>
-            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010664</link>
-            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010664</guid>
-            <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.27~<br>
-							2021.12.05]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010664_p_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[［2021전시지원］빛의 벙커:모네,르누아르...샤갈(~12.5까지 사용) (인터파크 티켓 ─ 전시/행사 ─ 전시)]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010672</link>
             <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010672</guid>
@@ -98,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010672_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［얼리버드］로이리히텐슈타인展 - 눈물의 향기 (인터파크 티켓 ─ 전시/행사 ─ 전시)]]></title>
-            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011065</link>
-            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011065</guid>
+            <title><![CDATA[［2021전시지원］살바도르 달리전(~12.5까지 사용) (인터파크 티켓 ─ 전시/행사 ─ 전시)]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010664</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010664</guid>
             <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03~<br>
-							2022.01.31]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21011065_p_s.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.11.27~<br>
+							2021.12.05]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010664_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[［2021전시지원］비욘더로드(~12.05까지 사용) (인터파크 티켓 ─ 전시/행사 ─ 전시)]]></title>
@@ -114,6 +105,15 @@
             <content:encoded><![CDATA[2021.11.01~<br>
 							2021.12.05]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010673_p_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[［얼리버드］로이리히텐슈타인展 - 눈물의 향기 (인터파크 티켓 ─ 전시/행사 ─ 전시)]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011065</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011065</guid>
+            <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03~<br>
+							2022.01.31]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21011065_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[［북촌］2021년 10,11,12월-어둠속의대화(DIALOGUE IN THE DARK) (인터파크 티켓 ─ 전시/행사 ─ 전시)]]></title>
@@ -197,13 +197,13 @@
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21006318_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［2021전시지원］여수 아르떼뮤지엄(~12.5까지 사용) (인터파크 티켓 ─ 전시/행사 ─ 전시)]]></title>
-            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010676</link>
-            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010676</guid>
+            <title><![CDATA[［2021전시지원］카유보트: 향기를 만나다 展(~12.5까지 사용) (인터파크 티켓 ─ 전시/행사 ─ 전시)]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010862</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010862</guid>
             <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.01~<br>
 							2021.12.05]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010676_p_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010862_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[［2021전시지원］플라워 바이 네이키드(~12.5까지 사용) (인터파크 티켓 ─ 전시/행사 ─ 전시)]]></title>
@@ -215,13 +215,13 @@
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010920_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［2021전시지원］카유보트: 향기를 만나다 展(~12.5까지 사용) (인터파크 티켓 ─ 전시/행사 ─ 전시)]]></title>
-            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010862</link>
-            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010862</guid>
+            <title><![CDATA[［2021전시지원］여수 아르떼뮤지엄(~12.5까지 사용) (인터파크 티켓 ─ 전시/행사 ─ 전시)]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010676</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010676</guid>
             <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.01~<br>
 							2021.12.05]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010862_p_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010676_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[［얼리버드］데이비드 슈리글리전 (인터파크 티켓 ─ 전시/행사 ─ 전시)]]></title>
@@ -1376,7 +1376,7 @@
             <title><![CDATA[[뮤:시즌] EPISODE11 (웨스트브릿지 ─ 공연정보)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Mon, 22 Nov 2021 07:05:44 GMT</pubDate>
+            <pubDate>Mon, 22 Nov 2021 08:07:45 GMT</pubDate>
             <content:encoded><![CDATA['마리앙투아네트']]></content:encoded>
             <enclosure url="https://static.wixstatic.com/media/0af9c5_cd5e9ad6d0b742c388fa8e6659c20b12~mv2.jpg/v1/crop/x_0,y_322,w_962,h_709/fill/w_456,h_336,al_c,q_80,usm_0.66_1.00_0.01/%EB%AE%A4%EC%8B%9C%EC%A6%8C.webp" length="0" type="image/webp"/>
         </item>
@@ -1400,7 +1400,7 @@
             <title><![CDATA[소란 소극장 콘서트 (웨스트브릿지 ─ 공연정보)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Mon, 22 Nov 2021 07:05:44 GMT</pubDate>
+            <pubDate>Mon, 22 Nov 2021 08:07:45 GMT</pubDate>
             <content:encoded><![CDATA[〈SWITCH ON〉]]></content:encoded>
             <enclosure url="https://static.wixstatic.com/media/0af9c5_3f88e73c210a4d42b639fc0714d306bf~mv2.gif" length="0" type="image/gif"/>
         </item>
@@ -1408,7 +1408,7 @@
             <title><![CDATA[[뮤:시즌] EPISODE10 (웨스트브릿지 ─ 공연정보)]]></title>
             <link>https://BlerKR.github.io/feeds/all.xml</link>
             <guid>https://BlerKR.github.io/feeds/all.xml</guid>
-            <pubDate>Mon, 22 Nov 2021 07:05:44 GMT</pubDate>
+            <pubDate>Mon, 22 Nov 2021 08:07:45 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;'레드북']]></content:encoded>
             <enclosure url="https://static.wixstatic.com/media/0af9c5_cd5e9ad6d0b742c388fa8e6659c20b12~mv2.jpg/v1/crop/x_0,y_322,w_962,h_709/fill/w_182,h_134,al_c,q_80,usm_0.66_1.00_0.01,blur_2/%EB%AE%A4%EC%8B%9C%EC%A6%8C.jpg" length="0" type="image/jpg"/>
         </item>
