@@ -4,7 +4,7 @@
         <title>인터파크 티켓 ─ 전시/행사 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 04:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 05:05:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,15 +71,6 @@
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21011198_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［2021전시지원］살바도르 달리전(~12.5까지 사용)]]></title>
-            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010664</link>
-            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010664</guid>
-            <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.27~<br>
-							2021.12.05]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010664_p_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[［얼리버드］내맘쏙 모두의 그림책 전]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011582</link>
             <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011582</guid>
@@ -87,6 +78,15 @@
             <content:encoded><![CDATA[2021.12.24~<br>
 							2022.03.27]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21011582_p_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[［2021전시지원］살바도르 달리전(~12.5까지 사용)]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010664</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010664</guid>
+            <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.27~<br>
+							2021.12.05]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010664_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[［2021전시지원］빛의 벙커:모네,르누아르...샤갈(~12.5까지 사용)]]></title>
@@ -179,15 +179,6 @@
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010817_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영천시 보현산천문과학관(2021.08 ~)]]></title>
-            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21006318</link>
-            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21006318</guid>
-            <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.01~<br>
-							2021.12.31]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21006318_p_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[［동탄］2021년 10,11,12월-어둠속의대화(DIALOGUE IN THE DARK)]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21007189</link>
             <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21007189</guid>
@@ -197,13 +188,13 @@
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21007189_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［2021전시지원］플라워 바이 네이키드(~12.5까지 사용)]]></title>
-            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010920</link>
-            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010920</guid>
+            <title><![CDATA[영천시 보현산천문과학관(2021.08 ~)]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21006318</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21006318</guid>
             <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.03~<br>
-							2021.12.05]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010920_p_s.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.08.01~<br>
+							2021.12.31]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21006318_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[［2021전시지원］여수 아르떼뮤지엄(~12.5까지 사용)]]></title>
@@ -215,6 +206,15 @@
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010676_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[［2021전시지원］플라워 바이 네이키드(~12.5까지 사용)]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010920</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010920</guid>
+            <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.03~<br>
+							2021.12.05]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010920_p_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[［2021전시지원］카유보트: 향기를 만나다 展(~12.5까지 사용)]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010862</link>
             <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010862</guid>
@@ -224,15 +224,6 @@
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010862_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［2021전시지원］블루룸(~11.28까지 사용)]]></title>
-            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010669</link>
-            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010669</guid>
-            <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.01~<br>
-							2021.11.28]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010669_p_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[［얼리버드］데이비드 슈리글리전]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21009692</link>
             <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21009692</guid>
@@ -240,6 +231,15 @@
             <content:encoded><![CDATA[2021.12.18~<br>
 							2022.01.17]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21009692_p_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[［2021전시지원］블루룸(~11.28까지 사용)]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010669</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010669</guid>
+            <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.01~<br>
+							2021.11.28]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010669_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[［2021전시지원］군산 반고흐빌리지展(~12.5까지 사용)]]></title>
@@ -350,6 +350,15 @@
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21002426_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[［2021전시지원］노형수퍼마켙(~12.5까지 사용)]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011236</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011236</guid>
+            <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.09~<br>
+							2021.12.05]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21011236_p_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아담스패밀리2 (더빙) - 태백]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011009</link>
             <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011009</guid>
@@ -368,13 +377,13 @@
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21002425_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［2021전시지원］노형수퍼마켙(~12.5까지 사용)]]></title>
-            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011236</link>
-            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011236</guid>
+            <title><![CDATA[［2021전시지원］［제주］아라리오뮤지엄 탑동시네마(~12.5까지 사용)]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010859</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010859</guid>
             <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.09~<br>
+            <content:encoded><![CDATA[2021.11.02~<br>
 							2021.12.05]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21011236_p_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010859_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MM 2022：마릴린 먼로 전시]]></title>
@@ -384,15 +393,6 @@
             <content:encoded><![CDATA[2021.11.13~<br>
 							2022.02.06]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21011452_p_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[［2021전시지원］［제주］아라리오뮤지엄 탑동시네마(~12.5까지 사용)]]></title>
-            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010859</link>
-            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010859</guid>
-            <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.02~<br>
-							2021.12.05]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010859_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[［2021전시지원］OOTD 전시회 - 부산(~12.5까지 사용)]]></title>
