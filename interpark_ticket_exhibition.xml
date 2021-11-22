@@ -4,7 +4,7 @@
         <title>인터파크 티켓 ─ 전시/행사 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 02:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 03:05:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,7 @@
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010389_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유미의 세포들 부산전]]></title>
+            <title><![CDATA[［얼리버드］유미의 세포들 부산전]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011587</link>
             <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011587</guid>
             <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
@@ -80,15 +80,6 @@
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010664_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［2021전시지원］빛의 벙커:모네,르누아르...샤갈(~12.5까지 사용)]]></title>
-            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010672</link>
-            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010672</guid>
-            <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.01~<br>
-							2021.12.05]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010672_p_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[［얼리버드］내맘쏙 모두의 그림책 전]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011582</link>
             <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011582</guid>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2021.12.24~<br>
 							2022.03.27]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21011582_p_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[［2021전시지원］빛의 벙커:모네,르누아르...샤갈(~12.5까지 사용)]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010672</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010672</guid>
+            <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.01~<br>
+							2021.12.05]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010672_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[［얼리버드］로이리히텐슈타인展 - 눈물의 향기]]></title>
@@ -179,15 +179,6 @@
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010817_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［동탄］2021년 10,11,12월-어둠속의대화(DIALOGUE IN THE DARK)]]></title>
-            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21007189</link>
-            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21007189</guid>
-            <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.20~<br>
-							2021.12.31]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21007189_p_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[영천시 보현산천문과학관(2021.08 ~)]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21006318</link>
             <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21006318</guid>
@@ -195,6 +186,15 @@
             <content:encoded><![CDATA[2021.08.01~<br>
 							2021.12.31]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21006318_p_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[［동탄］2021년 10,11,12월-어둠속의대화(DIALOGUE IN THE DARK)]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21007189</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21007189</guid>
+            <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.20~<br>
+							2021.12.31]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21007189_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[［2021전시지원］플라워 바이 네이키드(~12.5까지 사용)]]></title>
@@ -323,6 +323,15 @@
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010611_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[［2021전시지원］퐁피두 센터 어린이 프로그램 〈샌드캐슬, 꿈의 건축〉]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011834</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011834</guid>
+            <pubDate>Sat, 20 Nov 2021 13:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.15~<br>
+							2021.12.05]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21011834_p_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[［2021전시지원］그대 나의 뮤즈(~12.5까지 사용)]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010740</link>
             <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010740</guid>
@@ -357,15 +366,6 @@
             <content:encoded><![CDATA[2021.04.29~<br>
 							2022.01.31]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21002425_p_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[［2021전시지원］퐁피두 센터 어린이 프로그램 〈샌드캐슬, 꿈의 건축〉]]></title>
-            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011834</link>
-            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011834</guid>
-            <pubDate>Sat, 20 Nov 2021 13:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.15~<br>
-							2021.12.05]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21011834_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MM 2022：마릴린 먼로 전시]]></title>
