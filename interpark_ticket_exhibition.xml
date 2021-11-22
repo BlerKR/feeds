@@ -4,7 +4,7 @@
         <title>인터파크 티켓 ─ 전시/행사 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 08:07:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 09:05:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,15 +197,6 @@
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21006318_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［2021전시지원］카유보트: 향기를 만나다 展(~12.5까지 사용)]]></title>
-            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010862</link>
-            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010862</guid>
-            <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.01~<br>
-							2021.12.05]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010862_p_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[［2021전시지원］플라워 바이 네이키드(~12.5까지 사용)]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010920</link>
             <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010920</guid>
@@ -213,6 +204,15 @@
             <content:encoded><![CDATA[2021.11.03~<br>
 							2021.12.05]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010920_p_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[［2021전시지원］카유보트: 향기를 만나다 展(~12.5까지 사용)]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010862</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21010862</guid>
+            <pubDate>Tue, 16 Nov 2021 19:02:39 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.01~<br>
+							2021.12.05]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010862_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[［2021전시지원］여수 아르떼뮤지엄(~12.5까지 사용)]]></title>
@@ -323,7 +323,7 @@
             <enclosure url="http://ticketimage.interpark.com/rz/image/play/goods/poster/21/21010611_p_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［2021전시지원］퐁피두 센터 어린이 프로그램 〈샌드캐슬, 꿈의 건축〉]]></title>
+            <title><![CDATA[［2021전시지원］퐁피두 센터 어린이 프로그램 〈샌드캐슬, 꿈의 건축〉(~12.5까지 사용)]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011834</link>
             <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GroupCode=21011834</guid>
             <pubDate>Sat, 20 Nov 2021 13:08:37 GMT</pubDate>
