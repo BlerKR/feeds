@@ -1,29 +1,9 @@
-[interpark_ticket_exhibition]
-title = "인터파크 티켓 ─ 전시/행사 ─ 전시"
-url = "http://ticket.interpark.com/TPGoodsList.asp?Ca=Eve&SubCa=Eve_O&tid4=Eve_O"
-entrySelector = "div.stit tbody tr"
-titleSelector = "span.fw_bold a"
-linkSelector = "span.fw_bold a"
-contentSelector = "td.Rkdate:nth-child(4)"
-imageSelector = "td.RKthumb a img"
-waitUntil = "networkidle"
-
-[west-bridge]
-title = "웨스트브릿지 ─ 공연정보"
-url = "https://www.west-bridge.co.kr/team-4"
-entrySelector = "fluid-columns-repeater._3VOaq div._1vNJf"
-titleSelector = "p.font_7 span span span"
-linkSelector = "div[id^='comp-kw3943ge'] a[data-testid='linkElement']"
-contentSelector = "p.font_5 span span"
-imageSelector = "wix-image._1-6YJ._1Fe8- img"
-waitUntil = "networkidle"
-
-[withdrama_event]
-title = "위드드라마 ─ EVENT"
-url = "https://withdrama.co.kr/product/list.html?cate_no=471"
-entrySelector = "ul.prdList.grid4 li[id^='anchorBoxId']"
-titleSelector = "div strong.name a"
-linkSelector = "strong.name a"
-contentSelector = "strong.name a span b font"
-imageSelector = "div.thumbnail a img.thumb"
+[vlive]
+title = "V LIVE - NEW"
+url = "https://www.vlive.tv/home/video/more?pageNo=1&pageSize=50&viewType=recent"
+entrySelector = "li.video_list_cont._video"
+titleSelector = "a.video_tit"
+linkSelector = "a.video_tit"
+contentSelector = "div.video_date a.name"
+imageSelector = "img"
 waitUntil = "networkidle"
