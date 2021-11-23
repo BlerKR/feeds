@@ -17,3 +17,13 @@ linkSelector = "div[id^='comp-kw3943ge'] a[data-testid='linkElement']"
 contentSelector = "p.font_5 span span"
 imageSelector = "wix-image._1-6YJ._1Fe8- img"
 waitUntil = "networkidle"
+
+[withdrama_event]
+title = "위드드라마 ─ EVENT"
+url = "https://withdrama.co.kr/product/list.html?cate_no=471"
+entrySelector = "ul.prdList.grid4 li[id^='anchorBoxId']"
+titleSelector = "div strong.name a"
+linkSelector = "strong.name a"
+contentSelector = "strong.name a span b font"
+imageSelector = "div.thumbnail a img.thumb"
+waitUntil = "networkidle"
