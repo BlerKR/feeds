@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 17:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 18:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하린이 드럼교실🥁 (V LIVE - NEW)]]></title>
+            <link>https://www.vlive.tv/video/270504</link>
+            <guid>https://www.vlive.tv/video/270504</guid>
+            <pubDate>Mon, 29 Nov 2021 18:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[ONEWE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211130_138/16382061445177gqBC_JPEG/4d5ee0a4-5136-11ec-b39d-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[으헤헤 #OMRR 🐻💛🐝 (V LIVE - NEW)]]></title>
+            <link>https://www.vlive.tv/video/270507</link>
+            <guid>https://www.vlive.tv/video/270507</guid>
+            <pubDate>Mon, 29 Nov 2021 18:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211130_278/1638206127716ppMbI_JPEG/371814943415980115466f07d-897b-4921-91c7-5bcbd0f830e2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Radio Hama] 심야 라디오 불면증 치료해드려요~ (V LIVE - NEW)]]></title>
             <link>https://www.vlive.tv/video/270496</link>
@@ -390,22 +406,6 @@
             <pubDate>Mon, 29 Nov 2021 10:05:31 GMT</pubDate>
             <content:encoded><![CDATA[Mnet]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211129_172/1638177175889hz8KH_JPEG/upload_54446763411502908ab2cdccf-4b0d-4ae8-91fb-30602d6c69ea.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘BTI #8 - 어질러진 책상 위를 정리하는 방법 (V LIVE - NEW)]]></title>
-            <link>https://www.vlive.tv/video/270457</link>
-            <guid>https://www.vlive.tv/video/270457</guid>
-            <pubDate>Mon, 29 Nov 2021 09:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[E'LAST]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211129_102/16381765137154Utn6_JPEG/upload_54446114851639173a6cbf2ab-db10-4443-bfbf-ec8456d6e634.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TWICE TV "SCIENTIST" M/V Behind the Scenes EP.03 (V LIVE - NEW)]]></title>
-            <link>https://www.vlive.tv/video/270456</link>
-            <guid>https://www.vlive.tv/video/270456</guid>
-            <pubDate>Mon, 29 Nov 2021 17:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211129_279/1638176232293hn6XQ_PNG/1638169504050.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
