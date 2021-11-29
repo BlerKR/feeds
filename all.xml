@@ -4,9 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 13:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 14:05:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명준이가 상탔따잉💕 (V LIVE - NEW)]]></title>
+            <link>https://www.vlive.tv/video/270501</link>
+            <guid>https://www.vlive.tv/video/270501</guid>
+            <pubDate>Mon, 29 Nov 2021 14:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[ASTRO]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sentimental late nights, songs that make me feel the blues (V LIVE - NEW)]]></title>
+            <link>https://www.vlive.tv/video/270435</link>
+            <guid>https://www.vlive.tv/video/270435</guid>
+            <pubDate>Mon, 29 Nov 2021 14:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[KIM WOOJIN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211129_83/1638164797493fpIyK_PNG/upload_822443029055939177c78d32d-9064-46b2-9336-521472eb4461.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[킬링미🤟🏻🤟🏻 (V LIVE - NEW)]]></title>
+            <link>https://www.vlive.tv/video/270494</link>
+            <guid>https://www.vlive.tv/video/270494</guid>
+            <pubDate>Mon, 29 Nov 2021 14:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[CHUNG HA]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211129_249/1638193855459Hs8a4_JPEG/2ea08096-511b-11ec-9ac7-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Radio Hama] 심야 라디오 불면증 치료해드려요~ (V LIVE - NEW)]]></title>
+            <link>https://www.vlive.tv/video/270496</link>
+            <guid>https://www.vlive.tv/video/270496</guid>
+            <pubDate>Mon, 29 Nov 2021 14:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[청공소년 (Bz_Boys)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211129_34/1638193290410zBfsJ_JPEG/150981601335034919f518dc62-514a-4da7-b373-9dd847885747.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🧸🍋💛 (V LIVE - NEW)]]></title>
             <link>https://www.vlive.tv/video/270491</link>
@@ -14,6 +45,29 @@
             <pubDate>Mon, 29 Nov 2021 13:14:35 GMT</pubDate>
             <content:encoded><![CDATA[FANATICS (파나틱스)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211129_211/16381913994836cKBD_JPEG/151067002420921905bbca74d2-2937-4130-942e-d1f2736cf6ee.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[? (V LIVE - NEW)]]></title>
+            <link>https://www.vlive.tv/video/270495</link>
+            <guid>https://www.vlive.tv/video/270495</guid>
+            <pubDate>Mon, 29 Nov 2021 14:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[FANATICS (파나틱스)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211129_105/1638192705063Bn69z_JPEG/1509810750058809922435d9cd-941a-4431-af18-d2d55a1b88f7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SIYOON "Beautiful" Release V LIVE (V LIVE - NEW)]]></title>
+            <link>https://www.vlive.tv/video/270379</link>
+            <guid>https://www.vlive.tv/video/270379</guid>
+            <pubDate>Mon, 29 Nov 2021 14:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[Rooftop Company]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211128_248/16380926679688k3Ur_JPEG/upload_82172125539298492d4288310-86d0-4ca2-9d19-3c98506fb2c9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠갼~만 (V LIVE - NEW)]]></title>
+            <link>https://www.vlive.tv/video/270493</link>
+            <guid>https://www.vlive.tv/video/270493</guid>
+            <pubDate>Mon, 29 Nov 2021 14:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[LOUDI (로우디)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Be with Sae Bom after work on Monday with a promised show! (V LIVE - NEW)]]></title>
@@ -328,7 +382,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20211129_271/1638166567827BJAOX_JPEG/74a43126-50db-11ec-9524-505dacfbaa5c_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[OFF THE BOYZ] 보그 11월호 화보 촬영 Behind (V LIVE - NEW)]]></title>
+            <title><![CDATA[[OFF THE BOYZ] VOGUE November Issue Pictorial Shoot Behind (V LIVE - NEW)]]></title>
             <link>https://www.vlive.tv/video/270410</link>
             <guid>https://www.vlive.tv/video/270410</guid>
             <pubDate>Mon, 29 Nov 2021 09:05:13 GMT</pubDate>
@@ -350,62 +404,6 @@
             <pubDate>Mon, 29 Nov 2021 09:05:13 GMT</pubDate>
             <content:encoded><![CDATA[CHUNG HA]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211128_182/1638036110575gjUXp_JPEG/upload_82115815931786578cd768d8b-7f99-48d9-809a-e6a40765b228.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LEE MINHYUK - HUTA_log #14 (Here and There, Enthusiastic Squirrel Appears!🐿) (V LIVE - NEW)]]></title>
-            <link>https://www.vlive.tv/video/270116</link>
-            <guid>https://www.vlive.tv/video/270116</guid>
-            <pubDate>Mon, 29 Nov 2021 09:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[BTOB]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211126_13/1637913595948UhgvL_JPEG/upload_541831889720306831ab48cfb-793e-4ffc-b08d-d505e68610f4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['FLASHBACK' (B.I.G J-HOON FANCAM) | MUSIC VIDEO (V LIVE - NEW)]]></title>
-            <link>https://www.vlive.tv/video/269504</link>
-            <guid>https://www.vlive.tv/video/269504</guid>
-            <pubDate>Mon, 29 Nov 2021 09:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[B.I.G (비아이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211129_89/16381794340042oj3S_JPEG/1637228293239.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['FLASHBACK' (B.I.G GUNMIN FANCAM) | MUSIC VIDEO (V LIVE - NEW)]]></title>
-            <link>https://www.vlive.tv/video/269503</link>
-            <guid>https://www.vlive.tv/video/269503</guid>
-            <pubDate>Mon, 29 Nov 2021 09:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[B.I.G (비아이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211129_3/1638179412718EMY6w_JPEG/1637228279042.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Dawon]  ☺️Before December☺️ (V LIVE - NEW)]]></title>
-            <link>https://www.vlive.tv/video/270446</link>
-            <guid>https://www.vlive.tv/video/270446</guid>
-            <pubDate>Mon, 29 Nov 2021 08:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211129_185/1638175880846QU1fA_JPEG/7453ba2e-50f0-11ec-b39d-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 뉴페이스들이 온다! 색다른 모습이 기대되는 각양각색 신상 워맨스! #워맨스가필요해 (V LIVE - NEW)]]></title>
-            <link>https://www.vlive.tv/video/270452</link>
-            <guid>https://www.vlive.tv/video/270452</guid>
-            <pubDate>Mon, 29 Nov 2021 09:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[SBS 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211129_102/1638174090563L3vur_JPEG/4b0f2e75-50ed-11ec-a979-48df37ae3dc4_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 드디어 베일을 벗기 시작한 새 멤버들! 완전체가 된 아나콘다와 개벤져스! #골때리는그녀들 (V LIVE - NEW)]]></title>
-            <link>https://www.vlive.tv/video/270450</link>
-            <guid>https://www.vlive.tv/video/270450</guid>
-            <pubDate>Mon, 29 Nov 2021 09:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[SBS 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211129_12/1638173917457MMVsz_JPEG/c68213f4-50ec-11ec-a74c-48df379ccacc_04.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 남편 몰래 백종원과 비밀 면담하는 아내 사장님! 과연 극단적인 부부의 결말은?!  #백종원의골목식당 (V LIVE - NEW)]]></title>
-            <link>https://www.vlive.tv/video/270451</link>
-            <guid>https://www.vlive.tv/video/270451</guid>
-            <pubDate>Mon, 29 Nov 2021 09:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[SBS 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211129_44/1638173993313Bk1uG_JPEG/12154e4a-50ed-11ec-9e9c-48df379cc9e4_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
