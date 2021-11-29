@@ -4,9 +4,17 @@
         <title>V LIVE - NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 03:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 04:07:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[점심 먹어요🥪]]></title>
+            <link>https://www.vlive.tv/video/270413</link>
+            <guid>https://www.vlive.tv/video/270413</guid>
+            <pubDate>Mon, 29 Nov 2021 04:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[N.O.M]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211129_9/16381558533040C6n1_JPEG/12146732906489839823279a5f-5ee5-4690-bbeb-536a0af4d698.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LOONA] LOONA 2022 SEASON'S GREETINGS Teaser]]></title>
             <link>https://www.vlive.tv/video/270407</link>
@@ -22,14 +30,6 @@
             <pubDate>Mon, 29 Nov 2021 03:05:27 GMT</pubDate>
             <content:encoded><![CDATA[Weeekly(위클리)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211125_64/1637821105310izfNn_PNG/upload_81900812593666921c46d5281-96df-432d-98f4-3366a45b7251.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[hi minimonster]]></title>
-            <link>https://www.vlive.tv/video/270404</link>
-            <guid>https://www.vlive.tv/video/270404</guid>
-            <pubDate>Mon, 29 Nov 2021 03:05:27 GMT</pubDate>
-            <content:encoded><![CDATA[sema]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211129_95/1638151003369NqYbQ_JPEG/upload_5442056754035512400b6a170-7d74-4ae1-8c54-a653a347a8c0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
