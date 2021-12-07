@@ -4,7 +4,7 @@
         <title>V LIVE ─ STORE ─ SPOT BOX</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 13:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 13:42:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,19 +12,7 @@
             <link>http://www.vlive.tv/product/ds00u00u00000455</link>
             <guid>http://www.vlive.tv/product/ds00u00u00000455</guid>
             <pubDate>Tue, 07 Dec 2021 10:58:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="http://www.vlive.tv/product/ds00u00u00000455" onclick="vlive.ba.clickEvent(this);" data-ba-sceneid="store" data-ba-classifier="click_storebanner" data-ba-extra="product_type=VLIVE+">
-										<div class="thumb" style="background-image: url(&quot;https://v-phinf.pstatic.net/20211201_120/1638348395556R7AGD_JPEG/upload_82428130982581729017594c5-ec05-43a7-9dcd-41e0eacdf298.jpg?type=f574_280&quot;);" data-src="https://v-phinf.pstatic.net/20211201_120/1638348395556R7AGD_JPEG/upload_82428130982581729017594c5-ec05-43a7-9dcd-41e0eacdf298.jpg?type=f574_280">
-											<div class="cnt_box active">
-												<span class="bg_gradation"></span>
-												<div class="thumb_txt">
-													<span class="icon icon_vlive_plus"><span class="blind">V LIVE+</span></span><span class="tit_area">
-														<strong class="tit">Beyond LIVE - NCT 127 2ND TOUR<br>'NEO CITY : SEOUL – THE LINK'</strong>
-													</span>
-													<div class="info_area"><span class="sub_txt">NOW ON SALE</span></div>														
-													</div>
-											</div>
-										</div>
-									</a>]]></content:encoded>
+            <content:encoded><![CDATA[V LIVE+]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211201_120/1638348395556R7AGD_JPEG/upload_82428130982581729017594c5-ec05-43a7-9dcd-41e0eacdf298.jpg?type=f574_280" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -32,19 +20,7 @@
             <link>http://www.vlive.tv/product/ds00u00u00000457</link>
             <guid>http://www.vlive.tv/product/ds00u00u00000457</guid>
             <pubDate>Tue, 07 Dec 2021 10:58:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="http://www.vlive.tv/product/ds00u00u00000457" onclick="vlive.ba.clickEvent(this);" data-ba-sceneid="store" data-ba-classifier="click_storebanner" data-ba-extra="product_type=VLIVE+">
-										<div class="thumb" style="background-image: url(&quot;https://v-phinf.pstatic.net/20211203_144/1638515795405JCSdP_JPEG/upload_8259553080759464397749920-9b20-427f-b287-9e6324768395.jpg?type=f574_280&quot;);" data-src="https://v-phinf.pstatic.net/20211203_144/1638515795405JCSdP_JPEG/upload_8259553080759464397749920-9b20-427f-b287-9e6324768395.jpg?type=f574_280">
-											<div class="cnt_box">
-												<span class="bg_gradation"></span>
-												<div class="thumb_txt">
-													<span class="icon icon_vlive_plus"><span class="blind">V LIVE+</span></span><span class="tit_area">
-														<strong class="tit">TWICE 4TH WORLD TOUR<br>‘Ⅲ’ : SEOUL</strong>
-													</span>
-													<div class="info_area"><span class="sub_txt">NOW ON SALE</span></div>														
-													</div>
-											</div>
-										</div>
-									</a>]]></content:encoded>
+            <content:encoded><![CDATA[V LIVE+]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211203_144/1638515795405JCSdP_JPEG/upload_8259553080759464397749920-9b20-427f-b287-9e6324768395.jpg?type=f574_280" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,19 +28,7 @@
             <link>http://www.vlive.tv/product/ds00u00u00000453</link>
             <guid>http://www.vlive.tv/product/ds00u00u00000453</guid>
             <pubDate>Tue, 07 Dec 2021 10:58:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="http://www.vlive.tv/product/ds00u00u00000453" onclick="vlive.ba.clickEvent(this);" data-ba-sceneid="store" data-ba-classifier="click_storebanner" data-ba-extra="product_type=VLIVE+">
-										<div class="thumb" style="background-image: url(&quot;https://v-phinf.pstatic.net/20211125_2/1637826252185qzJG9_JPEG/upload_81905973541295818f2cb89c9-3bd3-4cc6-be4f-4ccea12830b7.jpg?type=f574_280&quot;);" data-src="https://v-phinf.pstatic.net/20211125_2/1637826252185qzJG9_JPEG/upload_81905973541295818f2cb89c9-3bd3-4cc6-be4f-4ccea12830b7.jpg?type=f574_280">
-											<div class="cnt_box">
-												<span class="bg_gradation"></span>
-												<div class="thumb_txt">
-													<span class="icon icon_vlive_plus"><span class="blind">V LIVE+</span></span><span class="tit_area">
-														<strong class="tit">Beyond LIVE #Cinema<br>KAI : KLoor</strong>
-													</span>
-													<div class="info_area"><span class="sub_txt">NOW ON SALE</span></div>														
-													</div>
-											</div>
-										</div>
-									</a>]]></content:encoded>
+            <content:encoded><![CDATA[V LIVE+]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211125_2/1637826252185qzJG9_JPEG/upload_81905973541295818f2cb89c9-3bd3-4cc6-be4f-4ccea12830b7.jpg?type=f574_280" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -120,19 +84,7 @@
             <link>http://www.vlive.tv/product/ds00u00u00000232</link>
             <guid>http://www.vlive.tv/product/ds00u00u00000232</guid>
             <pubDate>Tue, 07 Dec 2021 10:58:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="http://www.vlive.tv/product/ds00u00u00000232" onclick="vlive.ba.clickEvent(this);" data-ba-sceneid="store" data-ba-classifier="click_storebanner" data-ba-extra="product_type=VLIVE+">
-										<div class="thumb" style="background-image: url(&quot;https://v-phinf.pstatic.net/20200810_204/15970433858290cKKj_JPEG/upload_03_V_PC_main.jpg?type=f574_280&quot;);" data-src="https://v-phinf.pstatic.net/20200810_204/15970433858290cKKj_JPEG/upload_03_V_PC_main.jpg?type=f574_280">
-											<div class="cnt_box">
-												<span class="bg_gradation"></span>
-												<div class="thumb_txt">
-													<span class="icon icon_vlive_plus"><span class="blind">V LIVE+</span></span><span class="tit_area">
-														<strong class="tit">MONSTA X FAN－CON<br>[MX HOME PARTY]</strong>
-													</span>
-													<div class="info_area"><span class="sub_txt">NOW ON SALE</span></div>														
-													</div>
-											</div>
-										</div>
-									</a>]]></content:encoded>
+            <content:encoded><![CDATA[V LIVE+]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20200810_204/15970433858290cKKj_JPEG/upload_03_V_PC_main.jpg?type=f574_280" length="0" type="image/jpg"/>
         </item>
     </channel>
