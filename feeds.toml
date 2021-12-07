@@ -6,3 +6,13 @@ titleSelector = "span.title"
 linkSelector = "a"
 contentSelector = "span.description"
 waitUntil = "networkidle"
+
+[vlive_vstore_spotbox]
+title = "V LIVE ─ STORE ─ SPOT BOX"
+url = "https://www.vlive.tv/vstore"
+entrySelector = "div.spot_box div.flick div.eg-flick-container div.thumb_area"
+titleSelector = "span.tit_area strong.tit"
+linkSelector = "a"
+contentSelector = "span.icon.icon_membership span.blind"
+imageSelector = "div.thumb"
+waitUntil = "networkidle"
