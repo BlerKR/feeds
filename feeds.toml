@@ -1,22 +1,3 @@
-[jalnagage_trend_news]
-title = "KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스"
-url = "https://jalnagage.kt.co.kr/trend/news/"
-entrySelector = "ul.newsList li"
-titleSelector = "span.title"
-linkSelector = "a"
-contentSelector = "span.description"
-waitUntil = "networkidle"
-
-[vlive_vstore_spotbox]
-title = "V LIVE ─ STORE ─ SPOT BOX"
-url = "https://www.vlive.tv/vstore"
-entrySelector = "div.spot_box div.flick div.eg-flick-container div.thumb_area"
-titleSelector = "span.tit_area strong.tit"
-linkSelector = "a"
-contentSelector = "div.thumb_txt span[class^='icon'] span.blind"
-imageSelector = "div.thumb"
-waitUntil = "networkidle"
-
 [tiktok_business_blog]
 title = "TikTok for Business ─ Blog"
 url = "https://www.tiktok.com/business/ko/blog"
