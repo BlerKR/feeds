@@ -16,3 +16,13 @@ linkSelector = "a"
 contentSelector = "span.icon.icon_membership span.blind"
 imageSelector = "div.thumb"
 waitUntil = "networkidle"
+
+[tiktok_business_blog]
+title = "TikTok for Business ─ Blog"
+url = "https://www.tiktok.com/business/ko/blog"
+entrySelector = "div.tiktokads-blog-content div.tiktokads-blog-swiper div.carousel div.carousel-scroller div.carousel-item"
+titleSelector = "a.article-title"
+linkSelector = "a.article-title"
+contentSelector = "div.article-content"
+imageSelector = "div.tiktok-ads-blog-swiper-card img"
+waitUntil = "networkidle"
