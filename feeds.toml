@@ -1,8 +1,9 @@
-[now_show_593_replay]
-title = "네이버 나우. ─ 최강창민의 프리허그 ─ 다시보기"
-url = "https://now.naver.com/show/593#replay"
-entrySelector = "ul.episode_list.is_pc li.list_item"
-titleSelector = "strong.title"
-linkSelector = "*"
-contentSelector = "div.sub_info"
-waitForSelector = "ul.episode_list.is_pc li.list_item"
+[musicbank]
+title = "뮤직뱅크 ─ 네이버 TV (API)"
+url = "https://tv.naver.com/api/html/channel/musicbank/clips/1?order=recent"
+entrySelector = "div.cds_area._infiniteCardArea div.cds._MM_CARD"
+titleSelector = "dt.title a tooltip"
+linkSelector = "a.cds_thm"
+contentSelector = "span.tm_b"
+imageSelector = "a.cds_thm img"
+waitUntil = "networkidle"
