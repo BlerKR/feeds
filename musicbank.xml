@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Combined feed</title>
+        <title>뮤직뱅크 ─ 네이버 TV (API)</title>
         <link>undefined</link>
         <description>undefined</description>
         <lastBuildDate>Thu, 09 Dec 2021 20:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[살짝 설렜어 (Nonstop) - 오마이걸(OH MY GIRL) (뮤직뱅크 ─ 네이버 TV (API))]]></title>
+            <title><![CDATA[살짝 설렜어 (Nonstop) - 오마이걸(OH MY GIRL)]]></title>
             <link>https://tv.naver.com/v/13816318</link>
             <guid>https://tv.naver.com/v/13816318</guid>
             <pubDate>Thu, 09 Dec 2021 20:18:23 GMT</pubDate>
