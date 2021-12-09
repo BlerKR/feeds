@@ -6,5 +6,5 @@ titleSelector = "dt.title a tooltip"
 linkSelector = "a.cds_thm"
 contentSelector = "span.tm_b"
 imageSelector = "a.cds_thm img"
-waitUntil = "networkidle"
+waitForSelector = "div.cds_area._infiniteCardArea div.cds._MM_CARD"
 timeout = 120
