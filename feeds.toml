@@ -1,9 +1,9 @@
-[moumi]
-title = "모우미"
-url = "https://moumi-shop.com/category/%EA%B3%B5%EC%97%B0/24/"
-entrySelector = "ul.prdList.grid2 li[id^='anchorBoxId']"
-titleSelector = "strong.name a span:nth-child(2)"
-linkSelector = "strong.name a"
-contentSelector = "ul[class='xans-element- xans-product xans-product-listitem spec'] li"
-imageSelector = "div.prdImg a img"
+[groundseesaw_seochon]
+title = "그라운드 시소 ─ EXHIBITIONS ─ 서촌"
+url = "http://www.groundseesaw.co.kr/m11.php?cate=001"
+entrySelector = "div.section1 div.conwrap"
+titleSelector = "div.titarea h5"
+linkSelector = "div.titarea a"
+contentSelector = "div.infoarea"
+imageSelector = "div.imgarea img"
 waitUntil = "networkidle"
