@@ -1,29 +1,9 @@
-[groundseesaw_seochon]
-title = "그라운드 시소 ─ EXHIBITIONS ─ 서촌"
-url = "http://www.groundseesaw.co.kr/m11.php?cate=001"
-entrySelector = "div.section1 div.conwrap"
-titleSelector = "div.titarea h5"
-linkSelector = "div.titarea a"
-contentSelector = "div.infoarea"
-imageSelector = "div.imgarea img"
-waitUntil = "networkidle"
-
-[groundseesaw_seongsu]
-title = "그라운드 시소 ─ EXHIBITIONS ─ 성수"
-url = "http://www.groundseesaw.co.kr/m11.php?cate=002"
-entrySelector = "div.section1 div.conwrap"
-titleSelector = "div.titarea h5"
-linkSelector = "div.titarea a"
-contentSelector = "div.infoarea"
-imageSelector = "div.imgarea img"
-waitUntil = "networkidle"
-
-[groundseesaw_myeongdong]
-title = "그라운드 시소 ─ EXHIBITIONS ─ 서촌"
-url = "http://www.groundseesaw.co.kr/m11.php?cate=003"
-entrySelector = "div.section1 div.conwrap"
-titleSelector = "div.titarea h5"
-linkSelector = "div.titarea a"
-contentSelector = "div.infoarea"
-imageSelector = "div.imgarea img"
+[top]
+title = "네이버 공연 live beta ─ 하이라이트"
+url = "https://live.naver.com/"
+entrySelector = "div.video-box-area div.video-list div div.eg-flick-camera div.video-box.eg-flick-panel"
+titleSelector = "p.sub-title.ellipsis2"
+linkSelector = "a.video"
+contentSelector = "p.date.ellipsis"
+imageSelector = "img._lazyImage"
 waitUntil = "networkidle"
