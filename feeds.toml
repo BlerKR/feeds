@@ -1,9 +1,8 @@
-[top]
-title = "네이버 공연 live beta ─ 하이라이트"
-url = "https://live.naver.com/"
-entrySelector = "div.video-box-area div.video-list div div.eg-flick-camera div.video-box.eg-flick-panel"
-titleSelector = "p.sub-title.ellipsis2"
-linkSelector = "a.video"
-contentSelector = "p.date.ellipsis"
-imageSelector = "img._lazyImage"
+[alookso_hyeseung]
+title = "alookso ─ 정혜승 대표"
+url = "https://alook.so/users/8OgtK8"
+entrySelector = "//div[@class='flex-auto mt-2 space-y-2']/h5[@class='font-medium text-break']"
+titleSelector = "//a"
+linkSelector = "//a"
 waitUntil = "networkidle"
+onFail = "stale"
