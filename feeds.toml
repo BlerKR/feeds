@@ -1,8 +1,11 @@
-[alookso_hyeseung]
-title = "alookso ─ 정혜승 대표"
-url = "https://alook.so/users/8OgtK8"
-entrySelector = "//div[@class='flex-auto mt-2 space-y-2']/h5[@class='font-medium text-break']"
-titleSelector = "//a"
-linkSelector = "//a"
+[newneek]
+title = "뉴닉 ─ 전체"
+url = "https://newneek.co/"
+entrySelector = "section.sc-bdnxRM.jvCTkj.home-recent div.posts a"
+titleSelector = "div.card-inner div.card-body h3.card-title"
+linkSelector = "*"
+contentSelector = "div.card-inner div.card-body p.card-text"
+dateSelector = "div.card-inner div.card-body time.card-date"
+dateFormat = "yyyy/MM/dd"
+imageSelector = "div.card-inner figure.card-thumbnail"
 waitUntil = "networkidle"
-onFail = "stale"
