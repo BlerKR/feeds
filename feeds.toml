@@ -1,9 +1,9 @@
-[tech_article]
-title = "블로터 ─ 테크"
-url = "https://www.bloter.net/section?id=sectionTech"
-entrySelector = "div.box.section_tech_newslist ul.list li.article"
-titleSelector = "a.link h4.title"
-linkSelector = "a.list"
-contentSelector = "div.info"
-imageSelector = "div.thumb div.background.zoom img"
-waitUntil = "networkidle"
+[finance]
+title = "블로터 ─ 금융"
+url = "https://www.bloter.net/newsList/blt001005000"
+entrySelector = "div.box.newslist_left ul.list li.article"
+titleSelector = "h4.title"
+linkSelector = "a"
+contentSelector = "div.desc"
+imageSelector = "div.background.zoom img"
+waitForSelector = "div.box.newslist_left ul.list li.article"
