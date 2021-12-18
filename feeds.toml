@@ -1,9 +1,7 @@
-[finance]
-title = "블로터 ─ 금융"
-url = "https://www.bloter.net/newsList/blt001005000"
-entrySelector = "div.box.newslist_left ul.list li.article"
-titleSelector = "h4.title"
-linkSelector = "a"
-contentSelector = "div.desc"
-imageSelector = "div.background.zoom img"
+[clubevans]
+title = "클럽 에반스 ─ SCHEDULE"
+url = "http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE"
+entrySelector = "center[id='G4_LIST'] table tr:nth-child(n+3) td"
+titleSelector = "div:nth-child(2) a"
+linkSelector = "div:nth-child(2) a"
 waitUntil = "networkidle"
