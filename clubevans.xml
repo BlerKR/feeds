@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE</id>
     <title>클럽 에반스 ─ SCHEDULE</title>
-    <updated>2021-12-21T04:22:15.279Z</updated>
+    <updated>2021-12-22T02:37:15.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.clubevans.com/bbs/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE</id>
         <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE"/>
-        <updated>2021-12-21T04:22:14.406Z</updated>
+        <updated>2021-12-22T02:37:14.181Z</updated>
         <content type="html"><![CDATA[&nbsp;]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE</id>
         <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE"/>
-        <updated>2021-12-21T04:22:14.407Z</updated>
+        <updated>2021-12-22T02:37:14.183Z</updated>
         <content type="html"><![CDATA[&nbsp;]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE</id>
         <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE"/>
-        <updated>2021-12-21T04:22:14.409Z</updated>
+        <updated>2021-12-22T02:37:14.184Z</updated>
         <content type="html"><![CDATA[&nbsp;]]></content>
     </entry>
     <entry>
@@ -171,14 +171,14 @@
         <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4364</id>
         <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4364"/>
         <updated>2021-12-18T08:51:57.658Z</updated>
-        <content type="html"><![CDATA[<div><strong class="red">21</strong></div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4364">Urban Jam Day</a></div>]]></content>
+        <content type="html"><![CDATA[<div>21</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4364">Urban Jam Day</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[션킴Trio]]></title>
         <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4377</id>
         <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4377"/>
         <updated>2021-12-20T04:22:49.219Z</updated>
-        <content type="html"><![CDATA[<div>22</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4377">션킴Trio</a></div>]]></content>
+        <content type="html"><![CDATA[<div><strong class="red">22</strong></div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4377">션킴Trio</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이영우Trio]]></title>
@@ -247,14 +247,14 @@
         <title type="html"><![CDATA[34]]></title>
         <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE</id>
         <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE"/>
-        <updated>2021-12-21T04:22:14.410Z</updated>
+        <updated>2021-12-22T02:37:14.186Z</updated>
         <content type="html"><![CDATA[&nbsp;]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[35]]></title>
         <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE</id>
         <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE"/>
-        <updated>2021-12-21T04:22:14.411Z</updated>
+        <updated>2021-12-22T02:37:14.187Z</updated>
         <content type="html"><![CDATA[<span class="small22">공연은 오후 9:00 부터 시작되며 스케쥴 표의 정기공연 외에 상황에 따라 다양한 JAM공연이 펼쳐질 수 있습니다.</span>]]></content>
     </entry>
 </feed>
