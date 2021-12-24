@@ -1,259 +1,383 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://BlerKR.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-12-24T04:22:48.332Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[undefined (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-12-24T04:22:47.570Z</updated>
-        <content type="html"><![CDATA[&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-12-24T04:22:47.570Z</updated>
-        <content type="html"><![CDATA[&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-12-24T04:22:47.585Z</updated>
-        <content type="html"><![CDATA[&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박소영 x 김준범 프로젝트 (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4348</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4348"/>
-        <updated>2021-12-18T08:51:57.608Z</updated>
-        <content type="html"><![CDATA[<div>1</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4348">박소영 x 김준범 프로젝트</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김이슬Trio + 1 (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4355</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4355"/>
-        <updated>2021-12-18T08:51:57.608Z</updated>
-        <content type="html"><![CDATA[<div>2</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4355">김이슬Trio + 1</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Burgundy (더 버건디) (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4357</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4357"/>
-        <updated>2021-12-18T08:51:57.610Z</updated>
-        <content type="html"><![CDATA[<div>3</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4357">The Burgundy (더 버건디)</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[another season 어나더시즌 (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4354</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4354"/>
-        <updated>2021-12-18T08:51:57.611Z</updated>
-        <content type="html"><![CDATA[<div>4</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4354">another season 어나더시즌</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리마 재즈 밴드 (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4356</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4356"/>
-        <updated>2021-12-18T08:51:57.612Z</updated>
-        <content type="html"><![CDATA[<div>5</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4356">리마 재즈 밴드</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super Jam Day (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4349</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4349"/>
-        <updated>2021-12-18T08:51:57.613Z</updated>
-        <content type="html"><![CDATA[<div>6</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4349">Super Jam Day</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urban Jam Day (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4353</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4353"/>
-        <updated>2021-12-18T08:51:57.614Z</updated>
-        <content type="html"><![CDATA[<div>7</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4353">Urban Jam Day</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승은Trio (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4361</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4361"/>
-        <updated>2021-12-18T08:51:57.615Z</updated>
-        <content type="html"><![CDATA[<div>8</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4361">이승은Trio</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winter in Tango Vol.1 (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4358</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4358"/>
-        <updated>2021-12-18T08:51:57.623Z</updated>
-        <content type="html"><![CDATA[<div>9</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4358">Winter in Tango Vol.1</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winter in Tango Vol.2 (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4359</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4359"/>
-        <updated>2021-12-18T08:51:57.626Z</updated>
-        <content type="html"><![CDATA[<div>10</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4359">Winter in Tango Vol.2</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄기응Quartet (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4371</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4371"/>
-        <updated>2021-12-18T08:51:57.626Z</updated>
-        <content type="html"><![CDATA[<div>11</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4371">엄기응Quartet</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Martin Jacobsen Quartet (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4368</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4368"/>
-        <updated>2021-12-18T08:51:57.626Z</updated>
-        <content type="html"><![CDATA[<div>12</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4368">Martin Jacobsen Quartet</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super Jam Day (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4350</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4350"/>
-        <updated>2021-12-18T08:51:57.635Z</updated>
-        <content type="html"><![CDATA[<div>13</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4350">Super Jam Day</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urban Jam Day (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4363</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4363"/>
-        <updated>2021-12-18T08:51:57.635Z</updated>
-        <content type="html"><![CDATA[<div>14</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4363">Urban Jam Day</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박제신Quartet (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4372</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4372"/>
-        <updated>2021-12-18T08:51:57.635Z</updated>
-        <content type="html"><![CDATA[<div>15</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4372">박제신Quartet</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이브 클럽 데이 (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4360</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4360"/>
-        <updated>2021-12-18T08:51:57.636Z</updated>
-        <content type="html"><![CDATA[<div>16</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4360">라이브 클럽 데이</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Band P (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4375</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4375"/>
-        <updated>2021-12-18T08:51:57.641Z</updated>
-        <content type="html"><![CDATA[<div>17</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4375">Band P</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rio Band (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4374</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4374"/>
-        <updated>2021-12-18T08:51:57.658Z</updated>
-        <content type="html"><![CDATA[<div>18</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4374">Rio Band</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paul kirby Trio (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4373</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4373"/>
-        <updated>2021-12-18T08:51:57.658Z</updated>
-        <content type="html"><![CDATA[<div>19</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4373">Paul kirby Trio</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super Jam Day (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4351</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4351"/>
-        <updated>2021-12-18T08:51:57.658Z</updated>
-        <content type="html"><![CDATA[<div>20</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4351">Super Jam Day</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urban Jam Day (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4364</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4364"/>
-        <updated>2021-12-18T08:51:57.658Z</updated>
-        <content type="html"><![CDATA[<div>21</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4364">Urban Jam Day</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[션킴Trio (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4377</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4377"/>
-        <updated>2021-12-20T04:22:49.219Z</updated>
-        <content type="html"><![CDATA[<div>22</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4377">션킴Trio</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이영우Trio (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4362</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4362"/>
-        <updated>2021-12-18T08:51:57.658Z</updated>
-        <content type="html"><![CDATA[<div>23</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4362">이영우Trio</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤혜진과 브라더스 + Indiana Strings 크리스마스 콘서트 feat. 재즈보컬 백효은 + 뮤지컬 배우 강성현 (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4369</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4369"/>
-        <updated>2021-12-18T08:51:57.658Z</updated>
-        <content type="html"><![CDATA[<div><strong class="red">24</strong></div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4369">윤혜진과 브라더스 + Indiana Strings 크리스마스 콘서트 feat. 재즈보컬 백효은 + 뮤지컬 배우 강성현</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunkim Project + 제이문 (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4367</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4367"/>
-        <updated>2021-12-18T08:51:57.658Z</updated>
-        <content type="html"><![CDATA[<div>25</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4367">Sunkim Project + 제이문</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송준호 Quartet (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4370</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4370"/>
-        <updated>2021-12-18T08:51:57.658Z</updated>
-        <content type="html"><![CDATA[<div>26</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4370">송준호 Quartet</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super Jam Day (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4352</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4352"/>
-        <updated>2021-12-18T08:51:57.658Z</updated>
-        <content type="html"><![CDATA[<div>27</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4352">Super Jam Day</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urban Jam Day (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4365</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4365"/>
-        <updated>2021-12-18T08:51:57.658Z</updated>
-        <content type="html"><![CDATA[<div>28</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4365">Urban Jam Day</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찰리정Trio (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4366</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4366"/>
-        <updated>2021-12-18T08:51:57.658Z</updated>
-        <content type="html"><![CDATA[<div>29</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4366">찰리정Trio</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박근쌀롱 (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4376</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4376"/>
-        <updated>2021-12-18T08:51:57.660Z</updated>
-        <content type="html"><![CDATA[<div>30</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4376">박근쌀롱</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찰리정Band (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4378</id>
-        <link href="http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4378"/>
-        <updated>2021-12-21T02:36:37.238Z</updated>
-        <content type="html"><![CDATA[<div>31</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4378">찰리정Band</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-12-24T04:22:47.587Z</updated>
-        <content type="html"><![CDATA[&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (클럽 에반스 ─ SCHEDULE)]]></title>
-        <id>https://BlerKR.github.io/feeds/all.xml</id>
-        <link href="https://BlerKR.github.io/feeds/all.xml"/>
-        <updated>2021-12-24T04:22:47.587Z</updated>
-        <content type="html"><![CDATA[<span class="small22">공연은 오후 9:00 부터 시작되며 스케쥴 표의 정기공연 외에 상황에 따라 다양한 JAM공연이 펼쳐질 수 있습니다.</span>]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 24 Dec 2021 22:56:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[undefined (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 24 Dec 2021 22:55:32 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 24 Dec 2021 22:55:32 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 24 Dec 2021 22:55:32 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박소영 x 김준범 프로젝트 (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4348</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4348</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>1</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4348">박소영 x 김준범 프로젝트</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김이슬Trio + 1 (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4355</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4355</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>2</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4355">김이슬Trio + 1</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Burgundy (더 버건디) (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4357</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4357</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>3</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4357">The Burgundy (더 버건디)</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[another season 어나더시즌 (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4354</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4354</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>4</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4354">another season 어나더시즌</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[리마 재즈 밴드 (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4356</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4356</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>5</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4356">리마 재즈 밴드</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Super Jam Day (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4349</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4349</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>6</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4349">Super Jam Day</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Urban Jam Day (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4353</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4353</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>7</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4353">Urban Jam Day</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이승은Trio (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4361</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4361</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>8</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4361">이승은Trio</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Winter in Tango Vol.1 (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4358</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4358</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>9</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4358">Winter in Tango Vol.1</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Winter in Tango Vol.2 (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4359</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4359</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>10</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4359">Winter in Tango Vol.2</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엄기응Quartet (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4371</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4371</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>11</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4371">엄기응Quartet</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Martin Jacobsen Quartet (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4368</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4368</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>12</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4368">Martin Jacobsen Quartet</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Super Jam Day (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4350</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4350</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>13</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4350">Super Jam Day</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Urban Jam Day (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4363</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4363</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>14</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4363">Urban Jam Day</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박제신Quartet (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4372</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4372</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>15</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4372">박제신Quartet</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[라이브 클럽 데이 (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4360</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4360</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>16</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4360">라이브 클럽 데이</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Band P (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4375</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4375</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>17</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4375">Band P</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Rio Band (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4374</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4374</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>18</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4374">Rio Band</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Paul kirby Trio (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4373</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4373</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>19</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4373">Paul kirby Trio</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Super Jam Day (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4351</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4351</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>20</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4351">Super Jam Day</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Urban Jam Day (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4364</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4364</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>21</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4364">Urban Jam Day</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[션킴Trio (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4377</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4377</guid>
+            <pubDate>Mon, 20 Dec 2021 04:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[<div>22</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4377">션킴Trio</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이영우Trio (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4362</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4362</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>23</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4362">이영우Trio</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤혜진과 브라더스 + Indiana Strings 크리스마스 콘서트 feat. 재즈보컬 백효은 + 뮤지컬 배우 강성현 (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4369</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4369</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>24</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4369">윤혜진과 브라더스 + Indiana Strings 크리스마스 콘서트 feat. 재즈보컬 백효은 + 뮤지컬 배우 강성현</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sunkim Project + 제이문 (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4367</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4367</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div><strong class="red">25</strong></div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4367">Sunkim Project + 제이문</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[송준호 Quartet (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4370</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4370</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>26</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4370">송준호 Quartet</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Super Jam Day (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4352</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4352</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>27</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4352">Super Jam Day</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Urban Jam Day (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4365</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4365</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>28</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4365">Urban Jam Day</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[찰리정Trio (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4366</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4366</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>29</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4366">찰리정Trio</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박근쌀롱 (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4376</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4376</guid>
+            <pubDate>Sat, 18 Dec 2021 08:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>30</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4376">박근쌀롱</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[찰리정 Quintet (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4378</link>
+            <guid>http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4378</guid>
+            <pubDate>Tue, 21 Dec 2021 02:36:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div>31</div><div><a href="../bbs/board.php?bo_table=TODAYS_LIVE&amp;wr_id=4378">찰리정 Quintet</a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 24 Dec 2021 22:55:32 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (클럽 에반스 ─ SCHEDULE)]]></title>
+            <link>https://BlerKR.github.io/feeds/all.xml</link>
+            <guid>https://BlerKR.github.io/feeds/all.xml</guid>
+            <pubDate>Fri, 24 Dec 2021 22:55:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="small22">공연은 오후 9:00 부터 시작되며 스케쥴 표의 정기공연 외에 상황에 따라 다양한 JAM공연이 펼쳐질 수 있습니다.</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[<씨네21>이 선정한 올해의 시리즈를 빛낸 감독, 배우, 스탭은? (씨네21 모바일 ─ 뉴스)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99383</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99383</guid>
+            <pubDate>Fri, 24 Dec 2021 22:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/j16NO/btroP2GyTpg/WnDqOhAqlOqqSSycACvKD0/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<씨네21>이 선정한 올해의 시리즈 BEST 10 (씨네21 모바일 ─ 뉴스)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99379</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99379</guid>
+            <pubDate>Fri, 24 Dec 2021 22:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/muKiT/btroPipOOVr/6pem3eWKBIXQkl6EvTxsi0/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘랑종’ ’구경이’ 2021 한국영화, 시리즈 촬영현장 비하인드컷 모음 (씨네21 모바일 ─ 뉴스)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99378</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99378</guid>
+            <pubDate>Fri, 24 Dec 2021 22:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cnK9SP/btroM791IHD/5auAiqqkvsjlUukRpEvGT0/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['트레이서' 임시완・고아성・박용우, '씨네21' 신년호 표지 장식 (씨네21 모바일 ─ 뉴스)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99366</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99366</guid>
+            <pubDate>Fri, 24 Dec 2021 22:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/JZurA/btroM8HhKaO/AGKOaipnbJiCP29D2Ggf5K/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화산업의 생존권을 보장하라 (씨네21 모바일 ─ 뉴스)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99360</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99360</guid>
+            <pubDate>Fri, 24 Dec 2021 22:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/KJ2R7/btroLZLclmz/9yT8xSthKLLXKRVVLzAd31/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴욕] '스파이더맨: 노 웨이 홈', 뉴욕 극장가 구할까 (씨네21 모바일 ─ 뉴스)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99357</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99357</guid>
+            <pubDate>Fri, 24 Dec 2021 22:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/xWhVG/btroFVvgjBW/MRLKnZF8xa9tmdDMsnhES1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<씨네21>이 뽑은 2021년을 대표하는 감독, 배우는? (씨네21 모바일 ─ 뉴스)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99326</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99326</guid>
+            <pubDate>Fri, 24 Dec 2021 22:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bqUjJC/btrn68beTp1/Avfl3u16r8lx3MWJsGRQlk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[베를린] 영화감독·시인·극작가 토마스 브라슈 일대기 담은 <디어 토마스> 개봉 (씨네21 모바일 ─ 뉴스)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99319</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99319</guid>
+            <pubDate>Fri, 24 Dec 2021 22:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/b4O32J/btroiazdxbj/cYP9KXhbWti6GPrymmqglk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Coming Soon] 세계적인 패션 브랜드 구찌를 탄생시킨 구치 가문, '하우스 오브 구찌' (씨네21 모바일 ─ 뉴스)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99317</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99317</guid>
+            <pubDate>Fri, 24 Dec 2021 22:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/Z5PUc/btrobOo38R6/FYpFHs7SFKicmMJkov0u3K/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[추모] 강한섭 영화평론가(1958~2021),  영화와 함께한 삶에 작별을 고하다 (씨네21 모바일 ─ 뉴스)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99315</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99315</guid>
+            <pubDate>Fri, 24 Dec 2021 22:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[obituary]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/qL8Fk/btrn6jjEJ8r/mpFi4tGK2SGcWilH0Wjx71/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['모던코리아: 짐승' 로테르담국제영화제 초청 (씨네21 모바일 ─ 뉴스)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99314</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99314</guid>
+            <pubDate>Fri, 24 Dec 2021 22:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/3Mdtv/btroaMZeuCd/xqr9pvGqkYLXxvUh1QjYhk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화진흥위원회, 2021년 11월 한국 영화산업 결산 발표 (씨네21 모바일 ─ 뉴스)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99313</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99313</guid>
+            <pubDate>Fri, 24 Dec 2021 22:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cEafeZ/btrn68orElJ/eKEKHAqVTwjbHlkt7Fqn5k/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['오징어 게임', 골든글로브 3개 부문 후보 지명 (씨네21 모바일 ─ 뉴스)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99312</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99312</guid>
+            <pubDate>Fri, 24 Dec 2021 22:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/lg9Ri/btroaLzd73O/oazL31ZokKXUeydBcaFq2K/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<스파이더맨: 노 웨이 홈> 선전에도 불구, 상영시간 제한으로 극장가 다시 비상 (씨네21 모바일 ─ 뉴스)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99311</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99311</guid>
+            <pubDate>Fri, 24 Dec 2021 22:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/RU2fq/btrn6GMqu0Q/GqFHhqUiRDHZGrGZnBHWx1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<킹메이커> 설경구‧이선균‧김성오‧전배수‧서은수, <씨네21> 송년호 표지 장식 (씨네21 모바일 ─ 뉴스)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99308</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99308</guid>
+            <pubDate>Fri, 24 Dec 2021 22:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/XA0uJ/btrn20qtxAH/4AI7GZJonJeIfkKS8eWajk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
