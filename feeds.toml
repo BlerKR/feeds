@@ -1,17 +1,19 @@
-[clubevans]
-title = "클럽 에반스 ─ SCHEDULE"
-url = "http://www.clubevans.com/bbs/board.php?bo_table=TODAYS_LIVE"
-entrySelector = "center[id='G4_LIST'] table tr:nth-child(n+3) td"
-titleSelector = "div:nth-child(2) a"
-linkSelector = "div:nth-child(2) a"
-waitUntil = "networkidle"
-
-[m_cine21_news]
-title = "씨네21 모바일 ─ 뉴스"
-url = "http://m.cine21.com/news/lists/?s=0"
-entrySelector = "ul.lst_top2 li"
-titleSelector = "div.tit"
+[news_dailynews_top]
+title = "씨네21 모바일 ─ 데일리뉴스 하이라이트"
+url = "http://m.cine21.com/news/issue"
+entrySelector = "div.topnews"
+titleSelector = "div.topnews_tit span"
 linkSelector = "a"
-contentSelector = "div.category"
+contentSelector = "div.topnews_tit"
+imageSelector = "a img"
+waitForSelector = "div.topnews"
+
+[news_dailynews]
+title = "씨네21 모바일 ─ 데일리뉴스"
+url = "http://m.cine21.com/news/issue"
+entrySelector = "ul.lst_card li"
+titleSelector = "div.tit p"
+linkSelector = "a"
+contentSelector = "div.tit"
 imageSelector = "div.thub img"
-waitUntil = "networkidle"
+waitForSelector = "ul.lst_card li"
