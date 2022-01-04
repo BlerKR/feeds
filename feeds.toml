@@ -1,8 +1,10 @@
-[channela_factman]
-title = "채널A ─ 팩트맨"
-url = "http://www.ichannela.com/news/template/program_news.do?cateCode=&subCateCode=000500&type=03&menuIndex=3&seqIndex=0&searchDate=&realCateCode=00050021"
-entrySelector = "ul.newslist-type-thum2 li"
-titleSelector = "span.top span.subject"
-linkSelector = "a"
-imageSelector = "span.thumArea img.thum"
+[beyondlive_notice]
+title = "Beyond LIVE ─ 공지사항"
+url = "https://beyondlive.com/notice"
+entrySelector = "ul.notice-list li.notice-list__item"
+titleSelector = "span.notice-list__title.notice-list__title--main"
+linkSelector = "a.notice-list__link"
+dateSelector = "notice-list__date"
+dateFormat = "yyyy. MM. dd"
+contentSelector = "span.notice-list__date"
 waitUntil = "networkidle"
