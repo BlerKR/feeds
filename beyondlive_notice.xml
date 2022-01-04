@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://BlerKR.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-01-04T08:30:05.888Z</updated>
+    <id>https://beyondlive.com/notice</id>
+    <title>Beyond LIVE ─ 공지사항</title>
+    <updated>2022-01-04T08:30:05.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
-        <title type="html"><![CDATA[[Maintenance Notice] Notice of Beyond LIVE Service Maintenance (Beyond LIVE ─ 공지사항)]]></title>
+        <title type="html"><![CDATA[[Maintenance Notice] Notice of Beyond LIVE Service Maintenance]]></title>
         <id>https://beyondlive.com/notice/10</id>
         <link href="https://beyondlive.com/notice/10"/>
         <updated>2022-01-04T08:30:05.279Z</updated>
         <content type="html"><![CDATA[31. Dec. 2021]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Notice]Notice of delay in response to inquiries. (Beyond LIVE ─ 공지사항)]]></title>
+        <title type="html"><![CDATA[[Notice]Notice of delay in response to inquiries.]]></title>
         <id>https://beyondlive.com/notice/8</id>
         <link href="https://beyondlive.com/notice/8"/>
         <updated>2022-01-04T08:30:05.279Z</updated>
         <content type="html"><![CDATA[28. Dec. 2021]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Notice] Beyond LIVE iOS application has been released. (Beyond LIVE ─ 공지사항)]]></title>
+        <title type="html"><![CDATA[[Notice] Beyond LIVE iOS application has been released.]]></title>
         <id>https://beyondlive.com/notice/7</id>
         <link href="https://beyondlive.com/notice/7"/>
         <updated>2022-01-04T08:30:05.280Z</updated>
         <content type="html"><![CDATA[24. Dec. 2021]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Official opening of online performance platform Beyond LIVE. (Beyond LIVE ─ 공지사항)]]></title>
+        <title type="html"><![CDATA[Official opening of online performance platform Beyond LIVE.]]></title>
         <id>https://beyondlive.com/notice/4</id>
         <link href="https://beyondlive.com/notice/4"/>
         <updated>2022-01-04T08:30:05.281Z</updated>
         <content type="html"><![CDATA[23. Dec. 2021]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Beyond LIVE ─ 공지사항)]]></title>
+        <title type="html"><![CDATA[4]]></title>
         <id>https://beyondlive.com/notice/6</id>
         <link href="https://beyondlive.com/notice/6"/>
         <updated>2022-01-04T08:30:05.262Z</updated>
