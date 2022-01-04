@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://beyondlive.com/notice</id>
+    <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-01-04T08:30:05.883Z</updated>
+    <updated>2022-01-04T10:11:03.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
-        <title type="html"><![CDATA[[Maintenance Notice] Notice of Beyond LIVE Service Maintenance]]></title>
+        <title type="html"><![CDATA[[점검공지] Beyond LIVE서비스 점검 안내]]></title>
         <id>https://beyondlive.com/notice/10</id>
         <link href="https://beyondlive.com/notice/10"/>
         <updated>2022-01-04T08:30:05.279Z</updated>
-        <content type="html"><![CDATA[31. Dec. 2021]]></content>
+        <content type="html"><![CDATA[31. 12월. 2021]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Notice]Notice of delay in response to inquiries.]]></title>
+        <title type="html"><![CDATA[[안내사항]1:1 문의 대응 지연에 대하여 안내드립니다.]]></title>
         <id>https://beyondlive.com/notice/8</id>
         <link href="https://beyondlive.com/notice/8"/>
         <updated>2022-01-04T08:30:05.279Z</updated>
-        <content type="html"><![CDATA[28. Dec. 2021]]></content>
+        <content type="html"><![CDATA[28. 12월. 2021]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Notice] Beyond LIVE iOS application has been released.]]></title>
+        <title type="html"><![CDATA[[안내 사항] Beyond LIVE iOS 어플리케이션이 출시되었습니다.]]></title>
         <id>https://beyondlive.com/notice/7</id>
         <link href="https://beyondlive.com/notice/7"/>
         <updated>2022-01-04T08:30:05.280Z</updated>
-        <content type="html"><![CDATA[24. Dec. 2021]]></content>
+        <content type="html"><![CDATA[24. 12월. 2021]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Official opening of online performance platform Beyond LIVE.]]></title>
+        <title type="html"><![CDATA[온라인 공연 스트리밍 플랫폼 Beyond LIVE 공식 오픈]]></title>
         <id>https://beyondlive.com/notice/4</id>
         <link href="https://beyondlive.com/notice/4"/>
         <updated>2022-01-04T08:30:05.281Z</updated>
-        <content type="html"><![CDATA[23. Dec. 2021]]></content>
+        <content type="html"><![CDATA[23. 12월. 2021]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4]]></title>
+        <title type="html"><![CDATA[[공연 안내] SMTOWN LIVE 2022: SMCU EXPRESS@KWANGYA]]></title>
         <id>https://beyondlive.com/notice/6</id>
         <link href="https://beyondlive.com/notice/6"/>
         <updated>2022-01-04T08:30:05.262Z</updated>
-        <content type="html"><![CDATA[23. Dec. 2021]]></content>
+        <content type="html"><![CDATA[23. 12월. 2021]]></content>
     </entry>
 </feed>
