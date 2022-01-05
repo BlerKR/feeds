@@ -9,12 +9,10 @@ dateFormat = "yyyy. MM. dd"
 contentSelector = "span.notice-list__date"
 waitUntil = "networkidle"
 
-[boannews]
-title = "보안뉴스 ─ 전체기사"
-url = "https://www.boannews.com/media/t_list.asp"
-entrySelector = "div[id='news_area'] div.news_list"
-titleSelector = "span.news_txt"
-linkSelector = "a"
-contentSelector = "a.news_content"
-imageSelector = "img.news_img"
+[bbc_korean_popular]
+title = "BBC News 코리아 ─ TOP 뉴스"
+url = "https://www.bbc.com/korean/popular/read"
+entrySelector = "ol.e713knt2.bbc-zztj29.e57qer20 li"
+titleSelector = "a.bbc-bta7jm.emesykt4"
+linkSelector = "a.bbc-bta7jm.emesykt4"
 waitUntil = "networkidle"
