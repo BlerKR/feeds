@@ -1,8 +1,16 @@
-[bbc_korean_popular]
+[downloads]
+title = "BBC News 코리아 ─ 다운로드"
+url = "https://www.bbc.com/korean/downloads"
+entrySelector = "div.ws-c-downloads-page__body div[class^='gel-layout__item']"
+titleSelector = "h3.gel-great-primer.gs-u-mt.gs-u-mb"
+linkSelector = "a.nw-o-link-split__text.nw-o-link:nth-child(1)"
+contentSelector = "li:nth-child(1) a.nw-o-link-split__text.nw-o-link:nth-child(1) span.nw-o-download-text"
+waitUntil = "networkidle"
+
+[popular]
 title = "BBC News 코리아 ─ TOP 뉴스"
 url = "https://www.bbc.com/korean/popular/read"
 entrySelector = "ol.e713knt2.bbc-zztj29.e57qer20 li"
 titleSelector = "a.bbc-bta7jm.emesykt4"
 linkSelector = "a.bbc-bta7jm.emesykt4"
-contentSelector = "span.bbc-1kpt1ox.erh4ywh0"
 waitUntil = "networkidle"
