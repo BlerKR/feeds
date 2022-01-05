@@ -1,49 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Combined feed</title>
+        <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
         <lastBuildDate>Wed, 05 Jan 2022 06:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[공연 안내]Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT> (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/11</link>
-            <guid>https://beyondlive.com/notice/11</guid>
-            <pubDate>Wed, 05 Jan 2022 06:28:36 GMT</pubDate>
-            <content:encoded><![CDATA[05. 1월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[완료] Beyond LIVE서비스 점검 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/10</link>
-            <guid>https://beyondlive.com/notice/10</guid>
-            <pubDate>Tue, 04 Jan 2022 08:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[31. 12월. 2021]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[안내 사항] Beyond LIVE iOS 어플리케이션이 출시되었습니다. (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/7</link>
-            <guid>https://beyondlive.com/notice/7</guid>
-            <pubDate>Tue, 04 Jan 2022 08:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[24. 12월. 2021]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연 안내] SMTOWN LIVE 2022: SMCU EXPRESS@KWANGYA (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/6</link>
-            <guid>https://beyondlive.com/notice/6</guid>
-            <pubDate>Tue, 04 Jan 2022 08:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[23. 12월. 2021]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[온라인 공연 스트리밍 플랫폼 Beyond LIVE 공식 오픈 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/4</link>
-            <guid>https://beyondlive.com/notice/4</guid>
-            <pubDate>Tue, 04 Jan 2022 08:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[23. 12월. 2021]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[싱가포르, 국가 간 디지털 협정으로 사이버 안보 강화 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[싱가포르, 국가 간 디지털 협정으로 사이버 안보 강화]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103857&amp;page=1&amp;kind=4</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103857&amp;page=1&amp;kind=4</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -51,7 +16,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/22010301ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[중요해지는 애플리케이션 보안, 열쇠는 개발자들이다 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[중요해지는 애플리케이션 보안, 열쇠는 개발자들이다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103913&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103913&amp;page=1&amp;kind=1</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -59,7 +24,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/coding-thumb-0105.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MS, “로그4j 익스플로잇 시도와 실험이 넘쳐나고 있다” (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[MS, “로그4j 익스플로잇 시도와 실험이 넘쳐나고 있다”]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103911&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103911&amp;page=1&amp;kind=1</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -67,7 +32,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/over-thumb-0105.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[FTC, 로그4j 공격으로부터 소비자 데이터 보호하라고 촉구 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[FTC, 로그4j 공격으로부터 소비자 데이터 보호하라고 촉구]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103910&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103910&amp;page=1&amp;kind=1</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -75,7 +40,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cons-thumb-0105.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구글, 보안 사업 강화 위해 처음으로 이스라엘 기업 매입 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[구글, 보안 사업 강화 위해 처음으로 이스라엘 기업 매입]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103909&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103909&amp;page=1&amp;kind=1</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -83,7 +48,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ma-thumb-0105.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슬림페이, 1200만 고객 정보 노출시켜 18만 유로 벌금형 받아 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[슬림페이, 1200만 고객 정보 노출시켜 18만 유로 벌금형 받아]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103908&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103908&amp;page=1&amp;kind=1</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -91,7 +56,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/fine-thumb-0105.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이더리움 블록체인에서 47개 제로데이 취약점 발견돼 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[이더리움 블록체인에서 47개 제로데이 취약점 발견돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103907&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103907&amp;page=1&amp;kind=1</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -99,7 +64,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/bc-thumb-0105.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[로그4j가 뼈아프게 지적한 소프트웨어 생태계의 약점, 고쳐질까? (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[로그4j가 뼈아프게 지적한 소프트웨어 생태계의 약점, 고쳐질까?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103890&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103890&amp;page=1&amp;kind=1</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -107,7 +72,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/zen-thumb-0104.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021년 하반기 국내외 사이버 위협 동향은? 랜섬웨어부터 로그4j까지 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[2021년 하반기 국내외 사이버 위협 동향은? 랜섬웨어부터 로그4j까지]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103887&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103887&amp;page=1&amp;kind=1</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -115,7 +80,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEkisa20220104-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미국의 유명 숙박 체인점, 랜섬웨어 공격에 당해 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[미국의 유명 숙박 체인점, 랜섬웨어 공격에 당해]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103882&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103882&amp;page=1&amp;kind=1</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -123,7 +88,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/mc-thumb-0104.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주영창 차세대융합기술연구원 원장, 한국공학한림원 정회원 선정 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[주영창 차세대융합기술연구원 원장, 한국공학한림원 정회원 선정]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103914&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103914&amp;page=1&amp;kind=3</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -131,14 +96,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/22010505ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[개인정보위, 개인정보 기술 우수업체 지원해 기술개발 등 성과 확산 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[개인정보위, 개인정보 기술 우수업체 지원해 기술개발 등 성과 확산]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103912&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103912&amp;page=1&amp;kind=2</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)와 한국인터넷진흥원(원장 이원태, 이하 ‘KISA’)은 지난 한 해 △신분증 등 주요 증명서 내 개인...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쏘우웨이브, 북악산공원에 보안 CCTV 고화질영상 전송 무선화 설치 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[쏘우웨이브, 북악산공원에 보안 CCTV 고화질영상 전송 무선화 설치]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103905&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103905&amp;page=1&amp;kind=3</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -146,7 +111,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/22010504ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[과기정통부 조경식 2차관, 사이버안전 대응현장 점검 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[과기정통부 조경식 2차관, 사이버안전 대응현장 점검]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103906&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103906&amp;page=1&amp;kind=2</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -154,7 +119,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1641344792611_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포스코그룹, 신성장사업 R&D 컨트롤타워 ‘미래기술연구원’ 개원 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[포스코그룹, 신성장사업 R&D 컨트롤타워 ‘미래기술연구원’ 개원]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103892&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103892&amp;page=1&amp;kind=3</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -162,7 +127,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-40(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안랩, 2022년 승진인사 및 조직개편 단행 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[안랩, 2022년 승진인사 및 조직개편 단행]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103904&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103904&amp;page=1&amp;kind=3</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -170,14 +135,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ahn_010501_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[충남교육청, 빈틈없이 촘촘한 정보보안 체계 구축 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[충남교육청, 빈틈없이 촘촘한 정보보안 체계 구축]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103897&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103897&amp;page=1&amp;kind=2</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
             <content:encoded><![CDATA[충남교육청은 2021년 교육부 주관 시·도교육청 정보보호 수준 진단에서 ‘매우 우수 등급’을 달성했다고 밝혔다. 이번 진단에서는 정보보안 8개 분야와 개인...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[해양교통안전공단, 빅데이터로 긴급선박 최적 경로 짠다 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[해양교통안전공단, 빅데이터로 긴급선박 최적 경로 짠다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103893&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103893&amp;page=1&amp;kind=2</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -185,14 +150,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-41(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[속초시, CCTV 통합관제센터 강원안심이 앱 연동 안심 지원 서비스 운영 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[속초시, CCTV 통합관제센터 강원안심이 앱 연동 안심 지원 서비스 운영]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103894&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103894&amp;page=1&amp;kind=2</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
             <content:encoded><![CDATA[속초시가 1월부터 CCTV와 스마트폰 앱(강원안심이)을 연동해 어린이·여성을 대상으로 하는 성범죄, 독거 노인 등 생활범죄 취약계층의 긴급상황 발생 시 보...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[무협, 디지털 무역 상담 플랫폼 ‘트레이드프로’ 서비스 개시 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[무협, 디지털 무역 상담 플랫폼 ‘트레이드프로’ 서비스 개시]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103895&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103895&amp;page=1&amp;kind=2</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -200,28 +165,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-43(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[금천구, 금천형 인공지능 스마트 골목길 복합 서비스로 교통안전 지킨다 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[금천구, 금천형 인공지능 스마트 골목길 복합 서비스로 교통안전 지킨다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103896&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103896&amp;page=1&amp;kind=2</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
             <content:encoded><![CDATA[금천구가 교통사고 위험이 큰 골목길에 지역 특성에 맞는 스마트 골목길 복합 서비스를 시행했다. 먼저 차량 과속으로 인한 사고 예방을 위해 어린이보호구역 진...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[충남교육청, 재난안전 대비 능력을 전국에서 인정받다 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[충남교육청, 재난안전 대비 능력을 전국에서 인정받다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103898&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103898&amp;page=1&amp;kind=2</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
             <content:encoded><![CDATA[충남교육청은 2021년도 재난안전 분야 종사자 교육 관리 우수기관으로 선정돼 전국 시·도교육청 최초 행정안전부 장관 기관표창을 수상했다고 밝혔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[남동발전, ICT 기술 적용 스마트 발전소로 안전 최우선 경영 실현 앞장선다 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[남동발전, ICT 기술 적용 스마트 발전소로 안전 최우선 경영 실현 앞장선다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103899&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103899&amp;page=1&amp;kind=3</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
             <content:encoded><![CDATA[남동발전은 최신 ICT 기술을 적용한 ‘KOEN 스마트 안전플랫폼’을 발전소 현장에 운영하며, 안전 최우선 경영 실현에 적극 나서고 있다. 남동발전의 스마...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[국내 모든 공공기술 특허 정보를 한곳에서 본다 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[국내 모든 공공기술 특허 정보를 한곳에서 본다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103901&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103901&amp;page=1&amp;kind=2</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -229,7 +194,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-49(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[알캡처 3.0 버전 출시, 사용자 편의성 높이고 이미지 편집 기능 대폭 강화 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[알캡처 3.0 버전 출시, 사용자 편의성 높이고 이미지 편집 기능 대폭 강화]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103902&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103902&amp;page=1&amp;kind=3</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -237,7 +202,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/est_010501_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국정보기술연구원, 안철수 창립자 초청 특강 개최 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[한국정보기술연구원, 안철수 창립자 초청 특강 개최]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103889&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103889&amp;page=1&amp;kind=3</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -245,7 +210,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ahn_010401_main(0).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유니온커뮤니티, 38억원 규모 국방부 사업 수주 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[유니온커뮤니티, 38억원 규모 국방부 사업 수주]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103888&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103888&amp;page=1&amp;kind=3</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -253,7 +218,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEUNION20220104.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[플라이빗, 정보보호 관리체계(ISMS) 사후관리 심사 통과 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[플라이빗, 정보보호 관리체계(ISMS) 사후관리 심사 통과]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103886&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103886&amp;page=1&amp;kind=3</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
@@ -261,14 +226,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/fly_010401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SGA그룹, 2022년 조직개편 및 임원 인사... 미래 성장 동력 강화 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[SGA그룹, 2022년 조직개편 및 임원 인사... 미래 성장 동력 강화]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103885&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103885&amp;page=1&amp;kind=1</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
             <content:encoded><![CDATA[SGA 그룹은 미래 성장 동력 강화를 위한 2022년 조직 개편 및 임원 인사를 단행했다고 4일 밝혔다. 그룹 계열사를 IT서비스, 솔루션, 금융 3개의 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스에스알-아이오트러스트, 가상자산 전자지갑 보안성 강화를 위한 전략적 업무협약 체결 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[에스에스알-아이오트러스트, 가상자산 전자지갑 보안성 강화를 위한 전략적 업무협약 체결]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103884&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103884&amp;page=1&amp;kind=3</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:47 GMT</pubDate>
