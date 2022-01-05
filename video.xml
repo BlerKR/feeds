@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 18:44:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 19:04:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -55,6 +55,13 @@
             <content:encoded><![CDATA[3:46]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요']]></title>
+            <link>https://www.bbc.com/korean/news-47167180</link>
+            <guid>https://www.bbc.com/korean/news-47167180</guid>
+            <pubDate>Wed, 05 Jan 2022 18:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[7:07]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[코로나19: 한국의 대응법에 관한 강경화 외교장관 인터뷰]]></title>
             <link>https://www.bbc.com/korean/51923204</link>
             <guid>https://www.bbc.com/korean/51923204</guid>
@@ -69,18 +76,11 @@
             <content:encoded><![CDATA[3:13]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블랙홀 최초 사진... '괴물급이다']]></title>
-            <link>https://www.bbc.com/korean/news-47889936</link>
-            <guid>https://www.bbc.com/korean/news-47889936</guid>
-            <pubDate>Wed, 05 Jan 2022 18:31:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요']]></title>
-            <link>https://www.bbc.com/korean/news-47167180</link>
-            <guid>https://www.bbc.com/korean/news-47167180</guid>
-            <pubDate>Wed, 05 Jan 2022 18:31:33 GMT</pubDate>
-            <content:encoded><![CDATA[7:07]]></content:encoded>
+            <title><![CDATA[플라스틱 오염: 40kg에 달하는 플라스틱을 먹고 숨진 고래]]></title>
+            <link>https://www.bbc.com/korean/news-47634283</link>
+            <guid>https://www.bbc.com/korean/news-47634283</guid>
+            <pubDate>Wed, 05 Jan 2022 19:04:17 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
         </item>
     </channel>
 </rss>
