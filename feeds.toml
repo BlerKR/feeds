@@ -1,4 +1,4 @@
-[]
+[news]
 title = "BBC News 코리아 ─ 뉴스"
 url = "https://www.bbc.com/korean"
 entrySelector = "div.bbc-1dblbh1.e17m6msg1 ul.e57qer20.bbc-10m7ymo.eom0ln50 li"
