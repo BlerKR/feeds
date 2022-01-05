@@ -8,3 +8,13 @@ dateSelector = "notice-list__date"
 dateFormat = "yyyy. MM. dd"
 contentSelector = "span.notice-list__date"
 waitUntil = "networkidle"
+
+[boannews]
+title = "보안뉴스 ─ 전체기사"
+url = "https://www.boannews.com/media/t_list.asp"
+entrySelector = "div[id='news_area'] div.news_list"
+titleSelector = "span.news_txt"
+linkSelector = "a"
+contentSelector = "a.news_content"
+imageSelector = "img.news_img"
+waitUntil = "networkidle"
