@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 03:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 04:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 10 Jan 2022 03:19:10 GMT</pubDate>
             <content:encoded><![CDATA[32명이 병원으로 이송됐으며 이 가운데 몇 명은 중태다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/7259/production/_122637292_newyorkonegetty.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카불공항서 미군에 건넸다 실종된 아기, 조부와 재회]]></title>
+            <link>https://www.bbc.com/korean/international-59932732</link>
+            <guid>https://www.bbc.com/korean/international-59932732</guid>
+            <pubDate>Mon, 10 Jan 2022 04:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[당시 생후 2개월 된 소하일 아흐마디는 인파 속에서 미군에게 넘겨졌다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/679B/production/_122632562_mediaitem122632561.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['집다운 집에서 살고파'… 전 세계로 번지는 '작은 집 짓기' 붐]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 09 Jan 2022 02:38:32 GMT</pubDate>
             <content:encoded><![CDATA[최근 발표된 심리학 연구가 그 해답이 될지도 모른다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BB9F/production/_122613084_24af9b8f-1723-46a5-9702-8a6dbc4c44ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문재인 대통령 순직 소방관 영결식 참석...10년간 49명]]></title>
-            <link>https://www.bbc.com/korean/news-59906335</link>
-            <guid>https://www.bbc.com/korean/news-59906335</guid>
-            <pubDate>Sun, 09 Jan 2022 02:38:32 GMT</pubDate>
-            <content:encoded><![CDATA[지난 10년동안 화재진압이나 구조작업을 하다가 순직한 소방관은 49명에 이른다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4A57/production/_122613091_mediaitem122613090.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
