@@ -13,7 +13,7 @@ url = "https://uppity.co.kr/serial"
 entrySelector = "div._post_row.post_row.tabled div.list-style-card.table-cell._card_wrap:nth-child(n+2)"
 titleSelector = "div.title.title-block"
 linkSelector = "a"
-contentSelector = "div.title.title-block span""
+contentSelector = "div.title.title-block span"
 imageSelector = "div.card_wrapper"
 waitUntil = "networkidle"
 
