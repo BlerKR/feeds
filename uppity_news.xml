@@ -1,74 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://BlerKR.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-01-10T11:53:32.123Z</updated>
+    <id>https://uppity.co.kr/news</id>
+    <title>어피티 ─ 뉴스</title>
+    <updated>2022-01-10T11:53:32.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
-        <title type="html"><![CDATA[[2022. 01. 10] 헬스케어 투자에 관심 있다면? (어피티 ─ 뉴스)]]></title>
+        <title type="html"><![CDATA[[2022. 01. 10] 헬스케어 투자에 관심 있다면?]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9394732&amp;t=board</id>
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9394732&amp;t=board"/>
         <updated>2022-01-10T11:53:31.383Z</updated>
         <content type="html"><![CDATA[증권]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[2022. 01. 10]모두의 주식이 떨어진 이유 (어피티 ─ 뉴스)]]></title>
+        <title type="html"><![CDATA[[2022. 01. 10]모두의 주식이 떨어진 이유]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9394719&amp;t=board</id>
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9394719&amp;t=board"/>
         <updated>2022-01-10T11:53:31.387Z</updated>
         <content type="html"><![CDATA[증권]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[2022. 01. 07] 핑크퐁 회사의 Next step (어피티 ─ 뉴스)]]></title>
+        <title type="html"><![CDATA[[2022. 01. 07] 핑크퐁 회사의 Next step]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9361060&amp;t=board</id>
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9361060&amp;t=board"/>
         <updated>2022-01-10T11:53:31.387Z</updated>
         <content type="html"><![CDATA[금융]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[2022. 01. 07] 고시원의 모든 방마다 창문을 허하라 (어피티 ─ 뉴스)]]></title>
+        <title type="html"><![CDATA[[2022. 01. 07] 고시원의 모든 방마다 창문을 허하라]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9361039&amp;t=board</id>
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9361039&amp;t=board"/>
         <updated>2022-01-10T11:53:31.388Z</updated>
         <content type="html"><![CDATA[경제일반]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[2022. 01. 06] ┏(°0°)┛: 300만 원 (어피티 ─ 뉴스)]]></title>
+        <title type="html"><![CDATA[[2022. 01. 06] ┏(°0°)┛: 300만 원]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9347485&amp;t=board</id>
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9347485&amp;t=board"/>
         <updated>2022-01-10T11:53:31.390Z</updated>
         <content type="html"><![CDATA[증권]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[2022. 01. 06] ‘편의점 식사’의 원조, 누가 사갈까? (어피티 ─ 뉴스)]]></title>
+        <title type="html"><![CDATA[[2022. 01. 06] ‘편의점 식사’의 원조, 누가 사갈까?]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9347470&amp;t=board</id>
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9347470&amp;t=board"/>
         <updated>2022-01-10T11:53:31.391Z</updated>
         <content type="html"><![CDATA[경제일반]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[2022. 01. 05] 삼성전자의 AI 아바타와 로봇? (어피티 ─ 뉴스)]]></title>
+        <title type="html"><![CDATA[[2022. 01. 05] 삼성전자의 AI 아바타와 로봇?]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9332693&amp;t=board</id>
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9332693&amp;t=board"/>
         <updated>2022-01-10T11:53:31.393Z</updated>
         <content type="html"><![CDATA[증권]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[2022. 01. 05] 친환경 에너지, 중동에서 수출한다면? (어피티 ─ 뉴스)]]></title>
+        <title type="html"><![CDATA[[2022. 01. 05] 친환경 에너지, 중동에서 수출한다면?]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9332657&amp;t=board</id>
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9332657&amp;t=board"/>
         <updated>2022-01-10T11:53:31.394Z</updated>
         <content type="html"><![CDATA[글로벌]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[2022. 01. 04] 카뱅 주담대 뭐가 다를까? (어피티 ─ 뉴스)]]></title>
+        <title type="html"><![CDATA[[2022. 01. 04] 카뱅 주담대 뭐가 다를까?]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9324364&amp;t=board</id>
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9324364&amp;t=board"/>
         <updated>2022-01-10T11:53:31.401Z</updated>
         <content type="html"><![CDATA[금융]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[2022. 01. 04] 원전이 친환경에 포함된다? (어피티 ─ 뉴스)]]></title>
+        <title type="html"><![CDATA[[2022. 01. 04] 원전이 친환경에 포함된다?]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9324275&amp;t=board</id>
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9324275&amp;t=board"/>
         <updated>2022-01-10T11:53:31.404Z</updated>
