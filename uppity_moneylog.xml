@@ -4,9 +4,21 @@
         <title>어피티 ─ 머니로그</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 04:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 02:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공지
+																			
+											4,000~5,000만원
+										
+																		머니로그 																			N]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jan 2022 02:37:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em style="padding-right:5px;color:#A5A5A7;display: ">4,000~5,000만원</em>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20220105/313d7533b99c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공지
 																			
@@ -282,18 +294,6 @@
             <pubDate>Mon, 10 Jan 2022 17:48:57 GMT</pubDate>
             <content:encoded><![CDATA[<em style="padding-right:5px;color:#A5A5A7;display: ">2,000~3,000만원</em>]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20210714/6e2e662723d90.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											2,000~3,000만원
-										
-																		리밸런싱이 필요해! 2년 차 사회복지사의 머니로그]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=7167277&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=7167277&amp;t=board</guid>
-            <pubDate>Mon, 10 Jan 2022 17:48:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em style="padding-right:5px;color:#A5A5A7;display: ">2,000~3,000만원</em>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20210706/91e034ba89fc6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
