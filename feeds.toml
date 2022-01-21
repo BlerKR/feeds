@@ -1,9 +1,9 @@
-[news]
-title = "무신사 ─ 패션 뉴스"
-url = "https://www.musinsa.com/mz/news"
-entrySelector = "ul.scmenu-list.news li"
-titleSelector = "div.info h3 a:nth-child(2)"
-linkSelector = "div.info h3 a:nth-child(2)"
-contentSelector = "p.context"
-imageSelector = "span.imgBox img"
-waitForSelector = "ul.scmenu-list.news li"
+[festa_latest]
+title = "페스타 ─ 최신 밋업과 이벤트"
+url = "https://festa.io/explore"
+entrySelector = "div[id='landing-new'] div.sc-1l2ivie-0.jQtjbR a.aha817-0.gddsSO"
+titleSelector = "div.aha817-5.iRPtvP"
+linkSelector = "*"
+contentSelector = "div.aha817-4.kfTkhW"
+imageSelector = "div.aha817-2.lktgLL div"
+waitUntil = "networkidle"
