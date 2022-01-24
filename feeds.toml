@@ -7,3 +7,13 @@ linkSelector = "*"
 contentSelector = "div.aha817-4.kfTkhW"
 imageSelector = "div.aha817-2.lktgLL div"
 waitUntil = "networkidle"
+
+[vip_video_notion-team]
+title = "Notion VIP ─ Notion Team"
+url = "https://www.notion.vip/insights/videos/notion-team/"
+entrySelector = "div.content-sidebar-wrap main.content article"
+titleSelector = "h2.entry-title a.entry-title-link"
+linkSelector = "h2.entry-title a.entry-title-link"
+contentSelector = "*"
+imageSelector = "a.nVip__postList__entryThumbnailLink img"
+waitUntil = "networkidle"
