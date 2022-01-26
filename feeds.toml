@@ -17,3 +17,12 @@ linkSelector = "h2.entry-title a.entry-title-link"
 contentSelector = "*"
 imageSelector = "a.nVip__postList__entryThumbnailLink img"
 waitUntil = "networkidle"
+
+[mglaw_panre]
+title = "대한민국 법원 종합법률정보 ─ 판례 ─ 화졔의 판례"
+url = "https://mglaw.scourt.go.kr/wsjs/panre/sjs060.do?tabId=1"
+entrySelector = "section.contents_list div[id='data_list'] dl.lst_blink"
+titleSelector = "dt a"
+linkSelector = "dt a"
+contentSelector = "dd"
+waitUntil = "networkidle"
