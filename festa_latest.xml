@@ -4,9 +4,17 @@
         <title>페스타 ─ 최신 밋업과 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 04:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 02:33:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리얼리눅스 온라인: 수준별 리눅스 교육 2월 모집]]></title>
+            <link>https://festa.io/events/2097</link>
+            <guid>https://festa.io/events/2097</guid>
+            <pubDate>Wed, 26 Jan 2022 02:33:10 GMT</pubDate>
+            <content:encoded><![CDATA[1월 24일 (월) · 온라인]]></content:encoded>
+            <enclosure url="https://cf.festa.io/img/2022-1-25/89a25725-13ff-46ac-8933-210d6b2023cd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[웨비나] 클라우드에서 보안파일 서버가 필요할 땐, OfficeHARD VEX]]></title>
             <link>https://festa.io/events/2095</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 21 Jan 2022 18:13:46 GMT</pubDate>
             <content:encoded><![CDATA[2월 22일 (화) · 온라인]]></content:encoded>
             <enclosure url="https://cf.festa.io/img/2022-1-14/fcb59abe-1eb3-4977-b30b-9a35f7d4efe6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NVIDIA DLI 앰배서더 챌린지 2022]]></title>
-            <link>https://festa.io/events/2071</link>
-            <guid>https://festa.io/events/2071</guid>
-            <pubDate>Fri, 21 Jan 2022 18:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[1월 17일 (월) · 온라인]]></content:encoded>
-            <enclosure url="https://cf.festa.io/img/2022-1-10/2f89ed56-4172-4b55-a30b-0269302d8c18.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
