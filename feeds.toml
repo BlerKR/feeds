@@ -1,28 +1,8 @@
-[festa_latest]
-title = "페스타 ─ 최신 밋업과 이벤트"
-url = "https://festa.io/explore"
-entrySelector = "div[id='landing-new'] div.sc-1l2ivie-0.jQtjbR a.aha817-0.gddsSO"
-titleSelector = "div.aha817-5.iRPtvP"
+[disquiet_product]
+title = "Disquiet ─ 프로덕트"
+url = "https://disquiet.io/?sort=recent&type=product"
+entrySelector = "//html/body/div[3]/div[2]/div[2]/div[6]/div/div[2]/div/div/div[2]"
+titleSelector = "div.card-title"
 linkSelector = "*"
-contentSelector = "div.aha817-4.kfTkhW"
-imageSelector = "div.aha817-2.lktgLL div"
-waitUntil = "networkidle"
-
-[vip_video_notion-team]
-title = "Notion VIP ─ Notion Team"
-url = "https://www.notion.vip/insights/videos/notion-team/"
-entrySelector = "div.content-sidebar-wrap main.content article"
-titleSelector = "h2.entry-title a.entry-title-link"
-linkSelector = "h2.entry-title a.entry-title-link"
-contentSelector = "*"
-imageSelector = "a.nVip__postList__entryThumbnailLink img"
-waitUntil = "networkidle"
-
-[mglaw_panre]
-title = "대한민국 법원 종합법률정보 ─ 판례 ─ 화졔의 판례"
-url = "https://mglaw.scourt.go.kr/wsjs/panre/sjs060.do?tabId=1"
-entrySelector = "section.contents_list div[id='data_list'] dl.lst_blink"
-titleSelector = "dt a"
-linkSelector = "dt a"
-contentSelector = "dd"
+contentSelector = "div.sc-jEUCeg.fklEVh div.sc-bOdqNl.jzLQXV"
 waitUntil = "networkidle"
