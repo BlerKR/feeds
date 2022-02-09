@@ -4,9 +4,33 @@
         <title>더밀크 ─ Investing ─ 최신기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 04:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 02:34:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동영상 사진 자동태깅 해준다 : 와이어스톡]]></title>
+            <link>https://themiilk.com/articles/a55aaca3a</link>
+            <guid>https://themiilk.com/articles/a55aaca3a</guid>
+            <pubDate>Wed, 09 Feb 2022 02:34:33 GMT</pubDate>
+            <content:encoded><![CDATA[와이어스톡(Wirestock)은 콘텐츠 크리에이터가 제작한 사진, 그래픽 및 비디오를 단 몇 초 만에 수익화로 연결할 수 있도록 지원하는 플랫폼이다. 제작자는 클릭 몇 번으로 콘텐츠를 포스팅하고 와이어스톡 계정과 연결된 컨텐츠 마켓플레이스에서 판매 가능하다. 와이어스톡은 2021년에만 100만 달러 이상의 매출을 올렸으며 이러한 성장에 힘입어 최근 1월 25일 230만달러의 얼리 스테이지(Early Stage) 투자유치에 성공했다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/image.themiilk.com/production/article/91643a1ba7/bdc43b1740_1644371754" length="0" type="image/com/production/article/91643a1ba7/bdc43b1740_1644371754"/>
+        </item>
+        <item>
+            <title><![CDATA[커뮤니티가 만든 미래 게임 유니콘: 알타]]></title>
+            <link>https://themiilk.com/articles/a4993a1e7</link>
+            <guid>https://themiilk.com/articles/a4993a1e7</guid>
+            <pubDate>Wed, 09 Feb 2022 02:34:33 GMT</pubDate>
+            <content:encoded><![CDATA[코로나 팬데믹 이후 온라인 게임 이용률이 급증하면서 '온라인 게임'에 대한 인식이 바뀌고 있다. 특히 e스포츠가 올림픽 정식 종목으로 채택하는 것도 검토되고 메타버스 붐으로 인해 중요한 '미래 산업'으로 꼽히고 있는 것. 특히 '메타버스'의 핵심 공간이 게임으로 꼽히면서 메타, 마이크로소프트, 소니, 엔비디아 등 대기업이 적극적으로 움직이고 있다. 때문에 각 기업들은 미래 메타버스를 지배할 게임을 찾거나 개발에 집중하고 있는 상황이다. 테이크투가 징가를, 마이크로소프트는 블리자드를, 소니는 번지를 인수하는 ‘빅딜'이 이어진 것도 이 같은 배경이다. 여기에 온라인 부동산 게임 디센트럴랜드(Decentraland), 아바타 채팅 VR챗(VRChat), 크리에이터 커뮤니티를 강화한 렉룸(RecRoom) 등 스타트업도 주목받고 있다. 호주 스타트업 알타(ALTA)의 ‘어 타운쉽 테일(A Township Tale)’도 떠올랐다. 알타는 게임쇼 팍스 오스트레일리아(PAX Austrailia)에서 인디게임 상을 받았다. 실리콘밸리 유명 벤처캐피탈이 알타에 투자하며 이들의 행보에 눈길이 쏠린다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/image.themiilk.com/production/article/5de6a2a43b/27e105cccb_1644369018" length="0" type="image/com/production/article/5de6a2a43b/27e105cccb_1644369018"/>
+        </item>
+        <item>
+            <title><![CDATA[안면인식, 자동으로 모자이크 해준다 : 핌락]]></title>
+            <link>https://themiilk.com/articles/a235de2b5</link>
+            <guid>https://themiilk.com/articles/a235de2b5</guid>
+            <pubDate>Wed, 09 Feb 2022 02:34:33 GMT</pubDate>
+            <content:encoded><![CDATA[코로나 팬데믹 이후 테크의 기하급수적 발전과 함께 개인 정보 보호에 대한 인식도 높아지고 있다. 개인정보도 개인의 건강만큼 중요한 정보라는 인식이 확산되고 있기 때문. 하지만 각 도시는 범죄 예방을 이유로 감시카메라(CCTV)가 곳곳에 퍼져 있어서 개인 정보 침해 우려는 커지고 있다. 사생활 침해 논란이 크다. 하지만 CCTV가 주는 장점도 있기 때문에 쉽게 포기하긴 어렵다. 그렇다면 CCTV 확산은 인정하면서도 개인 정보 침해를 막을 수 있는 방법은 없을까?  핌락(Pimloc)은 비디오 영상에서 민감한 개인정보를 모자이크하고 프라이버시를 지키는 기술을 개발하는 스타트업이다. 머신러닝과 컴퓨터 비전 기술을 활용, 영상과 시각 콘텐츠에서 사람 얼굴 등 민감 부분을 찾아낸다. 민감한 데이터를 모자이크 처리해  콘텐츠를 익명화 (Secure Redact)하는 것이 특징이다. 핌락의 솔루션은 운송, 엔터테인먼트, 소매, 교육, 제조, 의료, 법 집행 기관 및 정부를 포함한 다양한 기관과 분야에서 사용된다. 기업과 조직은 핌락을 활용, 개인 정보를 침해하지 않으면서 보안을 강화하는 방법으로 시각 데이터를 처리한다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/image.themiilk.com/production/article/4a74ad8a80/2ecefc22c5_1644368640" length="0" type="image/com/production/article/4a74ad8a80/2ecefc22c5_1644368640"/>
+        </item>
         <item>
             <title><![CDATA["지금 메타버스는 LP판 수준"...로블록스 CEO에게 듣는 메타버스]]></title>
             <link>https://themiilk.com/articles/ab3441ee5</link>
@@ -62,30 +86,6 @@
             <pubDate>Wed, 02 Feb 2022 02:29:01 GMT</pubDate>
             <content:encoded><![CDATA[연준의 통화정책이 지난 10년간 보지 못한 공격적인 전환을 시사하면서 월가 역시 대책 마련에 시급한 모습이다. 골드만삭스는 올해 연준의 5회 금리인상을 전망했다. 불과 한달 전 4회 인상에서 상향 조정된 것이다. 채권시장 역시 올해 5회 이상의 금리인상 가능성에 98% 이상을 가격에 반영하고 있는 것으로 나타났다. 연준의 공격적 긴축 기조가 나타난 12월 의사록 공개이후 1월 한달간 S&amp;P500은 고점에서 11%에 달하는 하락세를 보였다. 밸류에이션의 부담이 있는 나스닥은 고점에서 17%가 넘게 하락하며 가히 연준의 정책 전환으로 인한 테이퍼 텐트럼이라 할 만한 수준의 조정을 보였다.세계 최대의 자산운용사 중 하나라 할 수 있는 피델리티의 주리엔 티머 글로벌 매크로 총괄이사는 "연준의 정책 정상화에 이머징이 피난처가 될 수 있을것이라다" 고 기대했다. 그는 트위터를 통해 "이머징마켓은 2021년에 어려움을 겪었지만 중국은 다시 부양책을 실시하고 있고 미국과 이머징 기업들의 어닝갭은 좁혀지고 있다."면서 중국의 경제가 회복하는 근거로 바닥에서 회복하는 신용자극지수를 꼽았다. 또 미국 기업들의 어닝 성장률이 정점을 찍고 둔화하고 있는 반면 이머징 국가들의 어닝 성장률은 안정을 찾으며 반등하는 모습을 보이고 있다는 점 역시 긍정적으로 봤다. 실제로 중국을 제외한 이머징 국가 지수는 1월중 사상최고가를 경신했고 중국이 포함된 이머징 지수 역시 미국의 S&amp;P500에 비교해 월등한 퍼포먼스를 기록했다.]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/image.themiilk.com/production/article/9f8efba955/2b0940a8e2_1643736746" length="0" type="image/com/production/article/9f8efba955/2b0940a8e2_1643736746"/>
-        </item>
-        <item>
-            <title><![CDATA[스마트 맞춤형 인력 채용·관리 플랫폼: 워크스텝]]></title>
-            <link>https://themiilk.com/articles/a2a737295</link>
-            <guid>https://themiilk.com/articles/a2a737295</guid>
-            <pubDate>Wed, 02 Feb 2022 02:29:01 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 팬데믹 기간 중 음식 서빙에서부터 포장, 배달에 이르기까지 이른바 '프론트라인' 노동자들에 대한 중요성이 크게 부각됐다. 전 세계적인 구인난으로 잔여 노동력에 대한 의존도가 높아지고, 노동 강도는 더욱 세졌다. 기록적인 이직률이 발생한 이유도 이 때문이다. 기업들은 여전히 일손 부족으로 어려움을 겪고 있다.'워크스텝(WorkStep)'은 대형 물류 회사의 인력 채용과 관리를 돕는 플랫폼이다. 근로자를 모집, 참여 및 투자하는 방식을 획기적으로 개선하고, 기업별 규모에 맞는 솔루션을 제공한다는 평가를 받는다.특히 새로운 인력을 발굴, 양성하는 데 도움을 줄 뿐만 아니라 이직률을 낮추는 효율적인 방안도 제시한다. 워크스텝은 인력 채용과 운영 등 직원 라이프사이클 전반에 걸쳐 '투명성'을 제공하면서 직원 이탈을 최소화한다. 이를 통해 기업에 인력 재배치나 재교육에 드는 비용을 절감할 수 있도록 돕고 있다.워크스텝은 팬데믹 기간 중 더욱더 빠르게 성장하고 있다. 2021년 매출은 전년 대비 3배 이상 늘었다. 올해도 지난해와 비교해 3배 이상 성장할 것으로 회사 측은 기대하고 있다.]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/image.themiilk.com/production/article/1a9952c85b/5340c0ccd0_1643731309" length="0" type="image/com/production/article/1a9952c85b/5340c0ccd0_1643731309"/>
-        </item>
-        <item>
-            <title><![CDATA[금리 인상 받아들인 시장...“연말까지 6~7% 오를 것”]]></title>
-            <link>https://themiilk.com/articles/a94a0af71</link>
-            <guid>https://themiilk.com/articles/a94a0af71</guid>
-            <pubDate>Tue, 01 Feb 2022 02:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[계속 부진했던 뉴욕 증시 3대 지수가 반등으로 1월의 마지막 날을 마무리했다. 기술주 중심의 나스닥 지수가 급등세를 보이며 시장 회복 가능성을 보여줬다.31일(현지시각) 뉴욕 증시에서 S&amp;P 500지수는 전 거래일보다 1.89% 오른 4515.55를 기록했다. 다우존스지수는 1.17% 상승한 3만5131.86으로 거래를 마쳤다. 나스닥 지수는 3.41% 급등한 1만4239.88로 마감했다.러시아가 우크라이나 국경에 군대를 집결하고 북한이 4년여 만에 중거리탄도미사일을 발사하는 등 국제정세가 불안하고, 미국 연준의 금리 인상이 예고돼 있는 가운데 반등에 성공한 것이다.데니스 드부셰(Dennis Debusschere) 22V 리서치 설립자인 투자 전문 매체 배런스와의 인터뷰에서 “시장이 과매도 상태에 있다는 것을 모두가 이해하고 있다”며 “일부 시장 안정화 또는 단기 랠리(상승)가 있을 수 있다”고 말했다.]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/image.themiilk.com/production/article/1a44d77c87/b47e3876b8_1643741495" length="0" type="image/com/production/article/1a44d77c87/b47e3876b8_1643741495"/>
-        </item>
-        <item>
-            <title><![CDATA[달러 강세, 유가 초강세... 나스닥엔 호재되나]]></title>
-            <link>https://themiilk.com/articles/ad9337399</link>
-            <guid>https://themiilk.com/articles/ad9337399</guid>
-            <pubDate>Tue, 01 Feb 2022 02:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[좋은 주말 보내셨나요? 한국은 음력 설이네요. 구독자 여러분들 모두 새해 복 많이 받으시고 올 한해도 성공 투자하셔서 모두 경제적 자유를 이루는 한 해가 되시길 바랍니다.오늘(31일)은 투자자들에게 정말 악몽과도 같았던 1월의 마지막 날이었습니다. S&amp;P500은 지난주까지 약 8%가 가깝게 빠졌고요. 나스닥은 고점에서 15%가 넘게 하락하며 완전한 조정장에 돌입한 달이기도 합니다. 작년만 해도 S&amp;P500은 1년 내내 단 5% 이상의 풀백을 허락한 적이 없을 정도로 강력한 모습을 보였는데요. 2022년은 시작하자마자 무려 11%가 빠지며 시장이 왜 무서운지 여실히 보여줬습니다.에너지가 여전히 화재의 중심에 있습니다. 지난주도 에너지 섹터는 무려 5%가 오르면서 압도적인 퍼포먼스를 선사했는데요. 나스닥 역시 2.2%가 오르면서 화려한 컴백을 했습니다. 물론 워낙 하락 폭이 컸던 만큼 튀어 오르는 탄성 역시 컸던 것으로 보이는데요. 금리인상에 혜택을 받는 파이낸셜 섹터가 1.3%의 상승세를 보이며 시장을 주도했습니다.]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/image.themiilk.com/production/article/9d43f2d7d3/9987470b48_1643675718" length="0" type="image/com/production/article/9d43f2d7d3/9987470b48_1643675718"/>
         </item>
     </channel>
 </rss>
