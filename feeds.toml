@@ -1,7 +1,7 @@
 [indiehackers]
 title = "Indie Hackers"
 url = "https://www.indiehackers.com/"
-entrySelector = "div[id='ember1194'] div[class='feed-item feed-item--compact feed-item--post feed-item--post-in-group ember-view'] "
+entrySelector = "div[id='ember1194'] div[class='feed-item feed-item--compact feed-item--post feed-item--post-in-group ember-view']"
 titleSelector = "div.feed-item__content a.ember-view.feed-item__title-link font font"
 linkSelector = "div.feed-item__content a.ember-view.feed-item__title-link"
 contentSelector = "span.user-link__name.user-link__name--username"
