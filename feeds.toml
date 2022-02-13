@@ -6,4 +6,4 @@ titleSelector = "div.feed-item__content a.ember-view.feed-item__title-link font 
 linkSelector = "div.feed-item__content a.ember-view.feed-item__title-link"
 contentSelector = "span.user-link__name.user-link__name--username"
 imageSelector = "picture.user-avatar.ember-view.user-link__avatar img"
-waitUntil = "networkidle"
+waitForSelector = "div[id='ember1194'] div[class='feed-item feed-item--compact feed-item--post feed-item--post-in-group ember-view']"
