@@ -1,9 +1,9 @@
-[magazines]
-title = "VIBE ─ 매거진"
-url = "https://vibe.naver.com/magazines"
-entrySelector = "ul.mag_list li.list_item"
-titleSelector = "div.info a.title"
-linkSelector = "div.thumb_area a.link"
-contentSelector = "div.info div.sub span.item"
-imageSelector = "div.thumb img.v-lazy-image.v-lazy-image-loaded"
+[news]
+title = "VIBE ─ NEWS"
+url = "https://vibe.naver.com/today"
+entrySelector = "div.list_wrap_news div ul.scroll_list li.list_item"
+titleSelector = "a.title"
+linkSelector = "a.link_sub"
+contentSelector = "a.title"
+imageSelector = "div.thumb img"
 waitUntil = "networkidle"
