@@ -1,9 +1,9 @@
-[indiehackers]
-title = "Indie Hackers"
-url = "https://www.indiehackers.com/"
-entrySelector = "div[id='ember1194'] div[class='feed-item feed-item--compact feed-item--post feed-item--post-in-group ember-view']"
-titleSelector = "div.feed-item__content a.ember-view.feed-item__title-link font font"
-linkSelector = "div.feed-item__content a.ember-view.feed-item__title-link"
-contentSelector = "span.user-link__name.user-link__name--username"
-imageSelector = "picture.user-avatar.ember-view.user-link__avatar img"
-waitForSelector = "div[id='ember1194'] div[class='feed-item feed-item--compact feed-item--post feed-item--post-in-group ember-view']"
+[magazines]
+title = "VIBE ─ 매거진"
+url = "https://vibe.naver.com/magazines"
+entrySelector = "ul.mag_list li.list_item"
+titleSelector = "div.info a.title"
+linkSelector = "div.thumb_area a.link"
+contentSelector = "div.info div.sub span.item"
+imageSelector = "div.thumb img.v-lazy-image.v-lazy-image-loaded"
+waitUntil = "networkidle"
