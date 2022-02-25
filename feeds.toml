@@ -1,10 +1,9 @@
-[mbc-video]
-title = "출발! 비디오 여행 ─ 네이버TV"
-url = "https://tv.naver.com/mbc.video/clips"
-entrySelector = "div[class^='cds _MM_CARD']"
-titleSelector = "dt.title"
-linkSelector = "dt.title a"
-imageSelector = "div.cds_type a img"
-contentSelector = "span.tm_b"
+[imbc_govideo]
+title = "출발! 비디오 여행 ─ 스페셜영상"
+url = "https://m.imbc.com/VOD/SketchList/1000827100000100000?type=3"
+entrySelector = "div.documentation ul.wrap-item li.item"
+titleSelector = "div.title span.tit"
+linkSelector = "a"
+contentSelector = "div.meta span.date"
+imageSelector = "div.w_photo img"
 waitUntil = "networkidle"
-onFail = "stale"
