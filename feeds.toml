@@ -1,9 +1,8 @@
-[imbc_govideo]
-title = "출발! 비디오 여행 ─ 스페셜영상"
-url = "https://m.imbc.com/VOD/SketchList/1000827100000100000?type=3"
-entrySelector = "div.documentation ul.wrap-item li.item"
-titleSelector = "div.title span.tit"
+[today_more]
+title = "alookso ─ 투데이"
+url = "https://alook.so/"
+entrySelector = "section:nth-child(2) > div.hidden.md:block > div > div.flex.items-center.space-x-4"
+titleSelector = "div.mb-1.space-y-2 > div.text-lg.font-semibold.text-gray-800.break-all.line-clamp-2 > a"
 linkSelector = "a"
-contentSelector = "div.meta span.date"
-imageSelector = "div.w_photo img"
+contentSelector = "div.mb-1.space-y-2 > div.hidden.text-sm.font-normal.text-gray-400.md:line-clamp-2.md:block > a"
 waitUntil = "networkidle"
