@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BlerKR.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-02T08:38:59.135Z</updated>
+    <updated>2022-03-03T02:41:58.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (alookso ─ 투데이)]]></title>
-        <id>https://alook.so/posts/6MtDzo</id>
-        <link href="https://alook.so/posts/6MtDzo"/>
-        <updated>2022-03-02T08:38:58.474Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtDzo">푸틴에게 나토와 동성애가 똑같은 이유 [푸틴은 합리적인가?]</a>]]></content>
+        <id>https://alook.so/posts/eVt3wY</id>
+        <link href="https://alook.so/posts/eVt3wY"/>
+        <updated>2022-03-03T02:41:57.836Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt3wY">제20대 대선후보 컨닝페이퍼 생성기를 공개합니다!</a>]]></content>
     </entry>
 </feed>
