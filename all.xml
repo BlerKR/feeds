@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BlerKR.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-07T04:21:37.200Z</updated>
+    <updated>2022-03-08T02:35:58.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[undefined (alookso ─ 투데이)]]></title>
+        <id>https://alook.so/posts/Batwr2</id>
+        <link href="https://alook.so/posts/Batwr2"/>
+        <updated>2022-03-08T02:35:57.776Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Batwr2">시진핑은 왜 "한국은 사실상 중국의 일부"라고 말했을까 [푸틴은 합리적인가?]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[undefined (alookso ─ 투데이)]]></title>
         <id>https://alook.so/posts/54tLlG</id>
