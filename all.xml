@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 15:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 15:27:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -131,6 +131,16 @@
 <span>여러분, 혹시 그거 아세요? 중앙선관위에 따르면, 이번 선거에서 사용된 벽보를 모두 모으면 서울월드컵경기장의 11배 넓이가 된다고 해요. 투표용지를 쌓으면 높이가 4400m로 서울롯데월드타워의 8배가 된다고 하네요!</span><br>
 <br>
 <span>당선자는 언제 확실히 알 수 있을까요? 15~19대 대선 평균 개표시간은 5시간 16분이었다고 하네요. 이번 선거 개표를 오후 7시30분에 시작할 예정이라고 하니, 밤 12시 넘으면 새로운 대통령은 누가 될지 알 수 있겠네요!신기하지 않으신가요? 이것들 외...</span>]]></content:encoded>
+            <enclosure url="https://alook.so/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMDlrQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8b3eeb66cbd136dda715140464fbea84d8ef5d83/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMmxGYVVVNkRHTnZiblpsY25SSklnaHFjR2NHT3daVU9ncHpZWFpsY25zSU9neHhkV0ZzYVhSNWFWVTZDbk4wY21sd1ZEb1BZbUZqYTJkeWIzVnVaRnNJYVFIL2FRSC9hUUgvIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--1306baa159120451b1d9ea1cb3547f28ea3e5b0b/editor.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Live🛑] 대선 라이브 업데이트(최종 - 15신 00:40) (alookso ─ 투데이)]]></title>
+            <link>https://alook.so/posts/dztM1m</link>
+            <guid>https://alook.so/posts/dztM1m</guid>
+            <pubDate>Thu, 10 Mar 2022 15:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="trix-content">
+  <div>답글을 남겨 주세요. 천관율 에디터가 답을 답니다.</div>
+</div>]]></content:encoded>
             <enclosure url="https://alook.so/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMDlrQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8b3eeb66cbd136dda715140464fbea84d8ef5d83/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMmxGYVVVNkRHTnZiblpsY25SSklnaHFjR2NHT3daVU9ncHpZWFpsY25zSU9neHhkV0ZzYVhSNWFWVTZDbk4wY21sd1ZEb1BZbUZqYTJkeWIzVnVaRnNJYVFIL2FRSC9hUUgvIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--1306baa159120451b1d9ea1cb3547f28ea3e5b0b/editor.png" length="0" type="image/png"/>
         </item>
     </channel>
