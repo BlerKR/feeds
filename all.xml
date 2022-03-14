@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 03:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 04:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -119,16 +119,6 @@
             <content:encoded><![CDATA[<span>지난 9일 치러진 재보궐 선거 5곳 중에서 4곳에서 국민의 힘 후보가 당선됐습니다. 서울 종로구, 경기 안성, 청주 상당, 서울 서초구, 대구 중남구 중 대구 중남구만 국민의 힘 출신 인사가 무소속으로 당선됐습니다. 민주당은 자당 귀책 사유를 이유로 종로, 안성, 청주에는 후보를 내지 않았습니다. 이에 따라 국민의 힘은 의석수가 기존 106석에서 110석으로 늘어나게 됩니다.
 <br>alookso 뉴스못을 받아보고 싶은 분들은 [회원가입] 을 하고 alookso 뉴스못 계정을 구독해주세요.</span>]]></content:encoded>
             <enclosure url="https://alook.so/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHB4QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2563b9e2cb69d73f05b0f8c402e44754db8fe388/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMmxGYVVVNkRHTnZiblpsY25SSklnaHFjR2NHT3daVU9ncHpZWFpsY25zSU9neHhkV0ZzYVhSNWFWVTZDbk4wY21sd1ZEb1BZbUZqYTJkeWIzVnVaRnNJYVFIL2FRSC9hUUgvIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--1306baa159120451b1d9ea1cb3547f28ea3e5b0b/news-lake%20(3).png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[20대 대선, 지역 표심의 분포 (alookso ─ 투데이)]]></title>
-            <link>https://alook.so/posts/RGt8R0</link>
-            <guid>https://alook.so/posts/RGt8R0</guid>
-            <pubDate>Sat, 12 Mar 2022 02:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="trix-content">
-  <div>박빙 지역은 어느 정도 있었고, 극단적인 결과가 나온 지역은 어느 정도 있었을까? 지난 대선과 어떤 차이가 있을까?</div>
-</div>]]></content:encoded>
-            <enclosure url="https://alook.so/assets/icons/icon-solid-user-7eac5bc0e82de02349582eac9ce9eb63104851bcb1a099b6985ce52d281b575f.svg" length="0" type="image/svg"/>
         </item>
     </channel>
 </rss>
