@@ -1,8 +1,10 @@
-[folin]
-title = "폴인"
-url = "https://www.folin.co/story"
-entrySelector = "ul.component-grid4.story-list-contain > li"
-titleSelector = "h3.item-title.line-clamp"
-linkSelector = "a"
-contentSelector = "ul.category-type"
-waitForSelector = "ul.component-grid4.story-list-contain > li"
+[tech]
+title = "북저널리즘 ─ 테크"
+url = "https://www.bookjournalism.com/books/category/28926"
+entrySelector = "div.contents-list.thumb-.style-list div.items div.item"
+titleSelector = "div.info div.middle-outer div.middle-inner a.link-inner span.summary"
+linkSelector = "div.info div.middle-outer div.middle-inner a.link-inner"
+contentSelector = "span.headline span.post-title"
+imageSelector = "span.cover"
+waitForSelector = "div.items div.item"
+onFail = "stale"
