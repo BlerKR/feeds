@@ -1,9 +1,8 @@
-[longblack]
-title = "롱블랙"
-url = "https://www.longblack.co/"
-entrySelector = "div[id='main-today-note']"
-titleSelector = "h2.today-note-title"
+[folin]
+title = "폴인"
+url = "https://www.folin.co/story"
+entrySelector = "ul.component-grid4.story-list-contain > li"
+titleSelector = "h3.item-title.line-clamp"
 linkSelector = "a"
-contentSelector = "p.today-note-desc"
-imageSelector = "div.bg-img.ratio-4-3"
-waitUntil = "networkidle"
+contentSelector = "ul.category-type"
+waitForSelector = "ul.component-grid4.story-list-contain > li"
