@@ -1,9 +1,59 @@
-[vstore_membership]
-title = "V LIVE ─ MEMBERSHIP"
-url = "https://www.vlive.tv/vstore/membership"
-entrySelector = "ul.channel_fanship_list._mem_list li"
-titleSelector = "strong.title"
-linkSelector = "a"
-contentSelector = "div.info_area em"
-imageSelector = "div.thumb_area img"
+[interview]
+title = "Weverse Magazine ─ INTERVIEW"
+url = "https://magazine.weverse.io/article/list?lang=ko&colca=1"
+entrySelector = "div[id='page-contents'] section div.article_item"
+titleSelector = "div.dec > a"
+linkSelector = "div.dec > a"
+contentSelector = "div.dec > div.date"
+imageSelector = "div.img > a > img"
+waitUntil = "networkidle"
+
+[feature]
+title = "Weverse Magazine ─ FEATURE"
+url = "https://magazine.weverse.io/article/list?lang=ko&colca=6"
+entrySelector = "div[id='page-contents'] section div.article_item"
+titleSelector = "div.dec > a"
+linkSelector = "div.dec > a"
+contentSelector = "div.dec > div.date"
+imageSelector = "div.img > a > img"
+waitUntil = "networkidle"
+
+[review]
+title = "Weverse Magazine ─ REVIEW"
+url = "https://magazine.weverse.io/article/list?lang=ko&colca=2"
+entrySelector = "div[id='page-contents'] section div.article_item"
+titleSelector = "div.dec > a"
+linkSelector = "div.dec > a"
+contentSelector = "div.dec > div.date"
+imageSelector = "div.img > a > img"
+waitUntil = "networkidle"
+
+[firstview]
+title = "Weverse Magazine ─ FIRST+VIEW"
+url = "https://magazine.weverse.io/article/list?lang=ko&colca=5"
+entrySelector = "div[id='page-contents'] section div.article_item"
+titleSelector = "div.dec > a"
+linkSelector = "div.dec > a"
+contentSelector = "div.dec > div.date"
+imageSelector = "div.img > a > img"
+waitUntil = "networkidle"
+
+[now]
+title = "Weverse Magazine ─ NOW"
+url = "https://magazine.weverse.io/article/list?lang=ko&colca=7"
+entrySelector = "div[id='page-contents'] section div.article_item"
+titleSelector = "div.dec > a"
+linkSelector = "div.dec > a"
+contentSelector = "div.dec > div.date"
+imageSelector = "div.img > a > img"
+waitUntil = "networkidle"
+
+[special]
+title = "Weverse Magazine ─ SPECIAL"
+url = "https://magazine.weverse.io/article/list?lang=ko&colca=3"
+entrySelector = "div[id='page-contents'] section div.article_item"
+titleSelector = "div.dec > a"
+linkSelector = "div.dec > a"
+contentSelector = "div.dec > div.date"
+imageSelector = "div.img > a > img"
 waitUntil = "networkidle"
