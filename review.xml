@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Weverse Magazine ─ REVIEW</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 22 May 2022 01:50:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[abcdefGayle]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=379</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=379</guid>
+            <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.18]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202204/20220425oJYMFelOrHTkg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[투모로우바이투게더의 2년을 뛰어넘은 3시간 40분]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=376</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=376</guid>
+            <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.11]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202204/20220410EsMfyshq0rvOT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[체리블렛이 쏜 짜릿한 ‘가요맛’ 총알]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=373</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=373</guid>
+            <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.05]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202204/20220405rzNAi__s5.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[에이브릴 라빈이 돌아왔다]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=368</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=368</guid>
+            <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.31]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220330SbN5xJpczjfh.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뷔가 음악으로 그리는 풍경]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=366</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=366</guid>
+            <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.28]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220325m1z2hsoT6Y5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김준수, 그 손에 쥔 엑스칼리버]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=364</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=364</guid>
+            <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.24]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220323QLlzIFYF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미래소년의 미래 탐색 연습]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=340</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=340</guid>
+            <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.17]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202202/20220216X5aHks3rU7DL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Polaroid Love, ENHYPEN의 사랑 노래]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=339</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=339</guid>
+            <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.14]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202202/20220214r-kXFA4DKoD6E.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프로미스나인, 약속의 원더랜드를 향하여]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=337</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=337</guid>
+            <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.10]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202202/20220209MGo5CFu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[투모로우바이투게더와 ENHYPEN, ‘4세대 아이돌’의 연말 무대]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=289</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=289</guid>
+            <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.27]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211227VBpdGxFTP2.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Weverse Magazine ─ FEATURE</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 22 May 2022 01:50:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투모로우바이투게더가 패션으로 구현한 세계]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=410</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=410</guid>
+            <pubDate>Sun, 22 May 2022 01:50:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.18]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/20220517R562TWJrx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단이 그래미에 침투하다]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=391</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=391</guid>
+            <pubDate>Sun, 22 May 2022 01:50:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.27]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202204/202204271RPraOL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제64회 그래미 어워드가 남긴 순간 다섯]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=377</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=377</guid>
+            <pubDate>Sun, 22 May 2022 01:50:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.13]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202204/202204285DjFCUa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘메이의 새빨간 비밀’, 어느 10대 여성의 한 시절]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=374</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=374</guid>
+            <pubDate>Sun, 22 May 2022 01:50:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.07]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202204/20220407cXreciw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버논이 ‘무한도전’을 즐기는 방법]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=372</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=372</guid>
+            <pubDate>Sun, 22 May 2022 01:50:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.04]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202204/202204049O9OAC2MfD0FO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소년심판, 쉽게 혐오한다고 말하기 전에]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=370</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=370</guid>
+            <pubDate>Sun, 22 May 2022 01:50:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.01]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220331jbaJooY98UTqE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강승윤과 함께하는 탁구 입문]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=367</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=367</guid>
+            <pubDate>Sun, 22 May 2022 01:50:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.29]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220328uPRZi23.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정원이 반려견의 가족이 되어주는 법]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=363</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=363</guid>
+            <pubDate>Sun, 22 May 2022 01:50:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.23]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220322Cce714QSLrX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-Pop in SEA, SEA in K-Pop]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=361</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=361</guid>
+            <pubDate>Sun, 22 May 2022 01:50:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.21]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220321JoYohef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진이 ‘슈퍼 참치’로 전 세계에 벌인 잔치]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=355</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=355</guid>
+            <pubDate>Sun, 22 May 2022 01:50:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.14]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220311CIdaSiUEaI.gif" length="0" type="image/gif"/>
+        </item>
+    </channel>
+</rss>
