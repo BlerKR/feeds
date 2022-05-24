@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ REVIEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 04:38:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 03:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올리비아 로드리고가 일으킨 센세이션]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=416</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=416</guid>
+            <pubDate>Tue, 24 May 2022 03:30:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.24]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/20220523KhtoV_ilDr37T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[abcdefGayle]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=379</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.10]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202202/20220209MGo5CFu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더와 ENHYPEN, ‘4세대 아이돌’의 연말 무대]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=289</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=289</guid>
-            <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.27]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211227VBpdGxFTP2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
