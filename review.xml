@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ REVIEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 04:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 03:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[250, 한국의 ‘뽕’을 찾다]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=417</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=417</guid>
+            <pubDate>Fri, 27 May 2022 03:34:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.27]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/202205266ZXCdTRYNFhW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올리비아 로드리고가 일으킨 센세이션]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=416</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.14]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202202/20220214r-kXFA4DKoD6E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프로미스나인, 약속의 원더랜드를 향하여]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=337</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=337</guid>
-            <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.10]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202202/20220209MGo5CFu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
