@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 04:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 03:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나너의 기억]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=418</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=418</guid>
+            <pubDate>Sat, 28 May 2022 03:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.27]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/20220526DDiNZZJVfv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브록햄튼, 이 멋진 보이밴드]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=414</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 22 May 2022 01:50:37 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.18]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220318KqLlk6ilcskIV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] 샤갈 특별전 : Chagall and the Bible]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=354</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=354</guid>
-            <pubDate>Sun, 22 May 2022 01:50:37 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.11]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220310YHlQ34q6sbAss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
