@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 03:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 04:27:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220321JoYohef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TXT+Rock=‘Good Boy Gone Bad’ (Weverse Magazine ─ REVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=423</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=423</guid>
+            <pubDate>Fri, 03 Jun 2022 04:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.03]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220602Oyity509kmoSG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[250, 한국의 ‘뽕’을 찾다 (Weverse Magazine ─ REVIEW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=417</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=417</guid>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.17]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202202/20220216X5aHks3rU7DL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Polaroid Love, ENHYPEN의 사랑 노래 (Weverse Magazine ─ REVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=339</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=339</guid>
-            <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.14]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202202/20220214r-kXFA4DKoD6E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐틴, 태양을 향해 도전하다 (Weverse Magazine ─ FIRST+VIEW)]]></title>
