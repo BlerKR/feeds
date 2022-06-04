@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 04:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 03:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202104/202104278OyXa-bMZg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[7인의 다이어터, KBS ‘빼고파’ (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=427</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=427</guid>
+            <pubDate>Sat, 04 Jun 2022 03:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.03]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220603yL5Sbkir-M.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나너의 기억 (Weverse Magazine ─ NOW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=418</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=418</guid>
@@ -398,14 +406,6 @@
             <pubDate>Sun, 22 May 2022 01:50:37 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.25]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220324riGwIOCZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘스물다섯 스물하나’, 눈이 부시도록 너를 비춰줄게 (Weverse Magazine ─ NOW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=360</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=360</guid>
-            <pubDate>Sun, 22 May 2022 01:50:37 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.18]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220318KqLlk6ilcskIV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터렉티브] TXT X MBTI (Weverse Magazine ─ SPECIAL)]]></title>
