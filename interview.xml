@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ INTERVIEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 04:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 03:39:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제이홉 “내 스스로 또 해답을 찾을 거니까요”]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=430</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=430</guid>
+            <pubDate>Mon, 13 Jun 2022 03:39:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.13]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/202206096HS6qZQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투모로우바이투게더 Other Cuts]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=413</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 22 May 2022 01:50:15 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.13]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/20220510TM0GFm0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카즈하 “제가 하고 싶은 건 ‘새로운 길을 가는 것’이었어요”]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=400</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=400</guid>
-            <pubDate>Sun, 22 May 2022 01:50:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.12]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/20220510j_awncZY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
