@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 04:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 03:42:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RM “아티스트라면 무조건이에요, 원 앤 온리여야 하거든요” (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=438</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=438</guid>
+            <pubDate>Sun, 19 Jun 2022 03:42:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.19]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220614VO5tg6UWgPI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지민 “더 잘하고, 더 멋있고 싶어요” (Weverse Magazine ─ INTERVIEW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=437</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 22 May 2022 01:50:15 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.19]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/20220518edb0TFqF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[범규 “지금까지처럼 저다운 모습을 보여주고 싶어요” (Weverse Magazine ─ INTERVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=409</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=409</guid>
-            <pubDate>Sun, 22 May 2022 01:50:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.18]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/20220517wRImsXEYc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐틴, 가족틴, 부족틴 (Weverse Magazine ─ FEATURE)]]></title>
