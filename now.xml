@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 04:44:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 03:48:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘탑건: 매버릭’, 하늘 위로 떠오른 블록버스터]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=451</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=451</guid>
+            <pubDate>Sat, 02 Jul 2022 03:48:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.01]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220701Prc-5Dh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글래드스톤 갤러리 ‘아니카 이 : Begin Where You Are’]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=447</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 22 May 2022 01:50:37 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.22]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202204/20220425zbAsFXv7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT, 음악산업에 오다]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=378</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=378</guid>
-            <pubDate>Sun, 22 May 2022 01:50:37 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.15]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202204/20220425IhfGiuWySBL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

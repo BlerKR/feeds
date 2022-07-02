@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 04:44:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 03:48:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/20220519DYI6KA407ftC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스무 살, 백지헌의 대학 생활 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=450</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=450</guid>
+            <pubDate>Sat, 02 Jul 2022 03:48:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.30]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220629kI92kgjoiVv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[칸국제영화제가 송강호와 박찬욱을 필요로 했던 이유 (Weverse Magazine ─ FEATURE)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=448</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=448</guid>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 22 May 2022 01:50:20 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.29]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220328uPRZi23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정원이 반려견의 가족이 되어주는 법 (Weverse Magazine ─ FEATURE)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=363</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=363</guid>
-            <pubDate>Sun, 22 May 2022 01:50:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.23]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220322Cce714QSLrX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[켄드릭 라마를 둘러싼 질문들 (Weverse Magazine ─ REVIEW)]]></title>
@@ -328,6 +328,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202106/202106016Qzv-QAtRfJtW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘탑건: 매버릭’, 하늘 위로 떠오른 블록버스터 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=451</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=451</guid>
+            <pubDate>Sat, 02 Jul 2022 03:48:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.01]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220701Prc-5Dh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[글래드스톤 갤러리 ‘아니카 이 : Begin Where You Are’ (Weverse Magazine ─ NOW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=447</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=447</guid>
@@ -398,14 +406,6 @@
             <pubDate>Sun, 22 May 2022 01:50:37 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.22]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202204/20220425zbAsFXv7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT, 음악산업에 오다 (Weverse Magazine ─ NOW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=378</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=378</guid>
-            <pubDate>Sun, 22 May 2022 01:50:37 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.15]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202204/20220425IhfGiuWySBL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터렉티브] TXT X MBTI (Weverse Magazine ─ SPECIAL)]]></title>
