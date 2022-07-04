@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 04:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 03:52:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/20220519DYI6KA407ftC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[혈관 속 ‘페스티벌 DNA’를 깨워줄 음악 페스티벌 가이드 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=453</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=453</guid>
+            <pubDate>Mon, 04 Jul 2022 03:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.04]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220704fRvwM4Z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스무 살, 백지헌의 대학 생활 (Weverse Magazine ─ FEATURE)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=450</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=450</guid>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 22 May 2022 01:50:20 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.01]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220331jbaJooY98UTqE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강승윤과 함께하는 탁구 입문 (Weverse Magazine ─ FEATURE)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=367</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=367</guid>
-            <pubDate>Sun, 22 May 2022 01:50:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.29]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220328uPRZi23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[켄드릭 라마를 둘러싼 질문들 (Weverse Magazine ─ REVIEW)]]></title>
