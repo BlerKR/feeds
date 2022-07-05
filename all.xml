@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 04:52:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 03:46:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220325m1z2hsoT6Y5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[ENHYPEN의 새로운 선언 (Weverse Magazine ─ FIRST+VIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=454</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=454</guid>
+            <pubDate>Tue, 05 Jul 2022 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.05]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220705qAyYyioEu.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[프로미스나인이 지킨 약속 (Weverse Magazine ─ FIRST+VIEW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=449</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=449</guid>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 22 May 2022 01:50:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.06.19]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202106/20210619thsUyHhjNd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TXT의 새 앨범을 들으면 알게 되는 것들 (Weverse Magazine ─ FIRST+VIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=167</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=167</guid>
-            <pubDate>Sun, 22 May 2022 01:50:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.01]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202106/202106016Qzv-QAtRfJtW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘탑건: 매버릭’, 하늘 위로 떠오른 블록버스터 (Weverse Magazine ─ NOW)]]></title>
