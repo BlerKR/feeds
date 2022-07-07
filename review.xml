@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ REVIEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 04:52:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 03:51:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해리 스타일스, 바로 지금의 팝스타]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=456</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=456</guid>
+            <pubDate>Thu, 07 Jul 2022 03:51:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.07]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220706mprvnB80.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[켄드릭 라마를 둘러싼 질문들]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=446</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.31]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220330SbN5xJpczjfh.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뷔가 음악으로 그리는 풍경]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=366</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=366</guid>
-            <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.28]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202203/20220325m1z2hsoT6Y5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
