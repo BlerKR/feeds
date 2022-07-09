@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 04:45:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 03:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -327,6 +327,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202106/20210619thsUyHhjNd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘뿅뿅 지구오락실’, 금요일 밤 100분의 즐거움 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=457</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=457</guid>
+            <pubDate>Sat, 09 Jul 2022 03:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.08]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220707YyPnxIqkFN1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘탑건: 매버릭’, 하늘 위로 떠오른 블록버스터 (Weverse Magazine ─ NOW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=451</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=451</guid>
@@ -397,14 +405,6 @@
             <pubDate>Sun, 22 May 2022 01:50:37 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.06]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/20220506GyUcOjB03YW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윌로우, Z세대 그 자체의 음악 (Weverse Magazine ─ NOW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=390</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=390</guid>
-            <pubDate>Sun, 22 May 2022 01:50:37 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.22]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202204/20220425zbAsFXv7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터렉티브] TXT X MBTI (Weverse Magazine ─ SPECIAL)]]></title>
