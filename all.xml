@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 04:41:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 04:02:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[희승 “지금의 기억들로 행복하게 살 것 같아요” (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=460</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=460</guid>
+            <pubDate>Tue, 12 Jul 2022 04:01:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.12]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220711oPk6rszOd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정원 “아쉬움이 없어요, 제가 하고 싶어서 하는 일이니까” (Weverse Magazine ─ INTERVIEW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=459</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 13 Jun 2022 03:39:04 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.13]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/202206096HS6qZQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더 Other Cuts (Weverse Magazine ─ INTERVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=413</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=413</guid>
-            <pubDate>Sun, 22 May 2022 01:50:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.21]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/202205191w0l61ft.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[없는 게 없는 ‘자컨’의 정석, ‘Official fromis_9’ (Weverse Magazine ─ FEATURE)]]></title>
