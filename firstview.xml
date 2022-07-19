@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FIRST+VIEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 04:55:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 04:01:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세븐틴, 새로운 세계에 도달하다]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=476</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=476</guid>
+            <pubDate>Tue, 19 Jul 2022 04:01:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.19]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/202207180SQG4jSFw1y_.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[ENHYPEN의 새로운 선언]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=454</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 22 May 2022 01:50:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.18]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202108/20210818-6rXMjj5DKlDw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴의 힘]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=181</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=181</guid>
-            <pubDate>Sun, 22 May 2022 01:50:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.19]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202106/20210619thsUyHhjNd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
