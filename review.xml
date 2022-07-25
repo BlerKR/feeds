@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ REVIEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 04:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 03:51:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단과 르세라핌의 앨범 크레딧을 읽다]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=483</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=483</guid>
+            <pubDate>Mon, 25 Jul 2022 03:50:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.25]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220725CzjbBngnn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세븐틴 리더즈의 ‘스웨그’]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=481</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.11]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202204/20220410EsMfyshq0rvOT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[체리블렛이 쏜 짜릿한 ‘가요맛’ 총알]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=373</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=373</guid>
-            <pubDate>Sun, 22 May 2022 01:50:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.05]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202204/20220405rzNAi__s5.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
