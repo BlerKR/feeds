@@ -4,9 +4,25 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 05:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 03:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단부터 뉴진스까지, 하이브의 힘]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=495</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=495</guid>
+            <pubDate>Thu, 04 Aug 2022 03:36:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.04]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220803OU92xZ5Kx65s.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[수민이 독서로 얻는 행복]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=494</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=494</guid>
+            <pubDate>Thu, 04 Aug 2022 03:36:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.03]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220803jvMi29-ZUNOJ.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제이홉과 투모로우바이투게더가 서는 이 무대]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=488</link>
@@ -69,22 +85,6 @@
             <pubDate>Sat, 02 Jul 2022 03:48:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.30]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220629kI92kgjoiVv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칸국제영화제가 송강호와 박찬욱을 필요로 했던 이유]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=448</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=448</guid>
-            <pubDate>Mon, 27 Jun 2022 03:53:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.27]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220627kGWmfR_QsEX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴, 가족틴, 부족틴]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=422</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=422</guid>
-            <pubDate>Thu, 02 Jun 2022 03:51:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.02]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/20220531lndGfJlJcCXL8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
