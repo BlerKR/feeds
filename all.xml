@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 04:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 04:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초봄 “친근함 속에 새로운 면이 있는 팀이 되었으면 좋겠어요” (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=526</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=526</guid>
+            <pubDate>Wed, 07 Sep 2022 04:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.07]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220906F4Mhh6MhSB.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뉴 호프 클럽 “음악을 통해 긍정 에너지를 전하고 싶어요” (Weverse Magazine ─ INTERVIEW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=511</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Jul 2022 03:40:58 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.11]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/202207108enY1qf9uT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 ‘Proof’ 발표 인터뷰 단체사진 (Weverse Magazine ─ INTERVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=439</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=439</guid>
-            <pubDate>Mon, 20 Jun 2022 03:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.20]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220614AVubQA_bk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지난 여름 한국의 극장에서 일어난 일 (Weverse Magazine ─ FEATURE)]]></title>
@@ -167,6 +167,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220803jvMi29-ZUNOJ.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[블랙핑크 ‘Pink Venom’, 들어보셨나요? (Weverse Magazine ─ REVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=524</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=524</guid>
+            <pubDate>Wed, 07 Sep 2022 04:28:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.06]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220905hJ0ivhRg0M.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[제이홉이 힙합에 리스펙트를 표하는 방법 (Weverse Magazine ─ REVIEW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=515</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=515</guid>
@@ -237,14 +245,6 @@
             <pubDate>Fri, 22 Jul 2022 03:52:46 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.22]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220721xxuIrqUWFH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해리 스타일스, 바로 지금의 팝스타 (Weverse Magazine ─ REVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=456</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=456</guid>
-            <pubDate>Thu, 07 Jul 2022 03:51:04 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.07]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220706mprvnB80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐틴, 새로운 세계에 도달하다 (Weverse Magazine ─ FIRST+VIEW)]]></title>
