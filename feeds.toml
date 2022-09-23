@@ -1,12 +1,12 @@
-[vlive]
-title = "ONSTAGE (온스테이지)"
-url = "https://www.vlive.tv/channel/E61323/board/4268?lang=ko"
-entrySelector = "li[class^='post_item']"
-titleSelector = "strong[class^='title_text']"
-linkSelector = "a[class^='post_area']"
-imageSelector = "span[class^='covered_image']"
-contentSelector = "em[class^='writer']"
-dateSelector = "span[class^='upload_time']"
-dateFormat = "M.d."
-waitUntil = "networkidle"
+[default]
+timeout = 180
+
+[navertv]
+title = "네이버 TV ─ 온스테이지"
+url = "https://tv.naver.com/onstage/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+contentSelector = "span.tm_b"
+waitForSelector = "div[class^='cds _MM_CARD']"
 onFail = "stale"
