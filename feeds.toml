@@ -1,59 +1,10 @@
-[interview]
-title = "Weverse Magazine ─ INTERVIEW"
-url = "https://magazine.weverse.io/article/list?lang=ko&colca=1"
-entrySelector = "div[id='page-contents'] section div.article_item"
-titleSelector = "div.dec > a"
-linkSelector = "div.dec > a"
-contentSelector = "div.dec > div.date"
-imageSelector = "div.img > a > img"
+[musicbank]
+title = "뮤직뱅크"
+url = "https://program.naver.com/p/659774/clip"
+entrySelector = "li.ClipCard_item__1ly4h"
+titleSelector = "strong.ClipCard_title__2I1pd"
+linkSelector = "a.ClipCard_link__2XpqM"
+imageSelector = "img.ClipCard_img__2XgXF"
+contentSelector = "span.ClipCard_time__128vc"
 waitUntil = "networkidle"
-
-[feature]
-title = "Weverse Magazine ─ FEATURE"
-url = "https://magazine.weverse.io/article/list?lang=ko&colca=6"
-entrySelector = "div[id='page-contents'] section div.article_item"
-titleSelector = "div.dec > a"
-linkSelector = "div.dec > a"
-contentSelector = "div.dec > div.date"
-imageSelector = "div.img > a > img"
-waitUntil = "networkidle"
-
-[review]
-title = "Weverse Magazine ─ REVIEW"
-url = "https://magazine.weverse.io/article/list?lang=ko&colca=2"
-entrySelector = "div[id='page-contents'] section div.article_item"
-titleSelector = "div.dec > a"
-linkSelector = "div.dec > a"
-contentSelector = "div.dec > div.date"
-imageSelector = "div.img > a > img"
-waitUntil = "networkidle"
-
-[firstview]
-title = "Weverse Magazine ─ FIRST+VIEW"
-url = "https://magazine.weverse.io/article/list?lang=ko&colca=5"
-entrySelector = "div[id='page-contents'] section div.article_item"
-titleSelector = "div.dec > a"
-linkSelector = "div.dec > a"
-contentSelector = "div.dec > div.date"
-imageSelector = "div.img > a > img"
-waitUntil = "networkidle"
-
-[now]
-title = "Weverse Magazine ─ NOW"
-url = "https://magazine.weverse.io/article/list?lang=ko&colca=7"
-entrySelector = "div[id='page-contents'] section div.article_item"
-titleSelector = "div.dec > a"
-linkSelector = "div.dec > a"
-contentSelector = "div.dec > div.date"
-imageSelector = "div.img > a > img"
-waitUntil = "networkidle"
-
-[special]
-title = "Weverse Magazine ─ SPECIAL"
-url = "https://magazine.weverse.io/article/list?lang=ko&colca=3"
-entrySelector = "div[id='page-contents'] section div.article_item"
-titleSelector = "div.dec > a"
-linkSelector = "div.dec > a"
-contentSelector = "div.dec > div.date"
-imageSelector = "div.img > a > img"
-waitUntil = "networkidle"
+onFail = "stale"
