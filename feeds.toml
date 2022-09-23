@@ -1,6 +1,3 @@
-[default]
-timeout = 180
-
 [navertv]
 title = "네이버 TV ─ 온스테이지"
 url = "https://tv.naver.com/onstage/clips"
