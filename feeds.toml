@@ -1,7 +1,7 @@
 [premovie_theater_y]
 title = "다음영화 영화관 ─ 현재상영"
 url = "https://movie.daum.net/premovie/theater?flag=Y"
-entrySelector = "div.box_movie ol li"
-titleSelector = "a[class='link_txt']"
-linkSelector = "a.link_txt"
-waitUntil = "networkidle"
+entrySelector = "ol.list_movieranking.aniposter_movie li"
+titleSelector = "strong.tit_item a"
+linkSelector = "strong.tit_item a"
+waitForSelector = "ol.list_movieranking.aniposter_movie"
