@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://movie.daum.net/premovie/theater?flag=Y</id>
     <title>test</title>
-    <updated>2023-01-04T02:41:06.091Z</updated>
+    <updated>2023-01-04T03:19:53.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://movie.daum.net/premovie/favicon.ico</icon>
 </feed>
