@@ -1,9 +1,9 @@
 [new]
 title = "GeekNews ─ 최신글"
 url = "https://news.hada.io/new"
-entrySelector = "div.topic_row"
-titleSelector = "div.topic_row div.topictitle"
-linkSelector = "div.topic_row div.topicdesc a"
+entrySelector = "div.topics div.topic_row"
+titleSelector = "div.topictitle"
+linkSelector = "div.topicdesc a"
 waitUntil = "networkidle"
 
 [show]
