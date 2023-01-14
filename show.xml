@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2023-01-14T02:04:47.568Z</updated>
+    <updated>2023-01-14T02:36:18.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -21,7 +21,7 @@
         <updated>2023-01-14T00:46:24.850Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8178"><a class="upvote" href="javascript:vote(8178, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8178" rel="nofollow" id="tr2"><h1>Show GN: Typia - superfast runtime validator</h1></a> <span class="topicurl">(github.com/samchon)</span></div><div class="topicdesc"><a href="topic?id=8178" class="c99 breakall">자작 런타임 타입 체커입니다.  
   
-NestJS 로 백엔드 개발하다가 동접 가능 수가 형편없던 이유를 파악하던 중, class-validator가 그 원인임을...</a></div><div class="topicinfo"><span id="tp8178">5</span> points by <a href="/user?id=samchon">samchon</a> 9일전<span id="unvote8178"></span> | <a href="topic?id=8178" class="u">댓글과 토론</a></div>]]></content>
+NestJS 로 백엔드 개발하다가 동접 가능 수가 형편없던 이유를 파악하던 중, class-validator가 그 원인임을...</a></div><div class="topicinfo"><span id="tp8178">5</span> points by <a href="/user?id=samchon">samchon</a> 10일전<span id="unvote8178"></span> | <a href="topic?id=8178" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 개발자를 위한 채용 경매 플랫폼]]></title>
