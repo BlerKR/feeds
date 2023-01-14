@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://AmblerHub.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2023-01-14T00:46:25.452Z</updated>
+    <id>https://news.hada.io/show</id>
+    <title>GeekNews Show</title>
+    <updated>2023-01-14T00:46:25.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Show GN: 레이스트 - 웹사이트 기술스택, 방문통계, 기업정보를 분석해주는 크롬 확장 프로그램 (ray.st) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: 레이스트 - 웹사이트 기술스택, 방문통계, 기업정보를 분석해주는 크롬 확장 프로그램 (ray.st)]]></title>
         <id>https://news.hada.io/topic?id=8214</id>
         <link href="https://news.hada.io/topic?id=8214"/>
         <updated>2023-01-14T00:46:24.849Z</updated>
@@ -14,7 +15,7 @@
 - 웹사이트에 접속했을 때, 화면 우측 영역에...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Typia - superfast runtime validator (github.com/samchon) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: Typia - superfast runtime validator (github.com/samchon)]]></title>
         <id>https://news.hada.io/topic?id=8178</id>
         <link href="https://news.hada.io/topic?id=8178"/>
         <updated>2023-01-14T00:46:24.850Z</updated>
@@ -23,7 +24,7 @@
 NestJS 로 백엔드 개발하다가 동접 가능 수가 형편없던 이유를 파악하던 중, class-validator가 그 원인임을...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 개발자를 위한 채용 경매 플랫폼 (krow.kr) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: 개발자를 위한 채용 경매 플랫폼 (krow.kr)]]></title>
         <id>https://news.hada.io/topic?id=8175</id>
         <link href="https://news.hada.io/topic?id=8175"/>
         <updated>2023-01-14T00:46:24.863Z</updated>
@@ -34,7 +35,7 @@ NestJS 로 백엔드 개발하다가 동접 가능 수가 형편없던 이유를
 ...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Mastodon.nvim (Mastodon client for Neovim) (github.com/kode-team) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: Mastodon.nvim (Mastodon client for Neovim) (github.com/kode-team)]]></title>
         <id>https://news.hada.io/topic?id=8109</id>
         <link href="https://news.hada.io/topic?id=8109"/>
         <updated>2023-01-14T00:46:24.863Z</updated>
@@ -43,35 +44,35 @@ NestJS 로 백엔드 개발하다가 동접 가능 수가 형편없던 이유를
 Neovim 과몰입 2개월차를 찍던 중, "Neovim에서 벗어나지 않으면서 마스...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 개발자 채팅방 (coddee.dev) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: 개발자 채팅방 (coddee.dev)]]></title>
         <id>https://news.hada.io/topic?id=8010</id>
         <link href="https://news.hada.io/topic?id=8010"/>
         <updated>2023-01-14T00:46:24.863Z</updated>
         <content type="html"><![CDATA[국내 개발자 커뮤니티는 많은데, 슬랙이나 오픈카톡 등을 제외하면 제3자가 직접 만든 채팅방 커뮤니티는 없는 것 같아서 한번 만들어 봤습니다.  ...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: JUSO.IO - 주소를 공유하는 가장 쉬운 방법  (juso.io) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: JUSO.IO - 주소를 공유하는 가장 쉬운 방법  (juso.io)]]></title>
         <id>https://news.hada.io/topic?id=7918</id>
         <link href="https://news.hada.io/topic?id=7918"/>
         <updated>2023-01-14T00:46:24.866Z</updated>
         <content type="html"><![CDATA[인원 변화가 많은 스타트업이다보니, 1~2년에 한번은 이사를 합니다. 회사 주소를 외우지 못하는데다 (...) 주소를 공유할 때도 과정이 번거롭습니...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 회사 생활에 유용한 랜덤 도구 사이트 (random.gg) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: 회사 생활에 유용한 랜덤 도구 사이트 (random.gg)]]></title>
         <id>https://news.hada.io/topic?id=7908</id>
         <link href="https://news.hada.io/topic?id=7908"/>
         <updated>2023-01-14T00:46:24.868Z</updated>
         <content type="html"><![CDATA[룰렛, 팀 생성기, 주변 식당 찾기, 제비뽑기 같이 회사 생활에서 자주 필요했던 도구들을 만들어봤습니다. 저희 회사에선 디팩토 수준으로 유용하...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: A self-hosted MiroTalk's WebRTC rooms scheduler server. (github.com/miroslavpejic85) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: A self-hosted MiroTalk's WebRTC rooms scheduler server. (github.com/miroslavpejic85)]]></title>
         <id>https://news.hada.io/topic?id=8169</id>
         <link href="https://news.hada.io/topic?id=8169"/>
         <updated>2023-01-14T00:46:24.862Z</updated>
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote8169"><a class="upvote" href="javascript:vote(8169, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8169" rel="nofollow" id="tr8"><h1>Show GN: A self-hosted MiroTalk's WebRTC rooms scheduler server.</h1></a> <span class="topicurl">(github.com/miroslavpejic85)</span></div><div class="topicinfo"><span id="tp8169">2</span> points by <a href="/user?id=mirotalk85">mirotalk85</a> 11일전<span id="unvote8169"></span> | <a href="topic?id=8169" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 아무생각이나 적고 지울 수 있는 웹사이트 (memo.kidow.me) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: 아무생각이나 적고 지울 수 있는 웹사이트 (memo.kidow.me)]]></title>
         <id>https://news.hada.io/topic?id=7973</id>
         <link href="https://news.hada.io/topic?id=7973"/>
         <updated>2023-01-14T00:46:24.868Z</updated>
@@ -82,7 +83,7 @@ Neovim 과몰입 2개월차를 찍던 중, "Neovim에서 벗어나지 않으면�
 따로 서버를 사용하는 것...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: PublicDataReader: 공공 데이터 조회 파이썬 라이브러리 (github.com/WooilJeong) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: PublicDataReader: 공공 데이터 조회 파이썬 라이브러리 (github.com/WooilJeong)]]></title>
         <id>https://news.hada.io/topic?id=7840</id>
         <link href="https://news.hada.io/topic?id=7840"/>
         <updated>2023-01-14T00:46:24.868Z</updated>
@@ -90,7 +91,7 @@ Neovim 과몰입 2개월차를 찍던 중, "Neovim에서 벗어나지 않으면�
 **PublicDataReader**는 **Open API를 통해 공공 데이터를 조회하는 과정을 자동화하는 오픈소스 로우코드 파이썬 라이브...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Youtext - 내 서비스에 콘텐츠를 추가하고, 수익을 내는 방법 (partners.youtext.com) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: Youtext - 내 서비스에 콘텐츠를 추가하고, 수익을 내는 방법 (partners.youtext.com)]]></title>
         <id>https://news.hada.io/topic?id=7972</id>
         <link href="https://news.hada.io/topic?id=7972"/>
         <updated>2023-01-14T00:46:24.873Z</updated>
@@ -101,7 +102,7 @@ Neovim 과몰입 2개월차를 찍던 중, "Neovim에서 벗어나지 않으면�
 * 요즘 대부분...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: LeetCode 오늘의 문제 Redirect 서비스 (leetcode.click) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: LeetCode 오늘의 문제 Redirect 서비스 (leetcode.click)]]></title>
         <id>https://news.hada.io/topic?id=8011</id>
         <link href="https://news.hada.io/topic?id=8011"/>
         <updated>2023-01-14T00:46:24.873Z</updated>
@@ -111,7 +112,7 @@ LeetCode가 오늘의 문제로 바로 넘어가주는 url을 제공해주지않
 저와 같이 오...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: musn129(머선129): 미국 주식 뉴스 요약 서비스 (musn129.com) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: musn129(머선129): 미국 주식 뉴스 요약 서비스 (musn129.com)]]></title>
         <id>https://news.hada.io/topic?id=7647</id>
         <link href="https://news.hada.io/topic?id=7647"/>
         <updated>2023-01-14T00:46:24.875Z</updated>
@@ -120,14 +121,14 @@ LeetCode가 오늘의 문제로 바로 넘어가주는 url을 제공해주지않
 가령, 가장 최근인 2022-10-21 Netflix 의 경우 `the company ...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: ILLA open-source low-code platform now supports Korean language. (github.com/illacloud) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: ILLA open-source low-code platform now supports Korean language. (github.com/illacloud)]]></title>
         <id>https://news.hada.io/topic?id=7996</id>
         <link href="https://news.hada.io/topic?id=7996"/>
         <updated>2023-01-14T00:46:24.868Z</updated>
         <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote7996"><a class="upvote" href="javascript:vote(7996, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=7996" rel="nofollow" id="tr14"><h1>Show GN: ILLA open-source low-code platform now supports Korean language.</h1></a> <span class="topicurl">(github.com/illacloud)</span></div><div class="topicinfo"><span id="tp7996">6</span> points by <a href="/user?id=vicsomthing">vicsomthing</a> 1달전<span id="unvote7996"></span> | <a href="topic?id=7996" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Pyswit: Swit API의 파이썬 라이브러리 (github.com/sanghunka) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: Pyswit: Swit API의 파이썬 라이브러리 (github.com/sanghunka)]]></title>
         <id>https://news.hada.io/topic?id=7768</id>
         <link href="https://news.hada.io/topic?id=7768"/>
         <updated>2023-01-14T00:46:24.877Z</updated>
@@ -137,7 +138,7 @@ LeetCode가 오늘의 문제로 바로 넘어가주는 url을 제공해주지않
 - 스윗은 메신저와 태스크 관리를 한...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: IsDiffusion.art : AI 생성 이미지인지 체크하는 CAPTCHA (isdiffusion.art) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: IsDiffusion.art : AI 생성 이미지인지 체크하는 CAPTCHA (isdiffusion.art)]]></title>
         <id>https://news.hada.io/topic?id=8037</id>
         <link href="https://news.hada.io/topic?id=8037"/>
         <updated>2023-01-14T00:46:24.878Z</updated>
@@ -146,7 +147,7 @@ LeetCode가 오늘의 문제로 바로 넘어가주는 url을 제공해주지않
   ...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 프로솔브: 프로그래머스의 더 나은 사용자 경험을 위한 크롬 익스텐션 (chrome.google.com) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: 프로솔브: 프로그래머스의 더 나은 사용자 경험을 위한 크롬 익스텐션 (chrome.google.com)]]></title>
         <id>https://news.hada.io/topic?id=7663</id>
         <link href="https://news.hada.io/topic?id=7663"/>
         <updated>2023-01-14T00:46:24.879Z</updated>
@@ -156,7 +157,7 @@ LeetCode가 오늘의 문제로 바로 넘어가주는 url을 제공해주지않
   - **차트**: 각 레벨 문제들을 전체 중 몇 개(퍼센트) 풀었는지, 레벨 ...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Devery: 개발자 블로그 모음 (devery.ssunm.app) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: Devery: 개발자 블로그 모음 (devery.ssunm.app)]]></title>
         <id>https://news.hada.io/topic?id=7562</id>
         <link href="https://news.hada.io/topic?id=7562"/>
         <updated>2023-01-14T00:46:24.882Z</updated>
@@ -165,7 +166,7 @@ LeetCode가 오늘의 문제로 바로 넘어가주는 url을 제공해주지않
 블로그 목록은 '어썸데브블로그' 프로젝트를 소스로 사...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Terraform 입문자를 위한 실습 문서 - Hands on Terraform with GCP (heumsi.github.io) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: Terraform 입문자를 위한 실습 문서 - Hands on Terraform with GCP (heumsi.github.io)]]></title>
         <id>https://news.hada.io/topic?id=7431</id>
         <link href="https://news.hada.io/topic?id=7431"/>
         <updated>2023-01-14T00:46:24.882Z</updated>
@@ -174,7 +175,7 @@ LeetCode가 오늘의 문제로 바로 넘어가주는 url을 제공해주지않
 저처럼 Terraform을 아직 사용해보지 않았지...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Rayst Gradient - 다양한 곳에 사용할 수 있는 아름다운 AI 생성 그라데이션 이미지 (gradients.ray.st) (GeekNews Show)]]></title>
+        <title type="html"><![CDATA[Show GN: Rayst Gradient - 다양한 곳에 사용할 수 있는 아름다운 AI 생성 그라데이션 이미지 (gradients.ray.st)]]></title>
         <id>https://news.hada.io/topic?id=7727</id>
         <link href="https://news.hada.io/topic?id=7727"/>
         <updated>2023-01-14T00:46:24.883Z</updated>
