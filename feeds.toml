@@ -1,10 +1,8 @@
-[default]
-timeout = 180
-
-[premovie_theater_y]
-title = "test"
-url = "https://movie.daum.net/premovie/theater?flag=Y"
-entrySelector = "ol.list_movieranking.aniposter_movie li"
-titleSelector = "strong.tit_item a"
-linkSelector = "strong.tit_item a"
-waitForSelector = "ol.list_movieranking.aniposter_movie"
+[show]
+title = "GeekNews Show"
+url = "https://news.hada.io/show"
+entrySelector = "div.topic_row"
+titleSelector = "div.topictitle"
+linkSelector = "div.topictitle a"
+contentSelector = "div.topicdesc a"
+waitUntil = "networkidle"
