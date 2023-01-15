@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2023-01-14T04:21:34.980Z</updated>
+    <updated>2023-01-15T02:45:25.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2023-01-14T00:46:24.849Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8214"><a class="upvote" href="javascript:vote(8214, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8214" rel="nofollow" id="tr1"><h1>Show GN: 레이스트 - 웹사이트 기술스택, 방문통계, 기업정보를 분석해주는 크롬 확장 프로그램</h1></a> <span class="topicurl">(ray.st)</span></div><div class="topicdesc"><a href="topic?id=8214" class="c99 breakall">레이스트는 웹사이트 기술스택, 방문통계, 기업정보를 분석해주는 크롬 확장 프로그램입니다.  
   
-- 웹사이트에 접속했을 때, 화면 우측 영역에...</a></div><div class="topicinfo"><span id="tp8214">20</span> points by <a href="/user?id=luckydaun">luckydaun</a> 5일전<span id="unvote8214"></span> | <a href="topic?id=8214" class="u">댓글 5개</a></div>]]></content>
+- 웹사이트에 접속했을 때, 화면 우측 영역에...</a></div><div class="topicinfo"><span id="tp8214">21</span> points by <a href="/user?id=luckydaun">luckydaun</a> 6일전<span id="unvote8214"></span> | <a href="topic?id=8214" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Typia - superfast runtime validator]]></title>
@@ -21,7 +21,7 @@
         <updated>2023-01-14T00:46:24.850Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8178"><a class="upvote" href="javascript:vote(8178, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8178" rel="nofollow" id="tr2"><h1>Show GN: Typia - superfast runtime validator</h1></a> <span class="topicurl">(github.com/samchon)</span></div><div class="topicdesc"><a href="topic?id=8178" class="c99 breakall">자작 런타임 타입 체커입니다.  
   
-NestJS 로 백엔드 개발하다가 동접 가능 수가 형편없던 이유를 파악하던 중, class-validator가 그 원인임을...</a></div><div class="topicinfo"><span id="tp8178">5</span> points by <a href="/user?id=samchon">samchon</a> 10일전<span id="unvote8178"></span> | <a href="topic?id=8178" class="u">댓글과 토론</a></div>]]></content>
+NestJS 로 백엔드 개발하다가 동접 가능 수가 형편없던 이유를 파악하던 중, class-validator가 그 원인임을...</a></div><div class="topicinfo"><span id="tp8178">5</span> points by <a href="/user?id=samchon">samchon</a> 11일전<span id="unvote8178"></span> | <a href="topic?id=8178" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 개발자를 위한 채용 경매 플랫폼]]></title>
@@ -32,7 +32,7 @@ NestJS 로 백엔드 개발하다가 동접 가능 수가 형편없던 이유를
   
 현재 MVP 단계이며, 경매 프로세스를 통해 채용을 진행하고 있습니다.  
   
-...</a></div><div class="topicinfo"><span id="tp8175">4</span> points by <a href="/user?id=krow123">krow123</a> 10일전<span id="unvote8175"></span> | <a href="topic?id=8175" class="u">댓글 3개</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp8175">4</span> points by <a href="/user?id=krow123">krow123</a> 11일전<span id="unvote8175"></span> | <a href="topic?id=8175" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Mastodon.nvim (Mastodon client for Neovim)]]></title>
@@ -41,7 +41,7 @@ NestJS 로 백엔드 개발하다가 동접 가능 수가 형편없던 이유를
         <updated>2023-01-14T00:46:24.863Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8109"><a class="upvote" href="javascript:vote(8109, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8109" rel="nofollow" id="tr4"><h1>Show GN: Mastodon.nvim (Mastodon client for Neovim)</h1></a> <span class="topicurl">(github.com/kode-team)</span></div><div class="topicdesc"><a href="topic?id=8109" class="c99 breakall">Neovim 전용 mastodon 클라이언트를 방금 완성해서 출시했습니다!   
   
-Neovim 과몰입 2개월차를 찍던 중, "Neovim에서 벗어나지 않으면서 마스...</a></div><div class="topicinfo"><span id="tp8109">10</span> points by <a href="/user?id=kodingwarrior">kodingwarrior</a> 20일전<span id="unvote8109"></span> | <a href="topic?id=8109" class="u">댓글 1개</a></div>]]></content>
+Neovim 과몰입 2개월차를 찍던 중, "Neovim에서 벗어나지 않으면서 마스...</a></div><div class="topicinfo"><span id="tp8109">10</span> points by <a href="/user?id=kodingwarrior">kodingwarrior</a> 21일전<span id="unvote8109"></span> | <a href="topic?id=8109" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 개발자 채팅방]]></title>
@@ -69,7 +69,7 @@ Neovim 과몰입 2개월차를 찍던 중, "Neovim에서 벗어나지 않으면�
         <id>https://news.hada.io/topic?id=8169</id>
         <link href="https://news.hada.io/topic?id=8169"/>
         <updated>2023-01-14T00:46:24.862Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote8169"><a class="upvote" href="javascript:vote(8169, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8169" rel="nofollow" id="tr8"><h1>Show GN: A self-hosted MiroTalk's WebRTC rooms scheduler server.</h1></a> <span class="topicurl">(github.com/miroslavpejic85)</span></div><div class="topicinfo"><span id="tp8169">2</span> points by <a href="/user?id=mirotalk85">mirotalk85</a> 11일전<span id="unvote8169"></span> | <a href="topic?id=8169" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote8169"><a class="upvote" href="javascript:vote(8169, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8169" rel="nofollow" id="tr8"><h1>Show GN: A self-hosted MiroTalk's WebRTC rooms scheduler server.</h1></a> <span class="topicurl">(github.com/miroslavpejic85)</span></div><div class="topicinfo"><span id="tp8169">2</span> points by <a href="/user?id=mirotalk85">mirotalk85</a> 12일전<span id="unvote8169"></span> | <a href="topic?id=8169" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 아무생각이나 적고 지울 수 있는 웹사이트]]></title>
@@ -144,26 +144,26 @@ LeetCode가 오늘의 문제로 바로 넘어가주는 url을 제공해주지않
         <updated>2023-01-14T00:46:24.878Z</updated>
         <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote8037"><a class="upvote" href="javascript:vote(8037, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8037" rel="nofollow" id="tr16"><h1>Show GN: IsDiffusion.art : AI 생성 이미지인지 체크하는 CAPTCHA</h1></a> <span class="topicurl">(isdiffusion.art)</span></div><div class="topicdesc"><a href="topic?id=8037" class="c99 breakall">안녕하세요~  
 이번에 학교 프로젝트로 요즘 핫한 Stable Diffusion으로 생성한 이미지인지 체크해주는(CAPTCHA) 페이지를 만들어봤습니다.  
-  ...</a></div><div class="topicinfo"><span id="tp8037">2</span> points by <a href="/user?id=gjen6s">gjen6s</a> 30일전<span id="unvote8037"></span> | <a href="topic?id=8037" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 프로솔브: 프로그래머스의 더 나은 사용자 경험을 위한 크롬 익스텐션]]></title>
-        <id>https://news.hada.io/topic?id=7663</id>
-        <link href="https://news.hada.io/topic?id=7663"/>
-        <updated>2023-01-14T00:46:24.879Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote7663"><a class="upvote" href="javascript:vote(7663, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=7663" rel="nofollow" id="tr17"><h1>Show GN: 프로솔브: 프로그래머스의 더 나은 사용자 경험을 위한 크롬 익스텐션</h1></a> <span class="topicurl">(chrome.google.com)</span></div><div class="topicdesc"><a href="topic?id=7663" class="c99 breakall"># 프로솔브 기능 소개  
-  
-기능 1. 유저가 성공한 문제 차트 &amp; 표  
-  - **차트**: 각 레벨 문제들을 전체 중 몇 개(퍼센트) 풀었는지, 레벨 ...</a></div><div class="topicinfo"><span id="tp7663">10</span> points by <a href="/user?id=tk1583">tk1583</a> 3달전<span id="unvote7663"></span> | <a href="topic?id=7663" class="u">댓글과 토론</a></div>]]></content>
+  ...</a></div><div class="topicinfo"><span id="tp8037">2</span> points by <a href="/user?id=gjen6s">gjen6s</a> 31일전<span id="unvote8037"></span> | <a href="topic?id=8037" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Devery: 개발자 블로그 모음]]></title>
         <id>https://news.hada.io/topic?id=7562</id>
         <link href="https://news.hada.io/topic?id=7562"/>
         <updated>2023-01-14T00:46:24.882Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote7562"><a class="upvote" href="javascript:vote(7562, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=7562" rel="nofollow" id="tr18"><h1>Show GN: Devery: 개발자 블로그 모음</h1></a> <span class="topicurl">(devery.ssunm.app)</span></div><div class="topicdesc"><a href="topic?id=7562" class="c99 breakall">개발 블로그들을 '빠르게 훑어 보고 싶다'는 생각에 만들어보게 된 프로젝트입니다.  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote7562"><a class="upvote" href="javascript:vote(7562, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=7562" rel="nofollow" id="tr17"><h1>Show GN: Devery: 개발자 블로그 모음</h1></a> <span class="topicurl">(devery.ssunm.app)</span></div><div class="topicdesc"><a href="topic?id=7562" class="c99 breakall">개발 블로그들을 '빠르게 훑어 보고 싶다'는 생각에 만들어보게 된 프로젝트입니다.  
   
 블로그 목록은 '어썸데브블로그' 프로젝트를 소스로 사...</a></div><div class="topicinfo"><span id="tp7562">14</span> points by <a href="/user?id=bearchit">bearchit</a> 3달전<span id="unvote7562"></span> | <a href="topic?id=7562" class="u">댓글 13개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 프로솔브: 프로그래머스의 더 나은 사용자 경험을 위한 크롬 익스텐션]]></title>
+        <id>https://news.hada.io/topic?id=7663</id>
+        <link href="https://news.hada.io/topic?id=7663"/>
+        <updated>2023-01-14T00:46:24.879Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote7663"><a class="upvote" href="javascript:vote(7663, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=7663" rel="nofollow" id="tr18"><h1>Show GN: 프로솔브: 프로그래머스의 더 나은 사용자 경험을 위한 크롬 익스텐션</h1></a> <span class="topicurl">(chrome.google.com)</span></div><div class="topicdesc"><a href="topic?id=7663" class="c99 breakall"># 프로솔브 기능 소개  
+  
+기능 1. 유저가 성공한 문제 차트 &amp; 표  
+  - **차트**: 각 레벨 문제들을 전체 중 몇 개(퍼센트) 풀었는지, 레벨 ...</a></div><div class="topicinfo"><span id="tp7663">10</span> points by <a href="/user?id=tk1583">tk1583</a> 3달전<span id="unvote7663"></span> | <a href="topic?id=7663" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Terraform 입문자를 위한 실습 문서 - Hands on Terraform with GCP]]></title>
