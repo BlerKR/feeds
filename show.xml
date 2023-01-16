@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2023-01-15T04:21:46.764Z</updated>
+    <updated>2023-01-16T02:45:18.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2023-01-14T00:46:24.849Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8214"><a class="upvote" href="javascript:vote(8214, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8214" rel="nofollow" id="tr1"><h1>Show GN: 레이스트 - 웹사이트 기술스택, 방문통계, 기업정보를 분석해주는 크롬 확장 프로그램</h1></a> <span class="topicurl">(ray.st)</span></div><div class="topicdesc"><a href="topic?id=8214" class="c99 breakall">레이스트는 웹사이트 기술스택, 방문통계, 기업정보를 분석해주는 크롬 확장 프로그램입니다.  
   
-- 웹사이트에 접속했을 때, 화면 우측 영역에...</a></div><div class="topicinfo"><span id="tp8214">21</span> points by <a href="/user?id=luckydaun">luckydaun</a> 6일전<span id="unvote8214"></span> | <a href="topic?id=8214" class="u">댓글 5개</a></div>]]></content>
+- 웹사이트에 접속했을 때, 화면 우측 영역에...</a></div><div class="topicinfo"><span id="tp8214">21</span> points by <a href="/user?id=luckydaun">luckydaun</a> 7일전<span id="unvote8214"></span> | <a href="topic?id=8214" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Typia - superfast runtime validator]]></title>
@@ -21,7 +21,7 @@
         <updated>2023-01-14T00:46:24.850Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8178"><a class="upvote" href="javascript:vote(8178, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8178" rel="nofollow" id="tr2"><h1>Show GN: Typia - superfast runtime validator</h1></a> <span class="topicurl">(github.com/samchon)</span></div><div class="topicdesc"><a href="topic?id=8178" class="c99 breakall">자작 런타임 타입 체커입니다.  
   
-NestJS 로 백엔드 개발하다가 동접 가능 수가 형편없던 이유를 파악하던 중, class-validator가 그 원인임을...</a></div><div class="topicinfo"><span id="tp8178">5</span> points by <a href="/user?id=samchon">samchon</a> 11일전<span id="unvote8178"></span> | <a href="topic?id=8178" class="u">댓글과 토론</a></div>]]></content>
+NestJS 로 백엔드 개발하다가 동접 가능 수가 형편없던 이유를 파악하던 중, class-validator가 그 원인임을...</a></div><div class="topicinfo"><span id="tp8178">5</span> points by <a href="/user?id=samchon">samchon</a> 12일전<span id="unvote8178"></span> | <a href="topic?id=8178" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 개발자를 위한 채용 경매 플랫폼]]></title>
@@ -32,7 +32,7 @@ NestJS 로 백엔드 개발하다가 동접 가능 수가 형편없던 이유를
   
 현재 MVP 단계이며, 경매 프로세스를 통해 채용을 진행하고 있습니다.  
   
-...</a></div><div class="topicinfo"><span id="tp8175">4</span> points by <a href="/user?id=krow123">krow123</a> 11일전<span id="unvote8175"></span> | <a href="topic?id=8175" class="u">댓글 3개</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp8175">4</span> points by <a href="/user?id=krow123">krow123</a> 12일전<span id="unvote8175"></span> | <a href="topic?id=8175" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Mastodon.nvim (Mastodon client for Neovim)]]></title>
@@ -41,7 +41,7 @@ NestJS 로 백엔드 개발하다가 동접 가능 수가 형편없던 이유를
         <updated>2023-01-14T00:46:24.863Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8109"><a class="upvote" href="javascript:vote(8109, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8109" rel="nofollow" id="tr4"><h1>Show GN: Mastodon.nvim (Mastodon client for Neovim)</h1></a> <span class="topicurl">(github.com/kode-team)</span></div><div class="topicdesc"><a href="topic?id=8109" class="c99 breakall">Neovim 전용 mastodon 클라이언트를 방금 완성해서 출시했습니다!   
   
-Neovim 과몰입 2개월차를 찍던 중, "Neovim에서 벗어나지 않으면서 마스...</a></div><div class="topicinfo"><span id="tp8109">10</span> points by <a href="/user?id=kodingwarrior">kodingwarrior</a> 21일전<span id="unvote8109"></span> | <a href="topic?id=8109" class="u">댓글 1개</a></div>]]></content>
+Neovim 과몰입 2개월차를 찍던 중, "Neovim에서 벗어나지 않으면서 마스...</a></div><div class="topicinfo"><span id="tp8109">10</span> points by <a href="/user?id=kodingwarrior">kodingwarrior</a> 22일전<span id="unvote8109"></span> | <a href="topic?id=8109" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 개발자 채팅방]]></title>
@@ -55,7 +55,7 @@ Neovim 과몰입 2개월차를 찍던 중, "Neovim에서 벗어나지 않으면�
         <id>https://news.hada.io/topic?id=7918</id>
         <link href="https://news.hada.io/topic?id=7918"/>
         <updated>2023-01-14T00:46:24.866Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote7918"><a class="upvote" href="javascript:vote(7918, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=7918" rel="nofollow" id="tr6"><h1>Show GN: JUSO.IO - 주소를 공유하는 가장 쉬운 방법 </h1></a> <span class="topicurl">(juso.io)</span></div><div class="topicdesc"><a href="topic?id=7918" class="c99 breakall">인원 변화가 많은 스타트업이다보니, 1~2년에 한번은 이사를 합니다. 회사 주소를 외우지 못하는데다 (...) 주소를 공유할 때도 과정이 번거롭습니...</a></div><div class="topicinfo"><span id="tp7918">32</span> points by <a href="/user?id=yuno815">yuno815</a> 1달전<span id="unvote7918"></span> | <a href="topic?id=7918" class="u">댓글 18개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote7918"><a class="upvote" href="javascript:vote(7918, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=7918" rel="nofollow" id="tr6"><h1>Show GN: JUSO.IO - 주소를 공유하는 가장 쉬운 방법 </h1></a> <span class="topicurl">(juso.io)</span></div><div class="topicdesc"><a href="topic?id=7918" class="c99 breakall">인원 변화가 많은 스타트업이다보니, 1~2년에 한번은 이사를 합니다. 회사 주소를 외우지 못하는데다 (...) 주소를 공유할 때도 과정이 번거롭습니...</a></div><div class="topicinfo"><span id="tp7918">32</span> points by <a href="/user?id=yuno815">yuno815</a> 2달전<span id="unvote7918"></span> | <a href="topic?id=7918" class="u">댓글 18개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 회사 생활에 유용한 랜덤 도구 사이트]]></title>
@@ -65,22 +65,22 @@ Neovim 과몰입 2개월차를 찍던 중, "Neovim에서 벗어나지 않으면�
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote7908"><a class="upvote" href="javascript:vote(7908, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=7908" rel="nofollow" id="tr7"><h1>Show GN: 회사 생활에 유용한 랜덤 도구 사이트</h1></a> <span class="topicurl">(random.gg)</span></div><div class="topicdesc"><a href="topic?id=7908" class="c99 breakall">룰렛, 팀 생성기, 주변 식당 찾기, 제비뽑기 같이 회사 생활에서 자주 필요했던 도구들을 만들어봤습니다. 저희 회사에선 디팩토 수준으로 유용하...</a></div><div class="topicinfo"><span id="tp7908">33</span> points by <a href="/user?id=robin">robin</a> 2달전<span id="unvote7908"></span> | <a href="topic?id=7908" class="u">댓글 19개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: A self-hosted MiroTalk's WebRTC rooms scheduler server.]]></title>
-        <id>https://news.hada.io/topic?id=8169</id>
-        <link href="https://news.hada.io/topic?id=8169"/>
-        <updated>2023-01-14T00:46:24.862Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote8169"><a class="upvote" href="javascript:vote(8169, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8169" rel="nofollow" id="tr8"><h1>Show GN: A self-hosted MiroTalk's WebRTC rooms scheduler server.</h1></a> <span class="topicurl">(github.com/miroslavpejic85)</span></div><div class="topicinfo"><span id="tp8169">2</span> points by <a href="/user?id=mirotalk85">mirotalk85</a> 12일전<span id="unvote8169"></span> | <a href="topic?id=8169" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 아무생각이나 적고 지울 수 있는 웹사이트]]></title>
         <id>https://news.hada.io/topic?id=7973</id>
         <link href="https://news.hada.io/topic?id=7973"/>
         <updated>2023-01-14T00:46:24.868Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote7973"><a class="upvote" href="javascript:vote(7973, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=7973" rel="nofollow" id="tr9"><h1>Show GN: 아무생각이나 적고 지울 수 있는 웹사이트</h1></a> <span class="topicurl">(memo.kidow.me)</span></div><div class="topicdesc"><a href="topic?id=7973" class="c99 breakall">아무 생각이나 적고 지울 수 있는 메모 웹사이트입니다.  
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote7973"><a class="upvote" href="javascript:vote(7973, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=7973" rel="nofollow" id="tr8"><h1>Show GN: 아무생각이나 적고 지울 수 있는 웹사이트</h1></a> <span class="topicurl">(memo.kidow.me)</span></div><div class="topicdesc"><a href="topic?id=7973" class="c99 breakall">아무 생각이나 적고 지울 수 있는 메모 웹사이트입니다.  
   
 입력한 내용은 새로고침해도 날아가지 않습니다.  
   
 따로 서버를 사용하는 것...</a></div><div class="topicinfo"><span id="tp7973">16</span> points by <a href="/user?id=kidow">kidow</a> 1달전<span id="unvote7973"></span> | <a href="topic?id=7973" class="u">댓글 6개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: A self-hosted MiroTalk's WebRTC rooms scheduler server.]]></title>
+        <id>https://news.hada.io/topic?id=8169</id>
+        <link href="https://news.hada.io/topic?id=8169"/>
+        <updated>2023-01-14T00:46:24.862Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote8169"><a class="upvote" href="javascript:vote(8169, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8169" rel="nofollow" id="tr9"><h1>Show GN: A self-hosted MiroTalk's WebRTC rooms scheduler server.</h1></a> <span class="topicurl">(github.com/miroslavpejic85)</span></div><div class="topicinfo"><span id="tp8169">2</span> points by <a href="/user?id=mirotalk85">mirotalk85</a> 13일전<span id="unvote8169"></span> | <a href="topic?id=8169" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: PublicDataReader: 공공 데이터 조회 파이썬 라이브러리]]></title>
@@ -144,7 +144,7 @@ LeetCode가 오늘의 문제로 바로 넘어가주는 url을 제공해주지않
         <updated>2023-01-14T00:46:24.878Z</updated>
         <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote8037"><a class="upvote" href="javascript:vote(8037, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8037" rel="nofollow" id="tr16"><h1>Show GN: IsDiffusion.art : AI 생성 이미지인지 체크하는 CAPTCHA</h1></a> <span class="topicurl">(isdiffusion.art)</span></div><div class="topicdesc"><a href="topic?id=8037" class="c99 breakall">안녕하세요~  
 이번에 학교 프로젝트로 요즘 핫한 Stable Diffusion으로 생성한 이미지인지 체크해주는(CAPTCHA) 페이지를 만들어봤습니다.  
-  ...</a></div><div class="topicinfo"><span id="tp8037">2</span> points by <a href="/user?id=gjen6s">gjen6s</a> 31일전<span id="unvote8037"></span> | <a href="topic?id=8037" class="u">댓글 2개</a></div>]]></content>
+  ...</a></div><div class="topicinfo"><span id="tp8037">2</span> points by <a href="/user?id=gjen6s">gjen6s</a> 1달전<span id="unvote8037"></span> | <a href="topic?id=8037" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Devery: 개발자 블로그 모음]]></title>
