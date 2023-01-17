@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2023-01-17T03:19:44.462Z</updated>
+    <updated>2023-01-17T04:22:12.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2023-01-17T02:43:03.658Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8268"><a class="upvote" href="javascript:vote(8268, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8268" rel="nofollow" id="tr1"><h1>Show GN: 네이버 카페 중고나라에서 프로 셀러들의 글 제거하는 익스텐션</h1></a> <span class="topicurl">(chrome.google.com)</span></div><div class="topicdesc"><a href="topic?id=8268" class="c99 breakall"># 개요  
   
-네이버 카페 중고나라에는 수많은 프로 셀러, 일명 '업자'들이 있습니다. 이들의 특징은 중고나라 내에서 회원 등급이 '◆셀러회원◆'...</a></div><div class="topicinfo"><span id="tp8268">4</span> points by <a href="/user?id=roeniss">roeniss</a> 11시간전<span id="unvote8268"></span> | <a href="topic?id=8268" class="u">댓글과 토론</a></div>]]></content>
+네이버 카페 중고나라에는 수많은 프로 셀러, 일명 '업자'들이 있습니다. 이들의 특징은 중고나라 내에서 회원 등급이 '◆셀러회원◆'...</a></div><div class="topicinfo"><span id="tp8268">4</span> points by <a href="/user?id=roeniss">roeniss</a> 12시간전<span id="unvote8268"></span> | <a href="topic?id=8268" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 츄잉 다이어트 - 먹으면서 하는 일상 다이어트]]></title>
@@ -21,7 +21,7 @@
         <updated>2023-01-17T02:43:03.658Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8267"><a class="upvote" href="javascript:vote(8267, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8267" rel="nofollow" id="tr2"><h1>Show GN: 츄잉 다이어트 - 먹으면서 하는 일상 다이어트</h1></a> <span class="topicurl">(apps.apple.com)</span></div><div class="topicdesc"><a href="topic?id=8267" class="c99 breakall">굶지 말고 건강하게 다이어트 하세요!  
 - [iOS](https://apps.apple.com/kr/app/id6444375180)  
-- [Android](https://play.google.com/store/a...</a></div><div class="topicinfo"><span id="tp8267">2</span> points by <a href="/user?id=hexoul">hexoul</a> 15시간전<span id="unvote8267"></span> | <a href="topic?id=8267" class="u">댓글과 토론</a></div>]]></content>
+- [Android](https://play.google.com/store/a...</a></div><div class="topicinfo"><span id="tp8267">2</span> points by <a href="/user?id=hexoul">hexoul</a> 16시간전<span id="unvote8267"></span> | <a href="topic?id=8267" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 레이스트 - 웹사이트 기술스택, 방문통계, 기업정보를 분석해주는 크롬 확장 프로그램]]></title>
