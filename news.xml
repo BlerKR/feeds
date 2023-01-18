@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Combined feed</title>
+        <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
         <lastBuildDate>Wed, 18 Jan 2023 12:50:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[HCI KOREA 2023, 코로나19 사태 이후 첫 '재회' (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[HCI KOREA 2023, 코로나19 사태 이후 첫 '재회']]></title>
             <link>https://zdnet.co.kr/view/?no=20230118170634</link>
             <guid>https://zdnet.co.kr/view/?no=20230118170634</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
@@ -16,7 +16,7 @@
             <enclosure url="https://image.zdnet.co.kr/2023/01/18/86bdc16e74566e5e4bf98a80c0ede2eb-290x182.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[에이블리, '에누리 설 대전' 실시…최대 94% 할인 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[에이블리, '에누리 설 대전' 실시…최대 94% 할인]]></title>
             <link>https://zdnet.co.kr/view/?no=20230118172145</link>
             <guid>https://zdnet.co.kr/view/?no=20230118172145</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
@@ -24,7 +24,7 @@
             <enclosure url="https://image.zdnet.co.kr/2023/01/18/e84150d0704a81b6c2b559cb2c91c275-290x182.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구현모 대표, '쪼개기후원' 혐의 공판 출석 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[구현모 대표, '쪼개기후원' 혐의 공판 출석]]></title>
             <link>https://zdnet.co.kr/view/?no=20230118173304</link>
             <guid>https://zdnet.co.kr/view/?no=20230118173304</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
@@ -32,7 +32,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[유선전화 문자수신 '텔톡', 웹툰으로 활용사례 제시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[유선전화 문자수신 '텔톡', 웹툰으로 활용사례 제시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230118181320</link>
             <guid>https://zdnet.co.kr/view/?no=20230118181320</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
@@ -40,7 +40,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[유니온커뮤니티, 중동 보안 전시회 '인터섹 2023' 참가 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[유니온커뮤니티, 중동 보안 전시회 '인터섹 2023' 참가]]></title>
             <link>https://zdnet.co.kr/view/?no=20230118180648</link>
             <guid>https://zdnet.co.kr/view/?no=20230118180648</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
@@ -48,7 +48,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[신규 벤처펀드 결성액 작년 첫 10조 돌파 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[신규 벤처펀드 결성액 작년 첫 10조 돌파]]></title>
             <link>https://zdnet.co.kr/view/?no=20230118180040</link>
             <guid>https://zdnet.co.kr/view/?no=20230118180040</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
@@ -56,7 +56,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[슈나이더 일렉트릭, 이노베이션 서밋 코리아 2023 개최 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[슈나이더 일렉트릭, 이노베이션 서밋 코리아 2023 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20230118175751</link>
             <guid>https://zdnet.co.kr/view/?no=20230118175751</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
@@ -64,7 +64,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[29CM, 연간 거래액 6천억 돌파 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[29CM, 연간 거래액 6천억 돌파]]></title>
             <link>https://zdnet.co.kr/view/?no=20230118171845</link>
             <guid>https://zdnet.co.kr/view/?no=20230118171845</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
@@ -72,7 +72,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[강이구 코오롱베니트 대표 "고객 DX 동반자 목표" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[강이구 코오롱베니트 대표 "고객 DX 동반자 목표"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230118175237</link>
             <guid>https://zdnet.co.kr/view/?no=20230118175237</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
@@ -80,7 +80,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[윤영찬 의원, 알뜰폰 도매대가 규제 폐지 법안 내놨다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[윤영찬 의원, 알뜰폰 도매대가 규제 폐지 법안 내놨다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230118174753</link>
             <guid>https://zdnet.co.kr/view/?no=20230118174753</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
@@ -88,7 +88,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[우본, 설맞이 '우체국 행복나눔 봉사활동' (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[우본, 설맞이 '우체국 행복나눔 봉사활동']]></title>
             <link>https://zdnet.co.kr/view/?no=20230118173820</link>
             <guid>https://zdnet.co.kr/view/?no=20230118173820</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
@@ -96,7 +96,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[스마일게이트 로스트아크, 신규 클래스 '슬레이어' 추가 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[스마일게이트 로스트아크, 신규 클래스 '슬레이어' 추가]]></title>
             <link>https://zdnet.co.kr/view/?no=20230118173344</link>
             <guid>https://zdnet.co.kr/view/?no=20230118173344</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
@@ -104,7 +104,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[한상혁 위원장 "낡은 미디어 법제도, 새 환경 맞게 재정립해야" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[한상혁 위원장 "낡은 미디어 법제도, 새 환경 맞게 재정립해야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230118173143</link>
             <guid>https://zdnet.co.kr/view/?no=20230118173143</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
@@ -112,7 +112,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[인사] 환경부 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[[인사] 환경부]]></title>
             <link>https://zdnet.co.kr/view/?no=20230118173012</link>
             <guid>https://zdnet.co.kr/view/?no=20230118173012</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
@@ -120,7 +120,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[라이엇게임즈, 와일드리프트·TFT서 한국 한정 새해 이벤트 진행 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[라이엇게임즈, 와일드리프트·TFT서 한국 한정 새해 이벤트 진행]]></title>
             <link>https://zdnet.co.kr/view/?no=20230118165649</link>
             <guid>https://zdnet.co.kr/view/?no=20230118165649</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
@@ -128,7 +128,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[난치질환 해결에 한의학 기술과 첨단과학 융합 지원 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[난치질환 해결에 한의학 기술과 첨단과학 융합 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20230118170826</link>
             <guid>https://zdnet.co.kr/view/?no=20230118170826</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
@@ -136,7 +136,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[ST, 2채널 디지털 절연기 신제품 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[ST, 2채널 디지털 절연기 신제품 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230118152316</link>
             <guid>https://zdnet.co.kr/view/?no=20230118152316</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
@@ -144,7 +144,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[MZ세대 잡아라...헬스케어, 체험형 매장 열고 소비자 유혹 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[MZ세대 잡아라...헬스케어, 체험형 매장 열고 소비자 유혹]]></title>
             <link>https://zdnet.co.kr/view/?no=20230118161654</link>
             <guid>https://zdnet.co.kr/view/?no=20230118161654</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
@@ -152,7 +152,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[올 3천억 규모 공공IT사업 단 하나…수주경쟁 뜨거울듯 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[올 3천억 규모 공공IT사업 단 하나…수주경쟁 뜨거울듯]]></title>
             <link>https://zdnet.co.kr/view/?no=20230118163043</link>
             <guid>https://zdnet.co.kr/view/?no=20230118163043</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
@@ -160,7 +160,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[건국대, AI로 암·노화 연결고리 풀었다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[건국대, AI로 암·노화 연결고리 풀었다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230118164838</link>
             <guid>https://zdnet.co.kr/view/?no=20230118164838</guid>
             <pubDate>Wed, 18 Jan 2023 12:50:55 GMT</pubDate>
