@@ -1,16 +1,9 @@
-[new]
-title = "GeekNews ─ 최신글"
-url = "https://news.hada.io/new"
-entrySelector = "div.topics div.topic_row"
-titleSelector = "div.topictitle h1"
-linkSelector = "div.topicinfo a.u"
-waitUntil = "networkidle"
-
-[show]
-title = "GeekNews Show"
-url = "https://news.hada.io/show"
-entrySelector = "div.topic_row"
-titleSelector = "div.topictitle h1"
-linkSelector = "div.topictitle a"
-waitUntil = "networkidle"
-
+[news]
+title = "지디넷코리아 ─ 뉴스 ─ 최신 뉴스"
+url = "https://zdnet.co.kr/news/?lstcode=0000&page=1"
+entrySelector = "div.news_box div.newsPost"
+titleSelector = "div.assetText a h3"
+linkSelector = "div.assetThumb a"
+contentSelector = "div.assetText a p"
+imageSelector = "div.assetThumb a figure.img img"
+waitForSelector = "div.news_box div.newsPost"
