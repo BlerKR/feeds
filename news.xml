@@ -4,16 +4,56 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 03:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 04:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김한준 기자의 e게임] 카트라이더 드리프트, 누구나 만족할 후속작]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230119125503</link>
+            <guid>https://zdnet.co.kr/view/?no=20230119125503</guid>
+            <pubDate>Thu, 19 Jan 2023 04:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[넥슨이 신작 레이싱 게임 카트라이더 드리프트 프리시즌을 지난 12일부터 시작했다. 이 게임은 크레이지레이싱 카트라이더 특유의 아기자기하면서 다양한 주법을 갖춘 게임성은 계승하고...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/01/19/a82f292c71c024c6bfcbfa860df9c033-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ETRI, 암·종양 조기진단 가능 영상기술 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230119125247</link>
+            <guid>https://zdnet.co.kr/view/?no=20230119125247</guid>
+            <pubDate>Thu, 19 Jan 2023 04:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[한국전자통신연구원(ETRI)은 세계 최초로 반도체 발광소자 다이오드를 결합한 펨토초 레이저 기반 실시간 라만 분자 진동 영상기술(CARS)을 개발했다고 19일 밝혔다. 기존 기...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/01/19/8f423d6a1ce2284a7498ada21e47351e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성SDI, '초격차 기술'·'실적' 두 마리 토끼 잡았다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230118150357</link>
+            <guid>https://zdnet.co.kr/view/?no=20230118150357</guid>
+            <pubDate>Thu, 19 Jan 2023 04:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[잠행을 거듭하던 삼성SDI가 약진하고 있다. 발 빠른 완성차 업체와의 협력은 물론 차세대 배터리 기술력에도 공을 들이고 있다는 평가가 나온다. 업계에서는 올해 실적에서도 진일보...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["부산 디지털자산 거래소, 지역 IP 토큰 거래부터 시작"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230119104719</link>
+            <guid>https://zdnet.co.kr/view/?no=20230119104719</guid>
+            <pubDate>Thu, 19 Jan 2023 04:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[블록체인 규제자유특구인 부산시가 올해 하반기 개시 예정인 디지털자산 거래소에 대해 지역 기반 지적재산권(IP) 관련 토큰 거래부터 지원할 방침이라고 발표했다. 이후 금, 농·축...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[테이크원 '뿌까 퍼즐 어드벤처', 1월 26일 글로벌 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230119122844</link>
+            <guid>https://zdnet.co.kr/view/?no=20230119122844</guid>
+            <pubDate>Thu, 19 Jan 2023 04:24:06 GMT</pubDate>
+            <content:encoded><![CDATA['BTS월드' 제작사 테이크원컴퍼니(대표 정민채)는 신작 모바일 퍼즐 게임 '뿌까 퍼즐 어드벤처'를 오는 26일에 글로벌 정식 출시한다고 밝혔다. '뿌까 퍼즐 어드벤처'는 글로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올해 AI반도체 대학원 3곳 신설···메타버스 융합 대학원 4곳은 추가 개설]]></title>
             <link>https://zdnet.co.kr/view/?no=20230119115807</link>
             <guid>https://zdnet.co.kr/view/?no=20230119115807</guid>
             <pubDate>Thu, 19 Jan 2023 03:21:39 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부(과기정통부)는 올해 디지털(ICT) 인재양성을 위해 지난해보다 약 500억원이 늘어난 4537억원을 투입해 총 5만2천명을 양성한다. 특히 지난해 발표한 '디...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/19/7ea296433b25188a8b80ac192930cd67-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[K-의료기기, 계묘년 수출 활시위 세게 당긴다]]></title>
@@ -21,7 +61,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230119112317</guid>
             <pubDate>Thu, 19 Jan 2023 03:21:39 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 의료기기시장 진입 장벽이 갈수록 높아지고 있다. 유럽연합(EU) 주도의 인증 기준 강화 등은 우리기업의 현지 진출 및 수출에 악영향을 미칠 수 있다. 정부는 이에 대한 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/10/21/8b403ba412d0de2671a47c39a1ed457a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[녹십자가 스노우플레이크를 선택한 이유]]></title>
@@ -104,14 +144,6 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[청호나이스, 임영웅 모델 '에스프레카페' CF 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230119104132</link>
-            <guid>https://zdnet.co.kr/view/?no=20230119104132</guid>
-            <pubDate>Thu, 19 Jan 2023 02:48:47 GMT</pubDate>
-            <content:encoded><![CDATA[청호나이스가 임영웅을 모델로 한 '에스프레카페' 제품의 신규 광고 캠페인을 19일부터 진행한다고 밝혔다. 이번 광고는 '에스프레카페' 제품의 기능적 장점을 표현하기 위해 '커피...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[챗GPT, 정신 치료 가능할까...전문가 "시기상조"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230119100236</link>
             <guid>https://zdnet.co.kr/view/?no=20230119100236</guid>
@@ -120,51 +152,19 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[청호나이스, 임영웅 모델 '에스프레카페' CF 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230119104132</link>
+            <guid>https://zdnet.co.kr/view/?no=20230119104132</guid>
+            <pubDate>Thu, 19 Jan 2023 02:48:47 GMT</pubDate>
+            <content:encoded><![CDATA[청호나이스가 임영웅을 모델로 한 '에스프레카페' 제품의 신규 광고 캠페인을 19일부터 진행한다고 밝혔다. 이번 광고는 '에스프레카페' 제품의 기능적 장점을 표현하기 위해 '커피...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[위메이드, 새해 위믹스‧게임사업 드라이브 건다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230119105907</link>
             <guid>https://zdnet.co.kr/view/?no=20230119105907</guid>
             <pubDate>Thu, 19 Jan 2023 02:48:47 GMT</pubDate>
             <content:encoded><![CDATA[위메이드가 새해 미르의전설 지식재산권(IP) 기반 게임 서비스 강화와 블록체인 게임 플랫폼 위믹스플레이 활성화를 위한 투자 확대로 재도약을 시도한다. 회사는 오는 31일 블록체...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이노룰스, ABL생명에 AI기반 보험사기 예측시스템 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230119110114</link>
-            <guid>https://zdnet.co.kr/view/?no=20230119110114</guid>
-            <pubDate>Thu, 19 Jan 2023 02:48:47 GMT</pubDate>
-            <content:encoded><![CDATA[디지털전환 자동화 솔루션 전문기업 이노룰스(InnoRules, 대표 김길곤)는 의사결정 최적화 AI 전문기업 애자일소다(대표 최대우)와 기술 협력을 통해 ABL생명보험에 AI기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이메이션, USB-C 주변기기 2종 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230119110036</link>
-            <guid>https://zdnet.co.kr/view/?no=20230119110036</guid>
-            <pubDate>Thu, 19 Jan 2023 02:48:47 GMT</pubDate>
-            <content:encoded><![CDATA[이메이션이 19일 USB-C 주변기기 2종을 국내 출시했다. IMCH-200G는 노트북과 스마트폰, 태블릿 등 다양한 기기를 충전할 수 있는 3포트 충전기다. 전력 변환 효율을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 로봇청소기·스마트싱스, 한국표준협회 'AI 신뢰성 인증' 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230119085121</link>
-            <guid>https://zdnet.co.kr/view/?no=20230119085121</guid>
-            <pubDate>Thu, 19 Jan 2023 02:48:47 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자 로봇청소기 '비스포크 제트 봇 AI'와 '스마트싱스 홈케어'가 국내 최초로 한국표준협회가 주관하는 '인공지능(AI) 신뢰성 인증'을 획득했다. 한국표준협회가 지난 해 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 펫가전 구매하고 펫푸드 할인 받는 '마이펫 플랜' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230119083518</link>
-            <guid>https://zdnet.co.kr/view/?no=20230119083518</guid>
-            <pubDate>Thu, 19 Jan 2023 02:48:47 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 우리카드와 협업해 펫팸족(펫+패밀리) 맞춤형 서비스 '마이펫 플랜'을 선보인다. 마이펫 플랜은 펫 케어 기능을 탑재한 가전 구매 고객들에게 사료나 간식 등 펫푸드 비...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[녹색산업 수출 앞장…'녹색산업 얼라이언스' 출범]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230119105943</link>
-            <guid>https://zdnet.co.kr/view/?no=20230119105943</guid>
-            <pubDate>Thu, 19 Jan 2023 02:48:47 GMT</pubDate>
-            <content:encoded><![CDATA[탄소중립 목표를 달성하고 녹색산업 수출 활성화에 앞장설 민관합동 '녹색산업 팀코리아'가 출범했다. 환경부는 19일 서울 여의도 콘래드서울호텔에서 녹색산업계와 수출금융기관·산하기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
