@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 03:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 04:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에버스핀 페이크파인더, 저축은행 보안도 책임진다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230120122604</link>
+            <guid>https://zdnet.co.kr/view/?no=20230120122604</guid>
+            <pubDate>Fri, 20 Jan 2023 04:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[보안솔루션기업 에버스핀(대표 하영빈)은 악성앱 탐지 솔루션 페이크파인더를 JT저축은행에 공급했다고 20일 밝혔다. 에버스핀 관계자는 “작년부터 이어진 금리인상과 경기침체로 서민...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/12/23/48656e00b6e411e163885d1673e00f58-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컴투스 '서머너즈워:크로니클', 타이페이게임쇼 2023 참가 확정]]></title>
             <link>https://zdnet.co.kr/view/?no=20230120105444</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230120095840</guid>
             <pubDate>Fri, 20 Jan 2023 02:48:46 GMT</pubDate>
             <content:encoded><![CDATA[금융위원회가 증권형 토큰(STO)을 허용한 가운데, 가상자산업계에선 기대보다 실효성에 대한 우려가 앞선 모습이다. 이 가운데 연구계에선 “국내 디지털 금융법이 정책목적에 맞게 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시스코, 메가존클라우드와 디지털 트랜스포메이션 지원 업무협약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230120102422</link>
-            <guid>https://zdnet.co.kr/view/?no=20230120102422</guid>
-            <pubDate>Fri, 20 Jan 2023 02:48:46 GMT</pubDate>
-            <content:encoded><![CDATA[시스코 시스템즈가 아시아 최대 클라우드 운영관리 기업(MSP) 메가존클라우드와 업무협약(MOU)을 체결해 기업들의 디지털 트랜스포메이션 지원에 나선다고 20일 밝혔다. 양사는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
