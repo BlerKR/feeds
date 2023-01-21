@@ -4,16 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Jan 2023 02:40:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 03:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인사] 보건복지부 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230121121218</link>
+            <guid>https://zdnet.co.kr/view/?no=20230121121218</guid>
+            <pubDate>Sat, 21 Jan 2023 03:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[◆보건복지부 ◇국장급 승진 ▲오진희 ◇국장급 파견 ▲국가공무원인재개발원(고위정책과정) 오진희 ▲국방대학교(안보과정) 권병기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한국바이오협회장에 고한승 삼성바이오에피스 사장 연임 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230121120912</link>
+            <guid>https://zdnet.co.kr/view/?no=20230121120912</guid>
+            <pubDate>Sat, 21 Jan 2023 03:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[고한승 삼성바이오에피스 사장이 제8대 한국바이오협회장으로 지난 7대에 이어 연임했다. 고한승 협회장 연임은 지난 임기 2년 동안 정회원사가 34% 증가하는 등 바이오 산업계의 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/01/21/ad92c428ed163b6257478fec1dfda53b-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[몸은 멀리 있어도, 마음을 모아 추모의 뜻 전하세요 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230119160342</link>
             <guid>https://zdnet.co.kr/view/?no=20230119160342</guid>
             <pubDate>Sat, 21 Jan 2023 02:40:06 GMT</pubDate>
             <content:encoded><![CDATA[보건복지부는 설 연휴를 맞아 국내·외 어디서든 고인을 추모할 수 있는 온택트(ontact) 기반 '온라인 추모 서비스' 기능을 고도화해 제공한다고 밝혔다. 온라인 추모 서비스는...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/19/06f8007de1204552363c967c2ec683f4-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[명절 장보기 '냉장 필요 없는 식품-농산물-냉장식품-육류-어패류' 순 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230120235500</guid>
             <pubDate>Sat, 21 Jan 2023 02:40:06 GMT</pubDate>
             <content:encoded><![CDATA[식품의약품안전처는 국민이 안전하고 건강한 설 명절을 보낼 수 있도록 식품의 올바른 구매‧조리‧섭취 요령과 의약품 안전 사용‧복용 정보를 제공했다. 주요 내용은 ▲장보기 요령 ▲...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/20/288a12af38ba668dc9d20326d24b92bc-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[코로나19 누적 확진자 3천만명 코앞…국민 10명 중 6명 감염 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230120155032</guid>
             <pubDate>Sat, 21 Jan 2023 02:40:06 GMT</pubDate>
             <content:encoded><![CDATA[코난테크놀로지(대표 김영섬)가 충남 계룡대에서 국방부(육군인사사령부) 스마트 인재관리시스템 구축사업 착수보고회를 가졌다고 20일 밝혔다. 국방부 및 각 군은 인공지능(AI)·빅...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[인사] 보건복지부 및 식품의약품안전처 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230120153012</link>
-            <guid>https://zdnet.co.kr/view/?no=20230120153012</guid>
-            <pubDate>Sat, 21 Jan 2023 02:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[◆보건복지부(1월26일자) ◇과장급 공무원 ▲건강정책국 건강증진과장 부이사관 조신행, 교육부(한경대학교 사무국장) 파견 근무(2023. 01. 26.부터 2024. 01. 25...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[식약처, 한국로슈 안과용 이중 특이적 항체치료제 '바비스모주' 허가 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230120152240</link>
-            <guid>https://zdnet.co.kr/view/?no=20230120152240</guid>
-            <pubDate>Sat, 21 Jan 2023 02:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[식품의약품안전처는 한국로슈의 신생혈관성 황반변성과 당뇨병성 황반부종에 의한 시력 손상 치료 신약 '바비스모주'(파리시맙)를 1월20일 허가했다고 밝혔다. 바비스모주는 안지오포이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
