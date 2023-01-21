@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Jan 2023 03:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 04:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[휴대폰으로 효도?... 노인 맞춤 요금제 추천 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230120143527</link>
+            <guid>https://zdnet.co.kr/view/?no=20230120143527</guid>
+            <pubDate>Sat, 21 Jan 2023 04:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[70세 이상 세대에서도 스마트폰이 주요 전자제품으로 자리잡고 있다. 방송통신위원회에 따르면, 70세 이상 노인 10명 중 6명은 스마트폰을 사용했다. 60대의 스마트폰 보유율은...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/01/21/e81b25aa670a9c3b80517b7a43e8ac73-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설 연휴, 즐기기 좋은 OTT 콘텐츠 모음 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230121102853</link>
+            <guid>https://zdnet.co.kr/view/?no=20230121102853</guid>
+            <pubDate>Sat, 21 Jan 2023 04:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[설이 코앞으로 다가왔다. 이번 연휴 특별한 계획이 없다면 온라인 동영상 서비스(OTT)에 올라온 다양한 콘텐츠를 즐겨보는 건 어떨까. 이번 연휴 OTT에는 볼거리가 가득하다. ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/01/21/9a541603dc48700c696e4906fba2c467-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인사] 보건복지부 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230121121218</link>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230121120912</guid>
             <pubDate>Sat, 21 Jan 2023 03:19:41 GMT</pubDate>
             <content:encoded><![CDATA[고한승 삼성바이오에피스 사장이 제8대 한국바이오협회장으로 지난 7대에 이어 연임했다. 고한승 협회장 연임은 지난 임기 2년 동안 정회원사가 34% 증가하는 등 바이오 산업계의 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/21/ad92c428ed163b6257478fec1dfda53b-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[몸은 멀리 있어도, 마음을 모아 추모의 뜻 전하세요 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230120161756</guid>
             <pubDate>Sat, 21 Jan 2023 02:40:06 GMT</pubDate>
             <content:encoded><![CDATA[2022년을 뜨겁게 달군 '밈(meme)'은 뭘까. 화제성 콘텐츠로 MZ세대로부터 주목받고 있는 방구석연구소는 최근 '2022 밈 어워즈'를 개최해, 지난해 온라인에서 사랑받은...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유니온커뮤니티, 글로벌 컨퍼런스 'UGC 2023' 개최 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230120155949</link>
-            <guid>https://zdnet.co.kr/view/?no=20230120155949</guid>
-            <pubDate>Sat, 21 Jan 2023 02:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[유니온커뮤니티(대표 신요식)는 두바이에서 글로벌 파트너사를 초대해 '유니온커뮤니티 글로벌 컨퍼런스 2023(UGC 2023)'를 개최했다고 20일 밝혔다. 17일 개최한 이번 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코난테크놀로지, 국방부 스마트 인재관리시스템 구축 착수 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230120155032</link>
-            <guid>https://zdnet.co.kr/view/?no=20230120155032</guid>
-            <pubDate>Sat, 21 Jan 2023 02:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[코난테크놀로지(대표 김영섬)가 충남 계룡대에서 국방부(육군인사사령부) 스마트 인재관리시스템 구축사업 착수보고회를 가졌다고 20일 밝혔다. 국방부 및 각 군은 인공지능(AI)·빅...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
