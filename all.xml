@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Jan 2023 02:46:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 03:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해 금연 도전하시나요…'폐암' 85%는 흡연과 관련… (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230120085303</link>
+            <guid>https://zdnet.co.kr/view/?no=20230120085303</guid>
+            <pubDate>Sun, 22 Jan 2023 03:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[새해를 맞아 다시 금연을 시도하는 사람들이 늘고 있다. 흡연으로 인한 대표적 위험 질환은 폐암이다. 폐암은 암 중 사망률이 가장 높다. 국내 폐암 사망자는 2021년 인구 10...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/01/21/574a62ee666151dccf80921c2c5cad3f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신규확진 1만6624명…코로나19 증상 의심 시 휴게소서 검사 받으세요 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230122100927</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230117133710</guid>
             <pubDate>Sun, 22 Jan 2023 02:46:39 GMT</pubDate>
             <content:encoded><![CDATA[굿닥이 설 명절을 맞아 비대면 진료 검색 서비스를 강화한다. 회사는 21일~24일 설 연휴 기간 동안 ▲운영하는 병원·약국 검색서비스 ▲24시간 실시간 비대면 진료 ▲처방약 배...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/17/030e831a54822fa033bfd16fa2af9ea8-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[지디 코믹스] 새 된 트위터 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230120235039</guid>
             <pubDate>Sun, 22 Jan 2023 02:46:39 GMT</pubDate>
             <content:encoded><![CDATA[명절마다 응급상황으로 의료기관을 찾는 사람들이 많다. 우선 응급 사고 현장을 목격한 경우에는 사고 현장을 목격한 사람은 119와 환자를 신속히 연결해 주는데 아주 중요한 역할을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[임신부 '알프라졸람' 복용 주의…저체중아 출산 위험 3.7배 높여 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230119160558</link>
-            <guid>https://zdnet.co.kr/view/?no=20230119160558</guid>
-            <pubDate>Sun, 22 Jan 2023 02:46:39 GMT</pubDate>
-            <content:encoded><![CDATA[향정신성약물인 '알프라졸람'이 임신 여성에게 자연유산과 저체중아 출생 위험을 높이는 것으로 확인됐다. 인제대학교 일산백병원 산부인과 한정열 교수팀이 임신 중 알프라졸람을 복용한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
