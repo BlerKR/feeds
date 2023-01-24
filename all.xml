@@ -4,16 +4,48 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 02:40:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 03:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['MZ 취향 반영'...이색 통신 요금제 골라보세요 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230124093341</link>
+            <guid>https://zdnet.co.kr/view/?no=20230124093341</guid>
+            <pubDate>Tue, 24 Jan 2023 03:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[통신 업계가 최근 MZ 취향에 맞춘 요금제로 2030대 이용자를 공략하고 있다. SK텔레콤·KT·LG유플러스 등 통신 3사는 가치관과 실리를 중시하는 MZ 세대의 소비 습관에 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/25/00c1846579b3c674b10583a808040ee1-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스마트폰 위성 통신 구조 기능, 올 하반기부터 본격 탑재 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230118233143</link>
+            <guid>https://zdnet.co.kr/view/?no=20230118233143</guid>
+            <pubDate>Tue, 24 Jan 2023 03:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[4G/5G 이동통신 기지국이나 와이파이를 쓸 수 없는 격오지에서 긴급 구조를 요청할 수 있는 스마트폰 위성 통신 기능이 올 하반기부터 주요 스마트폰에 본격 보급된다. 애플은 지...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/11/11/8743a6f3aed42c29694660d404c6f776-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설 연휴 마지막..."가볍게 모바일 게임 어때?" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230123144102</link>
+            <guid>https://zdnet.co.kr/view/?no=20230123144102</guid>
+            <pubDate>Tue, 24 Jan 2023 03:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[나흘 간의 설 연휴도 이제 마지막 하루 만을 남겨두고 있다. 고향을 찾았던 귀성객들도 기나긴 귀경길에 오르는 모양새다. 설 연휴의 마지막 부담없이 즐길 수 있는 모바일 게임에도...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["고속도로 휴게소 '공짜 와이파이' 사용 주의하세요" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230123101913</link>
+            <guid>https://zdnet.co.kr/view/?no=20230123101913</guid>
+            <pubDate>Tue, 24 Jan 2023 03:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[무료 와이파이를 이용한 해킹 사례가 빈번해, 설 연휴 고속도로 휴게소에서 제공되는 무료 와이파이를 이용하는 귀성객들의 주의가 요구된다. 국토교통부와 한국도로공사에 따르면, 올해...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[필름 없이 터치…삼성D, 터치일체 중형 OLED 개발 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230124105029</link>
             <guid>https://zdnet.co.kr/view/?no=20230124105029</guid>
             <pubDate>Tue, 24 Jan 2023 02:40:38 GMT</pubDate>
             <content:encoded><![CDATA[삼성디스플레이는 24일 스마트폰 유기발광다이오드(OLED)에 적용했던 터치 일체형 기술을 노트북용 중형 OLED에도 확대해 양산한다고 밝혔다. 삼성디스플레이는 OCTA(On C...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/24/dc2e96bda08292de032345e093aadb2e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[최세훈 대표, 새해 상품 다각화 기대 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230118115855</guid>
             <pubDate>Tue, 24 Jan 2023 02:40:38 GMT</pubDate>
             <content:encoded><![CDATA[카카오페이손해보험 최세훈 대표가 이끄는 카카오페이손해보험의 상품 다각화가 기대된다. 24일 보험업계에 따르면, 출범 100일을 갓 넘긴 카카오손보가 선보인 상품은 지난해 10월...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/24/28a9b3e5904b0e5e511f920434aff1bd-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[삼성전자, '스마트싱스 스테이션' 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230123233952</guid>
             <pubDate>Tue, 24 Jan 2023 02:40:38 GMT</pubDate>
             <content:encoded><![CDATA[애플이 소형 스마트 스피커 '홈팟 미니'의 차세대 제품을 출시할 가능성이 낮다고 블룸버그 통신이 22일(현지시간) 밝혔다. 마크 구먼 블룸버그 통신 기자는 '파워 온' 뉴스레터...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 창립 40주년 맞아 애플 '리사' 소스코드 공개 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230124003001</link>
-            <guid>https://zdnet.co.kr/view/?no=20230124003001</guid>
-            <pubDate>Tue, 24 Jan 2023 02:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 창립 40주년을 기념해 매킨토시의 초기 버전인 리사(Lisa)의 소스 코드를 공개했다. 최근 컴퓨터역사박물관(CHM)은 공식 홈페이지에서 시스템과 프로그램 소프트웨어를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[야놀자 여행·숙박앱, 작년 12월 국내 여행업계 1위 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230124085209</link>
-            <guid>https://zdnet.co.kr/view/?no=20230124085209</guid>
-            <pubDate>Tue, 24 Jan 2023 02:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[야놀자(총괄대표 이수진)의 2022년 12월 주요 앱 지표와 거래액이 여행업계 1위를 기록했다. 모바일 빅데이터 플랫폼 기업 아이지에이웍스의 모바일인덱스 인사이트 추정 데이터(...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[옛추억 되살리는 AI 서비스 나온다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230124084029</link>
-            <guid>https://zdnet.co.kr/view/?no=20230124084029</guid>
-            <pubDate>Tue, 24 Jan 2023 02:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 다음달 AI 서비스 '에이닷'에 오래된 정보를 기억해 대화에 활용할 수 있는 '장기기억' 기술과 사진, 텍스트 등 복합적인 정보를 함께 이해할 수 있는 멀티모달 서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["GPT-3, 크기 60% 줄여도 성능은 그대로" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230123193111</link>
-            <guid>https://zdnet.co.kr/view/?no=20230123193111</guid>
-            <pubDate>Tue, 24 Jan 2023 02:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[오픈AI의 초거대 인공지능(AI) 모델인 GPT-3 규모를 성능 저하 없이 절반으로 줄일 수 있다는 연구 결과가 나왔다. 이는 컴퓨팅 에너지를 절약할 수 있을 뿐 아니라 모델 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
