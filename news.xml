@@ -4,16 +4,48 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 02:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 03:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["캐롯, 모빌리티 분야 넘어 커넥티드 보험 개발 확대"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230125095729</link>
+            <guid>https://zdnet.co.kr/view/?no=20230125095729</guid>
+            <pubDate>Wed, 25 Jan 2023 03:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[캐롯손해보험의 등장으로 기존 다이렉트 채널로만 여겨졌던 온라인 보험시장에 대한 인식이 변화하기 시작했다. 주행거리와 상관없이 남들과 비슷한 보험료를 일시불로 결제해야 했던 자동...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/01/25/69f04d76b55de4c72675b6105e95f129-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["코드, 가상자산사업자 '규제' 걱정 해결사 될 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230125110829</link>
+            <guid>https://zdnet.co.kr/view/?no=20230125110829</guid>
+            <pubDate>Wed, 25 Jan 2023 03:21:15 GMT</pubDate>
+            <content:encoded><![CDATA["코드 얼라이언스에서 회원사들이 각국의 규제, 정책이나 기술지원 등에서 정보를 교환할 수 있게 해 불필요한 비용 지출 없이 비즈니스에만 집중할 수 있는 신뢰 커뮤니케이션 허브 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/01/25/88d0c09114bc7b53eb98109742e515e5-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터레이크 vs 데이터레이크하우스, 그리고 '델타레이크']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230125114656</link>
+            <guid>https://zdnet.co.kr/view/?no=20230125114656</guid>
+            <pubDate>Wed, 25 Jan 2023 03:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[최근 데이터 플랫폼 분야에서 많이 언급되는 단어가 '데이터레이크'다. 이와 함께 '데이터레이크하우스'도 자주 거론된다. 데이터레이크와 데이터레이크하우스는 모두 데이터를 저장하는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['부릉' 메쉬코리아, 새 대표에 김형설 부사장 선임]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230125111818</link>
+            <guid>https://zdnet.co.kr/view/?no=20230125111818</guid>
+            <pubDate>Wed, 25 Jan 2023 03:21:15 GMT</pubDate>
+            <content:encoded><![CDATA['부릉' 운영사 메쉬코리아가 공동창업자인 김형설 부사장을 신임 대표로 선임했다. 25일 메쉬코리아는 서울 강남구 카이트타워에서 긴급 이사회를 개최해, 창업자 유정범 의장을 해임...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[中 해킹그룹, 국내 학술기관 12곳 해킹…추가 공격 예고]]></title>
             <link>https://zdnet.co.kr/view/?no=20230125112958</link>
             <guid>https://zdnet.co.kr/view/?no=20230125112958</guid>
             <pubDate>Wed, 25 Jan 2023 02:41:10 GMT</pubDate>
             <content:encoded><![CDATA[중국 해킹 그룹이 국내 12개 학술기관의 홈페이지를 해킹했다. 이 해킹 그룹은 향후 정부 기관과 한국인터넷진흥원(KISA)도 해킹하겠다고 밝혀 주의가 요구된다. KISA는 25...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/28/ad45ecdbaf681da2c8ef5b023e260eb1-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[식약처, '에타젠' 등 2종 임시마약류 지정예고]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230125113121</guid>
             <pubDate>Wed, 25 Jan 2023 02:41:10 GMT</pubDate>
             <content:encoded><![CDATA[식품의약품안전처(이하 식약처)는 국내·외에서 마약류 대용 물질로 오·남용되는 '에타젠'(Etazene) 등 2종을 임시마약류로 지정 예고했다. 신규 지정되는 에타젠은 국내에서 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/09/27/822a32ed10f02876642824d59bb9f602-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[룽투코리아 카이로스, 새 버전 업데이드 사전 예약 실시]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230125105756</guid>
             <pubDate>Wed, 25 Jan 2023 02:41:10 GMT</pubDate>
             <content:encoded><![CDATA[게임 지식재산권(IP)을 바탕으로 한 게임 원작 영상물이 올해 대거 공개된다. 이전까지 게임 원작 영상물은 대체적으로 아쉬운 모습을 보여줬지만, 최근 공개된 아케인, '사이버펑...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정부, UAE 경제외교 성과 창출 위해 민관 협력 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230125094754</link>
-            <guid>https://zdnet.co.kr/view/?no=20230125094754</guid>
-            <pubDate>Wed, 25 Jan 2023 02:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 아랍에미리트(UAE)와 체결한 다수의 업무협약(MOU), 투자 유치 등 경제 효과를 조기에 창출하기 위해 민간 기업을 전폭적으로 지원할 방침이다. 산업통상자원부는 관계부...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[케이뱅크, 아파트담보대출 변동금리 최대 연 0.64%p 인하]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230125091554</link>
-            <guid>https://zdnet.co.kr/view/?no=20230125091554</guid>
-            <pubDate>Wed, 25 Jan 2023 02:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[케이뱅크는 아파트담보대출 변동금리 상품과 전세대출 상품 금리를 최대 0.64%포인트(p) 인하한다고 25일 밝혔다. 이에 따라 케이뱅크의 아파트담보대출 변동금리(대환대출)는 연...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SSG닷컴, 장보기 브랜드 7곳 합동 행사 '블라썸 위크' 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230125092724</link>
-            <guid>https://zdnet.co.kr/view/?no=20230125092724</guid>
-            <pubDate>Wed, 25 Jan 2023 02:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[SSG닷컴이 온라인 플래그십 스토어 형태로 입점한 식품, 일상용품 대표 브랜드 7곳과 대규모 장보기 행사를 연다고 25일 밝혔다. SSG닷컴은 오는 26일부터 다음달 1일까지 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[11번가, LIVE11 오픈 플랫폼 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230125094744</link>
-            <guid>https://zdnet.co.kr/view/?no=20230125094744</guid>
-            <pubDate>Wed, 25 Jan 2023 02:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[11번가가 셀러 누구나 라이브 방송 LIVE11에서 제품 판매 방송을 진행할 수 있는 '오픈 라이브' 서비스를 선보인다고 25일 밝혔다. LIVE11은 스트리밍을 통해 쇼호스트...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
