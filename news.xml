@@ -4,16 +4,56 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 02:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 03:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바이브, AI기술 금융권 적용 확대···신한은행에도 서비스]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230126120135</link>
+            <guid>https://zdnet.co.kr/view/?no=20230126120135</guid>
+            <pubDate>Thu, 26 Jan 2023 03:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[바이브컴퍼니(각자 대표 이재용·김성언, 이하 바이브)가 자사의 인공지능(AI) 기술을 미래에셋증권, 한국투자증권, 신한은행 등 주요 금융권에 확산, 적용하고 있다. 26일 바이...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/01/26/e10dca0ad539dd13bd571148a83d5ce7-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[20세 이상 3명 중 1명은 '고혈압' 경험…환자 14%는 1년간 의료이용 없어]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230125110444</link>
+            <guid>https://zdnet.co.kr/view/?no=20230125110444</guid>
+            <pubDate>Thu, 26 Jan 2023 03:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[한국인 20세 이상 3명 중 1명은 '고혈압'을 경험한 것으로 났으며, 지난해 기준 환자의 14%는 1년간 의료를 이용하지 않은 것으로 분석됐다. 국민건강보험공단과 대한고혈압학...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/01/25/9062002d68cfc2368f6590071385bea2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중견기업 77% "中企 졸업 후 지원 줄고, 규제 늘었다”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230126093715</link>
+            <guid>https://zdnet.co.kr/view/?no=20230126093715</guid>
+            <pubDate>Thu, 26 Jan 2023 03:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[기업규모가 커질수록 정부지원은 줄고 조세부담과 규제는 늘어 기업이 성장을 꺼리는 이른바 '피터팬증후군'이 여전한 것으로 조사됐다. 대한상공회의소는 26일 최근 10년 내 중소기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[토스랩-유니포스트, 기업용 협업툴 사업 협력 MOU]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230126115635</link>
+            <guid>https://zdnet.co.kr/view/?no=20230126115635</guid>
+            <pubDate>Thu, 26 Jan 2023 03:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[업무용 협업툴 '잔디(JANDI)'를 서비스하는 토스랩이 전자증빙 협업툴 전문 기업 유니포스트와 기업용 협업 서비스 사업 협력을 위한 업무 협약(MOU)을 체결했다고 26일 밝...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버클라우드, 글로벌 개인정보보호 인증 'APEC CBPR' 취득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230126115532</link>
+            <guid>https://zdnet.co.kr/view/?no=20230126115532</guid>
+            <pubDate>Thu, 26 Jan 2023 03:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[네이버클라우드가 국내 클라우드 서비스 사업자(CSP) 최초로 아시아태평양경제협력체(APEC) 국경 간 프라이버시 규칙(CBPR) 인증을 취득했다고 26일 밝혔다. 네이버클라우드...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[中 해커, LG전자·삼성전기·포스코 등 161명 개인정보도 유포]]></title>
             <link>https://zdnet.co.kr/view/?no=20230126105428</link>
             <guid>https://zdnet.co.kr/view/?no=20230126105428</guid>
             <pubDate>Thu, 26 Jan 2023 02:42:19 GMT</pubDate>
             <content:encoded><![CDATA[국내 학술기관 홈페이지를 해킹한 중국 해킹 그룹 '샤오치잉(晓骑营)'이 깃허브에 161명의 개인정보도 유포한 것으로 추정됐다. 26일 한국인터넷진흥원(KISA)은 최근 오픈소스...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/26/249a3067b90d400aebc3ba7b59fbc753-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[김한준 기자의 e게임] 원피스 오디세이, 턴제 RPG로 그려진 원피스 IP]]></title>
@@ -21,7 +61,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230126113405</guid>
             <pubDate>Thu, 26 Jan 2023 02:42:19 GMT</pubDate>
             <content:encoded><![CDATA[만화와 애니메이션을 넘어 각종 게임으로도 큰 인기를 얻고 있는 원피스 지적재산권을 활용한 새로운 게임이 출시됐다. 반다이남코엔터테인먼트가 지난 12일 PC와 플레이스테이션4, ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/26/a0a34bbeec612c31ff096e900c32fcb2-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[빗썸 부리또 월렛에 '클레이스왑' 연동된다]]></title>
@@ -125,46 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230126105513</guid>
             <pubDate>Thu, 26 Jan 2023 02:42:19 GMT</pubDate>
             <content:encoded><![CDATA[넥슨코리아(대표 이정헌)는 온라인게임 '메이플스토리'와 토스트 브랜드 '이삭토스트'가 손잡고 '커리업 토스트'를 출시했다고 26일 밝혔다. '커리업 토스트'는 많은 이용자들로부...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔코아, 비즈니스 다각화·전문성으로 2년 연속 매출 성장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230126110032</link>
-            <guid>https://zdnet.co.kr/view/?no=20230126110032</guid>
-            <pubDate>Thu, 26 Jan 2023 02:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[엔코아(대표 이화식)가 디지털전환이 가속화되는 시장 니즈에 대응하는 비즈니스 다각화와 전문성으로 2022년 320억 원의 매출을 달성하며 2년 연속 매출 규모가 성장했다고 26...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신일, 강추위에 컨벡터 히터 출고량 늘어]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230126103339</link>
-            <guid>https://zdnet.co.kr/view/?no=20230126103339</guid>
-            <pubDate>Thu, 26 Jan 2023 02:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[종합가전 기업 신일전자는 지난해 컨벡터 히터 출고량이 크게 증가했다고 26일 밝혔다. 신일에 따르면 지난해 전체 컨벡터 히터 출고량은 전년 동기 대비 48% 증가했다. 2020...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NC문화재단-美MIT, MIT과학프로그램 2주간 실시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230126105040</link>
-            <guid>https://zdnet.co.kr/view/?no=20230126105040</guid>
-            <pubDate>Thu, 26 Jan 2023 02:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[NC문화재단(이사장 윤송이)은 미국 매사추세츠공과대학(MIT) 학생들과 함께 미래세대를 위한 'MIT과학프로그램'을 지난 9일부터 20일까지 2주간 진행했다고 밝혔다. 이번 프...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성SDS, 클라우드 힘입어 연간 최대 매출 달성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230126104820</link>
-            <guid>https://zdnet.co.kr/view/?no=20230126104820</guid>
-            <pubDate>Thu, 26 Jan 2023 02:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[삼성SDS가 2022년 매출액 17조 2천347억 원, 영업이익 9천161억 원의 잠정실적을 26일 공시했다. 매출액은 전년 대비 26% 성장하며 연간 최대 실적을 달성했다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뱅앤올룹슨, 밸런타인데이 신규 컬렉션 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230126102310</link>
-            <guid>https://zdnet.co.kr/view/?no=20230126102310</guid>
-            <pubDate>Thu, 26 Jan 2023 02:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[홈 엔터테인먼트 브랜드 뱅앤올룹슨이 밸런타인데이 맞이 신규 컬렉션을 선보인다고 26일 밝혔다. 올해 밸런타인데이 컬렉션은 '러브 앳 퍼스트 리슨'을 테마로 사랑이 시작되는 첫 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
