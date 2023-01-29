@@ -4,16 +4,48 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 02:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 03:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ZD브리핑] 이번 주 꼭 챙겨봐야 할 뉴스]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230129104722</link>
+            <guid>https://zdnet.co.kr/view/?no=20230129104722</guid>
+            <pubDate>Sun, 29 Jan 2023 03:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[2억 화소 갤럭시S23 시리즈 언팩 공개...실적 발표 이어져 2월을 여는 이번 주에도 삼성전자(31일), SK하이닉스(1일) 등 주요 기업들의 실적 발표가 이어질 예정입니다....]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/12/11/234da4e65233faf6e563f9198ba87f16.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[HBO, 라스트 오브 어스 시즌2 제작 공식발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230129115553</link>
+            <guid>https://zdnet.co.kr/view/?no=20230129115553</guid>
+            <pubDate>Sun, 29 Jan 2023 03:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[HBO 드라마 '라스트 오브 어스'의 시즌2 제작을 공식으로 확정됐다고 미국 게임매체 비디오크로니클이 지난 27일(현지시간) 보도했다. 외신에 따르면 원작 게임디렉터이자 드라마...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/01/18/b84f1fef2614956b2b05a1a4e19902b2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 바이든 정부 "의회, 암호화폐 규제 강화해야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230129103036</link>
+            <guid>https://zdnet.co.kr/view/?no=20230129103036</guid>
+            <pubDate>Sun, 29 Jan 2023 03:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[미국 바이든 정부가 가상자산 시장에 대한 규제 권한을 강화해야 한다고 주장했다. 블록체인 매체 코인데스크, 코인텔레그래프 등에 따르면 미국 백악관 소속 브라이언 디스 국가경제위...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터·앱 연동 워카토 한국 진출···디지포머싸스랩과 첫 총판 계약]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230129115426</link>
+            <guid>https://zdnet.co.kr/view/?no=20230129115426</guid>
+            <pubDate>Sun, 29 Jan 2023 03:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[SaaS 전문기업 디지포머싸스랩(대표 이영수)은 데이터·애플리케이션 연동(Data &amp; application Integration) 자동화 노코드(No-code) 플랫폼 기업 미...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플, 일부 국가 앱스토어 가격 인상…개발자 수익 증가 전망]]></title>
             <link>https://zdnet.co.kr/view/?no=20230129110530</link>
             <guid>https://zdnet.co.kr/view/?no=20230129110530</guid>
             <pubDate>Sun, 29 Jan 2023 02:48:09 GMT</pubDate>
             <content:encoded><![CDATA[애플이 일부 국가에서 앱스토어 가격을 인상한다. 27일(현지시간) 맥루머스 등에 따르면 애플은 2월 13일부터 영국 및 기타 여러 국가에서 앱 스토어 가격이 인상될 것이라고 발...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/12/07/3c2d8e4db3fc87b3b76a6de086499632-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한양대, 스마트반도체나노팹 클린룸 준공]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230129111925</guid>
             <pubDate>Sun, 29 Jan 2023 02:48:09 GMT</pubDate>
             <content:encoded><![CDATA[한양대(총장 김우승)는 '한양스마트반도체나노팹 클린룸' 준공식을 27일 개최했다고 밝혔다. 클린룸은 미세한 먼지를 비롯한 기온, 습도, 기류 기압 등 반도체 품질에 영향을 줄 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/29/d72c1b03868b691d6c17701b47c22a53-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[美 하원 찾은 머스크 "트위터는 양당 모두에 공정" 주장]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230129085314</guid>
             <pubDate>Sun, 29 Jan 2023 02:48:09 GMT</pubDate>
             <content:encoded><![CDATA[KB국민은행은 급격한 에너지 가격 상승으로 어려움을 겪고 있는 취약계층의 난방비 부담 완화를 위해 5억원을 긴급 지원한다고 29일 밝혔다. KB국민은행은 '아이들과미래재단'에 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스마일게이트 스토브인디, 인디 게임사와 동반 성장 나서]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230128191108</link>
-            <guid>https://zdnet.co.kr/view/?no=20230128191108</guid>
-            <pubDate>Sun, 29 Jan 2023 02:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[스마일게이트가 인디 게임 서비스 플랫폼 '스토브인디'를 앞세워 인디 게임사와 동반 성장에 팔을 걷어 붙이고 있다. 29일 게임 업계에 따르면 스마일게이트 측은 스토브인디를 통해...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메가텐트 '턴더라인', 제2회 인디플어워즈 인디플상 수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230128182613</link>
-            <guid>https://zdnet.co.kr/view/?no=20230128182613</guid>
-            <pubDate>Sun, 29 Jan 2023 02:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[메가텐트의 '턴더라인'이 한국인디게임협회가 선정한 제2회 인디플어워즈 인디플상 수상을 수상했다. 한국인디게임협회는 28일 서울 송파여성문화회관에서 제2회 인디플 어워즈 시상식을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[홍영기 인디게임협회 "인디개발자 돕기 위해 다양한 행사 열 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230128160439</link>
-            <guid>https://zdnet.co.kr/view/?no=20230128160439</guid>
-            <pubDate>Sun, 29 Jan 2023 02:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[한국인디게임협회는 28일 서울 송파여성문화회관에서 제2회 인디플 어워즈 시상식을 개최했다. 한국인디게임협회 부협회장은 올해 인디게임 개발자들이 만족할 수 있는 다양한 행사를 마...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[행안부 "디지털로 정부 혁신·국민 서비스 질 향상"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230128144928</link>
-            <guid>https://zdnet.co.kr/view/?no=20230128144928</guid>
-            <pubDate>Sun, 29 Jan 2023 02:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[행정안정부(행안부)가 일 잘하는 정부 구현을 위해 데이터와 인공지능(AI) 등 디지털 신기술을 적극 활용한다. 데이터 기반 범정부 상황 대응 및 현안해결 능력을 제고하기 위해 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
