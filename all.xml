@@ -4,16 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 03:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 04:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시스코 "디지털 전환은 국가 미래 이끌 가장 중요한 결정" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230130100929</link>
+            <guid>https://zdnet.co.kr/view/?no=20230130100929</guid>
+            <pubDate>Mon, 30 Jan 2023 04:22:36 GMT</pubDate>
+            <content:encoded><![CDATA["앞으로 다가올 수십 년을 생각하면 국가 디지털 전환을 어떻게 이룰 것인지가 정부 차원에서 내려야 하는 가장 중요한 결정 중 하나다." 시스코 가이 디드리히 수석 부사장은 최근...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/01/26/8c2cb34e85edb3c991153f533628257e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SW교육 코딩온 운영 스프레틱스, 스위스·파리 등 해외서 워크숍 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230130124135</link>
+            <guid>https://zdnet.co.kr/view/?no=20230130124135</guid>
+            <pubDate>Mon, 30 Jan 2023 04:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[SW교육 전문브랜드 '코딩온'을 운영하는 스프레틱스(대표 원태경)는 임직원들과 함께 '코딩온 교육 수료생 해외 여행 지원 프로모션' 준비를 위한 '2023년 해외 워크숍'을 실...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/01/30/ac911ca2d2c67ccd5b5902a84763890c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[강한결 기자의 인디픽] 스마일게이트 퓨처랩, 인디게임에 진심인 이유 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230130114731</link>
+            <guid>https://zdnet.co.kr/view/?no=20230130114731</guid>
+            <pubDate>Mon, 30 Jan 2023 04:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[인디게임이 글로벌 게임산업 신성장동력으로 부상한 가운데 독창성과 참신함을 매력으로 게임 이용자를 사로잡은 작품도 속속 늘고 있습니다. 국내 게임업계에도 인디게임 산업 발전을 위...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[GM "올해 한국 사업 정상화...흑자 전환 목표" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230130110708</link>
             <guid>https://zdnet.co.kr/view/?no=20230130110708</guid>
             <pubDate>Mon, 30 Jan 2023 03:21:01 GMT</pubDate>
             <content:encoded><![CDATA[제너럴 모터스(GM)가 올해 GMC 도입 등 글로벌 멀티블랜드 전략을 통해 한국 시장에 차세대 전기차 등 신차 6종을 출시하며 흑자 전환을 이루겠다고 선언했다. GM은 30일 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/11/ae60c64c5f728646efe848ababb172a6-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[SK하이닉스, 마스크 착용 구성원 자율에 맞긴다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230130115528</guid>
             <pubDate>Mon, 30 Jan 2023 03:21:01 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스가 정부 지침상 예외 공간을 제외한 모든 사내 공간에서 마스크 착용 여부를 구성원 자율에 맡기기로 했다고 30일 밝혔다. 이날부터 정부가 병원, 대중교통수단 등 일부...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/30/da00c5847abcca558251f807552d0665-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[소득하위 50% 취업자도 상병수당 신청 가능해진다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230130103308</guid>
             <pubDate>Mon, 30 Jan 2023 02:40:04 GMT</pubDate>
             <content:encoded><![CDATA[삼성SDI는 30일 지난해 4분기 실적 컨퍼런스콜을 열고 "올해 미국 신규 거점 진출도 차질없이 진행하겠다"고 밝혔다. 이어 "미국 신규 거점 진출도 차질없이 진행하겠다"면서 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빅게임스튜디오 '블랙클로버 모바일', 공식 사이트 공개 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230130105600</link>
-            <guid>https://zdnet.co.kr/view/?no=20230130105600</guid>
-            <pubDate>Mon, 30 Jan 2023 02:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[빅게임스튜디오(대표 최재영)는 자사가 개발 중인 신작 모바일 게임 블랙클로버 모바일: The Opening of Fate(블랙클로버 모바일) 공식 사이트를 공개했다고 30일 밝...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NIPA, 2022년 종합청렴도 평가 1등급 받아 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230130105155</link>
-            <guid>https://zdnet.co.kr/view/?no=20230130105155</guid>
-            <pubDate>Mon, 30 Jan 2023 02:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[정보통신산업진흥원(NIPA, 원장 허성욱)은 2022년도 국민권익위원회가 공공기관을 대상으로 실시한 종합청렴도 평가에서 1등급을 획득했다고 30일 밝혔다. 국민권익위원회는 지난...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KTC 심천시험소, 이차전지 분야 국제공인시험기관으로 지정 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230130104810</link>
-            <guid>https://zdnet.co.kr/view/?no=20230130104810</guid>
-            <pubDate>Mon, 30 Jan 2023 02:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[한국기계전기전자시험연구원(KTC·원장 안성일) 중국 심천시험소가 국제전기기술위원회(IECEE)로부터 이차전지 분야 국제공인시험기관(CBTL)으로 지정받아 1월부터 국제공인시험성...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
