@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 03:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 04:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버-단국대, 혁신공유대학 사업 진행 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230201122208</link>
+            <guid>https://zdnet.co.kr/view/?no=20230201122208</guid>
+            <pubDate>Wed, 01 Feb 2023 04:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[네이버는 단국대학교가 진행하고 있는 혁신공유대학 사업에 참여해, 대학 간 원활한 교육 교류가 이뤄지는 장으로서 웨일 스페이스 플랫폼을 활용, 고도화한다고 1일 밝혔다. 네이버와...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/01/956852a59c3494b6bf07f28bf63dc0f9-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[휴젤, 프랑스서 레볼렉스·레티보 연구 결과 발표 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230201113627</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230201111320</guid>
             <pubDate>Wed, 01 Feb 2023 02:57:29 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스가 전체 임직원에게 연봉의 41%의 수준의 성과급을 지급하기로 했다. 1일 업계에 따르면 SK하이닉스는 사내 공지문을 통해 작년 경영실적에 대한 초과이익분배금(PS)...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2020/01/31/hyeming_za9yR5zgsKFo-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넷마블 '세나 레볼루션', 새 영웅 '언령의 인형술사 게헨나' 추가 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -32,7 +40,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[1월 수출 16.6% 감소한 462.7억 달러…반도체 줄고 차·선박 증가 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[1월 수출 16.6% 감소한 462.7억 달러…반도체 줄고, 차·선박 늘어 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230201113353</link>
             <guid>https://zdnet.co.kr/view/?no=20230201113353</guid>
             <pubDate>Wed, 01 Feb 2023 02:57:29 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230201105546</guid>
             <pubDate>Wed, 01 Feb 2023 02:57:29 GMT</pubDate>
             <content:encoded><![CDATA[한화생명이 국내 대표 인공지능 기업인 업스테이지의 광학문자인식 솔루션 'OCR팩'을 도입키로 했다. 업스테이지는 1일 한화생명과 OCR팩 공급 계약을 체결하고 금융권의 AI 혁...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[챗GPT는 韓中 배터리 싸움을 어떻게 볼까 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230201103140</link>
-            <guid>https://zdnet.co.kr/view/?no=20230201103140</guid>
-            <pubDate>Wed, 01 Feb 2023 02:57:29 GMT</pubDate>
-            <content:encoded><![CDATA[샘 알트만 오픈AI 대표는 “지금 당장 중요한 일을 챗GPT에 의존하는 것은 실수”라고 말했다. 현재의 수준은 “미리보기” 정도인 셈이며 앞으로 “견고함과 진실성 면에서 (챗G...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
