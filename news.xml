@@ -4,16 +4,48 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 02:46:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 03:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베스핀글로벌 "2027년 글로벌 클라우드 30% 확보한다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230202120805</link>
+            <guid>https://zdnet.co.kr/view/?no=20230202120805</guid>
+            <pubDate>Thu, 02 Feb 2023 03:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[“내년 상장을 실시하고, 2027년까지 베스핀글로벌이 전 세계 클라우드의 30%를 관리하는 것을 목표로 하고 있다. 이 과정에서 옵스나우 360이 핵심적인 역할을 할 것이다.”...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/02/5e9bdf6c18fa46502e5a62208d86c957-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넥슨게임즈, 개발 경쟁력 강화...올해 300여 명 추가 채용]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230202111905</link>
+            <guid>https://zdnet.co.kr/view/?no=20230202111905</guid>
+            <pubDate>Thu, 02 Feb 2023 03:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[넥슨게임즈(대표이사 박용현)는 2일 신작 개발과 글로벌 시장 진출에 박차를 가하기 위해 올 한 해 300여 명 규모의 채용을 진행하며 인재 확보에 적극 나선다고 밝혔다. 넥슨게...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/01/10/83fde6dd1fda717e22c85b81780a8602-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위니아에이드, 척추의료기기 '위니아me 닥터마사지' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230202114328</link>
+            <guid>https://zdnet.co.kr/view/?no=20230202114328</guid>
+            <pubDate>Thu, 02 Feb 2023 03:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[대유위니아그룹의 위니아에이드가 나를 위한 척추 건강 의료기기인 '위니아me 닥터마사지'를 판매한다고 2일 밝혔다. '위니아me 닥터마사지'는 누워서 마사지를 받는 의료기기다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[갤럭시S23 떴다...홍대 체험 매장 '북적']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230202105022</link>
+            <guid>https://zdnet.co.kr/view/?no=20230202105022</guid>
+            <pubDate>Thu, 02 Feb 2023 03:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 플래그십 스마트폰 갤럭시S23 시리즈를 공개한 2일 체험 매장은 이른 아침부터 신제품을 보려는 소비자들의 발길로 북적였다. 삼성전자는 이날 오전 서울 마포구 디지털프...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국토부, 전기차 화재 대응 민관 합동 TF 출범]]></title>
             <link>https://zdnet.co.kr/view/?no=20230202103739</link>
             <guid>https://zdnet.co.kr/view/?no=20230202103739</guid>
             <pubDate>Thu, 02 Feb 2023 02:46:51 GMT</pubDate>
             <content:encoded><![CDATA[정부가 최근 늘고 있는 전기차 화재 관련 사고 대응에 직접 나선다. 국토교통부(국토부)는 전기차 화재관련 사고 등에 대응하고 안전을 강화하기 위해 전기차 화재대응을 위한 민·관...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/27/5e25d392e4de304fb08dd8b5bb5d1165-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[산업부, 네덜란드 ASM과 1억 달러 투자 협력 체결]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230202101129</guid>
             <pubDate>Thu, 02 Feb 2023 02:46:51 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부가 2일 서울시 한 호텔에서 네덜란드 반도체 장비기업인 ASM과 1억 달러 규모의 투자 협력 양해각서(MOU)를 체결했다. ASM은 반도체 증착 공정에 쓰는 장비를...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/08/03/022e1bfe3bbc0e4bd5046a81163ecc2a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인사] 다쏘시스템코리아, 정운성 신임 대표이사 선임]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230202101518</guid>
             <pubDate>Thu, 02 Feb 2023 02:46:51 GMT</pubDate>
             <content:encoded><![CDATA[위메이드가 해외 선보인 블록체인 게임 '미르M 글로벌'이 흥행 조짐을 보이고 있다. 최고 동시접속자 수는 8만 명을 돌파했고, 게임 연동 위믹스 코인의 거래량도 급증했기 때문이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AMD, 라이젠 7000 X3D 프로세서 오는 28일 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230202103517</link>
-            <guid>https://zdnet.co.kr/view/?no=20230202103517</guid>
-            <pubDate>Thu, 02 Feb 2023 02:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[AMD가 데스크톱PC용 라이젠 7000 시리즈 X3D 프로세서를 이달 말 출시한다고 밝혔다. 라이젠 7000 X3D 프로세서는 라이젠 9 7950X3D, 라이젠 9 7900X3...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 유럽 'ISE 2023'서 부산엑스포 알린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230202102239</link>
-            <guid>https://zdnet.co.kr/view/?no=20230202102239</guid>
-            <pubDate>Thu, 02 Feb 2023 02:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 1월 31일부터 2월 3일까지 스페인 바르셀로나에서 열리는 유럽 최대 디스플레이 'ISE(Integrated systems Europe) 2023'에서 '2030 부...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["폴스타3, 3분기에 출시…대형 전기차 대세"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230202101509</link>
-            <guid>https://zdnet.co.kr/view/?no=20230202101509</guid>
-            <pubDate>Thu, 02 Feb 2023 02:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[폴스타코리아가 지난해 판매실적과 브랜드 활동을 보고하고 올해 출시 예정인 신차와 브랜드 비전을 2일 공개했다. 폴스타코리아는 지난해 코로나19와 원자재 가격 급등, 차량용 반도...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 갤럭시북3 시리즈 4종 예약판매 실시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230202102221</link>
-            <guid>https://zdnet.co.kr/view/?no=20230202102221</guid>
-            <pubDate>Thu, 02 Feb 2023 02:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 갤럭시 언팩 행사를 통해 공개한 노트북 신제품 '갤럭시북3' 시리즈 예약판매를 오늘(2일)부터 진행한다. 대상 제품은 휴대성을 중시한 갤럭시북3 360·프로·프로 3...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
