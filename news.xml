@@ -4,24 +4,56 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 03:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 04:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에코백스, 車전문가·셀럽 초청 로봇청소기 라방 진행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230202120141</link>
+            <guid>https://zdnet.co.kr/view/?no=20230202120141</guid>
+            <pubDate>Thu, 02 Feb 2023 04:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[로봇가전 전문 브랜드 에코백스가 오는 6일과 13일 양일간 셀럽과 자동차 리뷰 전문가들을 초청해 로봇청소기 이용 팁을 소개하는 라이브 방송을 진행한다고 2일 밝혔다. 6일에는 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/02/0b66de8ec9b5dda12b62bb086636e1a7-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG엔솔, 美 FEPS에 5만대 규모 전기 상용차용 배터리 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230202122844</link>
+            <guid>https://zdnet.co.kr/view/?no=20230202122844</guid>
+            <pubDate>Thu, 02 Feb 2023 04:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[LG에너지솔루션이 미래 고성장이 예상되는 전기 상용차(버스·트럭 등) 분야에서 대규모 배터리 공급 계약을 체결하며 시장 공략에 본격적으로 나선다. 2일 LG에너지솔루션은 북미 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/02/0ff94dc36f9439a44f0706b7f1479181-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국토부, 전국 24만 필지 지적불부합지 지적재조사 착수]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230202125250</link>
+            <guid>https://zdnet.co.kr/view/?no=20230202125250</guid>
+            <pubDate>Thu, 02 Feb 2023 04:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[국토교통부는 올해 지적재조사사업에 참여할 지적재조사 민간대행자 121개 업체를 선정, 전국 약 24만 필지 지적불부합지를 바로잡는다고 2일 밝혔다. 지적재조사는 110년 전 종...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장] '갤S23 카메라 셀카 잔치 열렸네']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230202113808</link>
+            <guid>https://zdnet.co.kr/view/?no=20230202113808</guid>
+            <pubDate>Thu, 02 Feb 2023 04:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 1일(현지시간) 미국 샌프란시스코 머소닉 오디토리움에서 '갤럭시 언팩'을 개최하고 스마트폰 갤럭시S23 시리즈와 노트북 갤럭시북3 시리즈를 공개했다. 이번 언팩은 3...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[베스핀글로벌 "2027년 글로벌 클라우드 30% 확보한다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230202120805</link>
             <guid>https://zdnet.co.kr/view/?no=20230202120805</guid>
             <pubDate>Thu, 02 Feb 2023 03:20:15 GMT</pubDate>
             <content:encoded><![CDATA[“내년 상장을 실시하고, 2027년까지 베스핀글로벌이 전 세계 클라우드의 30%를 관리하는 것을 목표로 하고 있다. 이 과정에서 옵스나우 360이 핵심적인 역할을 할 것이다.”...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/02/5e9bdf6c18fa46502e5a62208d86c957-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넥슨게임즈, 개발 경쟁력 강화...올해 300여 명 추가 채용]]></title>
             <link>https://zdnet.co.kr/view/?no=20230202111905</link>
             <guid>https://zdnet.co.kr/view/?no=20230202111905</guid>
             <pubDate>Thu, 02 Feb 2023 03:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[넥슨게임즈(대표이사 박용현)는 2일 신작 개발과 글로벌 시장 진출에 박차를 가하기 위해 올 한 해 300여 명 규모의 채용을 진행하며 인재 확보에 적극 나선다고 밝혔다. 넥슨게...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/10/83fde6dd1fda717e22c85b81780a8602-290x182.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[넥슨게임즈(대표 박용현)는 2일 신작 개발과 글로벌 시장 진출에 박차를 가하기 위해 올 한 해 300여 명 규모의 채용을 진행하며 인재 확보에 적극 나선다고 밝혔다. 넥슨게임즈...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[위니아에이드, 척추의료기기 '위니아me 닥터마사지' 출시]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230202110501</guid>
             <pubDate>Thu, 02 Feb 2023 02:46:51 GMT</pubDate>
             <content:encoded><![CDATA[블록체인 전문기업 네오핀은 2일 우수한 웹3 프로젝트 발굴과 네오핀 생태계 확장을 위해 블록체인 프로젝트에 대한 투자를 강화한다고 밝혔다. 회사 측에 따르면 네오핀은 베어마켓으...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[수소도시 확산, 산학연관 아이디어로 이끈다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230202105937</link>
-            <guid>https://zdnet.co.kr/view/?no=20230202105937</guid>
-            <pubDate>Thu, 02 Feb 2023 02:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[국토교통부와 국토교통과학기술진흥원(원장 박승기)은 수소도시 확산을 위해 산학연관 113개 기관과 기업이 참여하는 '수소도시 융합포럼'을 3일 발족한다고 밝혔다. 수소도시 융합포...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기아 이영록 '그랜드 마스터' 등극…31년간 연평균 129대 판매]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230202094330</link>
-            <guid>https://zdnet.co.kr/view/?no=20230202094330</guid>
-            <pubDate>Thu, 02 Feb 2023 02:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[기아는 전북 서전주지점 이영록 선임 오토컨설턴트가 누계 판매 대수 4천대를 달성해 그랜드 마스터에 올랐다고 2일 밝혔다. 그랜드 마스터는 기아에서 누계 판매 4천대를 달성한 우...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, 냉각 강화한 게임용 노트북 3종 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230202105636</link>
-            <guid>https://zdnet.co.kr/view/?no=20230202105636</guid>
-            <pubDate>Thu, 02 Feb 2023 02:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[에이수스코리아가 CES 2023에서 공개한 고성능 게임용 노트북 3종을 출시했다. ROG 스트릭스 스카 18·16은 인텔 13세대 코어 i9-13980HX 프로세서와 엔비디아 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드 미르M글로벌, 흥행 기대↑...동접자-위믹스 거래 늘어]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230202101518</link>
-            <guid>https://zdnet.co.kr/view/?no=20230202101518</guid>
-            <pubDate>Thu, 02 Feb 2023 02:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[위메이드가 해외 선보인 블록체인 게임 '미르M 글로벌'이 흥행 조짐을 보이고 있다. 최고 동시접속자 수는 8만 명을 돌파했고, 게임 연동 위믹스 코인의 거래량도 급증했기 때문이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
