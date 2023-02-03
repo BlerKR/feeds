@@ -4,16 +4,48 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 03:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 04:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LGU+, 무선가입자 쭉 늘리고 B2B 사업 속도붙었다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230203113311</link>
+            <guid>https://zdnet.co.kr/view/?no=20230203113311</guid>
+            <pubDate>Fri, 03 Feb 2023 04:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[LG유플러스가 무선 가입자를 늘리고 기업사업의 성과에 힘입어 역대 최고 매출과 영업이익 성적표를 내놨다. LG유플러스는 지난해 매출 13조9천60억원, 서비스 매출 11조4천1...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/03/7a6621c50d199053a72b52db1e5e1dee-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[구글, '믿는 도끼' 유튜브에 발목 잡혔다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230203120235</link>
+            <guid>https://zdnet.co.kr/view/?no=20230203120235</guid>
+            <pubDate>Fri, 03 Feb 2023 04:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[구글 모회사 알파벳이 시장 전망치를 밑돈 분기 실적을 기록했다. 광고 시장 침체에 따른 유튜브 수익 감소 등이 악영향을 끼쳤다. 구글 주가는 시간외거래에서 4% 이상 하락세를 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/03/eaca21bbcc9d2debea7836d75f712683-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK바사, 글로벌 기관 ESG 평가서 두 단계 상승]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230203130427</link>
+            <guid>https://zdnet.co.kr/view/?no=20230203130427</guid>
+            <pubDate>Fri, 03 Feb 2023 04:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[SK바이오사이언스(SK바사)가 글로벌 기관 ESG 평가서 직전 평가 대비 두 단계 상승한 성적표를 받았다. SK바사는 모건스탠리캐피털인터네셔널(MSCI)이 실시한 지난해 ESG...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한미약품, 작년 국내 원외처방 매출 전년比 6.4% 상승 7891억원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230203124139</link>
+            <guid>https://zdnet.co.kr/view/?no=20230203124139</guid>
+            <pubDate>Fri, 03 Feb 2023 04:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[한미약품의 지난해 원외처방 매출(UBIST)이 전년보다 6.4% 성장한 7천891억 원을 기록하며 5년 연속 1위 자리를 지켰다. 회사는 매출 성과가 외국회사 등 외부에서 도입...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[에콰도르 규제당국, 대웅제약 신약 '펙수클루' 품목허가]]></title>
             <link>https://zdnet.co.kr/view/?no=20230203114751</link>
             <guid>https://zdnet.co.kr/view/?no=20230203114751</guid>
             <pubDate>Fri, 03 Feb 2023 02:51:33 GMT</pubDate>
             <content:encoded><![CDATA[대웅제약의 국산 34호 신약인 '펙수클루(성분명 펙수프라잔염산염)'가 지난달 24일 에콰도르 보건감시통제규제국(ARCSA)으로부터 품목허가를 획득했다. 중남미 시장에서는 첫 허...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/03/b660fcd6e7889a3a49da703d89580622-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[식약처, 3일 '로프레사점안액0.02%' 허가…녹내장 환자 안압 낮춰]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230203112222</guid>
             <pubDate>Fri, 03 Feb 2023 02:51:33 GMT</pubDate>
             <content:encoded><![CDATA[식품의약품안전처가 3일 녹내장 환자의 안압을 낮추는 한국산텐제약의 수입 신약인 '로프레사점안액0.02%(네타르수딜메실산염)'을 허가했다. 녹내장은 시신경 기능 이상으로 시야 결...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/11/26/26cbbd764101f159630eaacb04105ff0-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[카카오게임즈 디스테라, 시즌2 업데이트 실시]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230203092609</guid>
             <pubDate>Fri, 03 Feb 2023 02:51:33 GMT</pubDate>
             <content:encoded><![CDATA[사회공헌 네트워크 행복얼라이언스가 충청북도 결식우려아동의 건강한 성장을 위해 양질의 밑반찬을 지원한다고 3일 밝혔다. 이번 지원은 행복얼라이언스의 '행복두끼 프로젝트' 일환으로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中, 日·네덜란드에 회유의 손짓…"美 반도체 수출 규제 반대"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230203092746</link>
-            <guid>https://zdnet.co.kr/view/?no=20230203092746</guid>
-            <pubDate>Fri, 03 Feb 2023 02:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 반도체 수출 규제에 동참한 일본과 네덜란드에 중국이 공급망을 이어가자며 손을 내밀었다고 미국 블룸버그통신이 3일(현지시간) 보도했다. 블룸버그에 따르면 친강 중국 외교부...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 KDDI, e심으로 통신재난 대응]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230203100443</link>
-            <guid>https://zdnet.co.kr/view/?no=20230203100443</guid>
-            <pubDate>Fri, 03 Feb 2023 02:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 대규모 통신장애를 일으킨 일본 이동통신사 KDDI가 스마트폰의 e심을 활용해 통신 재난이 발생할 경우 다른 통신사에 우회 로밍으로 서비스를 제공한다. 씨넷재팬에 따르면 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스마트카라, '소비자선정 최고의 브랜드' 2년 연속 수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230203094145</link>
-            <guid>https://zdnet.co.kr/view/?no=20230203094145</guid>
-            <pubDate>Fri, 03 Feb 2023 02:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[친환경 음식물처리기 브랜드 스마트카라가 '2023 소비자선정 최고의 브랜드 대상' 음식물처리기 부문에서 2년 연속 대상을 수상했다고 3일 밝혔다. 스마트카라는 다양한 조사 항목...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠쿠, CJ온스타일서 화이트컬렉션 판매 방송]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230203095607</link>
-            <guid>https://zdnet.co.kr/view/?no=20230203095607</guid>
-            <pubDate>Fri, 03 Feb 2023 02:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[종합 생활가전 기업 쿠쿠가 6일 오전 10시 25분부터 70분간 CJ온스타일에서 밥솥, 식기 세척기, 셰프스틱 인덕션 레인지 등 3종의 화이트 컬렉션 특집 방송을 진행한다고 3...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
