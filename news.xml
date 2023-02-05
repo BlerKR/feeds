@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 03:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 04:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[QM6, 2인승 LPG차 나온다…보조금 최대 900만원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230205124430</link>
+            <guid>https://zdnet.co.kr/view/?no=20230205124430</guid>
+            <pubDate>Sun, 05 Feb 2023 04:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[르노코리아자동차는 5일 QM6 LPe의 2인승 모델인 코드네임 'QM6 QUEST(퀘스트)'를 오는 3월 출시한다고 밝혔다. QM6 QUEST는 대표 LPG 스포츠유틸리티차(S...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/05/f97fa1f81b61fe976e9b0a279c34e27d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[ZD 브리핑] 이번 주 꼭 챙겨봐야 할 뉴스]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230205114738</link>
+            <guid>https://zdnet.co.kr/view/?no=20230205114738</guid>
+            <pubDate>Sun, 05 Feb 2023 04:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[2억 화소 갤럭시S23 시리즈 사전판매 개시...SK온 적자 지속 삼성전자가 지난 1일 공개한 플래그십 스마트폰 '갤럭시S23' 시리즈를 이번주 7일부터 13일까지 사전 판매합...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/02/82a128f3a6fe494ca61a14419f5e3aef-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기아, '리그오브레전드' 챔피언십 후원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230205122541</link>
+            <guid>https://zdnet.co.kr/view/?no=20230205122541</guid>
+            <pubDate>Sun, 05 Feb 2023 04:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[기아가 e스포츠인 리그 오브 레전드(LoL) 챔피언십 후원을 5년 연속 이어간다. 기아는 리그오브레전드 유럽·중동·아프리카 챔피언십(LEC) 파트너십 계약을 연장하고 게임 제작...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[블록체인, '증권'에 쓰인다…금융위, 제도권 편입]]></title>
             <link>https://zdnet.co.kr/view/?no=20230205100253</link>
             <guid>https://zdnet.co.kr/view/?no=20230205100253</guid>
             <pubDate>Sun, 05 Feb 2023 03:22:34 GMT</pubDate>
             <content:encoded><![CDATA[블록체인 기반으로 발행된 증권인 '토큰 증권'이 제도권으로 편입됐다. 금융위원회는 국정과제의 일환으로 자본시장법 규율 내에서 토큰 증권 발행(STO)을 허용하는 내용을 담은 '...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/05/4aa8eaf6dd9a8f9bfaf2e204fb234a99-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[기업들 EU발 공급망 ESG 실사에 불안감↑]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230205101931</guid>
             <pubDate>Sun, 05 Feb 2023 03:22:34 GMT</pubDate>
             <content:encoded><![CDATA[올해 가장 큰 환경·사회·지배구조(ESG) 현안은 '유럽연합(EU)발 공급망 실사'인 것으로 조사됐다. 공급망 ESG 실사는 기업의 납품·협력업체까지 포함해 인권 등을 요구하고...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/12/19/da1a76a89b50fc85719bf58abcef4ff2-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[텔레그램, 실시간 메시지 번역 기능 추가]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230203172814</guid>
             <pubDate>Sun, 05 Feb 2023 02:51:42 GMT</pubDate>
             <content:encoded><![CDATA[플래그십 스마트폰 평균 가격이 100만원대 초반에서 150만원대로 껑충 뛰었다. 작년 10월 출시된 아이폰14 시리즈 국내 가격이 평균 16만원 오른데 이어 이달 출시되는 갤럭...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스리랑카 대통령 "IMF 금융지원 전제 조건 구축 완료"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230205080749</link>
-            <guid>https://zdnet.co.kr/view/?no=20230205080749</guid>
-            <pubDate>Sun, 05 Feb 2023 02:51:42 GMT</pubDate>
-            <content:encoded><![CDATA[라닐 위크레마싱헤 스리랑카 대통령은 “국제통화기금(IMF)으로부터 29억 달러 규모의 금융지원을 받기 위한 전제 조건 구축을 완료했다”며 “글로벌 대출 기관의 빠른 승인을 기대...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빌 게이츠 "챗GPT 같은 AI, PC·인터넷 만큼 영향줄 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230205023521</link>
-            <guid>https://zdnet.co.kr/view/?no=20230205023521</guid>
-            <pubDate>Sun, 05 Feb 2023 02:51:42 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트(MS)의 빌 게이츠가 최근 폭발적인 인기를 얻고 있는 챗GPT를 보며 인공지능(AI) 기술이 인터넷이나 개인용 컴퓨터 못지 않은 역사적 의미를 가질 것이라고 평가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차, WTCR 더블 챔피언 달성..."레이싱 불모지 韓서 일군 결실"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230205014631</link>
-            <guid>https://zdnet.co.kr/view/?no=20230205014631</guid>
-            <pubDate>Sun, 05 Feb 2023 02:51:42 GMT</pubDate>
-            <content:encoded><![CDATA[“올해는 TCR 챔피언십을 노리고 있습니다. 새로운 아이오닉 모델로 승리를 이끌겠습니다.” '2022 월드 투어링카 컵(WTCR)'에서 현대자동차 모터스포츠를 우승으로 이끈 주...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
