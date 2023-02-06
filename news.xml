@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 03:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 04:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넥슨, 피파온라인4 항저우 아시안게임 국대 추가선발 결선 10일 개최]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230206132014</link>
+            <guid>https://zdnet.co.kr/view/?no=20230206132014</guid>
+            <pubDate>Mon, 06 Feb 2023 04:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[넥슨코리아(대표 이정헌)는 6일 한국e스포츠협회(회장 김영만)와 함께 EA 스포츠 피파 온라인4(피파 온라인4) 항저우 아시안게임 국가대표 추가 선발 결선을 오는 10일부터 3...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/06/06f352f4329bdc1249ae09e7a972e337-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SNS '뒷광고' 여전…인스타·네이버 블로그·유튜브 순]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230206095355</link>
+            <guid>https://zdnet.co.kr/view/?no=20230206095355</guid>
+            <pubDate>Mon, 06 Feb 2023 04:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램·네이버블로그·유튜브 등 소셜네트워크서비스(SNS)에서 여전히 후기 게시물 형태 기만광고인 '뒷광고'가 성행하고 있는 것으로 조사됐다. 공정거래위원회는 작년 4~12월...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2020/04/23/mjjoo_ygjvsJo6YKBsri-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드햇 앤서블 오토메이션 플랫폼, 구글 클라우드서 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230206122225</link>
+            <guid>https://zdnet.co.kr/view/?no=20230206122225</guid>
+            <pubDate>Mon, 06 Feb 2023 04:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[레드햇은 구글 클라우드에서 레드햇 앤서블 오토메이션 플랫폼을 지원한다고 6일 발표했다. 구글 클라우드용 레드햇 앤서블 오토메이션 플랫폼은 클라우드, 데이터센터, 엣지까지 확장 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[효성인포, 동산의료원 임상 빅데이터 활용 고도화 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20230206121813</link>
             <guid>https://zdnet.co.kr/view/?no=20230206121813</guid>
             <pubDate>Mon, 06 Feb 2023 03:19:56 GMT</pubDate>
             <content:encoded><![CDATA[효성인포메이션시스템(대표 양정규)은 계명대학교 동산의료원의 임상 데이터 웨어하우스(CDW)에 빅데이터 처리·분석 플랫폼 펜타호를 제공했다고 6일 밝혔다. 계명대학교 동산의료원은...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/06/7cdc460dc3ff8513d175adc9fffc9be4-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KISA, 올바른 정보보호 공시 위한 가이드라인 발간]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230206092207</guid>
             <pubDate>Mon, 06 Feb 2023 03:19:56 GMT</pubDate>
             <content:encoded><![CDATA[한국인터넷진흥원(KISA)은 정보보호 공시 제도 이행의 편의성과 공시 내용의 신뢰성 제고를 위해 '2023년 정보보호 공시 가이드라인'개정본을 발간한다고 6일 밝혔다. 이번 가...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/06/e1cf0163656fed43df69edc85e3ddd45-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[XPLA, 크로스체인 솔루션 기업 액셀라와 협업]]></title>
@@ -120,7 +144,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[달라진 메타버스 시장 분위기..."플랫폼보다 원천기술"]]></title>
+            <title><![CDATA[메타버스 시장이 변하고 있다…"플랫폼보다 원천기술"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230206111719</link>
             <guid>https://zdnet.co.kr/view/?no=20230206111719</guid>
             <pubDate>Mon, 06 Feb 2023 02:41:12 GMT</pubDate>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230206082610</guid>
             <pubDate>Mon, 06 Feb 2023 02:41:12 GMT</pubDate>
             <content:encoded><![CDATA[챗GPT로 선풍적인 인기를 누리고 있는 오픈AI가 "챗GPT는 검색 엔진을 100% 대체할 수 없다"고 밝혔다. 샘 알트먼 최고경영자(CEO)는 최근 포브스와 진행한 인터뷰에서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신한라이프, 거버넌스 이슈 주로 담은 'ESG보고서' 발간]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230206093511</link>
-            <guid>https://zdnet.co.kr/view/?no=20230206093511</guid>
-            <pubDate>Mon, 06 Feb 2023 02:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[신한라이프는 지속가능경영을 위해 추진한 ESG활동과 주요성과가 담긴 '2021-2022 ESG성과 보고서'를 발간했다고 6일 밝혔다. 보고서를 분석한 결과 2021년부터 202...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전기차 회사 리비안, 전기자전거 만든다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230206083747</link>
-            <guid>https://zdnet.co.kr/view/?no=20230206083747</guid>
-            <pubDate>Mon, 06 Feb 2023 02:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[미국 전기차 회사 리비안이 전기 자전거를 개발 중인 것으로 알려졌다. 블룸버그 통신은 지난 금요일 RJ 스캐린지 리비안 최고경영자(CEO)가 전체 회의에서 직원들에게 내부에 자...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지마켓, '2023 디지털가전 빅세일' 프로모션 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230206105947</link>
-            <guid>https://zdnet.co.kr/view/?no=20230206105947</guid>
-            <pubDate>Mon, 06 Feb 2023 02:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[지마켓이 오는 14일까지 9일간 '2023 디지털가전 빅세일' 프로모션을 진행한다고 6일 밝혔다. 디지털가전 빅세일은 매년 2월, 지마켓과 옥션이 함께 진행하는 대규모 할인행사...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
