@@ -4,16 +4,64 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 02:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 03:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[효성인포, 동산의료원 임상 빅데이터 활용 고도화 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230206121813</link>
+            <guid>https://zdnet.co.kr/view/?no=20230206121813</guid>
+            <pubDate>Mon, 06 Feb 2023 03:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[효성인포메이션시스템(대표 양정규)은 계명대학교 동산의료원의 임상 데이터 웨어하우스(CDW)에 빅데이터 처리·분석 플랫폼 펜타호를 제공했다고 6일 밝혔다. 계명대학교 동산의료원은...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/06/7cdc460dc3ff8513d175adc9fffc9be4-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA, 올바른 정보보호 공시 위한 가이드라인 발간]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230206092207</link>
+            <guid>https://zdnet.co.kr/view/?no=20230206092207</guid>
+            <pubDate>Mon, 06 Feb 2023 03:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA)은 정보보호 공시 제도 이행의 편의성과 공시 내용의 신뢰성 제고를 위해 '2023년 정보보호 공시 가이드라인'개정본을 발간한다고 6일 밝혔다. 이번 가...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/06/e1cf0163656fed43df69edc85e3ddd45-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[XPLA, 크로스체인 솔루션 기업 액셀라와 협업]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230206113918</link>
+            <guid>https://zdnet.co.kr/view/?no=20230206113918</guid>
+            <pubDate>Mon, 06 Feb 2023 03:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[컴투스홀딩스는 6일 컴투스그룹이 주도하는 글로벌 블록체인 메인넷 XPLA(엑스플라)가 웹3 생태계 확장을 위해 크로스체인 솔루션 기업 액셀라(Axelar)와 협업한다고 밝혔다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["클라우드 컴퓨팅의 패러다임 교체가 일어나고 있다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230206115049</link>
+            <guid>https://zdnet.co.kr/view/?no=20230206115049</guid>
+            <pubDate>Mon, 06 Feb 2023 03:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[“한국 IT 시장도 클라우드 전환이 본격화됐다. 그 와중에 멀티 클라우드가 트렌드다. 여기에 또 새로운 컴퓨팅 패러다임 교체가 일어나고 있다. 앞으로 분산형 멀티 클라우드로 패...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[기상청, 실시간 데이터 개방 범위 12개 분야 120으로 확대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230206114712</link>
+            <guid>https://zdnet.co.kr/view/?no=20230206114712</guid>
+            <pubDate>Mon, 06 Feb 2023 03:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[기상청은 국민 누구나 기상기후 데이터를 한 곳에서 실시간으로 제공받을 수 있는 '기상청 에이피아이(API) 허브'를 6일부터 '기상자료개방포털' 홈페이지에서 제공한다고 밝혔다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성, 윈도 노트북 강자 노린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230205071045</link>
+            <guid>https://zdnet.co.kr/view/?no=20230205071045</guid>
+            <pubDate>Mon, 06 Feb 2023 03:19:56 GMT</pubDate>
+            <content:encoded><![CDATA["지난해 21개국까지 갤럭시북 출시국을 확대한 것은 PC 사업에 대한 의지를 표현한 것이다. 프리미엄 PC 제품군(1천달러 이상)이 전체 판매 비중의 50%인데, 이를 10%이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코나미, 2023 유희왕 월드 챔피언십 8월 일본 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20230206113840</link>
             <guid>https://zdnet.co.kr/view/?no=20230206113840</guid>
             <pubDate>Mon, 06 Feb 2023 02:41:12 GMT</pubDate>
             <content:encoded><![CDATA[코나미엔터테인먼트(코나미)는 카드 전략 게임 '유희왕'의 국제 토너먼트 '2023 유희왕 월드 챔피언십'을 오는 8월 일본에서 개최한다고 6일 밝혔다. 2023 유희왕 월드 챔...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/06/8b70f990f00558e185e6df35b06869e7-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[파라이트게임즈, 3D 수집형 RPG '디스라이트' 티저 영상 공개]]></title>
@@ -21,7 +69,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230206113033</guid>
             <pubDate>Mon, 06 Feb 2023 02:41:12 GMT</pubDate>
             <content:encoded><![CDATA[파라이트 게임즈는 릴리스게임즈가 개발한 모바일 3D 수집형 RPG 디스라이트 티저 영상을 6일 공개했다. 이번에 공개된 디스라이트 티저 영상에는 세련된 도시를 배경으로 EDM ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/06/5b38e6ee461dff90350d4fcffe336281-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[상폐 기로 선 '페이코인'…DAXA의 딜레마]]></title>
@@ -117,54 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230206105947</guid>
             <pubDate>Mon, 06 Feb 2023 02:41:12 GMT</pubDate>
             <content:encoded><![CDATA[지마켓이 오는 14일까지 9일간 '2023 디지털가전 빅세일' 프로모션을 진행한다고 6일 밝혔다. 디지털가전 빅세일은 매년 2월, 지마켓과 옥션이 함께 진행하는 대규모 할인행사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드 '미르M 글로벌', 동시 접속자 10만명 돌파]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230206111924</link>
-            <guid>https://zdnet.co.kr/view/?no=20230206111924</guid>
-            <pubDate>Mon, 06 Feb 2023 02:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[위메이드는 6일 '미르M 뱅가드 앤 배가본드(미르M)' 글로벌 버전 동시 접속자가 10만 명을 넘어섰다고 밝혔다. 미르M의 초반 순항으로 위메이드의 주가도 반등세를 보이고 있다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[주요 게임사, 지난해 성적표 곧 꺼낸다...실적 추정치는?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230206102348</link>
-            <guid>https://zdnet.co.kr/view/?no=20230206102348</guid>
-            <pubDate>Mon, 06 Feb 2023 02:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[주요 게임사들이 지난해 실적 관련 성적표를 차례로 공개한다. 넥슨이 지난해 역대 최대 매출 3조4천억원을 기록했다고 알려진 가운데, 엔씨소프트와 크래프톤, 카카오게임즈 등도 기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中샤오펑, 유럽서 세단·SUV 대표 모델 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230206084446</link>
-            <guid>https://zdnet.co.kr/view/?no=20230206084446</guid>
-            <pubDate>Mon, 06 Feb 2023 02:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[중국 전기차업체 샤오펑이 해외 시장 진출 속도를 높이고 있다. 5일(현지시간) CNBC에 따르면, 샤오펑은 노르웨이, 덴마크, 네덜란드, 스웨덴 등 유럽 국가에서 플래그십 세단...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2년새 '토큰증권' 사업자 5→63곳…철수 사례도 상당]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230206105405</link>
-            <guid>https://zdnet.co.kr/view/?no=20230206105405</guid>
-            <pubDate>Mon, 06 Feb 2023 02:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[2년 전 5곳에 그쳤던 토큰증권 거래소가 지난달 말 기준 전 세계 63개 거래소로 늘어났다. 반면 당시 관련 사업을 준비하던 기업 70곳 중 47곳이 사업을 중단, 토큰증권 시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[북한 배후 해커그룹 '라자루스', 의료·에너지 분야 노린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230206082527</link>
-            <guid>https://zdnet.co.kr/view/?no=20230206082527</guid>
-            <pubDate>Mon, 06 Feb 2023 02:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[북한 배후 해커그룹으로 알려진 라자루스그룹이 정보 획득을 위해 의료 및 에너지 부문 조직을 노리는 것으로 나타났다. 핀란드 사이버 보안 회사 화이트시큐어는 지난 2일 라자루스 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빌 게이츠 "화성 여행보다 백신 개발에 돈 쓰겠다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230206092622</link>
-            <guid>https://zdnet.co.kr/view/?no=20230206092622</guid>
-            <pubDate>Mon, 06 Feb 2023 02:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[빌 게이츠 마이크로소프트 창업자가 테슬라 최고경영자(CEO) 일론 머스크의 화성 이주 계획을 비판했다. 빌 게이츠는 3일(현지시간) 오후 방영된 BBC와의 인터뷰에서 "화성에 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
