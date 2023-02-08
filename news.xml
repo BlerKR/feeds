@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 03:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 04:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리니지W, 네 번째 에피소드 '진명황의 집행검' 사전예약 실시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230208132052</link>
+            <guid>https://zdnet.co.kr/view/?no=20230208132052</guid>
+            <pubDate>Wed, 08 Feb 2023 04:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[엔씨소프트는 8일 멀티플랫폼 MMORPG 리니지W가 오는 22일 '4th 에피소드: 진명황의 집행검' 업데이트를 진행한다고 밝혔다. 회사에 따르면 리니지W 이용자는 오는 22일...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/08/5194a954a771bbdab56485084c04d511-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무균돼지 췌도→사람 이식…당뇨 치료 위한 세계 첫 이종췌도이식 임상 시작]]></title>
             <link>https://zdnet.co.kr/view/?no=20230208121323</link>
@@ -52,7 +60,7 @@
             <link>https://zdnet.co.kr/view/?no=20230208112704</link>
             <guid>https://zdnet.co.kr/view/?no=20230208112704</guid>
             <pubDate>Wed, 08 Feb 2023 02:50:59 GMT</pubDate>
-            <content:encoded><![CDATA[o교보생명은 오는 9일 열리는 정기 이사회에서 급격한 경영환경 변화에 대응하고 미래성장 기반을 구축하기 위한 금융지주회사 설립 추진 안건을 보고 한다고 8일 밝혔다. 앞으로 인...]]></content:encoded>
+            <content:encoded><![CDATA[교보생명은 오는 9일 열리는 정기 이사회에서 급격한 경영환경 변화에 대응하고 미래성장 기반을 구축하기 위한 금융지주회사 설립 추진 안건을 보고 한다고 8일 밝혔다. 앞으로 인적...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -80,7 +88,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[핫문쿨답] 넷플릭스 이용자 10명 중 7명 "계정 공유 막으면 안 써"]]></title>
+            <title><![CDATA[[핫문쿨답] 넷플릭스 이용자 10명 중 7명 "계정 공유 막으면 안 봐"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230208112116</link>
             <guid>https://zdnet.co.kr/view/?no=20230208112116</guid>
             <pubDate>Wed, 08 Feb 2023 02:50:59 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230208105612</guid>
             <pubDate>Wed, 08 Feb 2023 02:50:59 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 프리미엄 스마트폰에 이어 프리미엄 노트북도 인도 현지 생산을 검토 중이다. 7일(현지시간) 인도 ET 텔레콤에 따르면 이민철 삼성전자 상무는 "갤럭시 제품이 현지에서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[게임 중 혐오 발언, AI로 잡는다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230208101824</link>
-            <guid>https://zdnet.co.kr/view/?no=20230208101824</guid>
-            <pubDate>Wed, 08 Feb 2023 02:50:59 GMT</pubDate>
-            <content:encoded><![CDATA[게임 이용자 대화 속 혐오 표현을 탐지하는 인공지능(AI) 기술이 나왔다. 미국 IT매체 뉴사이언티스트는 게임 사용자들이 주고 받은 음성 대화를 기록, 분석해 욕설 등을 인식하...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
