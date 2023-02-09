@@ -4,16 +4,56 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 03:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 04:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SAP코리아, '글로벌 반도체 전쟁과 미래' 웨비나 시리즈 개최]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230209132133</link>
+            <guid>https://zdnet.co.kr/view/?no=20230209132133</guid>
+            <pubDate>Thu, 09 Feb 2023 04:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[SAP 코리아(대표 신은영)는 투자자문기업 MAVEK과 함께 오는 28일부터 글로벌 주요 기관 및 석학으로 구성된 '글로벌 반도체 전쟁과 미래: C-Level 서밋 2023' ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/09/02/1bba13f73284c9204c3c153a9ab6687f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수세, 통신회사 최적화 인프라 플랫폼 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230209131556</link>
+            <guid>https://zdnet.co.kr/view/?no=20230209131556</guid>
+            <pubDate>Thu, 09 Feb 2023 04:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[유럽계 리눅스 배포판 개발사 수세(SUSE)는 통신회사 최적화 엣지 컴퓨팅 플랫폼인 수세 어뎁티브 텔코 인프라스트럭쳐 플랫폼(SUSE ATIP)을 출시한다고 9일 밝혔다. AT...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/09/b70030bbd9fcff04026fcd5e7794b896-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[실감형 AR 안경 만들 극미세 마이크로 LED 제작 기술 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230209125157</link>
+            <guid>https://zdnet.co.kr/view/?no=20230209125157</guid>
+            <pubDate>Thu, 09 Feb 2023 04:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[증강현실(AR) 안경을 만들려면 실감나는 영상을 보여줄 수 있는 마이크로 디스플레이가 필수다. 국내연구진이 가상·증강현실을 실감나게 구현할 마이크로 디스플레이 핵심 기술인 극미...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성카드 지난해 당기순익 6천223억원…전년比 12.9% ↑]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230209115347</link>
+            <guid>https://zdnet.co.kr/view/?no=20230209115347</guid>
+            <pubDate>Thu, 09 Feb 2023 04:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[삼성카드의 지난해 당기순이익이 2021년 대비 12.9% 늘어났다. 9일 삼성카드 공시에 따르면, 지난해 삼성카드의 전체 당기순이익은 2021년 대비 12.9%(712억원) 늘...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[기업 58.4% 성과급 지급…성과에 따른 차등 지급으로 양극화 가속]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230209111743</link>
+            <guid>https://zdnet.co.kr/view/?no=20230209111743</guid>
+            <pubDate>Thu, 09 Feb 2023 04:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[최근 기업들의 성과급 책정이 마무리된 가운데, 기업 규모뿐 아니라 사업 분야에 따라 같은 회사 안에서도 사업부별로 성과급이 열 배 가량도 차이 나는 등 양극화가 심해지는 모양새...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[통신 3사, 환경경영성과 글로벌 최상위 수준 평가]]></title>
             <link>https://zdnet.co.kr/view/?no=20230209110158</link>
             <guid>https://zdnet.co.kr/view/?no=20230209110158</guid>
             <pubDate>Thu, 09 Feb 2023 03:24:32 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤, KT, LG유플러스 등 통신 3사가 글로벌 비영리기구 '탄소정보공개프로젝트(CDP)' 평가에서 우수한 성적을 거뒀다. 9일 관련 업계에 따르면, SK텔레콤은 CDP...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2018/04/13/jtwer_sEWu4GjhWN1cty-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인사] 개인정보보호위원회]]></title>
@@ -56,7 +96,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[KT 이사회, 구현모 포함 CEO 후보 재선임 검토]]></title>
+            <title><![CDATA[KT, 구현모 포함 CEO 후보 재선임 검토]]></title>
             <link>https://zdnet.co.kr/view/?no=20230209112538</link>
             <guid>https://zdnet.co.kr/view/?no=20230209112538</guid>
             <pubDate>Thu, 09 Feb 2023 02:51:26 GMT</pubDate>
@@ -125,46 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230209110705</guid>
             <pubDate>Thu, 09 Feb 2023 02:51:26 GMT</pubDate>
             <content:encoded><![CDATA[미국 카네기멜런대학 로봇연구소가 인공지능(AI) 로봇 화가 '프리다'(FRIDA)를 공개했다고 IT매체 씨넷이 8일(현지시간) 보도했다. 프리다는 그림 붓이 장착된 로봇 팔과 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인터넷신문협회, '인터넷신문 기자 교육' 수료식 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230209111416</link>
-            <guid>https://zdnet.co.kr/view/?no=20230209111416</guid>
-            <pubDate>Thu, 09 Feb 2023 02:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷신문협회(회장 이의춘) 부설 KINA교육센터(센터장 김창영, 세이프타임즈 대표)는 '2023 채용연계형 인터넷신문 기자 교육과정'을 성료하고 8일 한국언론진흥재단 미디...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[간호법 반대 측 "법사위 계류된 간호법은 폐기돼야”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230209110702</link>
-            <guid>https://zdnet.co.kr/view/?no=20230209110702</guid>
-            <pubDate>Thu, 09 Feb 2023 02:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[국회 보건복지위원장 직권으로 간호법 제정법안을 본회의에 상정한다는 소식에 간호법을 반대하는 의료계 직능단체들은 강력 반발했다. 대한의사협회 등을 중심으로 다수 의료계 직능단체가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[산업부, 친환경·자율차 경쟁력 강화...올해 4994억원 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230209101356</link>
-            <guid>https://zdnet.co.kr/view/?no=20230209101356</guid>
-            <pubDate>Thu, 09 Feb 2023 02:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부(산업부)는 올해 친환경차, 자율차 기술개발을 위한 신규지원 대상과제에 대해서 통합공고를 실시한다고 9일 밝혔다. 올해 자동차 분야 총지원 예산은 지난해보다 647...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 네오 QLED 8K TV, 넥스트 뮤지엄서 'NFT 아트' 전시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230209081912</link>
-            <guid>https://zdnet.co.kr/view/?no=20230209081912</guid>
-            <pubDate>Thu, 09 Feb 2023 02:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 9일부터 3월 19일까지 서울 잠실 롯데월드타워몰에 위치한 '넥스트 뮤지엄'에서 네오 QLED 8K와 더 프레임을 통해 NFT(대체불가토큰) 작품을 선보인다. 넥스트...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[알 카타니 에쓰오일 CEO, MZ 신입직원과 소통]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230209103000</link>
-            <guid>https://zdnet.co.kr/view/?no=20230209103000</guid>
-            <pubDate>Thu, 09 Feb 2023 02:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[에쓰오일은 후세인 알 카타니 최고경영자(CEO)가 울산공장에서 올해 신입사원 46명을 대상으로 특강과 소통의 시간을 가졌다. 9일 에쓰오일에 따르면 알 카타니 CEO는 지난 7...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
