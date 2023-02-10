@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 03:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 04:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플페이 출시 앞둔 현대카드, 임직원 아이폰 구매비용 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230210114739</link>
+            <guid>https://zdnet.co.kr/view/?no=20230210114739</guid>
+            <pubDate>Fri, 10 Feb 2023 04:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[애플페이 출시를 앞둔 현대카드가 임직원에게 아이폰과 애플워치 구매비용을 지원한다. 10일 카드업계에 따르면, 현대카드는 오는 3월 31일까지 아이폰 또는 애플워치를 신규 구매하...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/10/3bc3c7dea778a5008d48c3eb894af5ad-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[복지부 2차관 "간호법, 野 단독 통과시킨 것 아닌가”]]></title>
             <link>https://zdnet.co.kr/view/?no=20230210114823</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230210113611</guid>
             <pubDate>Fri, 10 Feb 2023 02:54:36 GMT</pubDate>
             <content:encoded><![CDATA[현대백화점은 10일 열린 임시 주주총회에서 지주회사인 현대백화점홀딩스를 설립하고 현대백화점을 분할존속회사로 두는 인적분할 건이 부결됐다고 10일 밝혔다. 이날 주총에서 표결에 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/25/8c8f33bff565bf3f299b9f65efb13038-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[복지부 "간호법은 보건의료 직역간 협업 어렵게 해”]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230210101326</guid>
             <pubDate>Fri, 10 Feb 2023 02:54:36 GMT</pubDate>
             <content:encoded><![CDATA[SK E&amp;S가 북미 최대 수소산업 행사에 참가해 한국 내 수소 밸류체인 구축 계획을 소개하고 글로벌 수소 기업들과 협력 방안을 논의했다. SK E&amp;S는 7~9일(현지시간) 미국...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넷앱, 저가형 올플래시 스토리지 제품군 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230210101632</link>
-            <guid>https://zdnet.co.kr/view/?no=20230210101632</guid>
-            <pubDate>Fri, 10 Feb 2023 02:54:36 GMT</pubDate>
-            <content:encoded><![CDATA[넷앱은 저비용 고용량 올플래시 스토리지 제품군 AFF C시리즈와, 'AFF A150'을 출시한다고 10일 밝혔다. 새로운 넷앱 AFF C시리즈는 플래시 성능의 총소유비용(TCO...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
