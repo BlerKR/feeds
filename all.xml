@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 03:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 04:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌 워크OS 지향 '스윗', 구글 최고 레벨 파트너로 승격 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230211130514</link>
+            <guid>https://zdnet.co.kr/view/?no=20230211130514</guid>
+            <pubDate>Sat, 11 Feb 2023 04:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 워크 운용체계(워크OS)를 지향하는 소프트웨어 '스윗'을 서비스하는 스윗테크놀로지스(대표 이주환, 영어명 조쉬 리)가 미국 구글의 최고레벨 파트너로 승격했다. 이주환 스...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/11/4446942e92515adbca2257991503f81a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2027년 세계 의약품 시장 1조9700억불 전망 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230211111833</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230211103910</guid>
             <pubDate>Sat, 11 Feb 2023 02:42:19 GMT</pubDate>
             <content:encoded><![CDATA[SK케미칼이 2022 CDP 기후변화 대응·물 경영 우수기업 시상식 에서 탄소경영 섹터 아너스상과 수자원 섹터 특별상을 수상했다. 국제 탄소정보공개 프로젝트(CDP)에 따르면,...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/11/7abec892d1fccdfd9d039b6948680602-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[부음] 이두식 메디톡스 부사장 부친상 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230210094412</guid>
             <pubDate>Sat, 11 Feb 2023 02:42:19 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스가 계정 공유기능을 제한할 것이라는 계획을 밝혔는데요. 그 동안은 4명이 계정을 공유할 수 있었지만, 이제는 한집에 사는 가족으로 제한한다는 것입니다. 서비스 초기 계정...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 계정공유 차단 수순...국내 OTT 반사익 챙길까 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230210161410</link>
-            <guid>https://zdnet.co.kr/view/?no=20230210161410</guid>
-            <pubDate>Sat, 11 Feb 2023 02:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스가 계정 공유 금지 국가를 늘리면서 이용자 불만이 커지고 있다. 일부 이용자 사이에선 넷플릭스가 한국에서도 계정 공유 단속을 시작하면 구독을 중단하겠다는 볼멘 소리가 나...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
