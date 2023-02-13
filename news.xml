@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 03:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 04:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메디톡스, 보툴리눔톡신 도용 소송 확대 예고…휴젤 등 "우린 당당해"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230213124854</link>
+            <guid>https://zdnet.co.kr/view/?no=20230213124854</guid>
+            <pubDate>Mon, 13 Feb 2023 04:24:13 GMT</pubDate>
+            <content:encoded><![CDATA[메디톡스가 대웅제약과의 보툴리눔 톡신 도용 혐의에 대한 민사 1심에서 승소하면서 소송 확대를 예고한 가운데, 현재 미국에서 소송을 진행 중인 휴젤의 향방에 관심이 커지고 있다....]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/11/21/87e54d7d691f803e6ecf8e77d6073f78-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[강한결 기자의 인디픽] 블랜비 "비주얼 노벨의 매력 느껴보세요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230213110601</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230213092420</guid>
             <pubDate>Mon, 13 Feb 2023 03:25:04 GMT</pubDate>
             <content:encoded><![CDATA[앞으로 공정거래위원회 심의를 받는 사업자는 관련 문서를 온라인으로 제출하거나 관리, 열람할 수 있게 된다. 공정위는 이런 내용을 골자로 한 전자심판시스템 도입과 기업결합(M&amp;A...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2020/04/23/mjjoo_ygjvsJo6YKBsri-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[다누리, 달 표면 사진 처음 찍어 보냈다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230213084833</guid>
             <pubDate>Mon, 13 Feb 2023 02:50:11 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 본격적인 결혼과 이사 시즌을 맞아 '혼수·이사 특별 기획전'을 이달 13일부터 3월 31일까지 전국 삼성 디지털프라자에서 실시한다. 결혼을 앞둔 예비 신혼부부부터 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미래에셋생명, 챗GPT 활용 사내 콘텐츠 공모전 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230213105246</link>
-            <guid>https://zdnet.co.kr/view/?no=20230213105246</guid>
-            <pubDate>Mon, 13 Feb 2023 02:50:11 GMT</pubDate>
-            <content:encoded><![CDATA[미래에셋생명은 인공지능 챗봇 '챗GPT'를 활용한 사내 콘텐츠 공모전을 개최한다고 13일 밝혔다. 이를 통해 임직원들에게 최신 AI 솔루션을 소개하고 미래에셋생명만의 독창적 콘...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
