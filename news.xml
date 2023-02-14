@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 03:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 04:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갤S23, S시리즈 사전판매 신기록…109만대 팔려]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230214123312</link>
+            <guid>https://zdnet.co.kr/view/?no=20230214123312</guid>
+            <pubDate>Tue, 14 Feb 2023 04:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[갤럭시 S23 시리즈가 역대 S시리즈 가운데 최다 사전판매 신기록을 세웠다. 삼성전자는 7일부터 13일까지 1주일간 진행한 사전판매 기간 도안 갤럭시 S23 시리즈 109만대를...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/01/7237484e7f74a03f99f31b51ed20dd02-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한수원, 에너지 취약계층에 난방비 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230214122303</link>
+            <guid>https://zdnet.co.kr/view/?no=20230214122303</guid>
+            <pubDate>Tue, 14 Feb 2023 04:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[한국수력원자력이 난방비 폭탄으로 어려움을 겪고 있는 에너지 취약계층을 위해 1억 5천만원의 난방비를 지원한다고 14일 밝혔다. 한수원은 지자체 및 지역 복지재단과 협력해 경주 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/14/c72f57d3d294b61d500bce69bb8e1a3a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['콜 몰아주기' 카카오모빌리티에 과징금 257억 부과]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230214083906</link>
+            <guid>https://zdnet.co.kr/view/?no=20230214083906</guid>
+            <pubDate>Tue, 14 Feb 2023 04:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[카카오 가맹택시 '콜 몰아주기' 의혹을 놓고 심의 절차를 밟아온 공정거래위원회가 운영사 카카오모빌리티에 시정명령과 과징금 257억원을 잠정적으로 부과했다. 공정위는 14일 카카...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[델, 인텔 사파이어래피즈 탑재  서버 신모델 13종 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230214120354</link>
             <guid>https://zdnet.co.kr/view/?no=20230214120354</guid>
             <pubDate>Tue, 14 Feb 2023 03:25:04 GMT</pubDate>
             <content:encoded><![CDATA[델테크놀로지스가 인텔 4세대 제온 스케일러블 프로세서(사파이어래피즈)를 탑재한 x86 서버 신제품을 출시했다. 인공지능(AI), 클라우드 등 다양한 워크로드의 성능을 향상시켰고...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/14/007d11e1025d40d328df6bfc2811f086-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[정신질환 진단하는 바이오센서 개발]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230214101142</guid>
             <pubDate>Tue, 14 Feb 2023 03:25:04 GMT</pubDate>
             <content:encoded><![CDATA[체액만으로 간단히 정신질환을 진단하는 기술이 나왔다. 정신질환을 앓으면 체액 내 신경전달물질이 불균형을 보이는 현상을 응용했다. 한국과학기술연구원(KIST, 원장 윤석진)은 체...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/14/11ce71898e4e4833581529ac6a2130db-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국내로 다시 찾아온 문화유산 기념우표 나온다]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230214110236</guid>
             <pubDate>Tue, 14 Feb 2023 02:50:39 GMT</pubDate>
             <content:encoded><![CDATA[나경수 SK지오센트릭 사장은 "석유가 아닌 재활용 소재 등을 통해 고객이 원하는 해결책을 제공하는 기업으로 거듭나겠다"고 14일 밝혔다. 나 사장은 최근 SK이노베이션 보도채널...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[XPLA-덱스랩 파트너십, 탈중앙화 금융 분야 협력관계 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230214111210</link>
-            <guid>https://zdnet.co.kr/view/?no=20230214111210</guid>
-            <pubDate>Tue, 14 Feb 2023 02:50:39 GMT</pubDate>
-            <content:encoded><![CDATA[컴투스홀딩스는 14일 컴투스그룹이 주도하는 글로벌 블록체인 메인넷 XPLA(엑스플라)에 덱스랩(Dexlab)이 이니셜 벨리데이터로 참여한다고 밝혔다. XPLA의 벨리데이터로 합...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LCD TV 패널 수요 2분기부터 회복...50인치 이상에 집중]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230214095854</link>
-            <guid>https://zdnet.co.kr/view/?no=20230214095854</guid>
-            <pubDate>Tue, 14 Feb 2023 02:50:39 GMT</pubDate>
-            <content:encoded><![CDATA[지난 몇 년간 침체기를 겪었던 LCD TV 패널 주문 수요가 올 2분기부터 회복될 것이라는 전망이 나왔다. 14일 시장조사업체 옴디아는 한국과 중국의 주요 TV 제조사의 LCD...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[토스페이먼츠, 노코드 방식 '결제 위젯' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230214102640</link>
-            <guid>https://zdnet.co.kr/view/?no=20230214102640</guid>
-            <pubDate>Tue, 14 Feb 2023 02:50:39 GMT</pubDate>
-            <content:encoded><![CDATA[토스의 페이테크 계열사 토스페이먼츠는, 복잡한 코딩 없이 간편하게 온라인 쇼핑몰 내 결제 화면을 만들 수 있는 '결제 위젯'을 출시한다고 14일 밝혔다. 토스페이먼츠 결제 위젯...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
