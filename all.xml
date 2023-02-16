@@ -4,16 +4,48 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 03:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 04:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보험업 "공공의료데이터 활용 장벽 높다" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230216110318</link>
+            <guid>https://zdnet.co.kr/view/?no=20230216110318</guid>
+            <pubDate>Thu, 16 Feb 2023 04:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[보험업계와 국민건강보험공단(이하 건보) 사이의 공공의료데이터 활용 이슈가 다시 도마 위에 올랐다. 보험업권에선 공공의료데이터를 활용한 신사업 추진에 한계가 있다는 입장이지만, ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/11/14/51e54c742d80b5362c2572c9758bf61a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탄녹위, 경제단체와 '2030 NDC' 이행방안 논의 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230216110026</link>
+            <guid>https://zdnet.co.kr/view/?no=20230216110026</guid>
+            <pubDate>Thu, 16 Feb 2023 04:23:37 GMT</pubDate>
+            <content:encoded><![CDATA['2050 탄소중립녹색성장위원회'(탄녹위)는 16일 서울 대한상공회의소에서 '2030 국가온실가스감축목표(NDC)이행방안 관련 주요 경제단체 간담회'를 개최했다. 이날 간담회는...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/16/e7440cd653774795bb0a8c4a6e175eae-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[0.3나노 한겹 반도체 껍질로 양자점 발광효율 100% 수준 달성 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230216111647</link>
+            <guid>https://zdnet.co.kr/view/?no=20230216111647</guid>
+            <pubDate>Thu, 16 Feb 2023 04:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[차세대 디스플레이 소재로 주목받는 양자점 발광체의 핵을 단 한 겹의 반도체 껍질로 균일하게 둘러싸 100%에 가까운 발광효율을 구현할 수 있게 됐다. 한국연구재단(이사장 이광복...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오엔터프라이즈, AI 물류 혁신 '매칭 2.0' 전략 발표 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230216122616</link>
+            <guid>https://zdnet.co.kr/view/?no=20230216122616</guid>
+            <pubDate>Thu, 16 Feb 2023 04:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[카카오엔터프라이즈는 AI 물류 기술을 기반으로 화주와 회원사(물류센터)에 차별화된 물류 경험을 제공하기 위한 '매칭 2.0' 전략을 16일 발표했다. 카카오엔터프라이즈의 AI ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[눈 없는 지네, 빛이 아니라 '열'로 본다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230216112548</link>
             <guid>https://zdnet.co.kr/view/?no=20230216112548</guid>
             <pubDate>Thu, 16 Feb 2023 03:25:08 GMT</pubDate>
             <content:encoded><![CDATA[지네는 눈이 없다. 빛을 감지하는 유전자도 없다. 하지만 돌을 들춰 빛이 비취면 지네는 숨을 곳을 찾아 움직인다. 중국 연구진이 눈이 없는 지네가 빛을 감지하는 방법을 찾아냈다...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/16/6f92d0695a569bc0d6735bae29de576f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한은 "챗GPT 등 AI 기술, 경제분석 자동화 혁신될 것" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230216100759</guid>
             <pubDate>Thu, 16 Feb 2023 03:25:08 GMT</pubDate>
             <content:encoded><![CDATA[한국은행은 증권사 리포트를 활용한 거시경제 지표 예측 가능성을 제시하며 챗GPT 등 인공지능(AI) 기술의 경제분석 자동화 혁신을 전망했다. 16일 한국은행은 52개 증권사에서...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/03/5eda28d597faec845296e8777fd479ef-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[토스, 머니스토리 공모전 '드래프트 2023' 개최 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230216110131</guid>
             <pubDate>Thu, 16 Feb 2023 02:49:34 GMT</pubDate>
             <content:encoded><![CDATA[종합편성채널 TV조선 재승인과 관련한 수사를 진행하는 검찰이 16일 한상혁 방송통신위원회 위원장을 대상으로 압수수색에 나섰다. 검찰에 따르면 서울북부지검 형사5부(부장검사 박경...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[채용플랫폼 '거짓 공고'에 취준생만 두번 운다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230215171739</link>
-            <guid>https://zdnet.co.kr/view/?no=20230215171739</guid>
-            <pubDate>Thu, 16 Feb 2023 02:49:34 GMT</pubDate>
-            <content:encoded><![CDATA["잡코리아·사람인 등 채용플랫폼에 올라와 있는 연봉도 가짜였고, 채용직무 여건도 실제로 가보니 달랐어요. 차비 등 면접보는 비용만 20만원 날렸네요." 잡코리아·사람인·인크루트...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에브리타임 대학 신학기 응원 행사...롯데월드 40% 할인 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230216110634</link>
-            <guid>https://zdnet.co.kr/view/?no=20230216110634</guid>
-            <pubDate>Thu, 16 Feb 2023 02:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[대학생활 정보 공유 커뮤니티 플랫폼 에브리타임이 전국 대학생들의 신학기 캠퍼스 라이프를 응원하기 위해 16일부터 다음 달 8일까지 3주간 '2023 개강한 페스티벌'을 진행한다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트러스테이, 스마트 주거 솔루션 '홈노크존' 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230216093115</link>
-            <guid>https://zdnet.co.kr/view/?no=20230216093115</guid>
-            <pubDate>Thu, 16 Feb 2023 02:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[야놀자클라우드와 KT에스테이트 합작사 트러스테이가 스마트 주거 환경을 위한 프롭테크 솔루션 '홈노크존'을 출시했다고 16일 밝혔다. 홈노크존은 모바일, 사물인터넷(IoT) 등 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국아스텔라스제약, 김준일 사장 선임 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230216104849</link>
-            <guid>https://zdnet.co.kr/view/?no=20230216104849</guid>
-            <pubDate>Thu, 16 Feb 2023 02:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[한국아스텔라스제약이 신임 대표로 김준일 사장을 선임했다. 김준일 신임 사장은 중앙대학약대를 졸업하고 스페인 에사데, 프랑스 인시아드, 스위스 국제경영대학원에서 경영프로그램을 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
