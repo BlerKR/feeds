@@ -4,16 +4,48 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 03:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 04:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['디월트' 스탠리, 1800W 자동대패 출시…파워·편의성·내구성 3박자]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230220095859</link>
+            <guid>https://zdnet.co.kr/view/?no=20230220095859</guid>
+            <pubDate>Mon, 20 Feb 2023 04:23:47 GMT</pubDate>
+            <content:encoded><![CDATA['디월트' 공구기업 스탠리블랙앤데커코리아의 전동·수작업 공구 브랜드 스탠리가 강력한 파워와 작업자 맞춤형 조절 기능을 갖춘 1800W 자동대패를 출시하고, 내달 24일까지 새해...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/20/c2e1abe73b09c2dfa497e5f60d170f6d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지난달 친환경車 수출액 2조원 돌파 '역대 최대']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230220110003</link>
+            <guid>https://zdnet.co.kr/view/?no=20230220110003</guid>
+            <pubDate>Mon, 20 Feb 2023 04:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 국내 자동차 산업이 설연휴로 인한 조업일수 감소, 글로벌 경기침체에도 불구하고 차량용 반도체 수급 개선과 친환경차 수출 증가세로 생산과 내수, 수출이 모두 선방한 것으로...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/11/15/e3664a058f0cfbf6043b1e3c5c181f51-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 서울모빌리티쇼, 입장권 얼리버드 판매 개시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230220094817</link>
+            <guid>https://zdnet.co.kr/view/?no=20230220094817</guid>
+            <pubDate>Mon, 20 Feb 2023 04:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[서울모빌리티쇼조직위원회(조직위)는 '2023 서울모빌리티쇼(Seoul Mobility Show)'의 입장권 판매를 시작한다고 20일 밝혔다. 입장권의 정상 가격은 일반인 기준 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[우주 25% 수수께끼에 도전한다...암흑물질 액시온 탐색 나서]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230220121628</link>
+            <guid>https://zdnet.co.kr/view/?no=20230220121628</guid>
+            <pubDate>Mon, 20 Feb 2023 04:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[유력한 암흑물질 후보인 액시온을 찾기 위한 가장 정밀하고 민감한 실험 장비가 국내 연구진에 의해 개발됐다. 기초과학연구원(IBS, 원장 노도영)은 대통일 이론을 기반으로 하는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[규제로 기업투자 11.7조원 막혀]]></title>
             <link>https://zdnet.co.kr/view/?no=20230220103740</link>
             <guid>https://zdnet.co.kr/view/?no=20230220103740</guid>
             <pubDate>Mon, 20 Feb 2023 03:24:38 GMT</pubDate>
             <content:encoded><![CDATA[대한상의에 설치한 규제·투자애로접수센터에서 11조원이 넘는 투자 대기 프로젝트를 발굴해 국무조정실, 산업통상자원부에 해결을 요청했다. 대한상공회의소(회장 최태원)는 20일'대한...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/20/4e1f6ef409aee602be2c0ae0ae29ea5a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[네오위즈 P의거짓, 8월 출시 확정]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230220112543</guid>
             <pubDate>Mon, 20 Feb 2023 03:24:38 GMT</pubDate>
             <content:encoded><![CDATA[네오위즈(공동대표 김승철, 배태근)는 자체 개발 중인 'P의 거짓'의 출시 월을 밝힌 트레일러 영상을 'IGN 팬페스트 2023(IGN Fanfest 2023)'에서 공개했다고...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/20/0f5a4c985d2a8ce11d9e0371e88d9425-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[컴투스 '컴투스프로야구V23, 2년 연속 공식모델로 김광현 선정]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230220090710</guid>
             <pubDate>Mon, 20 Feb 2023 02:52:57 GMT</pubDate>
             <content:encoded><![CDATA[LG전자가 Z세대 대학생 관점으로 제품·서비스 영역에서 새로운 고객경험 기회를 발굴하기 위해 'LG크루'를 내달 6일부터 14일까지 모집한다. LG크루 신청 자격은 호기심이 많...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드 미르M글로벌, 동접자 14만 돌파...위믹스플레이 영향력 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230220104837</link>
-            <guid>https://zdnet.co.kr/view/?no=20230220104837</guid>
-            <pubDate>Mon, 20 Feb 2023 02:52:57 GMT</pubDate>
-            <content:encoded><![CDATA[위메이드의 블록체인 플레이 앤 언(P&amp;E) 게임 '미르M 글로벌'이 동시접속자 수 14만 명을 넘어선 것으로 확인됐다. 10만 명을 돌파한지 약 보름, 13만 명을 넘어선지 나...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[웰컴금융그룹, 튀르키예 지진 피해 복구 기부금 전달]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230220103718</link>
-            <guid>https://zdnet.co.kr/view/?no=20230220103718</guid>
-            <pubDate>Mon, 20 Feb 2023 02:52:57 GMT</pubDate>
-            <content:encoded><![CDATA[웰컴금융그룹은 튀르키예 지진 피해 복구 기부금 3천800만원을 전달했다고 20일 밝혔다. 웰컴금융그룹이 지난 13일부터 15일까지 사내 캠페인으로 모금한 기부금은 전국 재해구호...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보건산업진흥원, 국내 의료기기·화장품 산업 위해 267억원 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230220105646</link>
-            <guid>https://zdnet.co.kr/view/?no=20230220105646</guid>
-            <pubDate>Mon, 20 Feb 2023 02:52:57 GMT</pubDate>
-            <content:encoded><![CDATA[한국보건산업진흥원이 2023년 의료기기·화장품 기업 지원 사업 공고 계획을 발표했다. 진흥원은 이번 사전공고를 통해 의료기기 11개 분야, 화장품 2개 분야 등 총 13개 사업...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 반도체 제재로 中 YMTC·CXMT 신공장 건설 연기]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230220094439</link>
-            <guid>https://zdnet.co.kr/view/?no=20230220094439</guid>
-            <pubDate>Mon, 20 Feb 2023 02:52:57 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 중국 반도체 기술 수출 금지 영향으로 중국 메모리 업체 양츠메모리(YMTC)와 창신메모리(CXMT)의 신공장과 R&amp;D 센터 건설이 지연된 것으로 나타났다. 미국의 제재로...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
