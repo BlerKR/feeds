@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 02:52:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 03:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[규제로 기업투자 11.7조원 막혀]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230220103740</link>
+            <guid>https://zdnet.co.kr/view/?no=20230220103740</guid>
+            <pubDate>Mon, 20 Feb 2023 03:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[대한상의에 설치한 규제·투자애로접수센터에서 11조원이 넘는 투자 대기 프로젝트를 발굴해 국무조정실, 산업통상자원부에 해결을 요청했다. 대한상공회의소(회장 최태원)는 20일'대한...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/20/4e1f6ef409aee602be2c0ae0ae29ea5a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네오위즈 P의거짓, 8월 출시 확정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230220112543</link>
+            <guid>https://zdnet.co.kr/view/?no=20230220112543</guid>
+            <pubDate>Mon, 20 Feb 2023 03:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[네오위즈(공동대표 김승철, 배태근)는 자체 개발 중인 'P의 거짓'의 출시 월을 밝힌 트레일러 영상을 'IGN 팬페스트 2023(IGN Fanfest 2023)'에서 공개했다고...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/20/0f5a4c985d2a8ce11d9e0371e88d9425-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[컴투스 '컴투스프로야구V23, 2년 연속 공식모델로 김광현 선정]]></title>
             <link>https://zdnet.co.kr/view/?no=20230220114921</link>
             <guid>https://zdnet.co.kr/view/?no=20230220114921</guid>
             <pubDate>Mon, 20 Feb 2023 02:52:56 GMT</pubDate>
             <content:encoded><![CDATA[컴투스(대표 송재준, 이주환)는 20일 야구게임 '컴투스프로야구V23(컴프야V23)' 시즌 공식 모델로 SSG 선발투수 김광현을 2년 연속 선정했다고 밝혔다. 컴투스에 따르면 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/20/0e1a359b46bd29f10487eefd47f1caa2-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[윈드리버, KDDI 5G 가상화 기지국에 솔루션 공급]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230220114211</guid>
             <pubDate>Mon, 20 Feb 2023 02:52:56 GMT</pubDate>
             <content:encoded><![CDATA[윈드리버는 일본의 이동통신사업자 KDDI의 O-RAN 호환 5G 가상화 기지국에 자사의 클라우드 네이티브 플랫폼 '윈드리버 스튜디오'를 공급했다고 20잉 밝혔다. KDDI의 5...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/21/1d9df8dd96ad6ce497dce1a368985ee6-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[클레이튼, 카카오 계열 '크러스트유니버스' 영향력 줄인다]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230220094439</guid>
             <pubDate>Mon, 20 Feb 2023 02:52:57 GMT</pubDate>
             <content:encoded><![CDATA[미국의 중국 반도체 기술 수출 금지 영향으로 중국 메모리 업체 양츠메모리(YMTC)와 창신메모리(CXMT)의 신공장과 R&amp;D 센터 건설이 지연된 것으로 나타났다. 미국의 제재로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[집닥, 삼성전자와 제휴 이벤트 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230220092243</link>
-            <guid>https://zdnet.co.kr/view/?no=20230220092243</guid>
-            <pubDate>Mon, 20 Feb 2023 02:52:57 GMT</pubDate>
-            <content:encoded><![CDATA[집닥이 삼성전자와 함께 제휴 이벤트를 진행한다. 이번 이벤트는 집닥 인테리어 고객에게 TV, 세탁기, 인덕션, 에어컨 등 삼성전자 가전제품 인기 상품을 최대 43% 할인된 가격...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SSG닷컴 "미식 콘텐츠 기획 '힙스토랑' 매출 3배 증가"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230220094309</link>
-            <guid>https://zdnet.co.kr/view/?no=20230220094309</guid>
-            <pubDate>Mon, 20 Feb 2023 02:52:57 GMT</pubDate>
-            <content:encoded><![CDATA[SSG닷컴이 콘텐츠 연계 장보기 기획전 '힙스토랑' 누적 판매 데이터를 분석한 결과, 행사 기간 매출이 평소보다 3배 이상 늘어난 것으로 나타났다고 20일 밝혔다. 힙스토랑은 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
