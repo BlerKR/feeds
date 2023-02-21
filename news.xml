@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 02:52:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 03:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감염병 대응 위해 한국·미국·싱가포르·덴마크 '맞손']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230221095939</link>
+            <guid>https://zdnet.co.kr/view/?no=20230221095939</guid>
+            <pubDate>Tue, 21 Feb 2023 03:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[우리나라가 미국·싱가포르·덴마크와 감염병 대응을 위한 연구협력에 나선다. 질병관리청 국립보건연구원 국립감염병연구소는 제1회 감염병연구기관 국제심포지엄(IDRIC)을 22일~23...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/09/07/a1af50b93bdf40061c7fba69e01d2cd3-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[부음] LG유플러스 이영아 전문위원 모친상]]></title>
             <link>https://zdnet.co.kr/view/?no=20230221115155</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230221103329</guid>
             <pubDate>Tue, 21 Feb 2023 02:52:25 GMT</pubDate>
             <content:encoded><![CDATA[카카오 VX(대표 문태식)는 스포츠 전문 액셀러레이터 상상이비즈(대표 박순봉)와 함께 '2023년 상상챌린지 스포츠 액셀러레이팅 프로그램'을 통해 스마트 스포츠 스타트업 혁신 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/21/59f1cf892a877c73161aff38fea9d6c1-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[부음] 삼진제약 김정일 전무이사 빙부상]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230221094245</guid>
             <pubDate>Tue, 21 Feb 2023 02:52:25 GMT</pubDate>
             <content:encoded><![CDATA[오늘의집은 소상공인 온라인 진출 활성화의 공로로 중소벤처기업부 장관 표창을 받았다고 21일 밝혔다. 지난해 오늘의집은 중소벤처기업부 산하 중소기업유통센터와의 협력을 통해 경기침...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네오위즈, '브라운더스트2' 'P의거짓' 전면 배치...추가 성장 시도]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230221101927</link>
-            <guid>https://zdnet.co.kr/view/?no=20230221101927</guid>
-            <pubDate>Tue, 21 Feb 2023 02:52:25 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 사업 다각화로 성장에 성공한 네오위즈가 신작을 앞세워 추가 성장을 시도한다. 네오위즈는 올해 '브라운더스트2'와 'P의거짓' 등 핵심 타이틀을 순차적으로 출시한다는 계획...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
