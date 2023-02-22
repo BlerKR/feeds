@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 02:49:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 03:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이창용 한은 총재 'G20 재무장관·중앙은행총재 회의' 참석]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230222102657</link>
+            <guid>https://zdnet.co.kr/view/?no=20230222102657</guid>
+            <pubDate>Wed, 22 Feb 2023 03:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[한국은행은 이창용 총재가 인도 뱅갈루르에서 개최되는 'G20 재무장관·중앙은행총재 회의'에 참석한다고 22일 밝혔다. 이번 G20 회의는 의장국 인도가 개최하는 재무장관·중앙은...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/12/31/5382c0f13e48cb503fc7b4d07bbac18b-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[효성인포메이션시스템, 'DX센터 시즌3' 개소]]></title>
             <link>https://zdnet.co.kr/view/?no=20230222114531</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230222113952</guid>
             <pubDate>Wed, 22 Feb 2023 02:49:57 GMT</pubDate>
             <content:encoded><![CDATA[고객 지원 및 영업 고객 관계 관리(CRM) 솔루션 기업인 젠데스크는 2023 글로벌 고객 경험(CX) 트렌드 보고서를 22일 발표했다. 젠데스크는 매년 설문 조사와 고객의 제...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/12/02/6d11372195cb2dab1dcb65d475df5399-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[마이크로소프트, 빙 검색 API 가격 인상]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230221104310</guid>
             <pubDate>Wed, 22 Feb 2023 02:49:57 GMT</pubDate>
             <content:encoded><![CDATA[한국토요타자동차는 올해 전략을 '모두를 위한 전동화'로 설정하고 렉서스와 토요타의 사업전략과 신차 출시계획을 21일 발표했다. 한국토요타는 탄소중립을 달성하기 위해 전 세계 각...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[하나은행 CDO가 파이썬 배우지 말라는 이유]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230222082626</link>
-            <guid>https://zdnet.co.kr/view/?no=20230222082626</guid>
-            <pubDate>Wed, 22 Feb 2023 02:49:57 GMT</pubDate>
-            <content:encoded><![CDATA[하나금융그룹은 올 한해를 하나은행 등 주요 관계사의 데이터 활용 역량을 늘리는데 집중한다. 데이터 인프라는 물론이고 데이터 인재도 지금 수준보다 한 단계 업그레이드하겠다는 계획...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
