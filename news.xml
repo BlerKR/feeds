@@ -4,24 +4,56 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 03:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 04:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국로봇산업진흥원, 공모사업 설명회 성료]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230224130440</link>
+            <guid>https://zdnet.co.kr/view/?no=20230224130440</guid>
+            <pubDate>Fri, 24 Feb 2023 04:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[한국로봇산업진흥원은 24일 서울 코엑스 아셈볼룸에서 지능형로봇 보급 및 확산사업 사업설명회를 개최했다. 설명회는 코로나19 이후 3년 만에 열렸다. 진흥원은 주요 공모사업 소개...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/24/53d456023a21c14c585352a2a2114c38-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MWC23] 망 이용대가 글로벌 논의 신호탄]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230224114256</link>
+            <guid>https://zdnet.co.kr/view/?no=20230224114256</guid>
+            <pubDate>Fri, 24 Feb 2023 04:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[유럽연합집행위원회의 티에리 브르통 역내시장 집행위원이 MWC23에서 망 이용대가 논의를 주도할 전망이다. 올해 MWC 첫 키노트 세션 주제가 '공정한 미래에 대한 비전(Visi...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/24/f236fd6342273526f357021a8eebd17a-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 아이폰14 원가 3.7% 올라도 출고가 동결…한국은 인상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230224111732</link>
+            <guid>https://zdnet.co.kr/view/?no=20230224111732</guid>
+            <pubDate>Fri, 24 Feb 2023 04:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 아이폰 시리즈 중 최상위 모델인 아이폰14 프로맥스가 전작 보다 부품원가(BoM)가 3.7% 오른 것으로 나타났다. 애플은 부품원가 인상에도 아이폰14 프로맥스 판매 가...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[DB손보, 보험금 청구 키오스크 운영]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230224105555</link>
+            <guid>https://zdnet.co.kr/view/?no=20230224105555</guid>
+            <pubDate>Fri, 24 Feb 2023 04:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[DB손해보험은 보험금 청구 전용 키오스크를 개발해 강남고객센터에 서비스를 시작했다고 24일 밝혔다. 기존의 실손보험 청구 간소화 서비스는 대형 병원의 원내 키오스크나, 서비스 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[수입식품, 요리·육아 전문 블로거가 통관검사 현장서 확인]]></title>
             <link>https://zdnet.co.kr/view/?no=20230224122019</link>
             <guid>https://zdnet.co.kr/view/?no=20230224122019</guid>
             <pubDate>Fri, 24 Feb 2023 03:23:08 GMT</pubDate>
             <content:encoded><![CDATA[식품의약품안전처는 수입식품 안전관리 정책과 집행 현황에 대해 소비자들의 이해를 돕기 위해 요리·육아 관련 '유명 블로거'를 대상으로 2월 23일 통관검사 전 과정을 참관하는 행...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/24/fd93a416db9ab483c8a5a4090931e3c0-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[가비아 그룹웨어 '하이웍스', 디도스 공격으로 서비스 지연]]></title>
+            <title><![CDATA[도메인 1위 업체 가비아, 디도스 공격으로 도메인·하이웍스 서비스 지연]]></title>
             <link>https://zdnet.co.kr/view/?no=20230224115044</link>
             <guid>https://zdnet.co.kr/view/?no=20230224115044</guid>
             <pubDate>Fri, 24 Feb 2023 03:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[가비아 그룹웨어 '하이웍스'가 디도스 공격으로 인해 서비스가 지연되고 있다. 가비아 하이웍스는 24일 공지사항을 통해 "디도스 공격으로 인해 하이웍스 오피스 이용 시 지연이 발...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/24/e949fa23b3af8507dd1ea33467689e53-290x182.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[도메인 관리 및 그룹웨어 등을 서비스하는 업체인 가비아가 디도스 공격을 받았다. 디도스 공격으로 현재 가비아 도메인네임서버(DNS)를 사용하는 고객들의 사이트가 접속이 안 되고...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["간호법·의료인면허법 강행처리 규탄한다!”]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230224101827</guid>
             <pubDate>Fri, 24 Feb 2023 02:49:53 GMT</pubDate>
             <content:encoded><![CDATA[효성티앤씨가 내달 2일부터 4일까지 대구 EXCO에서 개최되는 국내 최대 섬유 산업 전시회인 2023 대구국제섬유박람회(PID)에 참여한다고 24일 밝혔다. 국내 업체 중 최대...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AMD코리아, 라데온 그래픽카드 구매자 대상 행사 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224102736</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224102736</guid>
-            <pubDate>Fri, 24 Feb 2023 02:49:53 GMT</pubDate>
-            <content:encoded><![CDATA[AMD코리아 CPU 세일즈 팀이 라데온 그래픽카드 구매자 대상 행사를 진행한다. 행사 대상 제품은 라데온 RX 6000·7000 탑재 그래픽카드이며 그래픽카드 단품과 이를 탑재...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KEIT·산업부·탄소다배출업종협회, 탄소중립 협약 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224102721</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224102721</guid>
-            <pubDate>Fri, 24 Feb 2023 02:49:53 GMT</pubDate>
-            <content:encoded><![CDATA[한국산업기술평가관리원(KEIT·원장 전윤종)은 산업통상자원부, 탄소다배출업종협회와 탄소중립 기술개발에 협력하고 성과확산을 위한 업무협약을 체결했다고 밝혔다. 탄소다배출업종협회에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[FTX 창업자 뱅크먼-프리드 혐의 총 12개로 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224091849</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224091849</guid>
-            <pubDate>Fri, 24 Feb 2023 02:49:53 GMT</pubDate>
-            <content:encoded><![CDATA[사기 등의 혐의로 기소된 세계 3대 가상자산거래소 FTX의 창업자 샘 뱅크먼-프리드에게 자금세탁 등의 혐의가 추가됐다. 23일(현지시간) CNBC에 따르면 뉴욕 검찰은 연방법원...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[생체 조직에서 전극이 저절로 자란다···몸 안에 간단히 주입 가능]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224094533</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224094533</guid>
-            <pubDate>Fri, 24 Feb 2023 02:49:53 GMT</pubDate>
-            <content:encoded><![CDATA[뇌에 전극을 삽입해 신경질환을 진단 및 치료하고, 나아가 뇌가 외부 디지털 정보에 직접 연결된 증강 인간에 도전하는 것을 목표로 뇌-컴퓨터 인터페이스(BCI) 연구가 활발하다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
