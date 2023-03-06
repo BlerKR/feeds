@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 02:54:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 03:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개인정보위, 개인정보 통합포털 서비스 개시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230306083520</link>
+            <guid>https://zdnet.co.kr/view/?no=20230306083520</guid>
+            <pubDate>Mon, 06 Mar 2023 03:25:40 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회가 개인정보 통합포털을 구축해 6일부터 대국민 서비스를 실시한다. 개인정보위는 출범 이후, 정보시스템 통합을 위한 정보화 전략 계획(ISP)을 수립해 개인정보 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/06/77d596f45fd6bba03c5ca9ae64c02d5f-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[웹젠 뮤아크엔젤2, 다채로운 아이템 쏜다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230306105623</link>
+            <guid>https://zdnet.co.kr/view/?no=20230306105623</guid>
+            <pubDate>Mon, 06 Mar 2023 03:25:40 GMT</pubDate>
+            <content:encoded><![CDATA[웹젠(대표 김태영)은 모바일 MMORPG '뮤 아크엔젤2'에서 이용자들에게 다채로운 게임 아이템을 획득할 수 있는 '영광의 축제' 이벤트를 선보였다고 6일 밝혔다. 회사 측에 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/06/9403f42581fd6d77259ee282d1eebf6c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷마블, 세븐나이츠 리메이크 프로젝트 '더 세븐나이츠' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230306113907</link>
             <guid>https://zdnet.co.kr/view/?no=20230306113907</guid>
             <pubDate>Mon, 06 Mar 2023 02:54:00 GMT</pubDate>
             <content:encoded><![CDATA[넷마블(대표 권영식, 도기욱)은 모바일 RPG '세븐나이츠'를 정식 계승한 리메이크 작품 더 세븐나이츠를 6일 공개했다. 세븐나이츠 9주년을 기념해 공개된 더 세븐나이츠는 원작...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/06/94dee8142f733a2d86fee4b879b74545-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[11비트 스튜디오, PC RPG '디 쏘마터지' 플레이 영상 공개]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230306113412</guid>
             <pubDate>Mon, 06 Mar 2023 02:54:00 GMT</pubDate>
             <content:encoded><![CDATA[11비트 스튜디오는 자사에서 퍼블리싱하는 PC RPG 신작 '디 쏘마터지(The Thaumaturge)' 플레이 영상을 6일 공개했다. 총 1분 4초 분량의 이번 게임 플레이 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/06/6d76b5ca1bdc295d551091bed01f7132-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[원티드랩, 챗GPT 기술 활용한 'AI 면접코칭' 서비스 출시]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230306083614</guid>
             <pubDate>Mon, 06 Mar 2023 02:54:00 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 저시력 시각장애인을 위한 시각 보조 솔루션 '릴루미노'를 시범 보급한다. 삼성전자는 최근 릴루미노의 사용 적합성 검증을 목적으로 경기도시각장애인복지관과 초기 사용자였...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가스안전공사, 국민 맞춤형 재난 정보 제공한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230306105953</link>
-            <guid>https://zdnet.co.kr/view/?no=20230306105953</guid>
-            <pubDate>Mon, 06 Mar 2023 02:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국가스안전공사(대표 임해종)는 행정안전부·SK가스와 신속한 재난대응을 위한 국민 맞춤형 재난 안전 데이터 공유 업무협약(MOU)을 체결했다고 6일 밝혔다. 업무협약에 따라 가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[8인승 오프로더 '디펜더 130' 출시…1억3707만원부터]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230306100332</link>
-            <guid>https://zdnet.co.kr/view/?no=20230306100332</guid>
-            <pubDate>Mon, 06 Mar 2023 02:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[재규어 랜드로버 코리아가 8인승 오프로더 '올 뉴 디펜더 130'을 국내 공식 출시한다고 6일 밝혔다. 랜드로버의 75년 역사를 계승한 올 뉴 디펜더 130은 최대 8명이 탑승...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
