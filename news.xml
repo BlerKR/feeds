@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 03:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 03:34:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타플래넷, 1500만 틱톡커 '종민오빠'와 게임 생태계 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230307121527</link>
+            <guid>https://zdnet.co.kr/view/?no=20230307121527</guid>
+            <pubDate>Tue, 07 Mar 2023 03:34:23 GMT</pubDate>
+            <content:encoded><![CDATA[메타플래넷(대표 김지윤)은 틱톡 인플루언서인 창쿠글로벌(대표 고범수)의 종민오빠와 게임 생태계 확장 및 게임 퍼플리싱 마케팅 비즈니스 다각화를 위한 전략적 파트너십을 체결했다고...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/07/24f56d757f09ff526619e28bc9f73b6a-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AWS코리아, 실직·구직자 대상 무료 교육 프로그램 시행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230307115804</link>
+            <guid>https://zdnet.co.kr/view/?no=20230307115804</guid>
+            <pubDate>Tue, 07 Mar 2023 03:34:23 GMT</pubDate>
+            <content:encoded><![CDATA[아마존웹서비스(AWS)코리아가 IT와 클라우드 경험을 갖지 못한 실직자와 구직자에게 기본 클라우드 기술 소양 교육을 제공하는 프로그램을 출시했다. AWS코리아는 7일 서울 사옥...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/07/48b99cf760567c225ff12d429bdf0e9a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우주 스타트업 육성 위해 500억원 펀드 조성한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230307101457</link>
             <guid>https://zdnet.co.kr/view/?no=20230307101457</guid>
             <pubDate>Tue, 07 Mar 2023 03:01:17 GMT</pubDate>
             <content:encoded><![CDATA[정부가 우주 분야 스타트업 육성을 위해 500억원 규모의 투자 펀드를 조성한다. 과학기술정보통신부는 한국벤처투자가 실시하는 모태펀드 2차 정시 출자 공고를 통해 '뉴스페이스투자...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/21/e21c653d4b9b830d434b4bff808dcd54-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[작년 모바일뱅킹 이용 비중 더 커졌다]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230307085430</guid>
             <pubDate>Tue, 07 Mar 2023 03:01:17 GMT</pubDate>
             <content:encoded><![CDATA[지난해 비대면 채널(인터넷·모바일뱅킹)을 이용한 금융 거래 중 모바일뱅킹을 이용하는 비중이 더 커진 것으로 나타났다. 7일 한국은행은 '2022년 중 국내 은행의 인터넷뱅킹' ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/07/ecd48ba102667e00a6d01ef4e6a9b190-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넷마블 A3:스틸얼라이브, 하이패스 시즌2 서버 오픈]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230307101639</guid>
             <pubDate>Tue, 07 Mar 2023 03:01:17 GMT</pubDate>
             <content:encoded><![CDATA[롯데홈쇼핑은 이달 10일 오후 9시 45분 뷰티 크리에이티브 디렉터 정윤정이 진행하는 뷰티 전문 프로그램 '정쇼 불금 프라이데이'를 시작한다고 7일 밝혔다. 4년 만에 마스크 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[큐텐-중기유통센터, 소상공인 해외 수출 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230307102708</link>
-            <guid>https://zdnet.co.kr/view/?no=20230307102708</guid>
-            <pubDate>Tue, 07 Mar 2023 03:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[큐텐은 중소벤처기업부 산하 중소기업유통센터가 추진하는 '소상공인 해외쇼핑몰 입점 지원 사업'에 참여한다고 7일 밝혔다. 큐텐은 지난해에 이어 2년 연속으로 국내 소상공인 해외진...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN엔터프라이즈, 디지털서비스 시스템에 클라우드 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230307105152</link>
-            <guid>https://zdnet.co.kr/view/?no=20230307105152</guid>
-            <pubDate>Tue, 07 Mar 2023 03:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[NHN클라우드의 자회사 NHN엔터프라이즈는 '디지털서비스 이용지원시스템'에서 공공 부문을 대상으로 클라우드 지원 서비스를 제공한다고 7일 밝혔다. 디지털서비스 이용지원시스템은 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
