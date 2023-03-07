@@ -4,16 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 03:34:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 04:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[복지부, 이경혜 신임 한국장애인개발원장 임명 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230307132101</link>
+            <guid>https://zdnet.co.kr/view/?no=20230307132101</guid>
+            <pubDate>Tue, 07 Mar 2023 04:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[보건복지부가 지난 7일 한국장애인개발원장에 이경혜 사단법인 문화복지공감 대표를 임명했다. 임기는 3년이다. 이경혜 신임 원장은 부산점자도서관 관장·한국시각장애인여성연합회 및 열...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/07/7b0cb01d17297f5ae29193aa2a3fa085-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바이오·디지털헬스 산업의 혁신 위해 전문가 한 자리에 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230307131338</link>
+            <guid>https://zdnet.co.kr/view/?no=20230307131338</guid>
+            <pubDate>Tue, 07 Mar 2023 04:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[한국제약바이오헬스케어연합회가 9일 오후 서울 광화문 프레스센터 20층 국제회의장에서 제1차 포럼을 개최한다. 포럼은 원희목 서울대 특임교수의 '4차산업혁명시대, 제약바이오헬스케...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/07/5c35458dcf02e171cafd70395066ed1e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네오위즈, 골프 스윙 앱 스타트업 '스포츠박스AI'에 투자 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230307100545</link>
+            <guid>https://zdnet.co.kr/view/?no=20230307100545</guid>
+            <pubDate>Tue, 07 Mar 2023 04:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[네오위즈는 스포츠·피트니스 인공지능(AI) 스타트업 '스포츠박스 AI(Sportsbox AI)'에 전략적 투자를 단행했다고 7일 밝혔다. 2020년 설립된 '스포츠박스 AI'는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타플래넷, 1500만 틱톡커 '종민오빠'와 게임 생태계 구축 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230307121527</link>
             <guid>https://zdnet.co.kr/view/?no=20230307121527</guid>
             <pubDate>Tue, 07 Mar 2023 03:34:23 GMT</pubDate>
             <content:encoded><![CDATA[메타플래넷(대표 김지윤)은 틱톡 인플루언서인 창쿠글로벌(대표 고범수)의 종민오빠와 게임 생태계 확장 및 게임 퍼플리싱 마케팅 비즈니스 다각화를 위한 전략적 파트너십을 체결했다고...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/07/24f56d757f09ff526619e28bc9f73b6a-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[AWS코리아, 실직·구직자 대상 무료 교육 프로그램 시행 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230307115804</guid>
             <pubDate>Tue, 07 Mar 2023 03:34:23 GMT</pubDate>
             <content:encoded><![CDATA[아마존웹서비스(AWS)코리아가 IT와 클라우드 경험을 갖지 못한 실직자와 구직자에게 기본 클라우드 기술 소양 교육을 제공하는 프로그램을 출시했다. AWS코리아는 7일 서울 사옥...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/07/48b99cf760567c225ff12d429bdf0e9a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[우주 스타트업 육성 위해 500억원 펀드 조성한다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230307111410</guid>
             <pubDate>Tue, 07 Mar 2023 03:01:17 GMT</pubDate>
             <content:encoded><![CDATA[올해 박만훈상에 코로나19 및 수막구균 백신 개발 주역들이 선정됐다. 박만훈상은 SK바이오사이언스(SK바사)가 후원하고 국제백신연구소(IVI)가 주최해 마련됐다. 국내 세포배양...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[강한결의 인디픽] 겜성게임즈 "게임제작 하려면 자기객관화 필요해" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230307110515</link>
-            <guid>https://zdnet.co.kr/view/?no=20230307110515</guid>
-            <pubDate>Tue, 07 Mar 2023 03:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[인디게임이 글로벌 게임산업 신성장동력으로 부상한 가운데 독창성과 참신함을 매력으로 게임 이용자를 사로잡은 작품도 속속 늘고 있습니다. 국내 게임업계에도 인디게임 산업 발전을 위...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[명성 SK어스온 사장 "석유개발·친환경 중심 탄소중립회사 거듭날 것" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230307100735</link>
-            <guid>https://zdnet.co.kr/view/?no=20230307100735</guid>
-            <pubDate>Tue, 07 Mar 2023 03:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[SK이노베이션의 석유개발사업 자회사 명성 SK어스온 사장이 “석유개발과 친환경 두 개의 축을 중심으로 '탄소중립회사'로 거듭나겠다”고 강조했다. 7일 SK이노베이션에 따르면 명...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데홈쇼핑, 뷰티 프로그램 '정쇼 불금 프라이데이' 시작 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230307101639</link>
-            <guid>https://zdnet.co.kr/view/?no=20230307101639</guid>
-            <pubDate>Tue, 07 Mar 2023 03:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[롯데홈쇼핑은 이달 10일 오후 9시 45분 뷰티 크리에이티브 디렉터 정윤정이 진행하는 뷰티 전문 프로그램 '정쇼 불금 프라이데이'를 시작한다고 7일 밝혔다. 4년 만에 마스크 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
