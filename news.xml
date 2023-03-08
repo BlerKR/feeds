@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 02:55:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 03:27:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제네시스랩, AI 면접·채용 관리 솔루션 통합]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230308102328</link>
+            <guid>https://zdnet.co.kr/view/?no=20230308102328</guid>
+            <pubDate>Wed, 08 Mar 2023 03:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[제네시스랩(대표 이영복)이 자사 인공지능(AI) 영상면접 솔루션 '뷰인터HR'과 두들린(대표 이태규)의 기업용 채용관리 솔루션 '그리팅' 연동을 마치고 이달 채용부터 통합 서비...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/08/afaa13fa4ecf17097b5a0e81e9deef4b-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[윤경림 KT 대표 후보, 주총 표대결 관문 남았다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230307195620</link>
+            <guid>https://zdnet.co.kr/view/?no=20230307195620</guid>
+            <pubDate>Wed, 08 Mar 2023 03:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[KT 이사회가 윤경림 KT 그룹트랜스포메이션부문장을 차기 대표이사 최종 후보로 낙점한 가운데, 이달 말 예정된 주주총회에서의 의결 과정에 관심이 모아지고 있다. 여당 의원들이 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/07/e879f3d1af326dcde0d3c9588301e686-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국토부, 제주 제2공항 기본계획(안) 공개…제주도와 협의 착수]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230308120130</link>
+            <guid>https://zdnet.co.kr/view/?no=20230308120130</guid>
+            <pubDate>Wed, 08 Mar 2023 03:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[국토교통부는 8일 제주특별자치도에 '제주 제2공항 개발사업 기본계획(안) 보고서'를 송부하고 의견 제시를 요청했다고 밝혔다. '제주 제2공항 개발사업 기본계획(안)'에는 친환경...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[주니퍼네트웍스, 클라우드 호스팅 캠퍼스 패브릭 워크플로우 발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20230308104704</link>
             <guid>https://zdnet.co.kr/view/?no=20230308104704</guid>
             <pubDate>Wed, 08 Mar 2023 02:55:16 GMT</pubDate>
             <content:encoded><![CDATA[AI 기반 네트워크 전문업체 주니퍼 네트웍스가 새로운 클라우드 호스팅 캠퍼스 패브릭 워크플로우를 8일 발표했다. 새로운 클라우드 호스팅 캠퍼스 패브릭 워크플로우는 엔터프라이즈 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2018/06/28/jungvinh_nIAex4UYq5e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['스마트팩토리·오토메이션월드 2023' 막올라]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230308114121</guid>
             <pubDate>Wed, 08 Mar 2023 02:55:16 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부와 중소벤처기업부가 후원하고 한국산업지능화협회와 코엑스 등이 공동 주최한 '스마트팩토리·오토메이션월드 2023(2023 스마트공장·자동화산업전)'이 8일 서울 삼성...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/08/4e9fdf64c47068221445c0d1318e888f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[XPLA, 후오비 글로벌에서 거래 개시…마이그레이션 완료]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230308104651</guid>
             <pubDate>Wed, 08 Mar 2023 02:55:16 GMT</pubDate>
             <content:encoded><![CDATA[신한카드는 한국능률협회컨설팅이 주관하는 '2023 한국에서 가장 존경받는 기업' 조사에서 16년 연속 신용카드 산업부문 1위를 기록했다고 8일 밝혔다. 올해로 20년을 맞이하는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코인원 "고객센터 이용자 91.5% 만족"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230308104923</link>
-            <guid>https://zdnet.co.kr/view/?no=20230308104923</guid>
-            <pubDate>Wed, 08 Mar 2023 02:55:16 GMT</pubDate>
-            <content:encoded><![CDATA[국내 가상자산 거래소 코인원(대표 차명훈)은 고객센터 이용자 만족도 조사 결과, 91.5%의 만족도를 기록했다고 8일 밝혔다. 코인원은 작년 3월 22일부터 올해 2월 28일까...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[모바일 세탁 런드리고, 구리·남양주·안산까지 서비스 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230308104701</link>
-            <guid>https://zdnet.co.kr/view/?no=20230308104701</guid>
-            <pubDate>Wed, 08 Mar 2023 02:55:16 GMT</pubDate>
-            <content:encoded><![CDATA[비대면 모바일 세탁서비스 '런드리고'를 운영 중인 의식주컴퍼니(대표 조성우)가 수도권 서남부와 동북부 신도시를 중심으로 런드리고의 서비스 지역 확대에 나선다고 8일 밝혔다. 런...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전기차사용자협회, EV트렌드코리아 2023 참가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230308103129</link>
-            <guid>https://zdnet.co.kr/view/?no=20230308103129</guid>
-            <pubDate>Wed, 08 Mar 2023 02:55:16 GMT</pubDate>
-            <content:encoded><![CDATA[한국전기차사용자협회(협회)가 EV트렌드코리아 2023에 참가한다고 8일 밝혔다. 오는 15일부터 17일까지 서울 코엑스에서 개최되는 EV트렌드코리아는 환경부가 직접 주최하는 E...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
