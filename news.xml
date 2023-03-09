@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 02:55:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 03:26:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KISA, 정보보호제품 신속확인제 지원 공모 실시…수수료 최대 80% 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230309094528</link>
+            <guid>https://zdnet.co.kr/view/?no=20230309094528</guid>
+            <pubDate>Thu, 09 Mar 2023 03:26:57 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA)은 정보보호제품 신속확인 제도 신청기업의 부담 완화를 위해 '정보보호제품 신속확인 제도 지원 공모'를 통해 수수료를 지원한다고 9일 밝혔다. 정보보호제...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/09/f9a191b045da18b68b45656d40e0469d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소프트베리-카수리, 전기차 무상 점검 이벤트 실시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230309111222</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230309105019</guid>
             <pubDate>Thu, 09 Mar 2023 02:55:08 GMT</pubDate>
             <content:encoded><![CDATA[렌트카 플랫폼 카모아가 유럽 23개국과 대만에 렌트카 예약 서비스를 신규 출시했다고 9일 밝혔다. 앞으로 카모아를 통해 글로벌 30개국 총 189개 도시에서 렌트카를 예약할 수...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/09/a5549f37afcf6fabdd07592845d88396-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[쿠팡, 화이트데이 맞아 롯데호텔 특가전 진행]]></title>
@@ -120,19 +128,19 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[산업부, 중견기업 전문 투자펀드 조성…2027년까지 1조 규모 조성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230309015454</link>
-            <guid>https://zdnet.co.kr/view/?no=20230309015454</guid>
-            <pubDate>Thu, 09 Mar 2023 02:55:08 GMT</pubDate>
-            <content:encoded><![CDATA[산업부가 중견기업 신사업 진출 등을 지원하기 위해 국내 최초로 중견기업 전문 투자펀드 조성에 나선다. 올해 안에 2천150억원, 2027년까지 총 1조원 규모 펀드 조성을 추진...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[워크데이, 아시아태평양 및 일본지역 사장에 폴 헤너건 선임]]></title>
             <link>https://zdnet.co.kr/view/?no=20230309102232</link>
             <guid>https://zdnet.co.kr/view/?no=20230309102232</guid>
             <pubDate>Thu, 09 Mar 2023 02:55:08 GMT</pubDate>
             <content:encoded><![CDATA[워크데이는 아시아태평양 및 일본 지역(APJ) 사장으로 폴 헤너건을 선임했다고 9일 밝혔다. 폴 헤너건 사장은 싱가포르에 근무하면서 APJ 지역 세일즈를 주도할 예정이다. 폴 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[산업부, 중견기업 전문 투자펀드 조성…2027년까지 1조 규모 조성]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230309015454</link>
+            <guid>https://zdnet.co.kr/view/?no=20230309015454</guid>
+            <pubDate>Thu, 09 Mar 2023 02:55:08 GMT</pubDate>
+            <content:encoded><![CDATA[산업부가 중견기업 신사업 진출 등을 지원하기 위해 국내 최초로 중견기업 전문 투자펀드 조성에 나선다. 올해 안에 2천150억원, 2027년까지 총 1조원 규모 펀드 조성을 추진...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230309095247</guid>
             <pubDate>Thu, 09 Mar 2023 02:55:08 GMT</pubDate>
             <content:encoded><![CDATA[요기요 전국 즉시 장보기 서비스 요마트가 한 달간 생필품부터 가공·신선식품 등 200여개 품목을 대상으로 1+1 행사와 초특가 할인을 진행하는 대규모 기획전을 펼친다고 9일 밝...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 경남 합천군 산불 대피 주민에게 구호물품 전달]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230309094931</link>
-            <guid>https://zdnet.co.kr/view/?no=20230309094931</guid>
-            <pubDate>Thu, 09 Mar 2023 02:55:08 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 산불대응 3단계가 내려진 경남 합천군에서 지역주민들을 위한 대민지원에 나섰다고 9일 밝혔다. 이번 산불은 전날 합천군 용주면 월평리 일원에서 발생했다. 강한 바람으...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
