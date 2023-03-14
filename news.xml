@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 02:35:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 03:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["스타트업, 3월 주총 이것만은 놓치지 마세요!"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230314121637</link>
+            <guid>https://zdnet.co.kr/view/?no=20230314121637</guid>
+            <pubDate>Tue, 14 Mar 2023 03:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[스타트업들이 정기 주주총회 실무를 챙길 수 있는 법률 세미나가 마련된다. 법무법인 디라이트(D'Light∙대표변호사 이병주, 조원희)는 오는 22일 오후 2시 서울 드림플러스 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/14/06d65a951d714b0d2537138d6ddf3967-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[권경곤 대한약사회 명예회장, 대한민국 약업대상 수상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230314114515</link>
+            <guid>https://zdnet.co.kr/view/?no=20230314114515</guid>
+            <pubDate>Tue, 14 Mar 2023 03:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[권경곤 대한약사회 자문위원이 대한민국 약업대상을 수상했다. 대한약사회는 이날 오전 서울 코엑스에서 2023 약사포상 시상식을 개최했다. 올해가 4회째. 이날 대한민국 약업대상을...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/14/addec78b30be98dffcdaa81a0d415c30-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매스웍스-그린힐스, 인피니언 오릭스 MCU 제품군 통합 기능 발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20230314090439</link>
             <guid>https://zdnet.co.kr/view/?no=20230314090439</guid>
             <pubDate>Tue, 14 Mar 2023 02:35:36 GMT</pubDate>
             <content:encoded><![CDATA[매스웍스는 그린힐스소프트웨어와 인피니언 오릭스 응용프로그램 설계를 위한 통합 기능을 발표했다고 14일 밝혔다. 두 기업은 엔지니어가 인피니언 오릭스 TC4x 자동차 마이크로컨트...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/14/e24acc7c36c3b4743e3a2598c088a90f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[마이크로칩, 오리건 공장 증축…8억 달러 투자]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230314105037</guid>
             <pubDate>Tue, 14 Mar 2023 02:35:36 GMT</pubDate>
             <content:encoded><![CDATA[미국 반도체 회사 마이크로칩테크놀로지는 14일 8억 달러(약 1조원)를 투자해 미국 오리건주 그레셤 제조 시설 생산 용량을 3배로 확대한다고 밝혔다. 마이크로칩은 비즈니스오리건...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/14/87d6a3d944cbd4aec864a8ae7e4ca58e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['가상자산' 빗장 푸는 中? 한국은 투자자 보호도 아직]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230314102217</guid>
             <pubDate>Tue, 14 Mar 2023 02:35:36 GMT</pubDate>
             <content:encoded><![CDATA[베리타스코리아(대표 이상훈)는 NH투자증권이 매매체결 시스템 고도화를 위해 IT 인프라스트럭처 전반에 걸쳐 고가용성(HA) 및 재해 복구(DR) 기능을 제공하는 '베리타스 인포...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[GfK "지난해 韓 가전시장 10% 감소"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230314095303</link>
-            <guid>https://zdnet.co.kr/view/?no=20230314095303</guid>
-            <pubDate>Tue, 14 Mar 2023 02:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 국내 가전시장 규모가 10% 감소했다는 분석이 나왔다. 14일 글로벌 시장정보 기업 GfK에 따르면 코로나 기간 성장세를 보였던 가전시장이 2021년에 정점을 찍고 지난...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG디스플레이, e스포츠구단 DRX에 게이밍 OLED 모니터 후원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230314095035</link>
-            <guid>https://zdnet.co.kr/view/?no=20230314095035</guid>
-            <pubDate>Tue, 14 Mar 2023 02:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[LG디스플레이는 14일 국내 e스포츠구단 DRX를 후원한다고 밝혔다. LG디스플레이는 '발로란트', '철권', '워크래프트3' 게임에 출전하는 DRX 선수단에 게이밍 유기발광다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
