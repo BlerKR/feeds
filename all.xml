@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 02:44:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 03:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성SDS·LG CNS, 글로벌 물류사업 경쟁 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230320115335</link>
+            <guid>https://zdnet.co.kr/view/?no=20230320115335</guid>
+            <pubDate>Mon, 20 Mar 2023 03:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[러시아 전쟁과 코로나19 등 예상하기 어려운 문제로 인해 공급망이 마비되고, 원자재 가격 상승하는 등 물류사업의 불확실성이 커지고 있다. 이에 대응하기 위해 GPS로 실시간으로...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/04/21/51b3b4ec6e9fd38679a58e555b862a86-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오, 한국형 챗GPT 첫 발 '다다음' 오픈베타 실시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230320104538</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230320102455</guid>
             <pubDate>Mon, 20 Mar 2023 02:44:11 GMT</pubDate>
             <content:encoded><![CDATA[네오위즈(공동대표 김승철, 배태근)는 PC콘솔 신작 'P의 거짓(Lies of P)'의 데모 버전을 글로벌 게임 개발자 컨퍼런스 'GDC(Game Developers Confe...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/20/f2ef380d8177d9e23ac59591cacd017f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[당근마켓, '쇼핑검색광고' 추가…지역 한계 벗어난다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230320101853</guid>
             <pubDate>Mon, 20 Mar 2023 02:44:11 GMT</pubDate>
             <content:encoded><![CDATA[아우디 그룹이 지난해 역대 최고 영업이익을 기록했다고 20일 밝혔다. 아우디 그룹의 작년 매출은 전년 대비 16.4% 증가한 618억유로(85조9천570억원), 영업이익은 전년...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스, 광고 요금제 탄력 받나…美 두 달만에 100만명 돌파 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230320092850</link>
-            <guid>https://zdnet.co.kr/view/?no=20230320092850</guid>
-            <pubDate>Mon, 20 Mar 2023 02:44:11 GMT</pubDate>
-            <content:encoded><![CDATA[느린 출발을 보였던 넷플릭스의 광고 요금제가 어느 정도 탄력을 받고 있다는 소식이 나왔다. 블룸버그통신은 20일(현지시간) 넷플릭스 내부 자료를 인용, 광고 요금제 출시 두 달...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
