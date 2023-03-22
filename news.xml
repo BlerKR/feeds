@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 02:35:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 03:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최수연 네이버 "성장세 유지하며 글로벌 경쟁력 입증할 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230322102733</link>
+            <guid>https://zdnet.co.kr/view/?no=20230322102733</guid>
+            <pubDate>Wed, 22 Mar 2023 03:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[최수연 네이버 대표가 지난해에 이어 올해도 불확실성으로 인한 금융 긴축이 지속될 것으로 전망하면서도 자사 글로벌 경쟁력을 입증하겠다는 각오를 다졌다. 최 대표는 22일 경기도 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/22/210bf5b133cb1220903c8bec9789eb1a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넷마블, 크리에이터와 소통 활발...네트워킹 행사 개최]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230322110538</link>
+            <guid>https://zdnet.co.kr/view/?no=20230322110538</guid>
+            <pubDate>Wed, 22 Mar 2023 03:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[넷마블(대표 권영식, 도기욱)은 넷마블 파트너 크리에이터 네트워킹 행사 'Meet &amp; Greet'을 최근 넷마블 지타워에서 개최했다고 22일 밝혔다. 유튜브의 지원을 받아 '넷...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/22/c57fbe5a1772a73b84697b5998fbb18a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전라남도, 최태원 주도 사회성과인센티브 도입]]></title>
             <link>https://zdnet.co.kr/view/?no=20230322113146</link>
             <guid>https://zdnet.co.kr/view/?no=20230322113146</guid>
             <pubDate>Wed, 22 Mar 2023 02:35:02 GMT</pubDate>
             <content:encoded><![CDATA[SK그룹과 전라남도가 사회성과인센티브(SPC) 프로그램을 공동으로 추진한다. SK와 전남도는 22일 서울 종로구 SK서린빌딩에서 사회적경제 활성화 지원을 위한 업무협약(MOU)...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/12/27/e3b7e84bc5eb43027ec96c52f55145e3-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인사] 국토교통부]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230322102351</guid>
             <pubDate>Wed, 22 Mar 2023 02:35:02 GMT</pubDate>
             <content:encoded><![CDATA[2017년 인텔에 합류했던 라자 코두리가 인텔을 떠나 생성형 AI를 만드는 스타트업으로 이직한다. 팻 겔싱어 인텔 CEO가 21일(미국 현지시간) 트위터를 통해 이와 같이 밝혔...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[람다256, 클라우드 기반 '이더리움·폴리곤' 서비스 개발 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230322102031</link>
-            <guid>https://zdnet.co.kr/view/?no=20230322102031</guid>
-            <pubDate>Wed, 22 Mar 2023 02:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[두나무의 계열사이자 블록체인 전문 기업 람다256은 내달 출시하는 블록체인 클라우드 서비스 '루니버스'의 업그레이드 버전에서 폴리곤을 지원한다고 22일 밝혔다. 람다256은 지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[챗GPT 한때 불통…다른 이용자 채팅 목록 노출]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230322091641</link>
-            <guid>https://zdnet.co.kr/view/?no=20230322091641</guid>
-            <pubDate>Wed, 22 Mar 2023 02:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[오픈AI가 개발한 대화형 인공지능(AI) 챗GPT에 오류가 생겨 다른 이용자의 채팅 목록이 노출되는 사고가 발생했다. 21일(현지시간) 미국 씨넷은 블룸버그 보도를 인용해 일부...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
