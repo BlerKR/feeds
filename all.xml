@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 02:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 03:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청소년 사이버폭력 경험 늘었다...10명 중 4명 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230324104225</link>
+            <guid>https://zdnet.co.kr/view/?no=20230324104225</guid>
+            <pubDate>Fri, 24 Mar 2023 03:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 청소년 10명 중 4명이 사이버폭력을 경험한 것으로 나타났다. 성인의 사이버폭력 경험은 2021년 15.8%에서 9.6%로 줄어든 반면에 청소년은 같은 기간 29.2%에...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2013/04/30/t9oenucE17VJpvg8Lj6w-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MS·서비스나우, 노코드와 AI 결합으로 생산성 극대화 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230324113422</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230324104332</guid>
             <pubDate>Fri, 24 Mar 2023 02:36:14 GMT</pubDate>
             <content:encoded><![CDATA[지마켓이 24일부터 26일까지 '위켄드 마켓'을 열고, 식품·생필품·주방용품 등 장보기 품목을 최대 50% 할인 판매한다. 위켄드 마켓은 월 2회 격주 진행되는 정례 기획전이다...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/24/dfa82b90b0e47a53dcde7d280a1068f3-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[이기자의 게임픽] 크래프톤 퍼블리싱 조직 재정비...성과 여부 주목 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -72,11 +80,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[윤종규 "콜센터 근로환경 살펴보겠다" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[윤종규 "부코핀은행 5년 내 정상화" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230324105827</link>
             <guid>https://zdnet.co.kr/view/?no=20230324105827</guid>
             <pubDate>Fri, 24 Mar 2023 02:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[윤종규 KB금융지주 회장이 24일 오전 서울 여의도 KB국민은행 본관에서 열린 '제15기 정기 주주총회'에서 콜센터 복지와 근로 환경을 살펴보겠다고 밝혔다. 주주총회서 자신을 ...]]></content:encoded>
+            <content:encoded><![CDATA[윤종규 KB금융지주 회장이 24일 오전 서울 여의도 KB국민은행 본관에서 열린 '제15기 정기 주주총회'에서 인도네시아 부코핀은행의 정상화를 위해 노력을 꾀하고 있으며 5년 내...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230324100632</guid>
             <pubDate>Fri, 24 Mar 2023 02:36:14 GMT</pubDate>
             <content:encoded><![CDATA[카카오엔터테인먼트의 뮤직플랫폼 멜론은 첫 솔로 앨범 '페이스'를 발매하는 방탄소년단 지민이 멜론 스테이션 내 하이브 전용 프로그램 '하이브 레이블스'에 출연한다고 24일 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[티맥스티베로, 30일 '효율적 빅데이터 운용 전략' 주제 웨비나 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230323171415</link>
-            <guid>https://zdnet.co.kr/view/?no=20230323171415</guid>
-            <pubDate>Fri, 24 Mar 2023 02:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[티맥스티베로가 '디지털 대전환 시대, 효율적인 빅데이터 운용을 위한 어플라이언스 전략'을 주제로 올해 첫 웨비나를 30일 연다고 밝혔다. 해당 웨비나는 디지털 전환의 가속화로 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
