@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 03:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 04:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아마존, 'NFT' 서비스 개시 코앞…프라임 비디오 구독자에 안내]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230326115000</link>
+            <guid>https://zdnet.co.kr/view/?no=20230326115000</guid>
+            <pubDate>Sun, 26 Mar 2023 04:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 전자상거래 기업 아마존이 자체 플랫폼에 대체불가토큰(NFT) 서비스를 탑재한다. 블록체인 매체 코인데스크는 아마존의 OTT 서비스 '아마존 프라임 비디오' 구독 갱신 안...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2020/11/26/1c0bcdd0e8547791331e4d02449e3314-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[ZD헬스픽] 간호법, 국회 본회의 부의 가결…의료계는 반발]]></title>
             <link>https://zdnet.co.kr/view/?no=20230326113452</link>
@@ -21,10 +29,10 @@
             <guid>https://zdnet.co.kr/view/?no=20230326100804</guid>
             <pubDate>Sun, 26 Mar 2023 03:21:06 GMT</pubDate>
             <content:encoded><![CDATA[한기정 공정거래위원장이 제2회 경쟁당국 수장 간 국제회의에서 리나 칸 미국 연방거래위원회(FTC) 위원장 등과 양자협의회를 개최하고, 디지털 시장 독점을 주제로 발표를 진행한다...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/11/14/0b406967d01ae481bc2ee511610edee2-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[지난해 분쟁조정 처리 건수 976건…전년比 12.2% 증가]]></title>
+            <title><![CDATA[지난해 개인정보분쟁조정 976건…전년比 12.2% 증가]]></title>
             <link>https://zdnet.co.kr/view/?no=20230326092633</link>
             <guid>https://zdnet.co.kr/view/?no=20230326092633</guid>
             <pubDate>Sun, 26 Mar 2023 03:21:06 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230325230741</guid>
             <pubDate>Sun, 26 Mar 2023 02:39:04 GMT</pubDate>
             <content:encoded><![CDATA[콘텐츠 플랫폼 기업 리디의 자회사 오렌지디는 인기 웹툰 '마왕님은 죽고 싶어'의 애니메이션이 라프텔을 통해 공개된다고 26일 밝혔다. 웹툰 '마왕님은 죽고 싶어'는 삶의 의욕 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[라인게임즈 언디셈버, 새 시즌 모드 4월에 추가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230326085631</link>
-            <guid>https://zdnet.co.kr/view/?no=20230326085631</guid>
-            <pubDate>Sun, 26 Mar 2023 02:39:04 GMT</pubDate>
-            <content:encoded><![CDATA[라인게임즈는 니즈게임즈가 개발한 액션 RPG '언디셈버'의 새 '시즌 모드' 추가와 서비스 개편 등을 앞두고 사전 예약에 나섰다. 26일 라인게임즈에 따르면 이번 서비스 개편은...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
