@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 03:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 04:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[컴투스, 서머너즈워 한·일 슈퍼매치 국가대표 라인업 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230424113554</link>
+            <guid>https://zdnet.co.kr/view/?no=20230424113554</guid>
+            <pubDate>Mon, 24 Apr 2023 04:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[컴투스(대표 이주환)는 한국과 일본 라이벌전인 '서머너즈 워 한·일 슈퍼매치(KOREA vs JAPAN SUPER MATCH 2023)' 본선에 진출할 국가대표 라인업을 공개했...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/04/24/49095da246287b374c9901b5db1aa8dd-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[협업 솔루션 기업 에버인포메이션, 국내 지사 설립]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230424122639</link>
+            <guid>https://zdnet.co.kr/view/?no=20230424122639</guid>
+            <pubDate>Mon, 24 Apr 2023 04:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[대만 화상회의·원격 협업 솔루션 전문 기업 에버인포메이션이 미국과 유럽, 일본, 베트남에 이어 한국에 지사를 설립하고 시장 확대에 나섰다. 에버인포메이션은 피사체의 얼굴과 움직...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/04/24/8387e8cce4f6d77714240d52386f2f5d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KISA, 상반기 사이버 위기대응 모의훈련 참여기업 공모]]></title>
             <link>https://zdnet.co.kr/view/?no=20230424113623</link>
             <guid>https://zdnet.co.kr/view/?no=20230424113623</guid>
             <pubDate>Mon, 24 Apr 2023 03:18:38 GMT</pubDate>
             <content:encoded><![CDATA[한국인터넷진흥원(KISA)은 과학기술정보통신부와 함께 사이버 공격 발생 시 신속한 대응 및 협조체계 점검을 위한 2023년 상반기 사이버 위기대응 모의훈련 에 참여할 기업을 공...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/11/29/7a14e8f198ed891e546ee66033750c06-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국은행·금감원, 글로벌 스트레스 테스트 참여]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230424094903</guid>
             <pubDate>Mon, 24 Apr 2023 03:18:38 GMT</pubDate>
             <content:encoded><![CDATA[한국은행과 금융감독원은 바젤은행감독위원회(BCBS)와 금융안정위원회(FSB)가 주관하는 글로벌 스트레스 테스트(GST, Global Stress Test)에 참여한다고 24일 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/03/5eda28d597faec845296e8777fd479ef-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[경제6단체, 노란봉투법 파장 다룬 카툰북 발간]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230420173409</guid>
             <pubDate>Mon, 24 Apr 2023 03:18:38 GMT</pubDate>
             <content:encoded><![CDATA[지디넷코리아는 오는 5월20일 창간 23주년을 맞아 윤석열 정부 1년을 평가했습니다. 지난해 12월 윤 정부는 새 정부 출범 이후 내놓은 반도체·바이오헬스·자동차·디지털 등 산...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스마일게이트, 로스트아크 中 진출로 또 웃을까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230424104708</link>
-            <guid>https://zdnet.co.kr/view/?no=20230424104708</guid>
-            <pubDate>Mon, 24 Apr 2023 03:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[스마일게이트RPG가 개발한 PC 게임 '로스트아크'가 중국 시장에서 기대 이상 성과를 얻을 수 있을지 귀추가 주목되고 있다. '로스트아크'는 국내에 이어 북미·유럽 등에 진출해...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, 오토파일럿 손해배상 소송서 이겨]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230424084854</link>
-            <guid>https://zdnet.co.kr/view/?no=20230424084854</guid>
-            <pubDate>Mon, 24 Apr 2023 03:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[테슬라가 자율주행 보조 소프트웨어 '오토파일럿' 오작동을 이유로 제기된 손해배상 청구 소송에서 승소했다. 미국 IT매체 엔가젯은 22일(현지시간) 캘리포니아지역법원 배심원단이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
