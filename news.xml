@@ -4,16 +4,48 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 02:35:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 03:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DDP 모인 메이플스토리 팬...서비스 20주년 기념 팬 페스트 개막]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230428115439</link>
+            <guid>https://zdnet.co.kr/view/?no=20230428115439</guid>
+            <pubDate>Fri, 28 Apr 2023 03:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[넥슨이 서비스 중이 PC MMORPG 메이플스토리가 정식 서비스 20주년을 맞아 팬 페스티벌을 개최했다. 메이플스토리는 지난 2003년 첫 서비스 이후 넥슨은 물론 국내 PC ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/04/28/ff4e69cab04c2c7ff76f8136822fdbda-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한글과컴퓨터, 한컴타자 필사 체험단 모집]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230428115320</link>
+            <guid>https://zdnet.co.kr/view/?no=20230428115320</guid>
+            <pubDate>Fri, 28 Apr 2023 03:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[한글과컴퓨터(대표 변성준, 김연수)는 한글 타자 연습 게임인 '한컴타자'의 새로운 필사 기능에 대해 사전 체험단을 모집한다고 28일 밝혔다. 6월 정식으로 서비스될 한컴타자의 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/04/28/47724b70ab2a2ebc91ff73b62f38dc30-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[중견기업 74%, 올해 투자 지난해 수준 유지]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230428114813</link>
+            <guid>https://zdnet.co.kr/view/?no=20230428114813</guid>
+            <pubDate>Fri, 28 Apr 2023 03:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌경기 둔화 우려에도 중견기업의 74%는 올해 투자 규모가 지난해 수준으로 유지될 것으로 전망했다. 확대될 것으로 전망한 중견기업은 15.5%, 감소할 것이라고 내다본 중견...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인텔 팻 겔싱어 "메테오레이크 웨이퍼 양산 돌입"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230428114310</link>
+            <guid>https://zdnet.co.kr/view/?no=20230428114310</guid>
+            <pubDate>Fri, 28 Apr 2023 03:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[인텔은 27일(미국 현지시간) 실적발표를 통해 "차세대 코어 프로세서인 메테오레이크(Meteor Lake) 출시를 위한 웨이퍼 대량 생산에 돌입했다"고 밝혔다. 메테오레이크는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[보험업계, IFRS17 첫 적용한 성적표 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230428112541</link>
             <guid>https://zdnet.co.kr/view/?no=20230428112541</guid>
             <pubDate>Fri, 28 Apr 2023 02:35:06 GMT</pubDate>
             <content:encoded><![CDATA[국내 보험사들이 새 국제회계기준(IFRS17)을 적용한 성적표를 잇따라 공개하는 가운데 KB손해보험과 신한라이프생명 등이 견조한 성장세를 기록한 것으로 나타났다. IFRS17에...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/12/5dcb679f27354e311a1c829d10143243-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[라이온하트 스튜디오, 장르 다변화 신작 대거 공개…차기 흥행작 나올까]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230428104855</guid>
             <pubDate>Fri, 28 Apr 2023 02:35:06 GMT</pubDate>
             <content:encoded><![CDATA['오딘: 발할라 라이징(오딘)'을 개발한 라이온하트 스튜디오(대표 김재영)가 다양한 장르의 신작에 도전한다. 뛰어난 개발력을 인정받은 이 회사가 오딘의 뒤를 잇는 차기 흥행작을...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/04/d2d97d7b62d258ff6c6a034a3a8a6bb6-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[레온 풍 바이낸스 "글로벌 유동성, 코인 시세 조종 방지책"]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230427173856</guid>
             <pubDate>Fri, 28 Apr 2023 02:35:06 GMT</pubDate>
             <content:encoded><![CDATA["챗GPT를 뛰어넘는 서비스를 만들려면 인공지능(AI)모델 개발사와 응용 기업 협력이 관건입니다. 특히 응용 기업은 범용 모델을 활용해 특화된 비즈니스를 만들어야 할 것입니다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한미마이크로닉스, 고효율 전원공급장치 '쿨맥스 P' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230428102525</link>
-            <guid>https://zdnet.co.kr/view/?no=20230428102525</guid>
-            <pubDate>Fri, 28 Apr 2023 02:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[한미마이크로닉스가 28일 데스크톱PC용 고용량 전원공급장치 '쿨맥스 P'를 출시했다. 쿨맥스 P는 지난 해 정식 출시된 새 전원공급장치 규격인 ATX 3.0 기반으로 설계됐다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[다이슨, 美서 공기정화 헤드셋 출시…가격 127만원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230428084325</link>
-            <guid>https://zdnet.co.kr/view/?no=20230428084325</guid>
-            <pubDate>Fri, 28 Apr 2023 02:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[다이슨이 미국에서 공기정화 헤드셋 '다이슨 존 핸드 온'을 출시했다. 지난해 시제품을 공개한 지 1년만이다. 27일(현지시간) 엔가젯에 따르면, 다이슨이 출시한 '다이슨 존 핸...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[韓·美 에너지 당국, 청정에너지·기후대응 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230428095331</link>
-            <guid>https://zdnet.co.kr/view/?no=20230428095331</guid>
-            <pubDate>Fri, 28 Apr 2023 02:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[한미 에너지 당국이 청정에너지, 기후대응 협력을 골자로 공조를 강화하기로 했다. 이창양 산업통상자원부 장관은 27일(현지시간) 제니퍼 그랜홈 에너지부 장관과 한미 에너지장관 회...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[티몬, '소비자 물가 안정 프로젝트' 실시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230428100350</link>
-            <guid>https://zdnet.co.kr/view/?no=20230428100350</guid>
-            <pubDate>Fri, 28 Apr 2023 02:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[티몬이 창립 13주년을 앞두고 5월1일부터 한 달간 가정의 달 '소비자 물가 안정 프로젝트'를 실시한다고 28일 밝혔다. 먼저, 1일부터 7일까지 일주일간 '몬스터메가세일'을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
