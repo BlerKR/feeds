@@ -4,16 +4,72 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 02:35:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 03:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부, 7개 공공업무 자동화에 35억 투입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230508105954</link>
+            <guid>https://zdnet.co.kr/view/?no=20230508105954</guid>
+            <pubDate>Mon, 08 May 2023 03:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 기술을 활용해 정부 업무의 효율성과 국민 편익을 높이는 사업이 추진된다. 35억원을 투입해 7개 과제를 시행한다. 과기정통부는 "국민이 효과를 직접 체감할 수 있는 대민...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/08/fb17334787efef4c28d1b090f005e2f2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI반도체 대학원에 서울대·한양대·KAIST 3곳 첫 선정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230508103627</link>
+            <guid>https://zdnet.co.kr/view/?no=20230508103627</guid>
+            <pubDate>Mon, 08 May 2023 03:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[서울대, 한양대, 한국과학기술원(KAIST) 등 3개 대학이 정부가 지원하는 AI반도체 대학원에 처음 선정됐다. 이들 선정 대학원에는 대학당 연 30억원 수준, 총 164억원(...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/08/4f7d7a2475380137a1a51bff1979af55-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위메이드, 마이크로소프트와 콘솔 게임 출시 협의]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230508114852</link>
+            <guid>https://zdnet.co.kr/view/?no=20230508114852</guid>
+            <pubDate>Mon, 08 May 2023 03:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[위메이드(대표 장현국)와 마이크로소프트가 콘솔 게임 출시를 포함해 다양한 협력 방안을 협의하고 있다. 위메이드는 지난해 11월 마이크로소프트로부터 전략적 투자를 유치했다. 마이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인니 GDP 5% 성장…배터리 소재 니켈이 '효자']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230508100005</link>
+            <guid>https://zdnet.co.kr/view/?no=20230508100005</guid>
+            <pubDate>Mon, 08 May 2023 03:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[인도네시아가 원자재 가격 상승, 니켈 정제련 전략 등에 힘입어 지난 1분기 국내총생산(GDP) 성장률이 5% 성장했다. 7일(현지시간) CNBC에 따르면 인도네시아는 지난해 1...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[가스公, 걸음 기부로 취약계층에 1억5천만원 기부]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230508113603</link>
+            <guid>https://zdnet.co.kr/view/?no=20230508113603</guid>
+            <pubDate>Mon, 08 May 2023 03:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[한국가스공사(대표 최연혜)는 8일부터 7월 7일까지 '국민과 함께하는 KOGAS 걸음 기부 캠페인'을 시행한다고 밝혔다. 걸음기부 캠페인은 가스공사가 국민과 임직원 일상 속 걸...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[강한결의 인디픽] 외계인 납치작전 "피그로맨스, 잔혹동화 매력 담았다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230508113111</link>
+            <guid>https://zdnet.co.kr/view/?no=20230508113111</guid>
+            <pubDate>Mon, 08 May 2023 03:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[인디게임이 글로벌 게임산업 신성장동력으로 부상한 가운데 독창성과 참신함을 매력으로 게임 이용자를 사로잡은 작품도 속속 늘고 있습니다. 국내 게임업계에도 인디게임 산업 발전을 위...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[韓·美금리 격차 최고…원·달러 환율 더 오를까?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230508112102</link>
+            <guid>https://zdnet.co.kr/view/?no=20230508112102</guid>
+            <pubDate>Mon, 08 May 2023 03:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[한국과 미국의 기준금리 격차가 커진 가운데 원·달러 환율 향방에 대한 시장 의견이 엇갈린다. 원·달러 환율이 1300원대에서 등락을 반복할 것이란 의견도 있는 반면 연방준비제도...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NFT미래포럼, 한국실감메타버스콘텐츠협회와 NFT 개발 업무협약 체결]]></title>
             <link>https://zdnet.co.kr/view/?no=20230508111945</link>
             <guid>https://zdnet.co.kr/view/?no=20230508111945</guid>
             <pubDate>Mon, 08 May 2023 02:35:05 GMT</pubDate>
             <content:encoded><![CDATA[NFT미래포럼(회장 봉성범)은 한국실감메타버스콘텐츠협회(회장 윤상규)와 NFT 개발 및 신기술융합콘텐츠 서비스 운영을 위한 업무협약을 체결했다고 8일 밝혔다. 이번 협약에 따라...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/08/ed445ee8449a371d5fcc3dd3f56b1850-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KISA, 한국사회보장정보원과 개인정보 보호 및 활용 MOU]]></title>
@@ -21,7 +77,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230508111914</guid>
             <pubDate>Mon, 08 May 2023 02:35:05 GMT</pubDate>
             <content:encoded><![CDATA[한국인터넷진흥원(KISA)은 한국사회보장정보원과 함께 공공 부문 개인정보 침해사고 방지 및 국가 데이터 경제 활성화 지원을 위한 업무협약(MOU)을 한국사회보장정보원에서 지난 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/08/331e9bfd473ed495d620b5ec45c83551-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[토스뱅크, 인터넷은행 최초 '노란우산공제' 가입 가능]]></title>
@@ -109,62 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230508081203</guid>
             <pubDate>Mon, 08 May 2023 02:35:05 GMT</pubDate>
             <content:encoded><![CDATA[재닛 옐런 미국 재무장관이 의회의 부채한도 상향 합의를 촉구하며 “6월 초까지 부채한도를 올리지 못한다면 경제가 혼란과 파국을 겪게 될 것”이라고 경고했다. 7일(현지시간) 주...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EDB, 포스트그레SQL 코드 개선 기여자 분석 결과 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230508104045</link>
-            <guid>https://zdnet.co.kr/view/?no=20230508104045</guid>
-            <pubDate>Mon, 08 May 2023 02:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[EDB는 오픈소스 DBMS인 '포스트그레SQL 15'를 도입한 기업을 대상으로 '포스트그레SQL 코드 기여자 분석'을 수행한 결과를 8일 발표했다. 분석 조사 결과에 따르면, ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세라젬, 키즈 테마파크 '웰파크' 오픈…헬스케어 가전 접목]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230508103617</link>
-            <guid>https://zdnet.co.kr/view/?no=20230508103617</guid>
-            <pubDate>Mon, 08 May 2023 02:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[헬스케어 가전기업 세라젬이 씨엠지코리아와 함께 홈 헬스케어 가전과 연계한 가족형 키즈 테마파크인 '웰파크'를 새롭게 론칭했다고 8일 밝혔다. 세라젬은 이번에 오픈한 웰파크 롯데...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 갤럭시Z플립5 케이스 유출...커버 화면 커졌다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230508094240</link>
-            <guid>https://zdnet.co.kr/view/?no=20230508094240</guid>
-            <pubDate>Mon, 08 May 2023 02:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자 차세대 폴더블폰 '갤럭시Z플립5'의 케이스 이미지가 공개되면서 커버 화면(외부 디스플레이) 크기가 이전 보다 커진다는 전망이 유력해졌다. 7일(현지시간) IT매체 샘모...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[게임사 1분기 실적 시즌 돌입…넥슨만 웃나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230508103359</link>
-            <guid>https://zdnet.co.kr/view/?no=20230508103359</guid>
-            <pubDate>Mon, 08 May 2023 02:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[주요 게임사의 1분기 실적 발표가 예정된 가운데, 넥슨과 NHN, 펄어비스 등 일부 게임사만 성장에 성공한 것 보여 주목되고 있다. 대부분 게임사들이 1분기 전년 대비 마이너스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["머스크, 자신을 과대평가하지만 재능은 뛰어나다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230508094731</link>
-            <guid>https://zdnet.co.kr/view/?no=20230508094731</guid>
-            <pubDate>Mon, 08 May 2023 02:35:05 GMT</pubDate>
-            <content:encoded><![CDATA['투자의 귀재' 워런 버핏 버크셔 해서웨이 회장 겸 최고경영자(CEO)와 찰리 멍거 부회장이 이례적으로 일론 머스크 테슬라 최고경영자(CEO)를 칭찬했다. 6일(이하 현지시간)...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["생성AI 한계점, 기술 융합으로 극복해야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230508052409</link>
-            <guid>https://zdnet.co.kr/view/?no=20230508052409</guid>
-            <pubDate>Mon, 08 May 2023 02:35:05 GMT</pubDate>
-            <content:encoded><![CDATA["인공지능(AI)과 소프트웨어(SW) 결합이 필수인 시대입니다. 기존 SW는 방대해진 기업 데이터나 업무 처리를 혼자서 효율적으로 할 수 없습니다. AI만 활용하기엔 환각(할루...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 사외이사 선임 착수...모든 주주에 추천받는다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230508102723</link>
-            <guid>https://zdnet.co.kr/view/?no=20230508102723</guid>
-            <pubDate>Mon, 08 May 2023 02:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 뉴거버넌스구축TF(이하 TF)에서 마련한 사외이사 선임 절차 개선안을 바탕으로 사외이사 선임 절차에 돌입한다고 8일 밝혔다. KT는 지난 4월17일 국내외 주요 주주들의...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
