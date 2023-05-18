@@ -4,16 +4,48 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 02:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 03:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버려지는 옥수수 속대로 항공유 만든다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230518112556</link>
+            <guid>https://zdnet.co.kr/view/?no=20230518112556</guid>
+            <pubDate>Thu, 18 May 2023 03:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[버려지는 옥수수 속대로 항공유를 만드는 기술이 나왔다. 한국에너지기술연구원(원장 김종남)은 옥수수속대 같은 농업 폐기물을 바이오 항공유 생산을 위한 중간물질인 레불린산으로 전환...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/18/aac70a76997b9b12956eb51dad42c99c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔리다임, 데이터센터용 SSD 'D5-P5430' 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230518115944</link>
+            <guid>https://zdnet.co.kr/view/?no=20230518115944</guid>
+            <pubDate>Thu, 18 May 2023 03:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[솔리다임이 18일 데이터센터용 SSD 'D5-P5430'을 출시했다. D5-P5430은 PCI 익스프레스 4.0 인터페이스 기반으로 작동하며 SK하이닉스가 개발한 192단 3D...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/18/6a657c0f6e5f6924a9e251b37b5be300-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔씨 TL, 베타 테스트 참가자 발표 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230518112737</link>
+            <guid>https://zdnet.co.kr/view/?no=20230518112737</guid>
+            <pubDate>Thu, 18 May 2023 03:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[엔씨소프트(대표 김택진)는 신작 MMORPG(다중접속역할수행게임) 'THRONE AND LIBERTY'(이하 TL)의 베타 테스트(Beta Test) 참가자를 발표했다고 18일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한미마이크로닉스, 공랭식 CPU 냉각장치 'MA-4 프리깃' 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230518113613</link>
+            <guid>https://zdnet.co.kr/view/?no=20230518113613</guid>
+            <pubDate>Thu, 18 May 2023 03:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[한미마이크로닉스가 18일 데스크톱PC 프로세서용 공랭식 냉각장치 'MA-4 프리깃'을 출시했다. MA-4 프리깃은 히트파이프와 한미마이크로닉스가 자체 개발한 130mm 냉각팬인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한-스위스, 양자 분야 생태계 조성 협력 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230518105541</link>
             <guid>https://zdnet.co.kr/view/?no=20230518105541</guid>
             <pubDate>Thu, 18 May 2023 02:34:02 GMT</pubDate>
             <content:encoded><![CDATA[한국과 스위스 과학자들이 양자과학기술 생태계 조성과 인력 양성을 위한 협력을 위해 머리를 맞댔다. 과학기술정보통신부는 18일 이화여자대학교에서 주한스위스대사관과 공동으로 한-스...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2018/08/17/imc_U9Zsn0VfqJOVctlv-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[실손보험 청구 간소화, 14년 만에 첫 능선 넘었다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230518110510</guid>
             <pubDate>Thu, 18 May 2023 02:34:02 GMT</pubDate>
             <content:encoded><![CDATA[14년 동안 국회에서 계류 중인 실손보험 청구 간소화가 첫발을 뗐다. 다만 여전히 의료계의 반대 입장이 심해 국회 문턱을 넘기 까지 쉽지 않을 것으로 예상된다. 18일 보험업계...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/12/5dcb679f27354e311a1c829d10143243-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[111퍼센트 자회사 리치에일리언, 115억 규모 시드 투자 유치 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230518095631</guid>
             <pubDate>Thu, 18 May 2023 02:34:02 GMT</pubDate>
             <content:encoded><![CDATA[카카오가 '세계 접근성 인식의 날'을 맞아 사진·동영상 텍스트 설명 추가 등 기능을 추가했다고 18일 밝혔다. 매해 5월 셋째 주 목요일은 세계 접근성 인식의 날로, 장애인 디...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글클라우드 '빅쿼리 옴니' AWS 서울 리전 지원 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230518104702</link>
-            <guid>https://zdnet.co.kr/view/?no=20230518104702</guid>
-            <pubDate>Thu, 18 May 2023 02:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[구글클라우드가 빅데이터 분석 서비스의 멀티클라우드 버전인 '빅쿼리 옴니'를 아마존웹서비스(AWS) 서울리전에서 사용할 수 있데 됐다. 구글클라우드는 AWS 서울 리전에 빅쿼리 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[안드로이드에서 넘어온 아이폰 사용자, 5년 만에 최고 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230518085534</link>
-            <guid>https://zdnet.co.kr/view/?no=20230518085534</guid>
-            <pubDate>Thu, 18 May 2023 02:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[최근 안드로이드 사용자들이 아이폰으로 바꾸는 비율이 증가했다는 보고서가 나왔다. IT매체 나인투파이브맥은 17일(현지시간) 시장조사기관 CIRP의 보고서를 인용해 최근 안드로이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KB라이프생명, 'VIP 고객 초청 세미나' 개최 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230518093455</link>
-            <guid>https://zdnet.co.kr/view/?no=20230518093455</guid>
-            <pubDate>Thu, 18 May 2023 02:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[KB라이프생명은 'VIP 고객 초청 세미나'를 진행했다고 18일 밝혔다. KB라이프생명은 지난 11일 서울에서 2차례에 걸친 세미나를 성공적 진행하고, 17일에는 부산에서 ▲아...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, '종합 미디어사업자'로 거듭난다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230518091721</link>
-            <guid>https://zdnet.co.kr/view/?no=20230518091721</guid>
-            <pubDate>Thu, 18 May 2023 02:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 종합미디어사업자로서 K-콘텐츠 투자 확대와 미디어 이용 환경 고급화를 선도하겠다는 포부를 밝혔다. KT는 KT스튜디오지니, ENA와 18일 오전 서울 동대문구 노보텔에서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
