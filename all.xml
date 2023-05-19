@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 02:34:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 03:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HPE, 데이터 분석 플랫폼 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230519114812</link>
+            <guid>https://zdnet.co.kr/view/?no=20230519114812</guid>
+            <pubDate>Fri, 19 May 2023 03:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[HPE는 멀티클라우드 환경의 데이터 분석 플랫폼인 'HPE 에즈메랄 소프트웨어 플랫폼'을 출시했다고 19일 밝혔다. HPE 에즈메랄 소프트웨어 플랫폼은 하이브리드 멀티 클라우드...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/19/669c438bd60d0e0400677abe106f3d21-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지디넷코리아, 일본 7개 미디어에 기사 공급…이렇게 달라집니다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230516095704</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230519104913</guid>
             <pubDate>Fri, 19 May 2023 02:34:32 GMT</pubDate>
             <content:encoded><![CDATA[“분당 탄천공원 나들이, 이제 드론으로 값싸고 편리하게 배달해 드립니다.” AAM (미래 항공 모빌리티) 기업 디스이즈엔지니어링(이하 TIE, 대표 홍유정)이 7월부터 10월까...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/19/d5fd5083517f6cbb944ed2736327fb15-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[정부 전용 초거대AI 수출 물꼬 튼다...구축 선봉에 선 '디·플·정' (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230519095109</guid>
             <pubDate>Fri, 19 May 2023 02:34:32 GMT</pubDate>
             <content:encoded><![CDATA[오는 6월 6일 출시되는 디아블로4 세계관을 피부로 느낄 수 있는 체험 공간이 마련됐다. 블리자드엔터테인먼트코리아는 서울 지하철 5호선 영등포시장역 역사 내 사용되지 않는 유령...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[英, 반도체 산업 강화...10억 파운드 지원 발표 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230519090804</link>
-            <guid>https://zdnet.co.kr/view/?no=20230519090804</guid>
-            <pubDate>Fri, 19 May 2023 02:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[영국이 자국 내 반도체 산업을 강화하기 위해 10억 파운드(1조6천544억 원)를 투자한다고 발표했다. 반도체 공급망을 확보하기 위한 각국의 경쟁이 치열해지고 있는 가운데 미국...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
