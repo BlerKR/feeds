@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 03:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 04:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젯브레인, 안드로이드와 iOS UI 한 번에 개발 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230522124627</link>
+            <guid>https://zdnet.co.kr/view/?no=20230522124627</guid>
+            <pubDate>Mon, 22 May 2023 04:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[젯브레인이 컴포즈 멀티플랫폼을 통해 iOS와 안드로이드의 UI 한 번에 개발할 수 있는 기능을 지원한다. 최근 인포월드 등 외신에 따르면 젯브레인이 컴포즈 멀티플랫폼에서 iOS...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/22/c7bedcb4ff7d66ce6904da15d3f914e1-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[볼보, 스마트팜 기반 발달장애 청년 일터서 임직원 봉사활동 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230522115339</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230522112411</guid>
             <pubDate>Mon, 22 May 2023 03:19:10 GMT</pubDate>
             <content:encoded><![CDATA[신한은행은 서울시와 함께 핀테크 혁신 스타트업을 육성하는 공모전 '2023 피노베이션 챌린지 서울시 X 신한은행'을 개최한다고 22일 밝혔다. 이번 공모전은 신한은행과 서울시가...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/22/cce5ea0a6e8deb3a163f3dcabae4b197-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[렉서스, 최초 전기차 'RZ'·'완전변경 RX'…사전계약 실시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230522004024</guid>
             <pubDate>Mon, 22 May 2023 02:39:15 GMT</pubDate>
             <content:encoded><![CDATA[자동차 사고시 급발진이 의심되는 경우 의무적으로 원인을 조사하도록 하는 법안이 발의됐다. 더불어민주당 한준호 의원(고양시을)이 18일 자동차 급발진 의심 사고 피해자를 보호하기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[G7 "국제 프레임워크서 AI 윤리 논의하자" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230522082550</link>
-            <guid>https://zdnet.co.kr/view/?no=20230522082550</guid>
-            <pubDate>Mon, 22 May 2023 02:39:15 GMT</pubDate>
-            <content:encoded><![CDATA[미국 등 주요 7개국(G7) 정상회의에서 신뢰할 수 있는 인공지능(AI) 지침 필요성에 대한 공감대가 형성됐다. 21일(현지시간) 씨넷에 따르면, G7 정상들은 일본 히로시마에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
