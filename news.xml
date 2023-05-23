@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 02:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 03:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과기정통부, 국민 상대 ICT 디바이스 공모전]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230523100849</link>
+            <guid>https://zdnet.co.kr/view/?no=20230523100849</guid>
+            <pubDate>Tue, 23 May 2023 03:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[과기정통부가 정보통신기술 혁신 제품 발굴과 상용화 지원을 위해 일반 국민과 기업을 대상으로 하는 '2023년 정보통신기술 스마트 디바이스 전국 공모전'을 시행한다. 최종 선정 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/23/5099f263c4f92b568c9f8973a041923f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신기업가정신 1주년, 참여기업 10배 증가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230523091059</link>
+            <guid>https://zdnet.co.kr/view/?no=20230523091059</guid>
+            <pubDate>Tue, 23 May 2023 03:17:52 GMT</pubDate>
+            <content:encoded><![CDATA['新기업가정신'의 개념이 등장한지 1년이 지나면서 우리사회가 기업의 사회적 활동과 역할을 당연시하고 경영에 내재화하는 사회로 탈바꿈하고 있는 것으로 나타났다. 신기업가정신이란 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2019/11/22/lejj_9BYXKOTTexynsbK-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누리호, 발사대에 우뚝 섰다···기립 및 고정 완료]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230523114754</link>
+            <guid>https://zdnet.co.kr/view/?no=20230523114754</guid>
+            <pubDate>Tue, 23 May 2023 03:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[누리호를 발사대에 세워 고정하는 작업이 23일 오전 11시 33분 현재 완료됐다고 과학기술정보통신부가 밝혔다. 오후엔 누리호에 전원과 연료·산화제 등 추진제를 충전하기 위한 엄...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세계적 탄소중립도시 전문가 한자리에…네덜란드 등 선도도시 사례 공유]]></title>
             <link>https://zdnet.co.kr/view/?no=20230523113102</link>
             <guid>https://zdnet.co.kr/view/?no=20230523113102</guid>
             <pubDate>Tue, 23 May 2023 02:37:03 GMT</pubDate>
             <content:encoded><![CDATA[국토교통부는 26일 부산 벡스코에서 '글로벌 기후 위기 시대, 지속가능한 번영을 위한 도시의 도전'이라는 주제로 탄소중립도시 국제 콘퍼런스를 개최한다고 밝혔다. '2023 기후...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/11/7471824009d5d8497b7eab4c5f1d8e5b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[시놀로지, NAS용 운영체제 'DSM 7.2' 정식 출시]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230523112642</guid>
             <pubDate>Tue, 23 May 2023 02:37:03 GMT</pubDate>
             <content:encoded><![CDATA[시놀로지가 23일 NAS(네트워크 저장장치)용 운영체제인 DSM(디스크스테이션매니저) 7.2를 정식 출시했다. DSM 7.2는 WORM 기술을 이용해 한 번 저장한 파일이 랜섬...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/23/9fe0ec289609b6fffcde38b1a7272f23-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[마이크로소프트 빌드2023 'D-1' 뭐가 나올까]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230523095356</guid>
             <pubDate>Tue, 23 May 2023 02:37:03 GMT</pubDate>
             <content:encoded><![CDATA[넥슨의 인기작 '히트2'가 중화권 시장 공략에 나선 가운데, 국내에 이어 흥행에 성공할지 귀추가 주목되고 있다. '히트2'는 지난해 8월 국내 선출시 이후 장기흥행에 성공한 넥...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[화웨이 올플래시 스토리지, 가트너 '고객의 선택' 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230523103119</link>
-            <guid>https://zdnet.co.kr/view/?no=20230523103119</guid>
-            <pubDate>Tue, 23 May 2023 02:37:03 GMT</pubDate>
-            <content:encoded><![CDATA[화웨이는 '오션스토어 도라도 올-플래시 스토리지'가 가트너가 주관한 리뷰에서 만점을 획득하며 '고객의 선택(Customers' Choice)'에 선정됐다고 23일 밝혔다. 화웨...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[GS샵 "냉감 침구 판매 263%↑"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230523102446</link>
-            <guid>https://zdnet.co.kr/view/?no=20230523102446</guid>
-            <pubDate>Tue, 23 May 2023 02:37:03 GMT</pubDate>
-            <content:encoded><![CDATA[GS샵은 자사 모바일 앱에서 1일부터 21일까지 냉감 소재로 만든 침구 매출이 전년 동기 대비 158% 증가했다고 23일 밝혔다. 특히 15일 전기료 인상이 발표되고 16일 한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["보건 위기 공동 대응하자”…복지부, EU 보건비상대응기구와 행정약정 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230523102813</link>
-            <guid>https://zdnet.co.kr/view/?no=20230523102813</guid>
-            <pubDate>Tue, 23 May 2023 02:37:03 GMT</pubDate>
-            <content:encoded><![CDATA[보건복지부가 유럽연합 집행위원회 보건비상대응기구(HERA)와 보건의료 비상사태에 공동 대비 및 대응을 골자로 한 행정약정(Administrative Arrangement)을 체...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
