@@ -4,16 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 02:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 03:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장현국 위메이드 대표, 서울대에서 블록체인-웹3 특강 진행 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230525120934</link>
+            <guid>https://zdnet.co.kr/view/?no=20230525120934</guid>
+            <pubDate>Thu, 25 May 2023 03:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[위메이드(대표 장현국) 장현국 대표가 지난 24일 서울대학교에서 블록체인, 웹3 특강을 진행했다고 25일 밝혔다. 블록체인 기술의 현재와 미래에 관해 이야기를 나누고, 취업을 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/25/3f16aeaba0aa04c4fba683c03637df43-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누리호 오늘 우주로 간다···하루 늦춰 발사 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230525111448</link>
+            <guid>https://zdnet.co.kr/view/?no=20230525111448</guid>
+            <pubDate>Thu, 25 May 2023 03:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[누리호가 25일 오늘 우주로 향한 도전에 다시 나선다. 과학기술정보통신부는 25일 오전 11시 발사관리위원회를 열고, 오후 6시 24분 누리호를 발사하기로 결정했다고 밝혔다. ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/23/61593a44b63685bfa6f81cd4d71db31b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["횡단보도를 도로에 그려?"…현대모비스, 신개념 헤드램프 개발 성공 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230525113935</link>
+            <guid>https://zdnet.co.kr/view/?no=20230525113935</guid>
+            <pubDate>Thu, 25 May 2023 03:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[현대모비스가 주행 정보를 전방 노면에 실시간으로 보여주는 차세대 헤드램프 개발에 성공했다고 25일 밝혔다. 현대모비스가 개발한 'HD 라이팅 시스템'은 주행정보를 글자나 도형으...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스노우파이프, 모바일 좀비 서바이벌 게임 '루터스' 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230525112941</link>
             <guid>https://zdnet.co.kr/view/?no=20230525112941</guid>
             <pubDate>Thu, 25 May 2023 02:35:19 GMT</pubDate>
             <content:encoded><![CDATA[스노우파이프(대표 김정익)는 24일 모바일 좀비 서바이벌 게임 '루터스: 서바이버스 배틀'(루터스)를 구글플레이 스토어와 애플 앱스토어를 통해 정식 출시했다. 루터스는 좀비 아...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/25/da970659f612e47e37ea3bf5d325587e-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[영상] 디지털 도시 꿈꾸는 전주, '디지털 혁신 대토론회' (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230525112221</guid>
             <pubDate>Thu, 25 May 2023 02:35:19 GMT</pubDate>
             <content:encoded><![CDATA[전주시는 22일 전주정보문화산업진흥원과 함께 디지털 혁신 대토론회를 개최하고 산학계 전문가들을 초청해 전주시 경제·사회 문제 해결 방안과 디지털 혁신 도시로의 전환을 논의했다....]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/25/a29411fbed878dd948f50e0aec56df48-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[11번가, '대한민국 숙박 세일 페스타' 실시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230525105612</guid>
             <pubDate>Thu, 25 May 2023 02:35:19 GMT</pubDate>
             <content:encoded><![CDATA[드라마 '좋좋소'에서 탄생한 프리미엄 소주 '빡치주'와 '개빡치주'를 이제 이마트24에서 만나볼 수 있다. 왓챠는 왓챠 오리지널 드라마 '좋좋소' 에피소드에서 착안해 개발한 빡...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국GM 고객센터, '20년 연속' 우수 콜센터 선정 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230525105306</link>
-            <guid>https://zdnet.co.kr/view/?no=20230525105306</guid>
-            <pubDate>Thu, 25 May 2023 02:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[제너럴모터스 한국사업장(한국GM) 고객센터가 한국능률협회컨설팅(KMAC)이 주관하는 '2023 한국산업 서비스 품질지수(KSQI)'에서 20년 연속 우수 콜센터로 선정됐다고 2...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK그룹사, 폐배터리 재활용 등 넷제로 청사진 소개 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230525105204</link>
-            <guid>https://zdnet.co.kr/view/?no=20230525105204</guid>
-            <pubDate>Thu, 25 May 2023 02:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[SK그룹이 25일부터 27일까지 부산 벡스코에서 열리는 기후산업국제박람회에 참여해 글로벌 탄소 감축을 위해 추진 중인 다양한 친환경 제품, 기술 및 솔루션을 선보인다. SK는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 고용부와 AI 세미나 연다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230525105157</link>
-            <guid>https://zdnet.co.kr/view/?no=20230525105157</guid>
-            <pubDate>Thu, 25 May 2023 02:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 25일 고용노동부, 한국산업인력공단, 성균관대학교&amp;솔데스크 컨소시엄, 알파코와 공동으로 AI 분야 관계자들과 함께 기술 트렌드와 산업 방향성을 탐구하는 세미나를 개...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
