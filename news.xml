@@ -4,16 +4,56 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 02:35:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 03:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시프트업, 챗GPT 개발자 김태훈 영입...게임 AI 역량 강화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230526113825</link>
+            <guid>https://zdnet.co.kr/view/?no=20230526113825</guid>
+            <pubDate>Fri, 26 May 2023 03:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[시프트업(대표 김형태)은 게임의 인공지능(AI) 기술 고도화를 위해 실리콘밸리 출신의 AI 개발자 김태훈 씨를 영입했다고 26일 밝혔다. 김태훈 엔지니어는 일론 머스크 등 실리...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/26/82816d92fa397c1d998e70f1346287ab-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네오위즈·스마일게이트 끌고 위메이드 밀고…韓 인디게임 투심 커진다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230526112124</link>
+            <guid>https://zdnet.co.kr/view/?no=20230526112124</guid>
+            <pubDate>Fri, 26 May 2023 03:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[스마일게이트, 네오위즈가 인디게임 투자로 꾸준히 성과를 내면서 중견급의 게임사들이 후발주자로 합류하고 있다. 특히 그라비티, 위메이드 등도 공격적인 투자로 인디게임 시장도 빠르...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/26/db11a47e2e84ea4df6c4a5dc32a2cd1c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김한준 기자의 e게임] 베일드 엑스퍼트, BM 빼고 모두 담은 얼리액세스]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230526114821</link>
+            <guid>https://zdnet.co.kr/view/?no=20230526114821</guid>
+            <pubDate>Fri, 26 May 2023 03:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[신작 TPS 게임 베일드 엑스퍼트의 스팀 얼리액세스가 지난 19일 시작했다. 정식 서비스에 앞서 게임성을 가다듬고 글로벌 이용자에게 베일드 엑스퍼트를 알리기 위한 목적으로 진행...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 불확실성 커질 수록…'金' 투자 주목]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230526105729</link>
+            <guid>https://zdnet.co.kr/view/?no=20230526105729</guid>
+            <pubDate>Fri, 26 May 2023 03:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[최근 글로벌 불확실성 확대로 금 투자가 주목을 받고 있다. 26일 뉴욕상품거래소에 따르면 6월 인도분 금은 온스당 1943.70달러에 거래를 마쳤다. 올해 1월 첫날 거래된 금...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[넷마블 '세븐나이츠 레볼루션', 서비스 300일 기념 업데이트 실시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230526113136</link>
+            <guid>https://zdnet.co.kr/view/?no=20230526113136</guid>
+            <pubDate>Fri, 26 May 2023 03:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[넷마블(대표 권영식, 도기욱)은 오픈월드 MMORPG '세븐나이츠 레볼루션'에 신규 영웅 '운명의 지휘자 바네사'를 추가하는 등 300일 기념 업데이트를 실시했다고 26일 밝혔...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네오위즈, 기대작 'P의 거짓' 메이킹 영상 최초 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230526112832</link>
             <guid>https://zdnet.co.kr/view/?no=20230526112832</guid>
             <pubDate>Fri, 26 May 2023 02:35:06 GMT</pubDate>
             <content:encoded><![CDATA[네오위즈(공동대표 김승철, 배태근)는 글로벌 기대작 'P의 거짓'의 메이킹 영상을 최초 공개했다고 26일 밝혔다. 이번 메이킹 영상은 'P의 거짓' 공식 유튜브 채널을 통해 디...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/26/6a3daba29fc908db860463b6339f9692-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[짐 팔리 포드CEO "GM·토요타 아닌 중국이 전기차 경쟁자"]]></title>
@@ -21,7 +61,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230526094508</guid>
             <pubDate>Fri, 26 May 2023 02:35:06 GMT</pubDate>
             <content:encoded><![CDATA[중국 전기차 산업이 글로벌 완성차 시장에서 강력한 경쟁자로 떠오르고 있다. 26일(현지시간) 로이터통신에 따르면 짐 팔리 포드 CEO는 지난 17일 중국 전기차 업체들이 전기차...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/26/232f8026ec1d64971d1eae8a9875c216-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[印 파이어볼트, 삼성 제치고 스마트워치 2위 등극]]></title>
@@ -125,46 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230526095432</guid>
             <pubDate>Fri, 26 May 2023 02:35:06 GMT</pubDate>
             <content:encoded><![CDATA[11번가는 27일부터 닷새간 LG생활건강 테크·온더바디·홈스타 등 대표 생활용품을 최대 48% 할인 판매한다고 26일 밝혔다. LG생활건강은 11번가 슈팅배송 캠페인 '하루만에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SW·자율차 PM에 장문석 전 LG전자 SW센터장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230526101409</link>
-            <guid>https://zdnet.co.kr/view/?no=20230526101409</guid>
-            <pubDate>Fri, 26 May 2023 02:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[과기정통부와 정보통신기획평가원(IITP, 원장 전성배)가 운영하는 소프트웨어(SW)와 자율주행 연구개발 분야 민간전문가(PM)로 장문석 전 LG전자 SW센터장이 선임, 임기 2...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["카카오 IT 혁신사례 보러 왔어요"...美 와튼스쿨, 판교오피스 방문]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230526095945</link>
-            <guid>https://zdnet.co.kr/view/?no=20230526095945</guid>
-            <pubDate>Fri, 26 May 2023 02:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[카카오는 미국 펜실베니아대 경영대학원인 와튼스쿨 MBA 과정 연구생과 교수 40여명이 카카오 판교오피스를 방문했다고 26일 밝혔다. 이번 방문은 MBA 주요 과정 중 하나인 글...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사, 중소 브랜드 생산 자금 지원 2천억원 돌파]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230526100634</link>
-            <guid>https://zdnet.co.kr/view/?no=20230526100634</guid>
-            <pubDate>Fri, 26 May 2023 02:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[무신사가 자금 부족으로 어려움을 겪는 중소 패션 브랜드를 위해 지원한 생산 자금 규모가 누적 2천억원을 돌파했다고 26일 밝혔다. 무신사는 입점 브랜드가 안정적으로 생산과 마케...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버웹툰, 美 '윌 아이스너 어워드' 7개 부문 후보 올라]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230526101304</link>
-            <guid>https://zdnet.co.kr/view/?no=20230526101304</guid>
-            <pubDate>Fri, 26 May 2023 02:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[네이버웹툰은 만화계 아카데미로 불리는 미국 '윌 아이스너 어워드' 7개 부문에서 6개 작품이 수상 후보에 올랐다고 26일 밝혔다. 지난해 최우수 웹코믹 부문에서 수상한 로어 올...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['유튜브 스토리' 내달 서비스 종료]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230526083806</link>
-            <guid>https://zdnet.co.kr/view/?no=20230526083806</guid>
-            <pubDate>Fri, 26 May 2023 02:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[짧은 동영상 공유 기능인 '유튜브 스토리' 서비스가 내달 종료된다. 유튜브는 내달 26일부터 유튜브 스토리 제작 옵션 지원을 중단한다고 25일(현지시간) 밝혔다. 유튜브 스토리...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
