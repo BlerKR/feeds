@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 02:43:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 03:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CJ온스타일, 동반위와 ESG 우수 중소기업 현판식 개최 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230528120454</link>
+            <guid>https://zdnet.co.kr/view/?no=20230528120454</guid>
+            <pubDate>Sun, 28 May 2023 03:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[CJ온스타일과 동반성장위원회(이하 동반위)가 지난 25일 건강기능식품 제조사 HL사이언스를 대상으로 2022년 ESG 우수 중소기업 현판식을 개최했다고 28일 밝혔다. CJ온스...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/28/81e9017f11e40b59115649b5b94efe55-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[닌텐도, 밸브에 '스팀 에뮬레이터' 게시 중단 통지 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230528113249</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230528103448</guid>
             <pubDate>Sun, 28 May 2023 02:43:27 GMT</pubDate>
             <content:encoded><![CDATA[조 바이든 미국 대통령과 공화당을 이끄는 케빈 매카시 하원의장이 31조4천억 달러 규모의 연방정부 부채한도 인상을 잠정 합의했다. 27일(현지시간) 주요 외신은 “바이든 대통령...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/12/ed84bc96dac01e49ad33c9e2c9c154af-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[LG전자, 중동·아프리카 종합병원에 에어컨기증...지역 밀착형 사회공헌 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230527094617</guid>
             <pubDate>Sat, 27 May 2023 02:33:44 GMT</pubDate>
             <content:encoded><![CDATA[테슬라가 주행 보조장치인 완전자율주행(FSD) 기능의 안전 문제로 소비자들의 많은 항의를 받은 사실이 공개됐다. 특히 2015년부터 2022년 사이에 FSD 관련 소비자 항의 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[챗GPT iOS앱, 6일만에 다운로드 50만회 돌파 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230527091227</link>
-            <guid>https://zdnet.co.kr/view/?no=20230527091227</guid>
-            <pubDate>Sat, 27 May 2023 02:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[오픈AI가 내놓은 챗GPT iOS앱이 나온 지 불과 6일 만에 전 세계에서 50만회 이상 다운로드됐다고 테크크런치가 26일(현지시간) 보도했다. 챗GPT iOS앱은 지난 주 미...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
