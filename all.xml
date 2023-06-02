@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 02:50:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 03:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1분건강] C형 간염 조기 치료하면 간암 사망 예방 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230602121042</link>
+            <guid>https://zdnet.co.kr/view/?no=20230602121042</guid>
+            <pubDate>Fri, 02 Jun 2023 03:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[C형 간염을 조기 치료하면 간암 등 간 관련 사망 예방 효과가 높아지는 것으로 나타났다. C형 간염 바이러스는 간암 등 간 관련 사망의 주요 원인 중 하나다. 주사용 마약을 사...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/02/002c46c61e5a5f61dd86d2a6be885804-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KAIST, 인공지능반도체 대학원 설립 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230602105134</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230602112140</guid>
             <pubDate>Fri, 02 Jun 2023 02:50:58 GMT</pubDate>
             <content:encoded><![CDATA[스마일게이트가 개발 중인 신작 '크로스파이어: 시에라스쿼드(이하 시에라스쿼드)'는 크로스파이어를 VR로 확장하는 첫 번째 타이틀이다. 이 작품은 플레이스테이션 VR2의 신규 기...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/06/02/8a347173d9a8fcf8c57f005251ee0b62.gif" length="0" type="image/gif"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[김한준 기자의 e게임] 블랙클로버 모바일, 애니메이션을 보는 듯한 게임 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230602091302</guid>
             <pubDate>Fri, 02 Jun 2023 02:50:58 GMT</pubDate>
             <content:encoded><![CDATA[KT는 인공지능(AI)과 빅데이터 기술을 활용해 축제 운영을 지원하는 문화축제 빅데이터 서비스를 출시했다고 2일 밝혔다. KT는 코로나19 방역 완화 뒤 여행 수요 증가를 고려...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국은행 "연말 소비자물가 3%대 반등 전망" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230602095244</link>
-            <guid>https://zdnet.co.kr/view/?no=20230602095244</guid>
-            <pubDate>Fri, 02 Jun 2023 02:50:58 GMT</pubDate>
-            <content:encoded><![CDATA[한국은행이 연말 소비자물가가 3%대 반등할 것으로 예상했다. 2일 한국은행은 김웅 부총재보 주재로 물가 상황 점검회의를 열고 최근 물가 상황과 향후 물가 흐름을 점검했다. 김웅...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
