@@ -4,7 +4,7 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 02:52:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 03:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,7 +96,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[SSG닷컴, 친환경 캠페인 '캡틱쓱 시즌2' 진행]]></title>
+            <title><![CDATA[SSG닷컴, 친환경 캠페인 '캡틴쓱 시즌2' 진행]]></title>
             <link>https://zdnet.co.kr/view/?no=20230605105901</link>
             <guid>https://zdnet.co.kr/view/?no=20230605105901</guid>
             <pubDate>Mon, 05 Jun 2023 02:52:36 GMT</pubDate>
