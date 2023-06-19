@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 03:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 04:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대오토에버, 내비게이션 비교경로·경치 좋은 길 추가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230619131712</link>
+            <guid>https://zdnet.co.kr/view/?no=20230619131712</guid>
+            <pubDate>Mon, 19 Jun 2023 04:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[현대오토에버(대표 서정식)가 현대차·기아·제네시스의 차량용 내비게이션 정기 업데이트를 통해 '비교경로' 기능을 개선하고 '경치 좋은 길' 안내 기능을 추가했다고 19일 밝혔다....]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/19/1cef8d55da102be698839a333fedcf17-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[급증하는 해킹, 민·관 보안 강화하는 IT서비스]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230619123511</link>
+            <guid>https://zdnet.co.kr/view/?no=20230619123511</guid>
+            <pubDate>Mon, 19 Jun 2023 04:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[해킹, 기밀 탈취 등 사이버공격이 국가와 기업을 위협하는 핵심 위험요소로 지목되고 있다. 최근 한국과 미국 정보기관은 민관을 대상으로 위성 및 국방 관련 정보를 탈취해 온 북한...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/04/692299a1d9c9817fdfb0522c868b8363-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인텔, 실리콘 기반 12큐비트 칩 '터널폴즈' 양산]]></title>
             <link>https://zdnet.co.kr/view/?no=20230619120220</link>
             <guid>https://zdnet.co.kr/view/?no=20230619120220</guid>
             <pubDate>Mon, 19 Jun 2023 03:18:10 GMT</pubDate>
             <content:encoded><![CDATA[인텔이 양자 컴퓨팅 연구를 위한 12큐비트(Qubit) 칩 '터널폴즈'(Tunnel Falls)를 생산해 미국 내 대학교 부속 연구소 등에 공급한다고 밝혔다. 터널폴즈는 미국 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/06/19/16d31b26a8c4563661d21d37dba02147-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['가상자산' 거래량 2분기 급감…규제 압박 직격타]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230619115105</guid>
             <pubDate>Mon, 19 Jun 2023 03:18:10 GMT</pubDate>
             <content:encoded><![CDATA[가상자산 거래량이 2분기 들어 급감한 것으로 나타났다. 미국 당국이 대형 거래소들을 제소하는 등 강력한 규제 방침을 본격화하면서 시장이 직격으로 영향을 받은 것으로 풀이된다. ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/06/19/ba8c8af8c23f8b20e2faa04ee041b551-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[메타, 6개국 음성 생성AI '보이스박스' 공개]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230619105933</guid>
             <pubDate>Mon, 19 Jun 2023 02:44:21 GMT</pubDate>
             <content:encoded><![CDATA[위시컴퍼니의 대표 브랜드 디어,클레어스가 역대 프랑스 라파예트 백화점 팝업 행사 중 최다 리뷰 수를 기록하고, 유럽 입점 매장 수 400개를 돌파하는 등 유럽에서 성과가 확대되...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["시력 걱정되죠?"...애플, iOS17에 '시력보호 기능' 추가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230619104726</link>
-            <guid>https://zdnet.co.kr/view/?no=20230619104726</guid>
-            <pubDate>Mon, 19 Jun 2023 02:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 차기 아이폰 운영체제 'iOS17'에 새롭게 시력보호 기능을 추가할 예정이라고 폰아레나 등 외신들이 17일(현지시간) 보도했다. '스크린 디스턴스(Screen Dista...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, 배터리도 혁신?... 차세대 4680 배터리 1천만 개 생산 돌파]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230619102143</link>
-            <guid>https://zdnet.co.kr/view/?no=20230619102143</guid>
-            <pubDate>Mon, 19 Jun 2023 02:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[테슬라가 차세대 4690 원통형 배터리를 1천만 개 생산했다고 밝혔다고 자동차매체 일렉트렉이 17일(현지시간) 보도했다. 테슬라는 이날 트위터를 통해 이번 주 미국 텍사스 공장...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
