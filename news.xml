@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 02:53:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 03:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이온큐, 과기정통부와 양자컴퓨터 산업 육성 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230630115612</link>
+            <guid>https://zdnet.co.kr/view/?no=20230630115612</guid>
+            <pubDate>Fri, 30 Jun 2023 03:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[아이온큐는 과학기술정보통신부(이하 과기정통부)와 국내 양자과학 전문인력 및 양자 생태계 육성을 위해 양해각서(MOU)를 체결했다고 30일 밝혔다. 양측은 이번 업무협약을 통해 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/30/5a7c090f47dc884c3e8e8f45dd154380-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[만트럭버스, 센터 동해로 확장 이전…강원지역 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20230630114950</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230630114913</guid>
             <pubDate>Fri, 30 Jun 2023 02:53:54 GMT</pubDate>
             <content:encoded><![CDATA[클로잇(대표 이영수)이 여의도 콘래드 호텔에서 기업 임원을 대상으로 '인공지능컨택센터(AICC) 솔루션 인사이트 포럼'을 개최했다고 30일 밝혔다. 이번 포럼은 '챗GPT' 열...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/21/eda12149ed5a004a61e27796e5e3e80f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[신세계아이앤씨, 개발자 컨퍼런스 'DEVX 2023' 개최]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230630102008</guid>
             <pubDate>Fri, 30 Jun 2023 02:53:54 GMT</pubDate>
             <content:encoded><![CDATA[엔비디아가 30일 전세계 시장에 출시된 지포스 RTX 4060 그래픽카드 지원 게임 레디 드라이버를 공개했다. 지포스 RTX 4060은 지난 5월 처음 공개된 그래픽칩셋으로 G...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[윈도11 코파일럿, 미리보기 나왔다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230630095519</link>
-            <guid>https://zdnet.co.kr/view/?no=20230630095519</guid>
-            <pubDate>Fri, 30 Jun 2023 02:53:54 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 지난 5월 공개한 윈도11 코파일럿 기능 업데이트가 미리보기로 나왔다. 29일(현지시간) 아스테크니카 등 외신에 따르면, 마이크로소프트는 최근 윈도인사이더프로그...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
