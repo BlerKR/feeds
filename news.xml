@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 02:59:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 03:29:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청소년 표준축제, '국제표준올림피아드' 한국서 열린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230703120801</link>
+            <guid>https://zdnet.co.kr/view/?no=20230703120801</guid>
+            <pubDate>Mon, 03 Jul 2023 03:29:34 GMT</pubDate>
+            <content:encoded><![CDATA[세계 각국의 중·고교 학생을 대상으로 표준인재 양성을 위한 청소년 표준화 경진대회인 '국제표준올림피아드'가 4일 한국 대표팀 선발 예선을 시작으로 막을 올린다. 산업통상자원부 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2020/07/20/03ef9822722632b4f0e2bc67958f2376-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정부 인정 디지털인재 양성 기업 '리더스클럽' 접수]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230703103430</link>
+            <guid>https://zdnet.co.kr/view/?no=20230703103430</guid>
+            <pubDate>Mon, 03 Jul 2023 03:29:34 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(과기정통부)는 민‧관 디지털 인재양성 구심점인 '디지털인재 얼라이언스(민간위원장 서정연, 이하 '얼라이언스')에서 4일부터 '디지털인재 리더스 클럽(이하 '리...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/10/20/c8d6c3890d9ac974cec4d2831758e55b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[상반기 국내외 게임 시장 주요 이슈 톱5]]></title>
             <link>https://zdnet.co.kr/view/?no=20230703112304</link>
             <guid>https://zdnet.co.kr/view/?no=20230703112304</guid>
             <pubDate>Mon, 03 Jul 2023 02:59:17 GMT</pubDate>
             <content:encoded><![CDATA[2023년도 어느 사이에 반환점을 돌며 하반기에 접어들었다. 매년 다양한 일이 벌어지는 게임산업이지만 올해 상반기 게임시장에는 유독 굵직한 일이 다양하게 벌어지며 업계와 이용자...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2020/10/27/7cf0ab7a987eeafa82763f0ce85fb7ca-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["엑사데이터의 혁신은 계속 된다. 성능도, 비용도”]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230703114849</guid>
             <pubDate>Mon, 03 Jul 2023 02:59:17 GMT</pubDate>
             <content:encoded><![CDATA[“오라클 엑사데이터는 오라클 데이터베이스 기반의 모든 데이터 워크로드에서 탁월한 성능과, 확장성, 가용성을 가장 저렴하게 제공하는 플랫폼이다. 오라클은 최신 하드웨어의 기술 혁...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/03/885128a4cc787ed973f534b05a083d8a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국만화가협회, 최신규 총감독 명예회장으로 추대]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230703111339</guid>
             <pubDate>Mon, 03 Jul 2023 02:59:17 GMT</pubDate>
             <content:encoded><![CDATA[셀트리온헬스케어와 삼성바이오에피스가 각기 다른 '휴미라' 바이오시밀러로 미국 시장을 '노크'한다. 유플라이마의 오리지널 제품인 휴미라는 애브비가 만든 지난해 약 212억3천70...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SSG닷컴, 익일배송 '쓱 원데이' 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230703105040</link>
-            <guid>https://zdnet.co.kr/view/?no=20230703105040</guid>
-            <pubDate>Mon, 03 Jul 2023 02:59:17 GMT</pubDate>
-            <content:encoded><![CDATA[SSG닷컴이 상온상품 합포장 익일배송 쓱 원데이(1DAY) 서비스를 도입한다고 3일 밝혔다. SSG닷컴은 당일 오후 11시까지 상온상품을 주문하면 다음날 한꺼번에 받아볼 수 있...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 "러스트, 예상보다 빠르지 않지만 품질 높여"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230703095039</link>
-            <guid>https://zdnet.co.kr/view/?no=20230703095039</guid>
-            <pubDate>Mon, 03 Jul 2023 02:59:17 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 프로그래밍 언어 러스트를 사용한 개발자 경험을 공유했다. 컴파일 속도는 기대만큼 빠르지 않지만 코드 품질을 높여 개발 만족도를 높인다는 평가다. 최근 더레지스터 등 외신...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
