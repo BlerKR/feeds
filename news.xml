@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 03:00:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 03:33:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벤큐 모비우스, 디아블로4 국내 공식 모니터 브랜드 선정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230705122508</link>
+            <guid>https://zdnet.co.kr/view/?no=20230705122508</guid>
+            <pubDate>Wed, 05 Jul 2023 03:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[벤큐코리아는 5일 고성능 게임용 모니터 '모비우스'가 블리자드 엔터테인먼트 게임 '디아블로4' 국내 공식 게이밍 모니터 파트너로 선정되었다고 밝혔다. 디아블로4는 지난 6월 6...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/05/2b013fedacd9c8b1724bd6e99231e2ae-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포시에스, 창립 28주년 기념 '고홍곤 작가 사진전' 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20230705115711</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230705115507</guid>
             <pubDate>Wed, 05 Jul 2023 03:00:36 GMT</pubDate>
             <content:encoded><![CDATA[엔코아(대표 이화식)는 IT 전문 교육센터인 플레이데이터에서 7월 부트캠프 수강생을 모집한다고 5일 밝혔다. 7월 부트캠프는 데이터 애널리시스 트랙, 데이터 엔지니어링 트랙, ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/05/2adfa5e64d65767c23e1d0b1628f6547-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국토부, 모든 공공 건설사업 정보 2030년까지 '디지털화']]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230705100036</guid>
             <pubDate>Wed, 05 Jul 2023 03:00:36 GMT</pubDate>
             <content:encoded><![CDATA[카카오게임즈가 하반기 기대작 중 하나인 '아레스: 라이즈 오브 가디언즈'의 서비스 예열에 나섰다. 이 회사는 온라인 쇼케이스로 게임 흥행에 자신감을 보인 가운데, 미디어 대상 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK실트론, ESG 릴레이 캠페인 '구미산단 함께 그린워킹' 참여]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230705092405</link>
-            <guid>https://zdnet.co.kr/view/?no=20230705092405</guid>
-            <pubDate>Wed, 05 Jul 2023 03:00:36 GMT</pubDate>
-            <content:encoded><![CDATA[SK실트론은 구미국가산업단지(이하 구미산단) 민∙관 합동 ESG 협의체 '구미 산단 ESG 함께 ON+'가 개최한 '구미산단 함께 그린워킹'에 참여했다고 4일 밝혔다. '구미산...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
