@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 03:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 04:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷마블 '리니지2 레볼루션', 신서버 발디르 오픈]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230707113928</link>
+            <guid>https://zdnet.co.kr/view/?no=20230707113928</guid>
+            <pubDate>Fri, 07 Jul 2023 04:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[넷마블(대표 권영식, 도기욱)은 모바일 MMORPG '리니지2 레볼루션(개발사 넷마블네오)'에 신서버 '발디르'를 오픈한다고 6일 밝혔다. '발디르'는 지난해 6월 오픈된 '아...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/07/7c80d93947791a523cb057289b791b46-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오게임즈 아레스, 등록자 200만명 돌파]]></title>
             <link>https://zdnet.co.kr/view/?no=20230707113659</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230707104829</guid>
             <pubDate>Fri, 07 Jul 2023 03:31:16 GMT</pubDate>
             <content:encoded><![CDATA[오픈AI가 GPT-4 API 상용화 버전(GA)를 출시한다. 7일(현지시간) 테크크런치 등 외신에 따르면 오픈AI는 GPT-4 API 상용화 버전을 공개하며 이전 모델에 대한 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/07/50d783c25549f3367da6a8ef9c9ff8ef-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[컴투스 '크로니클', 길드 콘텐츠 개선...점령전 공략 자유 부여]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230707104100</guid>
             <pubDate>Fri, 07 Jul 2023 03:00:02 GMT</pubDate>
             <content:encoded><![CDATA[기상청은 부르기 쉽고 기억하기 쉬운 우리말 태풍 이름을 전 국민을 대상으로 공모한다. 공모전은 지난해 필리핀에 상륙해 수백 명의 사상자를 내 퇴출 결정된 '메기(MEGI)'와 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG엔솔, 非중국 배터리 시장 1위...中 CATL과 격차 줄어]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230707103613</link>
-            <guid>https://zdnet.co.kr/view/?no=20230707103613</guid>
-            <pubDate>Fri, 07 Jul 2023 03:00:02 GMT</pubDate>
-            <content:encoded><![CDATA[LG에너지솔루션이 올해 1월부터 5월까지 중국을 제외한 글로벌 전기차용 배터리 사용량 순위에서 1위를 고수한 가운데 CATL은 전년 동기 대비 104% 이상 성장하며 1위 자리...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
