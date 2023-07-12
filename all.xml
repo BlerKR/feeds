@@ -4,16 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 02:58:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 03:28:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수신료 위기 내몰린 EBS "사교육비 경감 공적책무 우려" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230712105303</link>
+            <guid>https://zdnet.co.kr/view/?no=20230712105303</guid>
+            <pubDate>Wed, 12 Jul 2023 03:28:15 GMT</pubDate>
+            <content:encoded><![CDATA[한국교육방송공사(EBS)가 12일 입장문을 내고 “수신료 분리징수에도 불구하고, 사교육비 경감과 교육격차 해소라는 EBS의 공적 책무가 급격하게 후퇴하지 않도록 EBS의 공적재...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/12/17c70d66d9ae91f287998b2a48c9d297-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[경총, 세제개선 건의서 정부 제출 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230712095857</link>
+            <guid>https://zdnet.co.kr/view/?no=20230712095857</guid>
+            <pubDate>Wed, 12 Jul 2023 03:28:15 GMT</pubDate>
+            <content:encoded><![CDATA[한국경영자총협회는 12일 글로벌 경쟁력 제고를 위한 세제개선 건의서를 지난 11일 기획재정부에 제출했다고 밝혔다. 경총은 “지난해 법인세율 인하, 가업상속공제 요건 완화 등에 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/12/21/c7676d3bdd9564ca112faede528dff8e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SNS '스레드' 인기에 나스미디어 수혜 전망 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230712115935</link>
+            <guid>https://zdnet.co.kr/view/?no=20230712115935</guid>
+            <pubDate>Wed, 12 Jul 2023 03:28:15 GMT</pubDate>
+            <content:encoded><![CDATA[메타의 새 SNS '스레드' 가입자가 1억명을 돌파하면서 메타의 광고 집행 비중이 높은 KT그룹의 디지털 마케팅 기업 나스미디어가 수혜를 입을 전망이다. 10일(현지시간) 트래...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[1분건강] 편두통이 목통증 원인이라고요? (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230712115304</link>
             <guid>https://zdnet.co.kr/view/?no=20230712115304</guid>
             <pubDate>Wed, 12 Jul 2023 02:58:05 GMT</pubDate>
             <content:encoded><![CDATA[국내 연구진이 편두통과 목통증의 연관성을 밝혀 눈길을 끈다. 한림대동탄성심병원 신경과 조수진·임희진 교수팀은 '목통증이 두통에 미치는 영향과 편두통에서 수면장애와 목통증의 연관...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/12/fe653a81617275b68198f9a723d83d97-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[웨이브 오리지널 다큐 '국가수사본부', SBS에서 감독판으로 방송 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230712115021</guid>
             <pubDate>Wed, 12 Jul 2023 02:58:05 GMT</pubDate>
             <content:encoded><![CDATA[웨이브 오리지널 다큐멘터리 '국가수사본부'가 감독판으로 안방극장을 찾는다. '국가수사본부'는 12일부터 매주 수요일 밤 10시 40분 SBS에서 방송된다. 6주간 SBS에서 공...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/12/82d7768fbb422cefdb12a3847251476c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[웹젠, 신작 수집형RPG '라그나돌' 사전 예약 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230712105341</guid>
             <pubDate>Wed, 12 Jul 2023 02:58:05 GMT</pubDate>
             <content:encoded><![CDATA[지난 상반기 국내 주요게임사들은 앞다퉈 MMORPG 신작을 출시했다. 각각 작품은 모두 저마다 다른 개성을 선보였지만, 판타지 요소가 가미된 중세 서양 세계관을 내세웠다는 공통...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신한 마이카, 자동차 검사 예약 오픈 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230712095845</link>
-            <guid>https://zdnet.co.kr/view/?no=20230712095845</guid>
-            <pubDate>Wed, 12 Jul 2023 02:58:05 GMT</pubDate>
-            <content:encoded><![CDATA[신한카드는 자동차 금융 플랫폼 '신한 마이카(MyCar)'에서 '자동차 검사 예약' 서비스를 제공한다고 12일 밝혔다. 자동차 검사 예약은 행정안전부가 디지털서비스 개방 선도 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빗썸, 상반기 민원 처리율 98.3%…전년 대비 증가 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230712104340</link>
-            <guid>https://zdnet.co.kr/view/?no=20230712104340</guid>
-            <pubDate>Wed, 12 Jul 2023 02:58:05 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 거래소 빗썸(대표 이재원)은 올해 상반기 고객지원센터 민원 처리율이 98.3%로 전년 동기보다 4%p 증가했다고 12일 밝혔다. 올해 1월부터 6월까지 빗썸 고객지원센...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스마일게이트 로스트아크, 中 사전 서비스 D-1...흥행 도전 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230712103754</link>
-            <guid>https://zdnet.co.kr/view/?no=20230712103754</guid>
-            <pubDate>Wed, 12 Jul 2023 02:58:05 GMT</pubDate>
-            <content:encoded><![CDATA[스마일게이트RPG의 '로스트아크'가 중국 전면 오픈을 앞두고 사전 서비스에 곧 돌입한다. 로스트아크는 지난 2018년 11월 국내 선출시 이후 북미 유럽 등에 진출해 화제가 된...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
