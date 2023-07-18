@@ -4,16 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 03:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 04:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전경련, 수해 지역 복구 성금 1억원 기탁 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230718131738</link>
+            <guid>https://zdnet.co.kr/view/?no=20230718131738</guid>
+            <pubDate>Tue, 18 Jul 2023 04:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[전국경제인연합회는 이재민 지원과 전국 수해 지역 복구를 위해 18일 희망브리지 전국재해구호협회에 성금 1억원을 기탁했다. 이번 성금 기탁은 최근 계속되는 폭우로 인해 주택 침수...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/17/5fbb6e730be4dcc606c3f1b561e1f57d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, 수해 피해 입은 전자제품 수리해준다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230718130919</link>
+            <guid>https://zdnet.co.kr/view/?no=20230718130919</guid>
+            <pubDate>Tue, 18 Jul 2023 04:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[LG전자기 집중호우 피해를 본 충청 지역에서 복구를 위해 팔을 걷어붙였다. LG전자는 16일 충북 청주시 흥덕구 오송읍과 괴산군 불정면 행정복지센터에 수해 서비스 거점을 마련해...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/18/292c589dc71a1ea464aaab5b04738afe-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[롯데하이마트, 2분기 흑자전환…영업익 78억원 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230718125915</link>
+            <guid>https://zdnet.co.kr/view/?no=20230718125915</guid>
+            <pubDate>Tue, 18 Jul 2023 04:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[롯데하이마트가 지난 2분기 영업이익이 78억원으로 지난해 동기 2억5천만원 대비 3천16% 증가했다고 18일 밝혔다. 같은 기간 매출은 6천797억원으로 전년 대비 23.4% ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[포스코DX, 상반기 영업익 643억…전년 대비 98% ↑ (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230718121110</link>
             <guid>https://zdnet.co.kr/view/?no=20230718121110</guid>
             <pubDate>Tue, 18 Jul 2023 03:29:29 GMT</pubDate>
             <content:encoded><![CDATA[포스코DX(대표 정덕균)가 지난 상반기 누계 기준 매출 7천758억 원, 영업이익 643억원을 달성했다고 18일 공시했다. 전년 동기 대비 매출 65%, 영업이익 98% 증가한...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/18/5525f8229441c57e9ce9f4ee149a5444-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[컴투스 방용범 PD "미니게임천국은 컴투스의 과거와 현재 아우르는 게임" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230718102149</guid>
             <pubDate>Tue, 18 Jul 2023 03:01:35 GMT</pubDate>
             <content:encoded><![CDATA[피처폰 시절 간단한 조작방식과 버튼을 누르는 재미로 모바일게임 시장을 풍미했던 미니게임천국이 오랜만에 이용자를 맞이할 준비를 하고 있다. 오는 7월 27일 글로벌 출시 예정인 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/18/9382716e20b5b86264ccd7b8b20c2f5a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[오늘부터 국내서 애플워치 심방세동 기록 기능 활성화 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230718095826</guid>
             <pubDate>Tue, 18 Jul 2023 03:01:35 GMT</pubDate>
             <content:encoded><![CDATA[컴퓨터와 인터넷 등 디지털 기술 없는 현대의 삶은 생각할 수 없다. 하지만 컴퓨터가 막 도입되던 1970년대에는 디지털 기술에 대한 투자비는 많이 든 반면, 적절한 활용 방법을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KOSA, 2023 중동시장 진출 지원사업 참가기업 모집 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230718103452</link>
-            <guid>https://zdnet.co.kr/view/?no=20230718103452</guid>
-            <pubDate>Tue, 18 Jul 2023 03:01:35 GMT</pubDate>
-            <content:encoded><![CDATA[한국소프트웨어산업협회(KOSA, 대표 조준희)는 대중소기업농어업협력재단과 두바이 '익스팬드 노스 스타 2023'에 참여할 기업을 모집한다고 18일 밝혔다. 이번 사업은 중소벤처...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 아이폰15에 적층형 배터리 기술 적용하나 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230718100019</link>
-            <guid>https://zdnet.co.kr/view/?no=20230718100019</guid>
-            <pubDate>Tue, 18 Jul 2023 03:01:35 GMT</pubDate>
-            <content:encoded><![CDATA[아이폰15 적층형 배터리 탑재설이 제기됐다. 17일(현지시간) 맥루머스는 IT 팁스터 RGcloudS 트윗을 인용해 차기 아이폰인 아이폰15에 적층형 배터리 기술이 적용될 가능...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스레드 열풍 주춤…1주일새 이용자 수 반토막 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230718082419</link>
-            <guid>https://zdnet.co.kr/view/?no=20230718082419</guid>
-            <pubDate>Tue, 18 Jul 2023 03:01:35 GMT</pubDate>
-            <content:encoded><![CDATA[출시 닷새 만에 가입자 1억명을 돌파하며 승승장구하던 소셜네트워크서비스(SNS) '스레드' 열풍이 다소 사그라들었다. 17일(현지시간) 정보기술(IT) 전문매체 엔가젯은 트래픽...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
