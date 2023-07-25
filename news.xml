@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 02:48:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 03:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 보안기업 에버스핀, 이노비즈 AA 등급 획득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230725115627</link>
+            <guid>https://zdnet.co.kr/view/?no=20230725115627</guid>
+            <pubDate>Tue, 25 Jul 2023 03:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 기반 보안기업 에버스핀(대표 하영빈)은 이노비즈(기술혁신형중소기업) 인증 AA등급을 획득했다고 25일 밝혔다. 이노비즈 인증은 기술혁신에 앞장서고 글로벌 성장 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/12/21/e096c2eca1285937c15acb43d721286b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IITP, 캐나다 토론토대·벡터연구소와 AI 협력 '속도']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230725115058</link>
+            <guid>https://zdnet.co.kr/view/?no=20230725115058</guid>
+            <pubDate>Tue, 25 Jul 2023 03:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[정보통신기획평가원(IITP, 원장 전성배)이 한국과 캐나다간 인공지능(AI) 분야 새로운 도약을 위한 협력 방안 이행에 속도를 냈다. 전성배 원장이 지난 13~14일 캐나다 현...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/25/e11f1f8c35295c44ba2368cc56af342c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위메이드, 日 최대 규모 웹3 컨퍼런스에 위믹스 3.0 참가]]></title>
             <link>https://zdnet.co.kr/view/?no=20230725114342</link>
             <guid>https://zdnet.co.kr/view/?no=20230725114342</guid>
             <pubDate>Tue, 25 Jul 2023 02:48:28 GMT</pubDate>
             <content:encoded><![CDATA[일본 암호화폐 미디어 그룹 코인포스트가 주최하는 웹3 컨퍼런스 '웹엑스(WebX)'가 7월 25일 도쿄 국제 포럼 컨벤션센터에서 개막했다. 오는 26일까지 진행되는 이번 행사에...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/25/d1ce80707fbbba2bc7ae85db2c7a8e91-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[박주호, tvN스포츠 축구 해설위원 발탁...김민재 분데스리가 중계]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230725114248</guid>
             <pubDate>Tue, 25 Jul 2023 02:48:28 GMT</pubDate>
             <content:encoded><![CDATA[지난 6월 은퇴한 박주호 선수가 tvN SPORTS 축구 해설위원으로 합류한다. 박주호 해설위원은 지난 23일 SNS를 통해 “tvN SPORTS에서 좋은 기회를 주셔서 23-...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/25/afb2d24845811037372f33ae2b17d94d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[김현 "KBS 이사장 해임 추진, 규정·원칙·절차 무시”]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230724170124</guid>
             <pubDate>Tue, 25 Jul 2023 02:48:28 GMT</pubDate>
             <content:encoded><![CDATA[“일하는 사람들, 직장인은 한국을 이끌어 가는 동력이다. 일 잘하는 사람들을 존경한다. 이들이 가장 오래 있는 공간이 바로 사무실이다. 사무실은 이들이 마땅히 누려야할 복지 중...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이지에이웍스 ZTL사업본부장에 조선국 전 닐슨미디어코리아 대표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230725102721</link>
-            <guid>https://zdnet.co.kr/view/?no=20230725102721</guid>
-            <pubDate>Tue, 25 Jul 2023 02:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[빅데이터 플랫폼 기업 아이지에이웍스(대표 마국성)가 조선국 전 닐슨미디어코리아 대표를 종합 미디어 솔루션 ZTL사업본부장으로 선임했다고 25일 밝혔다. 아이지에이웍스 ZTL은 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[웹케시, 통합연구비관리시스템 'rERP' 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230725103008</link>
-            <guid>https://zdnet.co.kr/view/?no=20230725103008</guid>
-            <pubDate>Tue, 25 Jul 2023 02:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[웹케시(대표 강원주)가 '2023년 연구시설·장비비 통합관리기관 정기 워크숍'에서 연구기관 전용 통합연구비관리시스템 'rERP'를 소개했다고 25일 밝혔다. 지난달 29일 메종...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
