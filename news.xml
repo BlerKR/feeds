@@ -4,16 +4,48 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 03:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 04:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 뛰는 쿠키런 IP…오프라인 활용안에 눈길]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230802111537</link>
+            <guid>https://zdnet.co.kr/view/?no=20230802111537</guid>
+            <pubDate>Wed, 02 Aug 2023 04:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[데브시스터즈의 간판 지식재산권(IP) 쿠키런이 다시 뛴다. 국내 모바일게임 시장을 대표하는 런닝 액션 게임인 쿠키런은 다양한 개성을 지닌 캐릭터를 앞세워 그 저변을 꾸준히 넓혀...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/02/c0461cc69cc2eadc546219626829f503-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보이저2호 살아있었구나···끊겼던 신호 복구]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230802125220</link>
+            <guid>https://zdnet.co.kr/view/?no=20230802125220</guid>
+            <pubDate>Wed, 02 Aug 2023 04:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[45년째 우주를 비행하고 있는 보이저2호의 끊겼던 신호가 회복됐다. 미국 우주항공청(NASA)은 1일(현지시간) 보이저2호의 신호를 다시 수신했다고 소셜미디어 등을 통해 밝혔다...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/02/673225b916592fcc9044165c500db602-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지니언스, 상반기 영업익 23.8억...최대실적 달성]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230802123656</link>
+            <guid>https://zdnet.co.kr/view/?no=20230802123656</guid>
+            <pubDate>Wed, 02 Aug 2023 04:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[지니언스(대표 이동범)는 연결기준 2023년 상반기 매출액이 전년대비 19.5% 증가한 183.8억 원, 영업이익은 31.5% 증가한 23.8억 원을 기록했다고 2일 공시했다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[산단공, 경산4일반산단 입주업종 확대…면적도 다양화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230802122501</link>
+            <guid>https://zdnet.co.kr/view/?no=20230802122501</guid>
+            <pubDate>Wed, 02 Aug 2023 04:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[한국산업단지공단(이사장 이상훈)은 경산4일반산업단지(경산4산단)를 탄소융복합산업 중심지로 육성하기 위해 입주업종을 확대해 분양한다고 2일 밝혔다. 경산4산단은 탄소융복합·정밀기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["인터넷으로 계약 소포 요금 확인하세요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230802101337</link>
             <guid>https://zdnet.co.kr/view/?no=20230802101337</guid>
             <pubDate>Wed, 02 Aug 2023 03:16:34 GMT</pubDate>
             <content:encoded><![CDATA[우정사업본부는 성공적인 이커머스 셀러를 꿈꾸는 중소상공인을 위한 우체국 계약소포 간편견적 서비스를 4일부터 제공한다고 밝혔다. 우체국 계약소포 이용을 희망하는 고객은 발송 물량...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/04/cca113804aab10fc659a7a521c22024e-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[애플 협력사 폭스콘, 印에 5억 달러 추가 투자..."中 생산 줄인다"]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230802093835</guid>
             <pubDate>Wed, 02 Aug 2023 02:33:42 GMT</pubDate>
             <content:encoded><![CDATA[애플의 주요 협력업체인 대만 폭스콘이 인도 카르나타카 주에 5억 달러(6천451억원)를 투자해 부품공장 2개를 건설하기로 했다. 이는 기존 폭스콘의 인도 7억 달러 투자 외에 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/10/18/b5a65c953cd7dc9162b164d1eb51d5de-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공정위 "주말·공휴일 항공권 구매 시 유의"]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230802103313</guid>
             <pubDate>Wed, 02 Aug 2023 02:33:42 GMT</pubDate>
             <content:encoded><![CDATA[조계현 카카오게임즈 대표는 2일 진행된 카카오게임즈 2분기 실적발표 컨퍼런스콜에서 "오션드라이브 스튜디오에서 다크판타지 노벨 '검술명가 막내아들' IP를 활용한 액션 게임을 글...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[버넥트, 건설·엔지니어링 분야 확대 MOU 맺어]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230802103143</link>
-            <guid>https://zdnet.co.kr/view/?no=20230802103143</guid>
-            <pubDate>Wed, 02 Aug 2023 02:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[코스닥 상장사 XR(eXtended Reality, 확장현실) 테크기업 버넥트(대표 하태진)는 건설 및 엔지니어링 분야 사업 확장을 위한 MOU를 국내외 기업과 각각 체결했다고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스탠리, 건축 박람회 '2023 코리아빌드위크'서 전동공구 선봬]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230802102553</link>
-            <guid>https://zdnet.co.kr/view/?no=20230802102553</guid>
-            <pubDate>Wed, 02 Aug 2023 02:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[스탠리블랙앤데커코리아 전동공구·수작업 공구 브랜드 스탠리가 오는 3일부터 6일까지 서울 삼성동 코엑스에서 열리는 건축 박람회 '2023 코리아빌드위크'에 참가한다고 2일 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애자일소다, 美 '하이프 사이클' 샘플 벤더로 등재]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230802094525</link>
-            <guid>https://zdnet.co.kr/view/?no=20230802094525</guid>
-            <pubDate>Wed, 02 Aug 2023 02:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[애자일소다(대표 최대우)가 '하이프 사이클 리포트'에 샘플 벤더로 등재됐다고 2일 밝혔다. 하이프 사이클은 시간 변화에 따른 기대치를 5단계로 구분해 기술 성숙도를 시각적으로 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[병원‧감염취약시설 마스크 의무해제 여부 다음주 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230802102330</link>
-            <guid>https://zdnet.co.kr/view/?no=20230802102330</guid>
-            <pubDate>Wed, 02 Aug 2023 02:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19의 4급 감염병 전환을 준비하는 정부가 다음주 병원‧감염취약시설 마스크 의무해제 여부를 발표한다. 2일 지영미 질병관리청장(중앙방역대책본부 본부장)은 코로나19 중앙사...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
