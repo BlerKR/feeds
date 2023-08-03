@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 03:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 04:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인산철 배터리 고속 방전하면 성능 떨어지는 원인 찾았다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230803115109</link>
+            <guid>https://zdnet.co.kr/view/?no=20230803115109</guid>
+            <pubDate>Thu, 03 Aug 2023 04:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[전기차가 고속주행 하거나 노트북PC에서 고사양 게임을 돌릴 때와 같이 에너지를 단시간에 빠르게 출력할 때 저항과 에너지 손실이 커지는 것이 리튬이온 배터리의 약점 중 하나다. ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/03/31ac35df4bb784698d7a10b8df2e5f4f.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[두나무, 청소년 금융교육 '두니버스' 상반기 성과 발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20230803105832</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230803114605</guid>
             <pubDate>Thu, 03 Aug 2023 03:21:06 GMT</pubDate>
             <content:encoded><![CDATA[경남은행에서 15년간 부동산 프로젝트파이낸싱(PF) 대출 상환자금 수백억원을 횡령한 일이 알려지며 컴플라이언스(Compliance) 시스템이 도마 위에 올랐다. 3일 은행업계에...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/17/766d6568c467b9ac9613e794e301283d-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국표원, 국가표준(KS) 표준·인증 활용 실태조사 착수]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230803103610</guid>
             <pubDate>Thu, 03 Aug 2023 02:29:49 GMT</pubDate>
             <content:encoded><![CDATA[◇부이사관 승진 ▲제조카르텔조사과장 오행록 ▲감사담당관 김문식...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정인교 인하대 국제통상학과 교수, 전략물자관리원장 취임]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230803103409</link>
-            <guid>https://zdnet.co.kr/view/?no=20230803103409</guid>
-            <pubDate>Thu, 03 Aug 2023 02:29:49 GMT</pubDate>
-            <content:encoded><![CDATA[전략물자관리원은 3일 정인교 인하대학교 국제통상학과 교수(국민경제자문회의 경제안보분과장))가 제6대 원장에 취임했다고 밝혔다. 정인교 신임 원장은 진주고와 한양대 경제학과를 졸...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
