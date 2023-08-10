@@ -4,16 +4,64 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 02:35:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 03:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태풍 '카눈' 오전 9시 경남 거제 상륙…자정 서울 육상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230810120049</link>
+            <guid>https://zdnet.co.kr/view/?no=20230810120049</guid>
+            <pubDate>Thu, 10 Aug 2023 03:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[제6호 태풍 '카눈'이 10일 오전 9시 20분경 경남 거제 부근에 상륙했다. 태풍은 점차 북상하며 오늘 자정 서울 북쪽 약 40km 부근으로 올라올 전망이다. 10일 기상청에...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/10/a4af42eb61013c36e509257663c4468e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT알파쇼핑, 가수 양수경과 '올마켓' 프로그램 시작]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230810114950</link>
+            <guid>https://zdnet.co.kr/view/?no=20230810114950</guid>
+            <pubDate>Thu, 10 Aug 2023 03:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[KT알파 쇼핑(대표 조성수)은 오아시스알파(대표 최유성·김영준)와 함께 모바일 라이브 방송 '올마켓'을 KT알파 쇼핑 TV채널 고정 프로그램으로 재단장한다고 10일 밝혔다. 새...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/10/bed57eedd989d6e40ddcf8182536095a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더핑크퐁컴퍼니, 여기어때와 캐릭터 '씰룩' 영상 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230810114558</link>
+            <guid>https://zdnet.co.kr/view/?no=20230810114558</guid>
+            <pubDate>Thu, 10 Aug 2023 03:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 패밀리 엔터테인먼트 기업 더핑크퐁컴퍼니(대표 김민석)가 종합 여행·여가 플랫폼 여기어때와 파트너십을 통해, 씰룩(SEALOOK) 콜라보 영상을 공개한다고 10일 밝혔다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['챔프시럽', '콜대원키즈펜시럽' 제조‧판매중지 해제]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230810114419</link>
+            <guid>https://zdnet.co.kr/view/?no=20230810114419</guid>
+            <pubDate>Thu, 10 Aug 2023 03:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[제조상 문제로 제조‧판매중지 '챔프시럽', '콜대원키즈펜시럽'이 다시 생산‧판매를 시작한다. 이에 따라 차질을 빚었던 어린이 해열진통제 수급이 회복될 것으로 예상된다. 10일 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[롯데홈쇼핑, 가을패션 신상품 공개…신규 브랜드도 2배↑]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230810113531</link>
+            <guid>https://zdnet.co.kr/view/?no=20230810113531</guid>
+            <pubDate>Thu, 10 Aug 2023 03:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[롯데홈쇼핑(대표 김재겸)은 이달 15일부터 31일까지 '패션 이즈 롯데' 특집전을 열고, 단독 패션 브랜드의 가을 신상품을 대거 선보인다고 10일 밝혔다. 올해 가을/겨울 패션...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 9세대 V낸드 발표 주목...10월 메모리 비전 발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230810112406</link>
+            <guid>https://zdnet.co.kr/view/?no=20230810112406</guid>
+            <pubDate>Thu, 10 Aug 2023 03:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 인공지능, 데이터센터, 자동차 등을 겨냥한 차세대 메모리 로드맵과 에코시스템 비전을 오는 10월 발표한다. 이와 함께 차세대 9세대 V낸드도 공개할지 여부도 주목된다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지에스이니마, 9200억원 규모 UAE 해수담수화 사업 수주]]></title>
             <link>https://zdnet.co.kr/view/?no=20230810113320</link>
             <guid>https://zdnet.co.kr/view/?no=20230810113320</guid>
             <pubDate>Thu, 10 Aug 2023 02:35:45 GMT</pubDate>
             <content:encoded><![CDATA[환경부는 GS건설 자회사인 지에스이니마가 9일(현지시간) 아랍에미리트(UAE) 아부다비에서 UAE 수전력공사(EWEC)가 발주한 9천200억원 규모 '슈웨이하트 4 해수담수화 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/08/10/4f2547361a190de78452828b491f39e2-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[카카오페이, 전국 소상공인 풍수해보험 무료 신청 오픈]]></title>
@@ -21,7 +69,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230810113229</guid>
             <pubDate>Thu, 10 Aug 2023 02:35:45 GMT</pubDate>
             <content:encoded><![CDATA[카카오페이가 전국 소상공인을 대상으로 풍수해보험 무료 가입 신청을 받는다고 10일 밝혔다. 지난 3월 카카오페이는 중소벤처기업부·소상공인연합회와 함께 업무협약을 맺고 총 10억...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/08/10/3fb82a438e032854494237c9e884ec20-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["최상위 고객 모십니다"...CJ온스타일, 오프라인 초청 행사 진행]]></title>
@@ -117,54 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230810110107</guid>
             <pubDate>Thu, 10 Aug 2023 02:35:45 GMT</pubDate>
             <content:encoded><![CDATA[한국산업기술시험원(KTL·원장 김세종)은 한국에너지기술연구원(KIER·원장 이창근)과 청정수소·암모니아 분야 연구개발 역량과 인증·시험평가 사업 경쟁력 강화를 위한 업무협약을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[페르소나AI "1인 1봇 시대 열 것···클라우드 기반 AICC 우리가 1위"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230809235227</link>
-            <guid>https://zdnet.co.kr/view/?no=20230809235227</guid>
-            <pubDate>Thu, 10 Aug 2023 02:35:45 GMT</pubDate>
-            <content:encoded><![CDATA["1인 1봇 시대를 열겠습니다." 유승재 페르소나에이아이(페르소나AI) 대표는 9일 지디넷코리아와 인터뷰에서 "AI 회사들이 많이 있지만 대중적으로 쓸 수 있는 AI는 많지 않...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 전통시장 디지털 전환 톡채널 지원 신규 공모 사업 시작]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230810103623</link>
-            <guid>https://zdnet.co.kr/view/?no=20230810103623</guid>
-            <pubDate>Thu, 10 Aug 2023 02:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[카카오가 카카오임팩트, 중소벤처기업부, 소상공인시장진흥공단, MKYU와 함께 31일까지 우리동네 단골시장 프로젝트 하반기 공모 사업 '시장 대표 톡채널 지원 사업'에 참여할 시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[3년간 화장품 주요 부작용은 붉은 반점·두드러기·가려움]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230810103823</link>
-            <guid>https://zdnet.co.kr/view/?no=20230810103823</guid>
-            <pubDate>Thu, 10 Aug 2023 02:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[최근 3년 동안 화장품을 사용한 이후 주요 유해 증상은 붉은 반점·두드러기·가려움 등으로 나타났다. 식품의약품안전처가 2020년~2022년 기간 동안 보고된 화장품 유해사례 총...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 부품사 소니 "내년까지 스마트폰 시장 약세" 전망]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230810090804</link>
-            <guid>https://zdnet.co.kr/view/?no=20230810090804</guid>
-            <pubDate>Thu, 10 Aug 2023 02:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[애플의 주요 부품 업체 중 한 곳인 소니가 올 하반기 스마트폰 시장 회복세를 부정적으로 내다봤다. 9일(현지시간) 블룸버그 통신에 따르면 소니는 주요 스마트폰 시장인 중국 수요...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[지디의 타임캡슐] "엔터는 하이브, 뷰티는 크레이버"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230810103445</link>
-            <guid>https://zdnet.co.kr/view/?no=20230810103445</guid>
-            <pubDate>Thu, 10 Aug 2023 02:35:45 GMT</pubDate>
-            <content:encoded><![CDATA['지디의 타임캡슐'은 기업가치 1조원을 꿈꾸는 '내일의 유니콘 기업'을 만나는 인터뷰 코너입니다. "회사의 2년 뒤를 예상해보고, 2년 뒤 다시 만나 그 때 그 다짐과 약속을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네오위즈, 2분기 매출 701억원…하반기 'P의 거짓' 출시 기대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230810103348</link>
-            <guid>https://zdnet.co.kr/view/?no=20230810103348</guid>
-            <pubDate>Thu, 10 Aug 2023 02:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[네오위즈(공동대표 김승철, 배태근)는 10일 2023년 2분기 영업손실 49억원을 기록했다고 10일 공시했다. 전년 동기 59억원의 영업이익에서 적자전환했다. 2분기 매출액은 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
