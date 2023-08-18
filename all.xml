@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 03:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 04:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['다크앤다커' 저작권 침해, 韓 법원서 판가름…美, 넥슨-아이언메이스 소송 기각 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230818131458</link>
+            <guid>https://zdnet.co.kr/view/?no=20230818131458</guid>
+            <pubDate>Fri, 18 Aug 2023 04:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[넥슨 프로젝트 무단 반출 논란을 일으킨 던전크롤러 게임 '다크앤다커'를 두고 발생한 넥슨과 아이언메이스 간의 저작권 분쟁이 한국 재판부에 의해 결정될 것으로 보인다. 워싱턴 주...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/14/89ca5c7827fe0e398bbc5b46cae826c3-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이동관, 자녀 학교폭력 공세에 "현장 본 사람 아무도 없어" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230818110508</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230818115508</guid>
             <pubDate>Fri, 18 Aug 2023 03:16:08 GMT</pubDate>
             <content:encoded><![CDATA[블리자드엔터테인먼트가 PC MMORPG 월드오브워크래프트 클래식(WOW 클래식)에 공식 하드코어 서버를 공개에 앞서 미디어 인터뷰를 진행했다. 이번 인터뷰에는 블리자드엔터테인먼...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/08/18/3722a236624d53442db43a3d5c0a2628-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넥슨 '나이트 워커', 시즌2 업데이트 계획 및 개발 방향성 발표 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230818104908</guid>
             <pubDate>Fri, 18 Aug 2023 02:20:11 GMT</pubDate>
             <content:encoded><![CDATA[네이버는 모바일 MY뉴스에 '지역 뉴스' 카드를 신설해 보다 다양한 지역 밀착형 뉴스를 제공한다고 18일 밝혔다. '지역 뉴스'는 언론사가 분류한 지역 정보와 AI 기술 기반으...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티, 차세대 모빌리티 기술 뽐낸다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230818104407</link>
-            <guid>https://zdnet.co.kr/view/?no=20230818104407</guid>
-            <pubDate>Fri, 18 Aug 2023 02:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[카카오모빌리티(대표 류긍선)가 9월8일 그랜드 인터컨티넨탈 서울 파르나스 그랜드볼룸에서 제2회 테크 컨퍼런스 '넥스트 모빌리티: NEMO 2023'(이하 NEMO 2023)을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
