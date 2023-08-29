@@ -4,167 +4,167 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 04:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 02:50:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA["보안 걱정 없이 AI 모델 사용하는 시대 왔다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230827231151</link>
-            <guid>https://zdnet.co.kr/view/?no=20230827231151</guid>
-            <pubDate>Mon, 28 Aug 2023 04:19:20 GMT</pubDate>
-            <content:encoded><![CDATA["그동안 기업은 비즈니스에 생성 인공지능(AI) 적용하는 걸 주저했습니다. 보안 때문입니다. VM웨어 고객은 멀티 클라우드 환경에선 안심하고 활용해도 된다 말하고 싶습니다." ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/08/27/68a9bf7f50ec639a441baed09ea020a8-290x182.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NHN클라우드, '보안관제센터' 정식 개소]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829114901</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829114901</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[NHN클라우드(대표 백도민, 김동훈)는 경상남도 김해시에 실시간 보안 위협 탐지·대응을 수행하는 보안 전문 센터인 'NHN클라우드 보안관제센터'를 정식 개소했다고 29일 밝혔다...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/29/ce5f8a56aae242e7d855da05f7fde3c2-290x182.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[네오위즈, 모바일 축구 '프로사커: 레전드 일레븐' 사전 예약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828114125</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828114125</guid>
-            <pubDate>Mon, 28 Aug 2023 04:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[네오위즈(공동대표 김승철, 배태근)는 개발사 스타어레이와 '프로사커: 레전드 일레븐(Pro Soccer: Legend Eleven)'의 퍼블리싱 계약을 체결하고, 다음 달 한국...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/08/28/e9238a213e2a5baa79393e6955a8aff5-290x182.png" length="0" type="image/png"/>
+            <title><![CDATA[AWS, 엔씨소프트 '바르코' LLM 개발 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829114356</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829114356</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[아마존웹서비스(AWS)는 엔씨소프트의 대규모언어모델(LLM) 개발을 지원하기 위해 '아마존 세이지메이커 점프스타트'를 제공했다고 29일 밝혔다. 엔씨소프트는 최근 아마존 세이지...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/16/94800e9fb17191b967e93f785aa73fb1-290x182.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA["중앙부처 UI·UX 혁신"···국민 300명이 298개 웹사이트 평가도]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828080002</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828080002</guid>
-            <pubDate>Mon, 28 Aug 2023 03:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부(행안부)와 대통령 직속 디지털플랫폼정부위원회가 중앙부처 등 공공 분야의 웹‧앱 사용자환경(UI)과 사용자경험(UX) 혁신에 나선다. 특히 300명으로 구성한 국민평가...]]></content:encoded>
+            <title><![CDATA[[기고] 코로나 학번 채용 문제, 해답은 AI에 있다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829113524</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829113524</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19로 인해 현장 경험이 부족한 학생들이 취업전선에 뛰어들 준비를 하고 있다. 이에 '코로나 학번'으로 불리는 이들의 채용 문제를 해결하기 위해 AI 채용 솔루션을 도입하...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[VR 게임 붐 올까...소식 이어지는 국산 VR 게임]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828111549</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828111549</guid>
-            <pubDate>Mon, 28 Aug 2023 03:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[국내 게임사가 개발 중인 신작 VR 게임 소식이 이어진다. 한동안 주춤했던 VR 시장이지만 최근 전해진 신형 VR 기기 정보에 신작 VR 게임 소식이 더해지며 다시 한번 VR ...]]></content:encoded>
+            <title><![CDATA[오픈AI, '생성AI' 기업 시장으로 진격]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829112156</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829112156</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI가 생성형 인공지능(AI)의 기업 시장 공략을 연일 강화하고 있다. 지난주 거대언어모델(LLM)의 보급형 버전인 GPT-3.5 터보의 미세조정 기능을 선보인데 이어, 챗...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[컴투스, 비행 슈팅 '스트라이커즈1945: RE' 사전 예약 돌입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828113431</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828113431</guid>
-            <pubDate>Mon, 28 Aug 2023 03:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[컴투스(대표 이주환)는 비행 슈팅 게임 '스트라이커즈1945: RE'의 글로벌 출시를 앞두고 사전예약을 실시한다고 28일 밝혔다. 컴투스가 퍼블리싱을 맡아 선보이는 '스트라이커...]]></content:encoded>
+            <title><![CDATA[방통위, 내년 예산 2364억원 편성]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829112632</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829112632</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신위원회는 2024년도 예산으로 지난해 편성안보다 200억원 줄어든 총 2천364억원을 편성해 국회에 제출한다고 29일 밝혔다. EBS 프로그램 제작지원과 시청자미디어재단...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[NHN에듀, '영어교육의 AI 혁명' 출간]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828110952</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828110952</guid>
-            <pubDate>Mon, 28 Aug 2023 03:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[NHN에듀(대표 여원동)는 인공지능(AI)와 교육의 결합을 통한 에듀테크 분야 첫 도서, '영어교육의 AI 혁명: ChatGPT와 Google Bard 활용법'을 출간한다고 2...]]></content:encoded>
+            <title><![CDATA[정부, 내년 예산 656조9천억원 편성...지출 증가율 2.8% '긴축']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829111620</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829111620</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부가 긴축 재정 기조를 강화하면서 내년 지출 예산이 올해보다 18조2천억원 늘어난 656조9천억원으로 편성했다. 총지출 증가율은 2.8%로 재정통계가 정비된 2005년...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[생성 AI, 웹툰·웹소설 창작 과정 줄인다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828101340</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828101340</guid>
-            <pubDate>Mon, 28 Aug 2023 03:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[생성 인공지능(AI)이 웹툰, 웹소설 제작 과정에 스며들었다. 작가들이 생성 AI로 불필요한 노동 시간을 단축하고 작업 효율성을 높일 수 있다는 이유에서다. 그동안 웹툰, 웹소...]]></content:encoded>
+            <title><![CDATA["테슬라 사이버트럭, 와이퍼 더 커졌다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829110100</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829110100</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[테슬라가 미국 텍사스 기가팩토리에서 생산 중인 전기 픽업트럭 '사이버트럭'의 운행 영상이 공개됐다고 자동차매체 일렉트렉이 28일(현지시간) 보도했다. 최근 유튜버로 활동 중인 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[XPLA-오아시스, 日 블록체인 시장 공략 위해 맞손…"글로벌 시장 영향력 높일 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828110602</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828110602</guid>
-            <pubDate>Mon, 28 Aug 2023 03:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[컴투스그룹의 메인넷 엑스플라(XPLA)는 최근 일본 블록체인 시장 진출을 위해 적극적인 움직임을 보이고 있다. 특히 최근에는 일본을 대표하는 블록체인 메인넷 오아시스(Oasys...]]></content:encoded>
+            <title><![CDATA[코가로보틱스, 국내 셰프들과 자동화로봇 공동 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829111524</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829111524</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[서빙로봇 로봇기업 코가로보틱스는 한국조리기능장협회와 요리 자동화 시스템과 로봇 서비스 모델을 개발·보급하기 위한 업무협약(MOU)을 체결했다고 29일 밝혔다. 코가로보틱스는 자...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[8월의 마지막 밤 10시 36분, 올해 가장 큰 달 뜬다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828105411</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828105411</guid>
-            <pubDate>Mon, 28 Aug 2023 03:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[오는 31일 목요일 밤, 올해 가장 크고 둥근 달이 뜬다. 28일 한국천문연구원에 따르면, 31일 밤 10시 36분 올해 가장 큰 둥근 달(망, 望)이 뜬다. 지난 2월 6일 ...]]></content:encoded>
+            <title><![CDATA[중기부, 내년 예산 9900억 증액 편성···14조5135억 국회 제출]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829104154</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829104154</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[중소벤처기업부(중기부) 예산이 14조원대에 진입할 전망이다. 중기부는 2024년 예산안을 2023년 본예산(13조 5205억원)보다 9930억원 증가한(7.3% 증가) 14조 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[투명 에어팟 프로 화제..."안이 훤히 보이네"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828110057</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828110057</guid>
-            <pubDate>Mon, 28 Aug 2023 03:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 세계 최초로 USB-C 지원 아이폰을 만들어 화제가 됐던 개발자가 이번에는 안이 훤히 들여다 보이는 투명 에어팟 프로를 만들어 공개했다고 IT매체 BGR이 26일(현...]]></content:encoded>
+            <title><![CDATA[하이브-게펜레코드, '글로벌 걸그룹' 만든다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829085528</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829085528</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[K팝 글로벌 성공 신화를 쓰고 있는 방시혁 하이브 의장과 세계 최대 팝 시장 미국에서 히트작 메이커로 불리는 존 재닉 게펜 레코드 회장이 손 잡고 글로벌 걸그룹 제작에 힘을 모...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[하이브, 美 본격 공략…'더 데뷔: 드림아카데미' 연습생 공개 예정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828100048</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828100048</guid>
-            <pubDate>Mon, 28 Aug 2023 02:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[하이브는 게펜 레코드와 함께 29일 오전 9시 미국 LA 현지에서 오디션 프로젝트 '더 데뷔: 드림아카데미' 기자간담회를 열고, 미국 본토 시장을 공략할 걸그룹을 공개한다고 2...]]></content:encoded>
+            <title><![CDATA[정부, 무기발광 디스플레이 연구개발에 1조원 투입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829092704</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829092704</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 차세대 기술로 주목받고 있는 마이크로 LED 등 무기발광(iLED) 디스플레이 산업 육성에 나선다. 이를 위해 1조원 규모의 '무기발광 디스플레이 기술개발 및 생태계 구...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[케이뱅크 수시 입출금통장 금리 3%로]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828103830</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828103830</guid>
-            <pubDate>Mon, 28 Aug 2023 02:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[케이뱅크가 수시 입출금 통장 일환인 '생활통장'의 잔액 300만원까지에 대해 금리 3%를 제공한다고 28일 밝혔다. 생활통장은 300만원까지 연 3%, 그 이상 금액은 연 0....]]></content:encoded>
+            <title><![CDATA[민관 손잡고 대규모 '반도체 첨단 패키징' R&D 사업 추진]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829092230</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829092230</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[반도체 첨단 패키징 선도기술을 확보하기 위해 삼성전자, SK하이닉스, 소부장, 반도체 후공정 전문업체(OSAT), 팹리스 기업과 반도체 기관들이 협력 체계 구축에 나선다. 주영...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[데브시스터즈, 쿠키런 IP-브릭시티로 하반기 반등 나서나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828105748</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828105748</guid>
-            <pubDate>Mon, 28 Aug 2023 02:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[데브시스터즈가 대표 게임 지식재산권(IP) '쿠키런' 시리즈와 신작을 선보여 반등을 시도한다. 2021년 국내에서 화제를 모았던 '쿠키런: 킹덤'은 이르면 연내 중국에 진출하는...]]></content:encoded>
+            <title><![CDATA[쿠쿠, IFA 2023 참가…"유럽 시장서 인지도 높인다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829105422</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829105422</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[종합 생활가전 기업 쿠쿠가 내달 1일부터 5일까지 독일 베를린 국제회의센터(ICC)에서 열리는 '2023 베를린 국제가전박람회(IFA 2023)'에 참가한다고 29일 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[LGU+, 9월12일까지 골드번호 추첨 응모 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828110335</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828110335</guid>
-            <pubDate>Mon, 28 Aug 2023 02:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스가 9월12일까지 선호번호 추첨 이벤트 응모를 진행한다고 밝혔다. 추첨행사를 통해 응모할 수 있는 전화번호의 유형은 ▲AAAA ▲000A ▲00AA ▲AA00 ▲AB...]]></content:encoded>
+            <title><![CDATA[워크데이, 2024년도 2분기 매출 전년 대비 16.3%↑]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829102420</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829102420</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[워크데이가 2024년도 2분기 실적을 발표했다. 워크데이 2024 회계연도 2분기는 올해 5월부터 7월까지다. 해당기간 워크데이 총매출은 17억9천만 달러(약 2조4천억원)로,...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[브라운 전기면도기, 신제품 출시 기념 팝업스토어 열어]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828110254</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828110254</guid>
-            <pubDate>Mon, 28 Aug 2023 02:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[한국P&amp;G의 독일 소형 가전 브랜드 브라운이 전기면도기 '시리즈9프로플러스' 런칭을 기념해 '더 퍼펙트 스트로크' 팝업스토어를 열었다고 28일 밝혔다. 이번 스토어는 서울 마포...]]></content:encoded>
+            <title><![CDATA[IDC "올해 PC 출하량, 전년比 13.7% 감소...내년부터 회복"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829104355</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829104355</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[시장조사업체 IDC는 28일(미국 현지시간) "올해 세계 완제 PC 출하량이 지난 해 대비 13.7% 줄어든 2억 5천200만 대 수준으로 전망된다"고 밝혔다. 세계 완제 PC...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[LG전자, 유럽시장 겨냥 '에너지 고효율 가전 라인업' 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828093840</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828093840</guid>
-            <pubDate>Mon, 28 Aug 2023 02:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자가 유럽시장에서 에너지 효율을 갖춘 다양한 생활가전 공급을 강화한다. LG전자는 9월 1일부터 독일 베를린에서 열리는 유럽 최대 가전전시회 IFA 2023에서 '넷제로 ...]]></content:encoded>
+            <title><![CDATA["태국에서도 카카오페이 쓰세요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829102941</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829102941</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[카카오페이(대표 신원근)는 센트럴 리테일(Central Retail)∙그랩(Grab) 등 태국 현지의 다양한 결제처에서 카카오페이 결제 서비스를 이용할 수 있다고 29일 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[거실 TV가 예술작품 디지털 액자로 변신]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828105950</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828105950</guid>
-            <pubDate>Mon, 28 Aug 2023 02:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[KT스카이라이프가 가정 내 TV를 액자로 활용해 미술 작품을 감상할 수 있는 '폴스타아트' 서비스를 출시한다. 우선 국내외 6천여 점 이상의 현대 미술 작품 이미지를 제공하고,...]]></content:encoded>
+            <title><![CDATA[밀레, 핸드스틱형 무선청소기 'HX2' 출시…99만원부터]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829103100</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829103100</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[독일 가전기업 밀레의 한국법인 밀레코리아가 강력한 흡입력에 사용 편의성을 더해 사용 상황에 맞게 3가지 모드로 활용 가능한 '트라이플렉스 HX2' 스틱 무선청소기 신제품을 29...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[소프트뱅크벤처스, 수익실현 확실한 기술혁신 기업에 300억 투자한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828092349</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828092349</guid>
-            <pubDate>Mon, 28 Aug 2023 02:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[소프트뱅크벤처스가 약 300억원 규모의 '에스브이에이 2023 세컨더리 투자조합'을 결성했다고 28일 밝혔다. 이번 펀드는 소프트뱅크벤처스의 첫 세컨더리펀드로 최대주주 변동 이...]]></content:encoded>
+            <title><![CDATA["TSN 원천기술 유일 확보···'AI+TSN' 칩 출시 블루오션 선점"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829081536</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829081536</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA["TSN(Time-Sensitive Networking)은 이더넷과 와이파이(Wi-Fi)를 표준화 한 세계적 통신 단체인 전기전자공학자협회(IEEE)가 만든 차세대 실시간 통신...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[캐논코리아, 디지털 인쇄기 '이미지프레스 V900' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828105648</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828105648</guid>
-            <pubDate>Mon, 28 Aug 2023 02:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[캐논코리아가 28일 상업용 컬러 디지털 인쇄기 '이미지프레스'(imagePRESS) V900 시리즈를 출시했다. 이미지프레스 V900 시리즈는 출력 성능에 따라 V900, V8...]]></content:encoded>
+            <title><![CDATA[우리엔터프라이즈, 포항CC에 '필립스 LED 스포츠 조명' 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829101902</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829101902</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[종합 조명기업 우리엔터프라이즈는 경북 포항CC에 고출력 LED 투광등인 '필립스 LED 스포츠스타 시스템'을 공급했다고 29일 밝혔다. 우리엔터프라이즈는 바닷가에 인접한 포항C...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[HCN, 지역소멸 기획 문화관광 전략 소개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828105607</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828105607</guid>
-            <pubDate>Mon, 28 Aug 2023 02:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[HCN이 '케이블 공동기획 – 지역소멸을 막아라'의 8월 주제 문화관광과 관련해 지역별 특성을 살린 다양한 전략들을 소개했다고 밝혔다. '케이블 공동기획 – 지역소멸을 막아라'...]]></content:encoded>
+            <title><![CDATA[현대홈쇼핑, 아바타 쇼호스트·3D 착장샷 넣은 패션 방송 진행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829093755</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829093755</guid>
+            <pubDate>Tue, 29 Aug 2023 02:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[현대홈쇼핑이 인공지능(AI) 기술을 활용한 색다른 패션 방송을 선보인다. 이미지 생성 AI 기술에 기반해 고객의 요청대로 옷을 매칭한 모습을 3차원(3D) 이미지로 보여주고, ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
