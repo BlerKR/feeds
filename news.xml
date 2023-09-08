@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 03:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 04:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오모빌리티, 모빌리티 특화된 생성AI 엔진 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230908112650</link>
+            <guid>https://zdnet.co.kr/view/?no=20230908112650</guid>
+            <pubDate>Fri, 08 Sep 2023 04:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[카카오모빌리티가 8일 그랜드 인터컨티넨탈 서울 파르나스에서 '넥스트모빌리티(NEXT MOBILITY: NEMO, 네모) 2023'을 열고, 인공지능(AI)이 주도할 미래에 대응...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/09/08/89df4a65d84b6ab7a9b0580e5e70997d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웹3 게임 슈퍼앱 'GAM3S', 200만 달러 시드 투자 유치]]></title>
             <link>https://zdnet.co.kr/view/?no=20230908114835</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230908114444</guid>
             <pubDate>Fri, 08 Sep 2023 03:16:30 GMT</pubDate>
             <content:encoded><![CDATA[기업규모·업종·기술형태 등 기업의 다양성을 고려한 맞춤형 기술보호제도를 위해 산업통상자원부와 산업기술보호협회, 중견기업연합회가 손을 잡았다. 산업부와 기술보호 전문기관인 한국산...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2019/08/13/mjjoo_bv89S52XUhbnwC-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인사] 산업통상자원부]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230908103704</guid>
             <pubDate>Fri, 08 Sep 2023 02:21:49 GMT</pubDate>
             <content:encoded><![CDATA[정의선 현대자동차그룹 회장이 인도네시아 배터리셀 공장을 방문해 현지 전동화 전략 실행 상황을 점검했다. 8일 현대차그룹에 따르면 정 회장은 지난 7일(현지시간) 한·인도네시아 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[티몬, '티나는 추석' 기획전 시작]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230908100017</link>
-            <guid>https://zdnet.co.kr/view/?no=20230908100017</guid>
-            <pubDate>Fri, 08 Sep 2023 02:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[티몬이 이달 말까지 '티나는 추석' 기획전을 열고 특가 릴레이를 펼친다고 8일 밝혔다. 먼저 티몬은 17일까지 첫 행사 '티나는 추석 준비' 기획전을 실시하고, 고객들의 알뜰 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
