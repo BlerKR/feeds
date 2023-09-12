@@ -4,16 +4,48 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 03:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 04:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공정위, 랜덤박스 정보 제공 안한 포켓몬코리아 제재 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230912094033</link>
+            <guid>https://zdnet.co.kr/view/?no=20230912094033</guid>
+            <pubDate>Tue, 12 Sep 2023 04:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[80개를 웃돈 다양한 상품이 무작위로 담긴 이른바 '랜덤박스'를 판매하면서 관련 정보를 제공하지 않은 포켓몬코리아가 공정위 제재를 받았다. 공정거래위원회는 전자상거래법을 위반한...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2020/04/23/mjjoo_ygjvsJo6YKBsri-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KTNET, 국제포럼에서 전자선하증권 파일럿 선봬 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230912131546</link>
+            <guid>https://zdnet.co.kr/view/?no=20230912131546</guid>
+            <pubDate>Tue, 12 Sep 2023 04:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[한국무역정보통신(KTNET·대표 차영환)은 UN 산하 국제상거래법위원회(UNCITRAL)이 11일과 12일 이틀간 개최한 '제3회 법률 및 비즈니스 포럼(ILBF)'에서 블록체...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/09/12/302106cf5c99f7d93537e2feb40d91e1-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내년 갤S24 언팩 주인공은 갤럭시링? (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230912083819</link>
+            <guid>https://zdnet.co.kr/view/?no=20230912083819</guid>
+            <pubDate>Tue, 12 Sep 2023 04:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[갤럭시S24 시리즈를 공개하는 내년 언팩 행사에서 스마트링이 공개될 수 있다는 주장이 나왔다. 11일(현지시간) 폰아레나에 따르면 IT 팁스터 아이스유니버스는 삼성전자가 1월 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["토큰증권 준비 중 핀테크위해 기술·인가 폭 넓혀달라" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230912111805</link>
+            <guid>https://zdnet.co.kr/view/?no=20230912111805</guid>
+            <pubDate>Tue, 12 Sep 2023 04:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[토큰증권(STO)과 관련된 규제가 논의되면서 국내 핀테크도 관련 서비스를 준비 중인 가운데, 핀테크를 위해 기술과 인가 요건에 관한 규제 폭을 넓혀달라는 의견이 나왔다. 12일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[생·손보 '2023년 보험사기 근절 홍보캠페인' 실시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230912103116</link>
             <guid>https://zdnet.co.kr/view/?no=20230912103116</guid>
             <pubDate>Tue, 12 Sep 2023 03:16:35 GMT</pubDate>
             <content:encoded><![CDATA[생명보험협회와 손해보험협회는 경찰청과 함께 '2023년 보험사기 근절 홍보캠페인'을 실시한다고 12일 밝혔다. 지난해 보험사기 적발금액이 1조원을 넘어 역대 최고를 기록하는 등...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/09/12/0aceb87d13eef140f4f2a5634e3300dc-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KIST, 사람 코처럼 냄새맡는 뉴로모픽 후각 센서 개발 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230911173039</guid>
             <pubDate>Tue, 12 Sep 2023 03:16:35 GMT</pubDate>
             <content:encoded><![CDATA[국내 연구진이 사람이 냄새를 맡는 방식을 모방한 뉴로모픽 후각 센서를 개발했다. 인공후각은 산업 현장 가스 유출을 감지하거나 세균과 바이러스를 단시간에 찾아내는데 유용하다. 하...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/09/11/f3b2bb73333f0675008aa28ecd99bcf6-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[LG CNS, '스타트업 몬스터' 6기 DX전문 스타트업 선발 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230912100154</guid>
             <pubDate>Tue, 12 Sep 2023 02:21:06 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI)이 연구실을 나와 비즈니스에 속속 들어가고 있다. 특히 IT 기업은 자사 제품에 AI를 접목해 기능을 끌어 올리는 추세다. 기존 솔루션이 AI를 만나 새롭게 진화...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 게임사, e스포츠 종목화에 매진…장기흥행 위해선? (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230912110236</link>
-            <guid>https://zdnet.co.kr/view/?no=20230912110236</guid>
-            <pubDate>Tue, 12 Sep 2023 02:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[몇 년간 주춤했던 국내 게임의 e스포츠 종목화 시도가 다시 활발하게 진행되고 있다. 국내를 넘어 글로벌 시장에서 주목받는 작품이 많아지면서, 이러한 시도가 더욱 가속화한 것으로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뤼튼, 서비스 누적 가입자 100만명 기록 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230912083141</link>
-            <guid>https://zdnet.co.kr/view/?no=20230912083141</guid>
-            <pubDate>Tue, 12 Sep 2023 02:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[뤼튼테크놀로지스(대표 이세영)가 뤼튼 플랫폼 누적 가입자 100만명을 넘어섰다고 12일 밝혔다. 뤼튼은 지난 1월 인공지능(AI) 채팅 형식으로 이뤄진 '뤼튼' 서비스를 출시했...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGD, 아이폰15 프로맥스용 OLED 패널 공급 승인 받아 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230912082716</link>
-            <guid>https://zdnet.co.kr/view/?no=20230912082716</guid>
-            <pubDate>Tue, 12 Sep 2023 02:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[LG디스플레이가 애플의 최신형 스마트폰인 '아이폰15' 프로맥스용 OLED(유기발광다이오드) 패널 공급을 시작한다. 애플과의 지속적인 테스트를 통해 그간 제기됐던 품질 문제를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 행사 D-1…이번에 공개 안 될 제품은? (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230912085833</link>
-            <guid>https://zdnet.co.kr/view/?no=20230912085833</guid>
-            <pubDate>Tue, 12 Sep 2023 02:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[애플은 12일(현지시간) 미국 캘리포니아주 쿠퍼티노 본사에서 스페셜 이벤트를 열고 신제품을 발표할 예정이다. '원더러스트'로 명명된 이번 행사에서는 아이폰15 시리즈 4개 모델...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
