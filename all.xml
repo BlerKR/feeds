@@ -4,16 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 03:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 04:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GSK 한국법인 신임 사장에 마우리찌오 보가타 취임 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231004131752</link>
+            <guid>https://zdnet.co.kr/view/?no=20231004131752</guid>
+            <pubDate>Wed, 04 Oct 2023 04:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[한국GSK가 1일부로 마우리찌오 보가타(Maurizio Borgatta)를 신임 사장(General Manager)으로 선임했다. 마우리찌오 보가타 사장은 GSK 입사 이전 다...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/04/fa12efe68c64d21d495bf9f0fcac8920-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠첸, 3L '글라스 에어프라이어' 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231004125730</link>
+            <guid>https://zdnet.co.kr/view/?no=20231004125730</guid>
+            <pubDate>Wed, 04 Oct 2023 04:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[주방가전기업 쿠첸이 미니멀한 디자인과 콤팩트한 크기로 공간 차지를 최소화하면서 최대 2인분까지 조리 가능한 '글라스 에어프라이어'를 선보인다고 4일 밝혔다. 이번 신제품은 3L...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/04/685581bc914edcd970e861d67d626dab-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["스타트업과 우수 국내외 IT인재 연결" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20231004114719</link>
             <guid>https://zdnet.co.kr/view/?no=20231004114719</guid>
             <pubDate>Wed, 04 Oct 2023 03:17:15 GMT</pubDate>
             <content:encoded><![CDATA[중기부가 혁신 스타트업들에게 우수한 IT 인재를 공급하는 글로벌 행사를 개최한다. 행사에는 인도공과대학(IIT) 관계자도 참석한다. 중소벤처기업부(장관 이영)는 심화하는 소프트...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/10/04/fa69561009e90102771822b936c0566d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[강한결의 인디픽] 깡토 스튜디오 "'로얄블루의 마법 의상실', 전작과 세계관 공유" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231004105612</guid>
             <pubDate>Wed, 04 Oct 2023 03:17:15 GMT</pubDate>
             <content:encoded><![CDATA[인디게임이 글로벌 게임산업 신성장동력으로 부상한 가운데 독창성과 참신함을 매력으로 게임 이용자를 사로잡은 작품도 속속 늘고 있습니다. 국내 게임업계에도 인디게임 산업 발전을 위...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/10/04/baa2982f1a1bf2ad620a30d813286539-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[파이썬 3.12, f 문자열 개선 등 개발 편의성 향상 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231004093316</guid>
             <pubDate>Wed, 04 Oct 2023 02:24:12 GMT</pubDate>
             <content:encoded><![CDATA[미국 연방 법원이 가상자산 리플(XRP)과의 1심 약식 판결에 대해 증권거래위원회(SEC)가 제기한 중간항소를 기각했다. 코인데스크, 코인텔레그래프 등 외신에 따르면 3일(현지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[데브시스터즈, 쿠키런 IP 글로벌 누적 매출 1조원 달성 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231004111615</link>
-            <guid>https://zdnet.co.kr/view/?no=20231004111615</guid>
-            <pubDate>Wed, 04 Oct 2023 02:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[데브시스터즈(공동대표 이지훈, 김종흔)는 4일 쿠키런 지식재산권(IP) 글로벌 누적 매출이 1조원을 기록했다고 밝혔다. 쿠키런 IP는 2013년 '쿠키런 for Kakao'의 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KTR, AI 신뢰도 검증한다…챗 GPT·AI가전 품질 평가 서비스 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231004111522</link>
-            <guid>https://zdnet.co.kr/view/?no=20231004111522</guid>
-            <pubDate>Wed, 04 Oct 2023 02:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[KTR가 국내 시험기관으로는 처음으로 인공지능(AI) 소프트웨어(SW) 국제표준을 적용한 AI 시험평가 서비스에 나선다. KTR(한국화학융합시험연구원·원장 김현철)는 지난 6월...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
