@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 02:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 03:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성·SK 등 321개 기업, '청년일경험사업' 만족도 82%]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231013094849</link>
+            <guid>https://zdnet.co.kr/view/?no=20231013094849</guid>
+            <pubDate>Fri, 13 Oct 2023 03:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[정부와 기업이 함께 지원했던 '청년일경험사업'의 기업만족도가 82%에 이르는 것으로 나타났다. 대한상공회의소는 올해 청년일경험지원사업에 참여한 기업 320여개사를 대상으로 '청...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/13/f7dd7926ad26c389b79e9466b8e3d377-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강진모 아이티센 회장 국감 증인 출석 취소]]></title>
             <link>https://zdnet.co.kr/view/?no=20231013111037</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231013100626</guid>
             <pubDate>Fri, 13 Oct 2023 02:27:01 GMT</pubDate>
             <content:encoded><![CDATA[와이제이엠게임즈 자회사 액션스퀘어가 신작 개발 및 서비스 준비에 팔을 걷어 붙였다. 장르 다양성과 국내 포함 글로벌 동시 공략에 초점을 맞췄다. '블레이드' 시리즈 이후 신작 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 부산국제영화제에 'LG 올레드 상' 신설]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231013084239</link>
-            <guid>https://zdnet.co.kr/view/?no=20231013084239</guid>
-            <pubDate>Fri, 13 Oct 2023 02:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자가 13일까지 열리는 아시아 최대 규모 영화 축제인 제28회 부산국제영화제와 손잡고 신인·독립영화 감독에게 수여되는 'LG 올레드 뉴 커런츠', 'LG 올레드 비전' 2...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
