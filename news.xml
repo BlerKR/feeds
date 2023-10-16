@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 03:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 04:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[펄어비스 검은사막, 우리 문화 알리기 앞장 선다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231016104729</link>
+            <guid>https://zdnet.co.kr/view/?no=20231016104729</guid>
+            <pubDate>Mon, 16 Oct 2023 04:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[우리 문화재 홍보에 앞장서 온 펄어비스 '검은사막'이 이번에는 한글의 아름다움을 글로벌 이용자들에게 알리기에 나서며 눈길을 끌고 있다. 펄어비스는 지난 9일 '한글날'을 맞아 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/16/e0aab8104ecee2cf387753411fd9949d-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MS-액티비전블리자드 인수 완료...콘솔시장 구도 변화는 '미지수']]></title>
+            <link>https://zdnet.co.kr/view/?no=20231016111553</link>
+            <guid>https://zdnet.co.kr/view/?no=20231016111553</guid>
+            <pubDate>Mon, 16 Oct 2023 04:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[무려 1년 10개월간 이어졌던 마이크로소프트(MS)의 액티비전블리자드 인수전이 마무리됐다. 687억 달러(약 92조원) 규모로 IT 업계 사상 최대 규모의 인수합병으로 기대를 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/05/86af8357eec957b1daf1828c0574493a-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이재성 새솔테크 고문, 대학 혁신산업실험실 대상 '스타트업 이해하기' 특강]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231016131632</link>
+            <guid>https://zdnet.co.kr/view/?no=20231016131632</guid>
+            <pubDate>Mon, 16 Oct 2023 04:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[이재성 새솔테크 고문이 지난 13일 부산 해운대 한 호텔에서 개최된 '2023년 실험실 특화형 창업선도대학 사업, 혁신창업실험실 중간 워크숍'에서 특강을 했다. 이번 특강은 선...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코리아 메타버스 페스티벌, 18일까지 열린다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231016114424</link>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231016102236</guid>
             <pubDate>Mon, 16 Oct 2023 03:17:17 GMT</pubDate>
             <content:encoded><![CDATA[한국생명공학연구원(원장 김장성)은 대기 중 병원성 박테리아를 실시간 검출, 색깔 변화를 통해 시각적으로 쉽게 확인할 수 있는 플랫폼을 개발했다고 16일 밝혔다. 다중이용시설 공...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/10/16/02fbaf3218709e3da41713192019fa3d-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한기정 공정위원장 "담합 행위 엄정 대응…플랫폼 자율규제안 지속 추진"]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231016092201</guid>
             <pubDate>Mon, 16 Oct 2023 02:25:26 GMT</pubDate>
             <content:encoded><![CDATA[스켈터랩스(대표 조원규)가 인공지능(AI) 챗봇 '벨라 큐나'를 업데이트했다고 16일 밝혔다. 벨라 큐나는 기업 내부 정보 기반으로 작동하는 Q&amp;A 챗봇 솔루션이다. 우선 벨라...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 태양과 달이 함께 만드는 멋진 '불의 고리']]></title>
-            <link>https://zdnet.co.kr/view/?no=20231016095001</link>
-            <guid>https://zdnet.co.kr/view/?no=20231016095001</guid>
-            <pubDate>Mon, 16 Oct 2023 02:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[태양 중심부가 가려져 금반지 모양으로 보이는 금환일식이 미국 등 아메리카 대륙에서 관측됐다고 우주과학매체 스페이스닷컴이 15일(이하 현지시간) 보도했다. 이번 금환일식은 14일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[장내미생물에 포도당 공급하니 항암 면역 기능 좋아졌다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231016093709</link>
-            <guid>https://zdnet.co.kr/view/?no=20231016093709</guid>
-            <pubDate>Mon, 16 Oct 2023 02:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[악성 뇌종양인 교모세포종은 수술이나 항암화학요법, 방사선치료 등 암 치료 요법을 모두 동원해도 평균 생존 기간이 15개월에 불과한 난치성 암종이다. 장에 높은 농도의 포도당 음...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[허성욱 NIPA 원장 "성장정체 ICT산업 새 돌파구 마련"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231016105006</link>
-            <guid>https://zdnet.co.kr/view/?no=20231016105006</guid>
-            <pubDate>Mon, 16 Oct 2023 02:25:26 GMT</pubDate>
-            <content:encoded><![CDATA["성장정체를 겪고 있는 ICT산업의 새로운 돌파구를 마련하고, AI를 중심으로 디지털 경제의 확산·심화를 선도하며, 글로벌에서도 가시적인 성과를 창출하도록 최선의 노력을 다하겠...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
