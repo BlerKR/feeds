@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 03:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 04:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD, 라이젠 프로세서·라데온 그래픽카드 구매자에 게임 증정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231108131908</link>
+            <guid>https://zdnet.co.kr/view/?no=20231108131908</guid>
+            <pubDate>Wed, 08 Nov 2023 04:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 오는 12월 30일까지 라이젠 프로세서·라데온 그래픽카드 구매자 대상 게임 증정 행사를 진행한다. 대상 제품은 라이젠 7 7800X3D와 라이젠 9 7000 시리즈 6...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/11/08/cb292611ac81b7ecd3723b59364bc0dd-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HD현대일렉트릭, 사우디서 822억원 규모 전력기기 수주]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231108124022</link>
+            <guid>https://zdnet.co.kr/view/?no=20231108124022</guid>
+            <pubDate>Wed, 08 Nov 2023 04:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[HD현대일렉트릭이 최근 사우디아라비아 전력청(SEC)과 822억원 규모 고압차단기 및 리액터 공급 계약을 체결했다고 8일 밝혔다. 이번에 수주한 제품은 380kV 고압차단기와 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/11/08/a1b791038482c52339c0f2ca2faf1a3d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[치킨 반죽·튀김·양념 자동화…로보아르테, 솔루션 선봬]]></title>
             <link>https://zdnet.co.kr/view/?no=20231108115502</link>
             <guid>https://zdnet.co.kr/view/?no=20231108115502</guid>
             <pubDate>Wed, 08 Nov 2023 03:17:02 GMT</pubDate>
             <content:encoded><![CDATA[푸드테크 스타트업 로보아르테가 치킨을 조리하는 모든 과정을 자동화한 솔루션을 개발했다고 8일 밝혔다. 신형 솔루션은 튀김 작업에 쓰는 협동로봇 1대와 주변 설비를 모듈화한 형태...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/11/08/c43d792771d5d45f8ad24949336f8a57-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[동유럽·중동·중앙亞…수출 신시장 부상]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231108101159</guid>
             <pubDate>Wed, 08 Nov 2023 03:17:02 GMT</pubDate>
             <content:encoded><![CDATA[올해 10월 수출이 13개월만에 반등하며 '수출 플러스'를 이뤄낸 가운데, 폴란드, 헝가리, 튀르키예 등 그동안 수출비중이 크지 않았던 교역국들의 수출액이 크게 증가한 것으로 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/11/08/f7af5d3ed760a252b6d37be239481e8e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인사] 보건복지부]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231108103203</guid>
             <pubDate>Wed, 08 Nov 2023 02:24:38 GMT</pubDate>
             <content:encoded><![CDATA[쿠팡이 올해 3분기 사상 처음 매출 8조원을 넘기고, 5개 분기 연속 흑자를 이어가며 첫 연간 흑자를 목전에 뒀다. 최근 대만에서 2호 풀필먼트센터 문을 연 쿠팡은 내년 상반기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN엔터프라이즈, 숭실대 스파르탄 SW교육원과  MOU 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231108110908</link>
-            <guid>https://zdnet.co.kr/view/?no=20231108110908</guid>
-            <pubDate>Wed, 08 Nov 2023 02:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[NHN엔터프라이즈(대표 김동훈)는 숭실대학교 스파르탄 SW교육원과 클라우드 네이티브 플랫폼 '프로젝트 AppPaaS'를 활용한 산학협력 및 인재양성 업무협약(MOU)을 체결했다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[바디프랜드, 실속형 안마의자 '코스모' 출시…340만원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231108110818</link>
-            <guid>https://zdnet.co.kr/view/?no=20231108110818</guid>
-            <pubDate>Wed, 08 Nov 2023 02:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[헬스케어 가전기업 바디프랜드가 실속형 안마의자 '코스모'를 출시했다고 8일 밝혔다. 코스모는 가격 부담을 줄이면서 고사양 성능을 탑재한 제품이다. 24개 마사지 프로그램과 6매...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
