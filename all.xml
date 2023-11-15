@@ -4,16 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 03:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 04:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오모빌리티, 국군수송사령부와 군 경쟁력 고도화 비전 논의 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231115121542</link>
+            <guid>https://zdnet.co.kr/view/?no=20231115121542</guid>
+            <pubDate>Wed, 15 Nov 2023 04:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[카카오모빌리티는 국군수송사령부 지휘부가 카카오모빌리티 판교 사옥에 방문해 '모빌리티 기술 기반의 군 수송지원, 안보 경쟁력 강화 방안'을 논의했다고 15일 밝혔다. 국군수송사령...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/11/15/3c298421ef2c96c63a9969879d3d0bf8-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS, 닷넷8 출시...AI·클라우드 개발 편의성 향상 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231115112531</link>
+            <guid>https://zdnet.co.kr/view/?no=20231115112531</guid>
+            <pubDate>Wed, 15 Nov 2023 04:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)가 앱 개발 플랫폼 닷넷8(.NET6) 장기지원버전(LTS)을 정식 출시했다. 14일(현지시간) 인포월드 등 외신에 따르면 마이크로소프트는 연례 개발자 회인...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/11/15/f7df28d4c4809eba706e5efa812a261d-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[성수동 빌딩 옥상에 스마트 온실···작물 키우며 건물 에너지 아껴 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20231114164345</link>
             <guid>https://zdnet.co.kr/view/?no=20231114164345</guid>
             <pubDate>Wed, 15 Nov 2023 03:17:42 GMT</pubDate>
             <content:encoded><![CDATA[요즘 서울 시내 최고 '핫플' 중 하나인 성수. 지하철 2호선 성수역에 내려 채 3분도 안 걸리는 거리에 있는 공유오피스 빌딩 옥상에 새 명소가 생겼다. 밤에는 영롱한 보라색 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/11/14/1eddd0060108874ae0db36d9874e9275-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["배달과 기술이 만났다" 배민, 우아콘2023 개최 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231115104524</guid>
             <pubDate>Wed, 15 Nov 2023 03:17:42 GMT</pubDate>
             <content:encoded><![CDATA[배달의민족(배민) 운영사 우아한형제들이 배달 서비스 고도화를 위해 수반되는 기술들을 공유하는 '우아한테크콘퍼런스(우아콘) 2023'을 15일 그랜드 인터컨티넨탈 서울 파르나스에...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/11/15/23f353aefe2d4af9c882a5d26c568f7b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[플레이오토, 셀러 위한 무료 버전 '제로' 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -76,7 +92,7 @@
             <link>https://zdnet.co.kr/view/?no=20231115111748</link>
             <guid>https://zdnet.co.kr/view/?no=20231115111748</guid>
             <pubDate>Wed, 15 Nov 2023 02:28:45 GMT</pubDate>
-            <content:encoded><![CDATA[올해 1월부터 10월 자동차 수출액이 580억달러(75조6천억원)에 육박하면서 지난해 수출액을 넘어선 것으로 집계됐다. 산업통상자원부는 국산 전기차, 스포츠유틸리티차(SUV),...]]></content:encoded>
+            <content:encoded><![CDATA[올해 1월부터 10월 자동차 수출액이 580억 달러(75조6천억원)에 육박하면서 지난해 수출액을 넘어선 것으로 집계됐다. 산업통상자원부는 국산 전기차, 스포츠유틸리티차(SUV)...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231115094843</guid>
             <pubDate>Wed, 15 Nov 2023 02:28:45 GMT</pubDate>
             <content:encoded><![CDATA[플리토(대표 이정수)가 외국인 관광객을 위해 서울시에서 플리토 대화 번역 서비스를 개시했다고 15일 밝혔다. 현재 광화문 관광안내소와 서울관광플라자 로비에 설치됐다. 플리토 대...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[통증과 온도 느끼는 휴머노이드 로봇 나올까 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231115102631</link>
-            <guid>https://zdnet.co.kr/view/?no=20231115102631</guid>
-            <pubDate>Wed, 15 Nov 2023 02:28:45 GMT</pubDate>
-            <content:encoded><![CDATA[통증을 느끼는 휴머노이드 로봇이 나올 수 있을까? 통증은 생물이 유해한 자극을 감지해 위험한 상황을 회피하게 하는 역할을 한다. KAIST(총장 이광형)는 신소재공학과 김경민 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["애플스토어서 아이폰15 프로맥스 주문→복제폰 왔어요" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231115103138</link>
-            <guid>https://zdnet.co.kr/view/?no=20231115103138</guid>
-            <pubDate>Wed, 15 Nov 2023 02:28:45 GMT</pubDate>
-            <content:encoded><![CDATA[영국 애플 온라인 스토어에서 직접 아이폰15 프로 맥스를 구입한 사람이 아이폰이 아닌 복제폰을 받는 일이 발생했다고 IT매체 나인투파이브맥이 14일(현지시간) 보도했다. 온라인...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
