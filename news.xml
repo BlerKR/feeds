@@ -4,16 +4,24 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 03:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 04:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차 한재필 영업부장, 상용차 '판매거장' 올라…누계 2500대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231203131729</link>
+            <guid>https://zdnet.co.kr/view/?no=20231203131729</guid>
+            <pubDate>Sun, 03 Dec 2023 04:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[현대자동차는 인천트럭지점 한재필 영업부장이 상용차 '판매거장'에 올랐다고 3일 밝혔다. 상용차 판매거장은 상용차 누계 판매 2천500대를 돌파한 우수 영업사원에게 주어지는 칭호...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/12/03/8b35e2e3aa264e367f2cf67b44fb0ff2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["구글, AI 모델 '제미니' 내년 초 공개"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231203115125</link>
             <guid>https://zdnet.co.kr/view/?no=20231203115125</guid>
             <pubDate>Sun, 03 Dec 2023 03:17:09 GMT</pubDate>
             <content:encoded><![CDATA[구글이 인공지능(AI) 모델 '제미니'를 내년 초 공개할 전망이다. 2일(현지시간) 미국 디인포메이션은 이달 공개 예정이던 제미니 출시일이 내년 초로 미뤄졌다고 구글 내부 소식...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/12/03/c4b2c6638d5709640b92b6a1a04b1fa0-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://image.zdnet.co.kr/2023/12/03/9564aa99d6b9249fe5d250d531badf64-290x182.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이버펑크 2077, 2.1 무료 패치로 신규 콘텐츠 추가]]></title>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231203115520</guid>
             <pubDate>Sun, 03 Dec 2023 03:17:09 GMT</pubDate>
             <content:encoded><![CDATA[CD프로젝트 레드(CDPR)가 오는 5일 '사이버펑크 2077'에 새로운 게임플레이 요소를 추가하는 2.1 무료 업데이트를 진행한다고 밝혔다. 미국 게임매체 비디오크로니클의 보...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/09/13/5687d12defe32c8055a77d4df533df75-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[더현대서울, 연매출 1조 달성..."국내 백화점 최단 기간 기록"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231203010333</guid>
             <pubDate>Sun, 03 Dec 2023 02:29:17 GMT</pubDate>
             <content:encoded><![CDATA[카카오엔터테인먼트(대표 이진수·김성수)의 뮤직플랫폼 멜론이 주최한 MMA2023(멜론뮤직어워드)이 2일 저녁 13팀의 공연과 총 30개에 이르는 시상 부문의 수상자들을 발표하며...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[부음] 이진우 더벨 편집국장 부친상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231202215328</link>
-            <guid>https://zdnet.co.kr/view/?no=20231202215328</guid>
-            <pubDate>Sun, 03 Dec 2023 02:29:17 GMT</pubDate>
-            <content:encoded><![CDATA[▲이만구씨 별세, 이경우·진우(더벨 편집국장)·진숙씨 부친상, 박태환씨 장인상, 이현정·김혜정씨 시부상=연세대 신촌세브란스병원장례식장 특1호실, 발인 12월5일, 장지 경기도 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
