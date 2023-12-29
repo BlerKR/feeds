@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 03:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 04:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아마존, 물류차량용 수소연료 직접 만들어 쓴다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231229103643</link>
+            <guid>https://zdnet.co.kr/view/?no=20231229103643</guid>
+            <pubDate>Fri, 29 Dec 2023 04:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[아마존이 물류센터에 쓰이는 산업용 차량 운행을 위한 수소연료를 직접 생산한다. 28일(현지시간) 더버지 등 외신에 따르면 아마존이 미국 콜로라도주 오로라에 위치한 물류 센터에 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/12/29/8c0d951b1d15b8dc5b5b563adf4b7fe2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금호타이어, 새로운 CI…"타이어산업 선도의지 담아"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231229121959</link>
+            <guid>https://zdnet.co.kr/view/?no=20231229121959</guid>
+            <pubDate>Fri, 29 Dec 2023 04:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[금호타이어는 미래 비전을 담은 새로운 기업 아이덴티티(CI)를 공개했다고 29일 밝혔다. 금호타이어가 이날 공개한 새 CI는 기존 CI에서 서체를 볼드로 변경해 시인성을 높였다...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/12/29/46a29dd1bf5da600d404d69b68e84d60-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["'줄서기 앱' 설치 강요하는 맛집, 개인정보법 위반"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231229102418</link>
             <guid>https://zdnet.co.kr/view/?no=20231229102418</guid>
             <pubDate>Fri, 29 Dec 2023 03:17:50 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회는 29일 올 한해 국민들의 생활과 밀접한 개인정보 관련 사례를 발굴해 해석한 '2023 개인정보 법령해석 사례 30선'을 공개했다. 이번 해석 사례집은 지난 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2020/03/04/jtwer_yx553PXjVRZqsx-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[개인정보위 "올해 규제 혁신 다방면 추진"]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231229101247</guid>
             <pubDate>Fri, 29 Dec 2023 03:17:50 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회는 2023년 데이터 경제 시대에 신산업 육성 지원과 국민 불편 해소를 위해 개인정보 분야 규제 혁신을 적극 추진했다고 29일 밝혔다. 개인정보위는 지난 3월 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/12/0a95e270e0c86203fa199e56d894cc98-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[GS리테일, 컴플라이언스 경영 시스템 ISO 37301 획득]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231227104047</guid>
             <pubDate>Fri, 29 Dec 2023 02:23:23 GMT</pubDate>
             <content:encoded><![CDATA[Arm 기반 CPU 아키텍처의 강력한 대항마로 주목 받는 RISC-V 시장이 최근까지 활기를 띠고 있다. 올해 중반 구글, 인텔, 삼성전자 등이 대규모 협력 체계를 구축한 데 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이세영 "키스신 5시간...많이 할수록 좋다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231229095442</link>
-            <guid>https://zdnet.co.kr/view/?no=20231229095442</guid>
-            <pubDate>Fri, 29 Dec 2023 02:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이세영이 드라마 속 키스신 노하우에 대해 이야기했다. 지난 28일 유튜브 채널 '일일칠' 콘텐츠 '덱스의 냉터뷰'에는 이세영이 올해 마지막 게스트로 출연했다. 이날 덱스가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에이피알, 5천만불 수출탑 수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231229085538</link>
-            <guid>https://zdnet.co.kr/view/?no=20231229085538</guid>
-            <pubDate>Fri, 29 Dec 2023 02:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 뷰티테크 기업 에이피알(대표이사 김병훈)이 우수 중견기업 수출포상 장관상과 5천만불 수출의 탑을 연이어 수상하며 해외 시장 개척 능력을 인정받았다고 29일 밝혔다. 수출...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
