@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Dec 2023 03:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 04:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차, '2024 카운트다운 세리머니' 진행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231231130256</link>
+            <guid>https://zdnet.co.kr/view/?no=20231231130256</guid>
+            <pubDate>Sun, 31 Dec 2023 04:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[현대자동차가 새해를 맞아 '2024 카운트다운 세리머니'를 진행한다고 31일 밝혔다. 현대차는 31일 자정 무렵 공식 유튜브 채널 '어바웃현대'를 통해 카운트다운 드론쇼 영상을...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/12/31/71a72c3754acc79a31fa694efe6ac727-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라가르드 "유로화 25주년, 격동의 시대에 더 큰 책임"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231231085629</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231231094533</guid>
             <pubDate>Sun, 31 Dec 2023 03:17:52 GMT</pubDate>
             <content:encoded><![CDATA[미국에서 구글 인공지능(AI) 챗봇 바드로 가짜 법률 판례를 법원에 제출한 사례가 나왔다. 뉴욕타임스(NYT)는 30일 도널드 트럼프 미국 전 대통령 변호사로 일했던 마이클 코...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/28/e55e042d457599c411e2dd0d6f4415e7-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[엔비디아 "中 시장 포기 못해"...저사양으로 게이밍 GPU 출시]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231227112939</guid>
             <pubDate>Sun, 31 Dec 2023 02:29:07 GMT</pubDate>
             <content:encoded><![CDATA[모바일 애플리케이션 프로세서(AP) 시장에서 중위권 업체들의 경쟁이 치열해지고 있다. 31일 시장조사업체 카운터포인트리서치 보고서에 따르면 올해 3분기 세계 모바일 AP 시장 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국영화감독조합, "피의사실 공표 유감"…故 이선균 추모]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231231075450</link>
-            <guid>https://zdnet.co.kr/view/?no=20231231075450</guid>
-            <pubDate>Sun, 31 Dec 2023 02:29:07 GMT</pubDate>
-            <content:encoded><![CDATA[한국영화감독조합(DGK)이 배우 이선균㊽을 추모했다. 한국영화감독조합은 30일 소셜 미디어에 "배우의 소임은 한 인간이 자신이 온몸으로 겪고 느낀 것들을 켜켜이 마음 한 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
