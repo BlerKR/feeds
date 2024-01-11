@@ -4,16 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 03:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 04:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박지성♥김민지, NASA 방문…"형부 찬스로 견학" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240111132100</link>
+            <guid>https://zdnet.co.kr/view/?no=20240111132100</guid>
+            <pubDate>Thu, 11 Jan 2024 04:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[SBS 전 아나운서 김민지와 전 축구선수 박지성 부부의 근황이 공개됐다. 지난 10일 유튜브 채널 '김민지의 만두랑'에는 'NASA 가족투어! 버릇없는 처제의 형부 직장 방문기...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/01/11/enterf74059fdf733032d706acb02f2fd8bf9-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유튜브 활성화 정책이란 것이 과연 가능한가 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240111125113</link>
+            <guid>https://zdnet.co.kr/view/?no=20240111125113</guid>
+            <pubDate>Thu, 11 Jan 2024 04:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[국내 디지털 크리에이터 시장 규모가 연간 기준으로 4조원을 넘는다는 조사 결과가 나왔다. 10일 정부가 발표한 '디지털 크리에이터 미디어 산업 실태 조사' 결과에 따르면, 관련...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/04/05/e02e4852024c6b8fe2d73416472c9175-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이창용 "통화정책 강도 높여야 할 필요성 낮아져" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240111111503</link>
+            <guid>https://zdnet.co.kr/view/?no=20240111111503</guid>
+            <pubDate>Thu, 11 Jan 2024 04:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[한국은행은 11일 새해 첫 금융통화위원회(금통위)를 열고 기준금리 3.50%를 그대로 유지하기로 결정했다. 2022년부터 지난해 1월까지 7회 연속 기준금리를 인상했던 금통위는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[전력거래소, 중기·대기업 상생협력…전력IT 유지관리 사업 수행 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240111121223</link>
             <guid>https://zdnet.co.kr/view/?no=20240111121223</guid>
             <pubDate>Thu, 11 Jan 2024 03:18:33 GMT</pubDate>
             <content:encoded><![CDATA[전력거래소(이사장 정동희)는 전력IT 유지관리 위탁용역 사업에 착수했다고 11일 밝혔다. 이번 사업은 기존 유지관리 사업자인 중소IT 기업과 원 개발사인 한전KDN이 공동수행하...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/01/11/5a6429fc2fbf78036d1fcfab1859b763-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[콘티넨탈, '얼굴인증' 한번이면 차문 열고 시동건다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240111121155</guid>
             <pubDate>Thu, 11 Jan 2024 03:18:33 GMT</pubDate>
             <content:encoded><![CDATA[콘티넨탈은 생체 인식에 기반한 2단계 액세스 제어 시스템 '얼굴 인증 디스플레이'를 선보였다고 11일 밝혔다. 차량 차체와 지붕을 연결하는 기둥인 B필러 외부와 운전자 디스플레...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/01/11/f3b263085127064d97c7457fc4c72728-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[1분건강] 해외여행 후 발열·두통·오한·근육통 있으면 '뎅기열'일수도 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240111105007</guid>
             <pubDate>Thu, 11 Jan 2024 02:30:44 GMT</pubDate>
             <content:encoded><![CDATA[인디게임이 글로벌 게임산업 신성장동력으로 부상한 가운데 독창성과 참신함을 매력으로 게임 이용자를 사로잡은 작품도 속속 늘고 있습니다. 국내 게임업계에도 인디게임 산업 발전을 위...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[라인 NFT 플랫폼 '도시', 디지털 커머스로 확장한다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240111110106</link>
-            <guid>https://zdnet.co.kr/view/?no=20240111110106</guid>
-            <pubDate>Thu, 11 Jan 2024 02:30:44 GMT</pubDate>
-            <content:encoded><![CDATA[라인 넥스트(대표 고영수)는 자체 대체불가토큰(NFT) 플랫폼 '도시'를 디지털 커머스 플랫폼으로 탈바꿈해 글로벌 180여개국에 정식 출시했다고 11일 밝혔다. 지난 2022년...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[올해의 프로그래밍 언어 선정된 C#, 자바 추월 눈앞 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240111110354</link>
-            <guid>https://zdnet.co.kr/view/?no=20240111110354</guid>
-            <pubDate>Thu, 11 Jan 2024 02:30:44 GMT</pubDate>
-            <content:encoded><![CDATA[최근 몇년간 성장세를 이어온 C#이 2023년 연례 프로그래밍 언어로 선정됐다. 편의성과 높은 접근성 등으로 인기를 얻은 C#은 조만간 자바를 넘어설 것으로 주목 받고 있다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TSMC, 작년 4분기도 매출 '선방'…AI 산업 덕분 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240111072033</link>
-            <guid>https://zdnet.co.kr/view/?no=20240111072033</guid>
-            <pubDate>Thu, 11 Jan 2024 02:30:44 GMT</pubDate>
-            <content:encoded><![CDATA[세계 파운드리 업계 1위 대만 TSMC가 지난해 3분기에 이어 4분기에도 시장의 예상을 웃도는 실적을 올렸다. IT 산업의 부진으로 매출 감소는 불가피했으나, AI용 고성능 칩...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
