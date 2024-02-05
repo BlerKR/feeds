@@ -4,16 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 03:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 04:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크로소프트 코파일럿, 고객사에서 어떻게 쓰이고 있나 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240205131246</link>
+            <guid>https://zdnet.co.kr/view/?no=20240205131246</guid>
+            <pubDate>Mon, 05 Feb 2024 04:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 생성형AI 기술로 다양한 산업군의 고객 서비스 혁신과 비즈니스 성장을 지원한 사례를 5일 공개했다. 전 세계가 생성형AI의 기술력과 잠재력에 주목하고 있는 가운...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/05/736854bf0e779b1171e3c8f6f559f34a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[中서 '고추 커피' 하루에 300잔 대박…무슨 맛이길래? (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240205131241</link>
+            <guid>https://zdnet.co.kr/view/?no=20240205131241</guid>
+            <pubDate>Mon, 05 Feb 2024 04:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 한 커피숍이 라테에 튀긴 고추와 고춧가루를 넣어 매콤하게 만든 '고추 커피'를 출시해 화제다. 4일(현지 시각) 사우스차이나모닝포스트(SCMP) 한 커피숍 매장에서 '스...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/05/enterd21eb0151efb434e73409147560d21b1-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대한상의 "탄소중립 대응하면 전기 사용 오히려 증가" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240205094420</link>
             <guid>https://zdnet.co.kr/view/?no=20240205094420</guid>
             <pubDate>Mon, 05 Feb 2024 03:17:49 GMT</pubDate>
             <content:encoded><![CDATA[최근 탄소중립‧AI‧디지털 전환이 가속화되고 있는 가운데 2050 탄소중립 대응시 기업의 전기사용 증가폭이 2배 이상 늘어날 것이라는 조사결과가 나왔다. 대한상공회의소가 최근 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/05/e060f8cc4cdaf52b317819dbbed8654b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[코웨이, 쿠션형 '비렉스 볼륨 프레임' 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240205115148</guid>
             <pubDate>Mon, 05 Feb 2024 03:17:49 GMT</pubDate>
             <content:encoded><![CDATA[종합 가전기업 코웨이가 프리미엄 원단과 쿠션 헤드 디자인을 적용한 투매트리스 타입 '비렉스 볼륨 프레임'을 출시한다고 5일 밝혔다. 코웨이 비렉스 볼륨 프레임은 쿠션형 헤드보드...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/05/5cf849854db9bd17cad4fc81c3aa773a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[와이제이엠게임즈, 액션스퀘어 개발 '킹덤 : 왕가의 피' 사전예약 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -64,7 +80,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA["中 전기차, 지난해 태국 점유율 80%" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[中 전기차, 태국 점령...지난해 점유율 80% (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240205102506</link>
             <guid>https://zdnet.co.kr/view/?no=20240205102506</guid>
             <pubDate>Mon, 05 Feb 2024 02:28:32 GMT</pubDate>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240205095856</guid>
             <pubDate>Mon, 05 Feb 2024 02:28:32 GMT</pubDate>
             <content:encoded><![CDATA[주요 게임사가 지난해 실적을 순차적으로 공개한다. 넥슨·크래프톤·네오위즈 등을 제외한 대부분의 게임사는 기대에 미치지 못하는 실적을 기록했다고 알려진 만큼 각 게임사가 올해 출...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 비전프로, 분해해봤더니 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240205085148</link>
-            <guid>https://zdnet.co.kr/view/?no=20240205085148</guid>
-            <pubDate>Mon, 05 Feb 2024 02:28:32 GMT</pubDate>
-            <content:encoded><![CDATA[모바일 기기 수리 지원 업체 아이픽스잇이 애플의 혼합현실(MR) 헤드셋 '비전프로'를 분해해 공개했다고 맥루머스 등 외신들이 4일(현지시간) 보도했다. 공개된 영상(▶자세히 보...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AMAT코리아, '위드하모니 오케스트라 프로그램' 5년 연속 지원 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240205085805</link>
-            <guid>https://zdnet.co.kr/view/?no=20240205085805</guid>
-            <pubDate>Mon, 05 Feb 2024 02:28:32 GMT</pubDate>
-            <content:encoded><![CDATA[어플라이드머티어리얼즈코리아(이하 AMAT코리아)는 초록우산 어린이재단과 업무협약(MOU)을 맺고 '위드하모니 오케스트라 프로그램'을 5년 연속 후원한다고 5일 밝혔다. 초록우산...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
