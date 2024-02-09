@@ -4,16 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Feb 2024 03:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2024 04:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사람대신 AI로 데이터 수집부터 분석까지…"AI 서비스 개선 도와" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240208151545</link>
+            <guid>https://zdnet.co.kr/view/?no=20240208151545</guid>
+            <pubDate>Fri, 09 Feb 2024 04:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[국내 스타트업이 인공지능(AI) 기술을 활용해 AI 서비스 기능을 개선하고 있다. AI 서비스 핵심 요소인 데이터 수집부터 가공·라벨링에 드는 시간을 줄이는 솔루션이 줄줄이 나...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/23/5670ff5a6b4318e238e39dd63d713d04-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NXC의 코빗 지분 매각說...업계 내 다양한 해석 눈길 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240208175806</link>
+            <guid>https://zdnet.co.kr/view/?no=20240208175806</guid>
+            <pubDate>Fri, 09 Feb 2024 04:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[NXC가 가상자산 거래소 코빗 지분 매각을 고려 중이라는 소식이 가상자산 업계와 게임업계의 이목을 집중시킨다. NXC와 거래소의 입장이 엇갈리는 가운데 이런 소문이 나오게 된 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/22/8bdac45f66d73e076869565e631bb1f0-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부음] 신영빈 지디넷코리아 기자 부친상 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240209125123</link>
+            <guid>https://zdnet.co.kr/view/?no=20240209125123</guid>
+            <pubDate>Fri, 09 Feb 2024 04:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[▲신현호(향년 71세)씨 별세, 영빈(지디넷코리아 기자), 유빈씨 부친상=9일, 광주광역시 금호장례식장(062-227-4000), 발인 11일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡이츠·요기요·배민, 설 연휴 할인 혜택 챙겨볼까 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240207204134</link>
             <guid>https://zdnet.co.kr/view/?no=20240207204134</guid>
             <pubDate>Fri, 09 Feb 2024 03:17:39 GMT</pubDate>
             <content:encoded><![CDATA[갑진년 설 명절을 맞아 쿠팡이츠·요기요·배달의민족(이하 배민) 등 배달앱 서비스가 각종 할인 행사를 진행하고 있다. 9일 배달업계에 따르면 쿠팡이츠는 지난 6일부터 떡국·전·회...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/08/69254789dcef33cfa7881b551f0292c9-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["친애하는 나의 안녕"...내 지갑터는 '로맨스스캠'을 아시나요? (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240208162436</guid>
             <pubDate>Fri, 09 Feb 2024 03:17:39 GMT</pubDate>
             <content:encoded><![CDATA[#사례 1. 지난해 겨울. 퇴근길 심드렁히 개인 SNS를 보던 A씨는 낯선 남자가 자신의 계정에 좋아요를 누른 것을 확인했다. 좋아요를 누른 계정을 방문하니 한 눈에 봐도 훤칠...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/08/7e7cf53c155c7094a51915e078fb2a28-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[명절 가사 부담 덜어주는 '효도 가전' 관심↑ (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240208172812</guid>
             <pubDate>Fri, 09 Feb 2024 02:20:40 GMT</pubDate>
             <content:encoded><![CDATA[엔데믹 이후 해외를 찾는 여행객 숫자가 꾸준히 증가한 가운데, 이번 설 명절에도 많은 여행객이 해외로 떠날 것으로 예상된다. 특히 해외에서도 휴대폰을 이용할 수 있는 로밍 상품...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[역대 최대 매출낸 신세계·롯데·현대百, 올해도 본업 경쟁력 키운다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240208175036</link>
-            <guid>https://zdnet.co.kr/view/?no=20240208175036</guid>
-            <pubDate>Fri, 09 Feb 2024 02:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 고금리·고물가로 인한 소비 심리 위축에도 신세계·현대·롯데백화점이 모두 역대 최대 매출을 올렸다. 백화점 주요 점포가 최대 성과를 거두면서 매출이 늘었는데, 콘텐츠와 공...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비트코인 5% 급등, 4만5000달러 돌파 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240209075830</link>
-            <guid>https://zdnet.co.kr/view/?no=20240209075830</guid>
-            <pubDate>Fri, 09 Feb 2024 02:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[비트코인이 미국증시가 랠리하고 비트코인 고래(대규모 투자자)들이 비트코인을 매집하고 있다는 소식으로 5% 급등, 4만5000달러를 돌파했다. 8일 오후 11시 현재(한국시간 기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[설 연휴 대전 국립중앙과학관 전관 무료개방 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240209072028</link>
-            <guid>https://zdnet.co.kr/view/?no=20240209072028</guid>
-            <pubDate>Fri, 09 Feb 2024 02:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[국립중앙과학관(관장 이석래)이 설 연휴 기간인 9일부터 12일까지 전관을 무료 개방한다. 단, 설 당일인 10일은 휴관한다. 과학관은 설 연휴 이벤트로 '여의주 대모험'을 기획...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
