@@ -4,16 +4,56 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 02:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 03:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이피알, 새해 첫 코스피 입성…2월 말 상장 예상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240213113204</link>
+            <guid>https://zdnet.co.kr/view/?no=20240213113204</guid>
+            <pubDate>Tue, 13 Feb 2024 03:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 뷰티테크 기업 에이피알이 13일 서울 여의도 콘래드호텔에서 기자 간담회를 개최하고, 새해 코스피 기업공개(IPO) 계획과 상장 이후 미래 사업 비전과 전략을 알렸다. 에...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/13/35fa48371f57ea3f8404b9f39dadac7a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시스코-엔비디아, 'AI 네트워킹' 동맹 체결]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240213115639</link>
+            <guid>https://zdnet.co.kr/view/?no=20240213115639</guid>
+            <pubDate>Tue, 13 Feb 2024 03:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[시스코와 엔비디아가 인공지능(AI) 네트워킹 인프라 동맹을 체결했다. 시스코는 지난 6월 암스테르담에서 개최한 '시스코 라이브'에서 엔비디아와 AI 인프라 솔루션 파트너십을 발...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/13/0d36e8706b0d3bfa7c14b058f76b0534-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[XPLA-오아시스, 日에 웹3 게임 선보인다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240213101201</link>
+            <guid>https://zdnet.co.kr/view/?no=20240213101201</guid>
+            <pubDate>Tue, 13 Feb 2024 03:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 블록체인 메인넷 XPLA(엑스플라)는 '오아시스'와 함께 레이어2 체인을 구축하고 웹3 게임을 선보여 일본 시장 공략을 본격화한다고 13일 밝혔다. XPLA는 상반기 중...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[르노코리아, 'BMW ADAS' 개발한 신규 임원 영입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240213114009</link>
+            <guid>https://zdnet.co.kr/view/?no=20240213114009</guid>
+            <pubDate>Tue, 13 Feb 2024 03:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[르노코리아자동차가 소프트웨어 중심의 차량 개발을 위해 소프트웨어 및 전기·전자 전문가인 레지스 브리뇽(Regis Brignon)을 2월부터 새로운 디렉터로 영입했다고 13일 밝...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[정부-의사단체 '강대강' 치킨게임에 하다하다 가짜뉴스까지]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240213112106</link>
+            <guid>https://zdnet.co.kr/view/?no=20240213112106</guid>
+            <pubDate>Tue, 13 Feb 2024 03:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 2025학년도부터 의과대학 정원을 기존보다 2천명 증원하기로 결정하면서 이를 반대해 온 의사단체와의 갈등이 악화일로의 상황에 놓였다. 박민수 보건복지부 제2차관은 13일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한독-소비, 희귀질환 비즈니스를 위한 합작법인 설립]]></title>
             <link>https://zdnet.co.kr/view/?no=20240213112058</link>
             <guid>https://zdnet.co.kr/view/?no=20240213112058</guid>
             <pubDate>Tue, 13 Feb 2024 02:21:29 GMT</pubDate>
             <content:encoded><![CDATA[한독은 글로벌 바이오제약기업 소비(Swedish Orphan Biovitrum, Sobi)와 희귀질환 비즈니스를 위한 합작법인을 설립키로 지난 6일 이사회에서 결의했다고 밝혔다...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/13/47863196521abe66e725527624b5a83c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한화, 사우디 국가방위부와 방산 협력 MOU체결]]></title>
@@ -21,7 +61,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240213112052</guid>
             <pubDate>Tue, 13 Feb 2024 02:21:29 GMT</pubDate>
             <content:encoded><![CDATA[한화가 사우디아라비아와 함께 중동의 지정학적위기에 대응하고, 현지 방위산업 육성을 위한 협력 관계를 구축했다. 한화에어로스페이스, 한화시스템은 사우디아라비아 리야드에서 열린 '...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/13/c502c87de1eda045eba93d3b7f3e2b36-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[토스뱅크 환전돌풍…KB·BNK부산銀 "우린 집까지 배달"]]></title>
@@ -125,46 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240213104648</guid>
             <pubDate>Tue, 13 Feb 2024 02:21:29 GMT</pubDate>
             <content:encoded><![CDATA[정부가 의과대학 정원 증원이 오는 4월에 있을 국회의원 총선거용 발표이며, 선거 이후 의료계와 정원 규모 축소를 재논의할 것이란 주장에 대해 사실이 아니라고 선을 그었다. 박민...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[부동산 장기 불황...오늘의집·알스퀘어 신사업으로 뚫는다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240213093707</link>
-            <guid>https://zdnet.co.kr/view/?no=20240213093707</guid>
-            <pubDate>Tue, 13 Feb 2024 02:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 상업용 부동산 시장 전문가들은 '상저하고'를 예상했으나, 하반기도 매서운 칼바람이 불었다. 물류센터 과잉 공급이 해결되지 않았고, 건설사의 부동산 프로젝트 파이낸싱(PF...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["애플 비전프로 전용 앱, 절반 이상이 유료"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240213093827</link>
-            <guid>https://zdnet.co.kr/view/?no=20240213093827</guid>
-            <pubDate>Tue, 13 Feb 2024 02:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[애플의 혼합현실(MR) 헤드셋 '비전프로' 전용 앱의 절반 이상이 유료라는 조사 결과가 나왔다. IT매체 테크크런치는 13일(현지시간) 모바일 분석업체 앱피규어스(Appfigu...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[황건일 신임 금통위원 "대내외 경제 여건 녹록지 않아"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240213095831</link>
-            <guid>https://zdnet.co.kr/view/?no=20240213095831</guid>
-            <pubDate>Tue, 13 Feb 2024 02:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[신임 금융통화위원회(금통위) 위원으로 황건일 전 세계은행 상임이사가 취임하면서 대내외 경제 여건이 녹록지 않은 만큼 최선을 다해 업무에 응하겠다고 밝혔다. 13일 황건일 신임 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인도 정부, 올해 5G 주파수 추가 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240213102859</link>
-            <guid>https://zdnet.co.kr/view/?no=20240213102859</guid>
-            <pubDate>Tue, 13 Feb 2024 02:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[인도가 올해 5G 주파수 경매를 진행한다. 새롭게 공급하는 주파수의 기준 가격은 9천630억 인도루피(INR)다. 한화로 15조4천억원 수준이다. 12일(현지시간) RCR와이어...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[업비트-빗썸, 가상자산 플레이댑 입출금 일시 중단]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240213102342</link>
-            <guid>https://zdnet.co.kr/view/?no=20240213102342</guid>
-            <pubDate>Tue, 13 Feb 2024 02:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[업비트와 빗썸이 가상자산 플레이댑 입출금을 일시 중단했다. 최근 플레이댑에 발생한 보안 문제로부터 이용자를 보호하기 위한 조치다. 플레이댑 프로젝트는 지난 10일 X(구 트위터...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
