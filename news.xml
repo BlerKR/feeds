@@ -4,16 +4,48 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 03:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 04:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쎌바이오텍, 유산균 11종 美FDA에 등재]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240222131604</link>
+            <guid>https://zdnet.co.kr/view/?no=20240222131604</guid>
+            <pubDate>Thu, 22 Feb 2024 04:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[미국 식품의약국(FDA)이 쎌바이오텍의 국산 유산균 11종에 대해 안전성 인정(GRAS)'을 결정했다. 현재까지 美 FDA GRAS에 등재 유산균은 ▲덴마크 크리스찬 한센 9종...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/22/61b2cdf902a02ffc8e0bce4f86401d97-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포스코퓨처엠, NCA 양극재 생산량 8만톤까지 늘린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240222112052</link>
+            <guid>https://zdnet.co.kr/view/?no=20240222112052</guid>
+            <pubDate>Thu, 22 Feb 2024 04:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[포스코퓨처엠이 포항에 이어 광양에도 고부가가치 하이니켈 니켈·코발트·알루미늄(NCA) 양극재 전용 공장 건설에 나섰다. 포스코퓨처엠은 22일 전남 광양 율촌제1산업단지에서 포스...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/22/d21b4c3e97441b7c8607a22a4c54ea8c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위메이드 "블록체인이 할 일...게임-디파이 넘어 더욱 많아진다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240222124941</link>
+            <guid>https://zdnet.co.kr/view/?no=20240222124941</guid>
+            <pubDate>Thu, 22 Feb 2024 04:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[위메이드 서원일 사업개발부문장이 블록체인 산업에 대한 긍정적인 견해를 전했다. 서원일 사업개발부문장은 22일 서울 강남에서 진행된 쟁글 블록체인 파운데이션 위크 2024에 자리...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ETRI, MWC서 신기술 4건 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240222112223</link>
+            <guid>https://zdnet.co.kr/view/?no=20240222112223</guid>
+            <pubDate>Thu, 22 Feb 2024 04:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[국내 연구진이 스페인 바르셀로나에서 열리는 세계 최대 모바일 전시회인 모바일 월드 콩그레스(MWC)에 4건의 최신 연구성과를 공개한다. 한국전자통신연구원(ETRI)은 오는 26...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["韓, 中 대신해 배터리 공급기지 될 잠재력 있어"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240222095505</link>
             <guid>https://zdnet.co.kr/view/?no=20240222095505</guid>
             <pubDate>Thu, 22 Feb 2024 03:16:56 GMT</pubDate>
             <content:encoded><![CDATA[한국이 글로벌 배터리 공급기지가 될 수 있는 잠재력을 보유하고 있으며, 이를 실현하기 위한 국가 차원의 전략이 필요하다는 주장이 제기됐다. 대한상공회의소 SGI(지속성장이니셔티...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/25/07bbb6b6f4d4891bbb13ee4089517738-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[갤S23 등 9개 모델, 3월말부터 실시간통역 등 AI 기능 쓴다]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240222103201</guid>
             <pubDate>Thu, 22 Feb 2024 03:16:56 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 갤럭시S24 시리즈에서 첫 선을 보인 '갤럭시AI' 기능을 갤럭시S23 등 지난해 출시한 주요 모델에 지원한다. 삼성전자는 3월 말부터 갤럭시S23 시리즈(S23·S...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/01/17/c0bf38ef28cf1a4166bffec8236b6975.gif" length="0" type="image/gif"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공정위, 허위 하도급 단가 기재한 쿠팡에 과징금...쿠팡 "불복 소송"]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240222110857</guid>
             <pubDate>Thu, 22 Feb 2024 02:21:02 GMT</pubDate>
             <content:encoded><![CDATA[위메이드가 37게임즈와 '미르4' 중국 퍼블리싱 계약을 체결했다. 미르4는 2001년 중국에서 출시된 국민 게임 반열에 오른 '미르의 전설2'의 500년이 흐른 세계를 배경으로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[동남아시아 한류, 패러다임을 전환할 때다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240222110357</link>
-            <guid>https://zdnet.co.kr/view/?no=20240222110357</guid>
-            <pubDate>Thu, 22 Feb 2024 02:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[최근 한류와 관련된 몇 가지 흥미로운 소식이 해외로부터 들려왔다. 하나는 세계적인 음료회사 코카콜라(Coca Cola)가 한글로 코카콜라를 표기한 새 상품을 내놨다는 것이다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["퀀텀컴퓨팅 시대, 우리가 주도"…두산 SI, IBM과 손잡았다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240222110923</link>
-            <guid>https://zdnet.co.kr/view/?no=20240222110923</guid>
-            <pubDate>Thu, 22 Feb 2024 02:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[두산디지털이노베이션(DDI)이 IBM과 손잡고 퀀텀컴퓨팅 시대를 대비하기 위해 선제적으로 나섰다. DDI는 지난 20일 분당 두산타워에서 '퀀텀 엑셀러레이터 프로그램 킥오프(Q...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["MS 애저보다 빠르다"…美 스타트업 그로크, AI 칩으로 시장 판도 흔들까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240222105956</link>
-            <guid>https://zdnet.co.kr/view/?no=20240222105956</guid>
-            <pubDate>Thu, 22 Feb 2024 02:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[거대언어모델(LLM)의 추론·응답 속도를 높인 인공지능(AI) 칩이 나왔다. 엔비디아 그래픽처리장치(GPU)보다 더 빠른 속도를 갖췄다는 점에서 업계의 주목을 받고 있다. 22...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[100개 병원 전공의 10명 중 7명 사직…전날보다 459명 늘어]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240222110254</link>
-            <guid>https://zdnet.co.kr/view/?no=20240222110254</guid>
-            <pubDate>Thu, 22 Feb 2024 02:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[100개 수련병원 소속 전공의 10명 중 7명이 사직서를 제출하고, 이들 가운데 근무지를 이탈한 사람은 211명이 늘어난 8천24명으로 집계됐다. 의사 집단행동 중앙사고수습본부...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
