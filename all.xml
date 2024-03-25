@@ -4,16 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 03:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 04:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중소게임사는 어떻게 AI를 활용할까 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240321101750</link>
+            <guid>https://zdnet.co.kr/view/?no=20240321101750</guid>
+            <pubDate>Mon, 25 Mar 2024 04:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 기술의 급격한 발전이 글로벌 산업시장의 화두가 되고 있다. AI 관련 연구에 관심을 보였던 국내 게임업계도 최근 더욱 박차를 가하는 모양새다. 특히 최근에는 대...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/22/b7b23855b445eb1677174be57cfccc17-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주니퍼네트웍스, 강화된 파트너 프로그램 발표 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240325124016</link>
+            <guid>https://zdnet.co.kr/view/?no=20240325124016</guid>
+            <pubDate>Mon, 25 Mar 2024 04:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[주니퍼네트웍스는 새롭게 확장된 '글로벌 주니퍼 파트너 어드밴티지(JPA)' 프로그램을 25일 발표했다. 새로운 프로그램은 파트너가 AI옵스를 활용해 고객에게 매니지드 네트워킹 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/02/03/143ddc57ce9a4639bcf9abf7a1f114a9-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오라클, 자바22 발표 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240325123201</link>
+            <guid>https://zdnet.co.kr/view/?no=20240325123201</guid>
+            <pubDate>Mon, 25 Mar 2024 04:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[오라클은 자바의 최신 버전인 '자바 22'를 출시한다고 25일 발표했다. 개발자는 자바 22(오라클 JDK 22)의 수천 개의 성능 및 안정성, 보안성 관련 개선 사항을 활용해...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한컴, AI 생체인식 기술력 강화…페이스피에 전략적 투자 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240325112558</link>
             <guid>https://zdnet.co.kr/view/?no=20240325112558</guid>
             <pubDate>Mon, 25 Mar 2024 03:19:22 GMT</pubDate>
             <content:encoded><![CDATA[한글과컴퓨터(대표 변성준·김연수)가 스페인 기업 페이스피에 투자해 인공지능(AI) 생체인식 기술력 강화를 본격화한다. 한컴은 스페인 바르셀로나에서 김연수 한컴 대표와 하비에르 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/03/25/a28c78281be4775948b586f46d0a2157-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[은행권 홍콩ELS 배상 이번주 윤곽…우리은행 절차 안내 시작 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240325101022</guid>
             <pubDate>Mon, 25 Mar 2024 03:19:22 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 내로 은행권의 홍콩H지수 연계 증권(ELS) 대규모 손실과 관련해 일부 불완전판매가 있었던 투자자 대상으로 배상 윤곽이 나올 것으로 관측된다. 25일 금융업계는 KB국...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/09/04/32162fefc6a92f1ada14a36b0ac808da-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[엔씨소프트 "우리는 게임업계 AI 퍼스트 무버" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240325095501</guid>
             <pubDate>Mon, 25 Mar 2024 02:24:43 GMT</pubDate>
             <content:encoded><![CDATA[팻 겔싱어 인텔 CEO가 일론 머스크 테슬라 CEO에 팹(반도체 생산시설) 개인 투어를 제안했다. 자율주행 반도체를 자체 설계하는 테슬라 수주를 염두에 둔 행보로 보인다. 인텔...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신학철 부회장 "석화·EP 매각 계획 없다…원료경쟁력 확보 옵션 검토" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240325102911</link>
-            <guid>https://zdnet.co.kr/view/?no=20240325102911</guid>
-            <pubDate>Mon, 25 Mar 2024 02:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[신학철 LG화학 부회장이 석유화학과 EP(첨단소재 부문) 사업 매각 계획이 없다고 밝혔다. 신학철 부회장은 25일 서울 영등포구 LG트윈타워에서 열린 LG화학 주주총회가 끝나고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[갤럭시Z플립6, 스냅드래곤·엑시노스 칩 병행 탑재설 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240325094924</link>
-            <guid>https://zdnet.co.kr/view/?no=20240325094924</guid>
-            <pubDate>Mon, 25 Mar 2024 02:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자의 차세대 폴더블폰 갤럭시Z플립6에 삼성전자 엑시노스 칩과 퀄컴 스냅드래곤 칩이 병행 탑재될 것이라는 전망이 나왔다. IT매체 샘모바일은 24일(현지시간) IT 팁스터 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공영홈쇼핑, 사회적기업·장애인기업판로지원사업 참여기업 모집 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240325111117</link>
-            <guid>https://zdnet.co.kr/view/?no=20240325111117</guid>
-            <pubDate>Mon, 25 Mar 2024 02:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[공영홈쇼핑(대표 조성호)이 한국사회적기업진흥원 및 (재)장애인기업종합지원센터와 함께 사회적 약자기업의 혁신제품을 발굴, 성공적 자립을 위한 판로지원 사업을 추진한다. 공영홈쇼핑...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
