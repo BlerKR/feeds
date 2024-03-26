@@ -4,16 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 02:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 03:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조주완 LG전자 CEO "전장·B2B·XR로 2030년 매출 100조원 달성" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240326121456</link>
+            <guid>https://zdnet.co.kr/view/?no=20240326121456</guid>
+            <pubDate>Tue, 26 Mar 2024 03:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[LG전자가 플랫폼 기반 서비스, B2B, 전장·로봇·XR 등 미래사업으로 포트폴리오 전환을 통해 2030년 매출 100조 기업으로 성장을 가속화할 계획이다. LG전자가 26일 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/26/46bba0fcced8fc040955bed50f32771a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이구영 한화솔루션 "올해·내년, 잉여현금흐름 없어도 배당할 것" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240326105600</link>
+            <guid>https://zdnet.co.kr/view/?no=20240326105600</guid>
+            <pubDate>Tue, 26 Mar 2024 03:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[한화솔루션이 올해와 내년 남은 2년간 잉여현금흐름이 없더라도 배당을 실시하기로 했다. 이구영 한화솔루션 대표는 26일 서울 중구 로얄호텔서울에서 열린 정기주주총회에서 이같은 배...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/26/8b92ed2fff08189c86ee51b072ce03c6-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파워큐브세미, 전력반도체 2300V SiC MOSFET 개발 완료 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240326085601</link>
+            <guid>https://zdnet.co.kr/view/?no=20240326085601</guid>
+            <pubDate>Tue, 26 Mar 2024 03:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[파워큐브세미는 국내 최초로 2300V SiC(실리콘카바이드) MOSFET 반도체 개발에 성공했다고 26일 밝혔다. SiC(탄화규소)는 기존 Si(실리콘) 기반의 반도체 대비 견...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[어드밴텍-마키나락스, AI용 임베디드 서버 공동 개발 MOU 체결 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240326112307</link>
             <guid>https://zdnet.co.kr/view/?no=20240326112307</guid>
             <pubDate>Tue, 26 Mar 2024 02:24:28 GMT</pubDate>
             <content:encoded><![CDATA[어드밴텍케이알(대표 정준교)는 마키나락스(대표 윤성호)와 AI 플랫폼 임베디드 서버를 공동 개발하기 위한 양해각서(MOU)를 체결했다고 26일 발표했다. 양사는 기술력과 전문 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/03/26/d1479b291e3c690ef7c7e7b1fe2d4d33-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[카카오게임즈, 글로벌 개인정보보호 인증 'APEC CBPR' 취득 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240326101638</guid>
             <pubDate>Tue, 26 Mar 2024 02:24:28 GMT</pubDate>
             <content:encoded><![CDATA[카카오게임즈(대표 조계현)는 글로벌 개인정보보호 인증인 '아시아 태평양 경제협력체 국경 간 프라이버시 규칙(Asia-Pacific Economic Cooperation Cros...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/03/26/6feafca57024fab0838ff1b7168eff60-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[퀀텀, AI 모델 개발 지원하는 테이프 스토리지 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240326103715</guid>
             <pubDate>Tue, 26 Mar 2024 02:24:28 GMT</pubDate>
             <content:encoded><![CDATA[코드스테이츠가 초개인화 학습 플랫폼인 'DT Lab'을 출시했다. DT Lab은 코드스테이츠의 전문연구진이 설계한 역량진단을 통해 학습자의 수준을 확인하고, 이를 토대로 최적화...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김지민 "♥김준호 결혼 얘기 없어…비즈니스 커플 같다" 서운함 토로 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240326103619</link>
-            <guid>https://zdnet.co.kr/view/?no=20240326103619</guid>
-            <pubDate>Tue, 26 Mar 2024 02:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[김지민이 프러포즈를 하지 않는 김준호에게 서운한 마음을 드러냈다. 25일 방송된 TV조선 예능 프로그램 '조선의 사랑꾼'에서는 김지민이 절친 황보라, 정이랑과 술자리를 가지는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["왜 울어" 생후 2개월 아기 뺨 때린 산후도우미 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240326103511</link>
-            <guid>https://zdnet.co.kr/view/?no=20240326103511</guid>
-            <pubDate>Tue, 26 Mar 2024 02:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[태어난 지 두 달도 안 된 아기를 거칠게 흔들고 뺨까지 때린 60대 정부 지원 산후도우미가 아동 학대 혐의로 고소당했다. 25일 SBS '8뉴스'에서는 정부 지원 산후도우미의 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[잡코리아·알바몬, '한국산업의 브랜드파워' 2년 연속 1위 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240326102337</link>
-            <guid>https://zdnet.co.kr/view/?no=20240326102337</guid>
-            <pubDate>Tue, 26 Mar 2024 02:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[잡코리아가 운영하는 종합 커리어 플랫폼 '잡코리아'와 아르바이트 플랫폼 '알바몬'이 '2024년 한국산업의 브랜드파워(K-BPI)'에서 2년 연속 1위에 올랐다고 26일 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
