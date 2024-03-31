@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 02:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 03:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2Q 기업 체감경기, 전기·반도체 '맑음' 철강·석화 '흐림']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240331095902</link>
+            <guid>https://zdnet.co.kr/view/?no=20240331095902</guid>
+            <pubDate>Sun, 31 Mar 2024 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[올해 2분기 제조업 경기전망지수가 두 자릿수 상승세를 보이면서 우리 경기회복에 대한 기대감이 높아지고 있는 것으로 나타났다. 대한상공회의소가 전국 2천230개 제조기업을 대상으...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/18/5e6965137228900367650032d90368dd-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A4용지 5장 무게 마우스 '마이에어제로' 써보니]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240331115848</link>
+            <guid>https://zdnet.co.kr/view/?no=20240331115848</guid>
+            <pubDate>Sun, 31 Mar 2024 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[해외 크라우드펀딩을 통해 인기를 끈 'myAir.0'(이하 마이에어제로) 폴더블 마우스가 국내 정식 판매된다. 종이비행기 같기도, 풍뎅이 같기도 한 마이에어제로 마우스는 노트북...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/31/dc1c2beeeb078aa5e7debdfab0ef72a2.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[3월 31일 '세계 백업의 날'...당신의 데이터는 안전합니까]]></title>
             <link>https://zdnet.co.kr/view/?no=20240331002700</link>
             <guid>https://zdnet.co.kr/view/?no=20240331002700</guid>
             <pubDate>Sun, 31 Mar 2024 02:25:31 GMT</pubDate>
             <content:encoded><![CDATA[3월 31일은 '세계 백업의 날'(World Backup Day)이다. HDD(하드디스크 드라이브)를 잃어버린 한 소비자가 2011년 커뮤니티 '레딧'에 글을 올려 "중요한 데...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/06/7d5c93acaeae17211be90384158b1267-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[ZD 브리핑] 5일부터 이틀간 4.10 총선 사전투표 실시]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240331105749</guid>
             <pubDate>Sun, 31 Mar 2024 02:25:31 GMT</pubDate>
             <content:encoded><![CDATA[지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스' 는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/03/31/b1ceb0e0096281eb37060de31732bd64-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[에너지 효율 1등급 '아이오닉6', 내연차 대비 125만원 절약]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240331082358</guid>
             <pubDate>Sun, 31 Mar 2024 02:25:31 GMT</pubDate>
             <content:encoded><![CDATA[챗GPT를 만든 오픈AI와 마이크로소프트가 최대 1000억 달러(약 135조 원)를 투자해 인공지능(AI)전용 슈퍼컴퓨터를 만든다. 최근 디인포메이션 등 외신은 마이크로소프트와...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 'AI로 새봄 새단장' 프로모션 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240331090418</link>
-            <guid>https://zdnet.co.kr/view/?no=20240331090418</guid>
-            <pubDate>Sun, 31 Mar 2024 02:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자는 4월 1일부터 5월 31일까지 전국 오프라인 매장에서 삼성 AI가전을 다양한 혜택으로 구매할 수 있는 '삼성 AI로 새봄 새단장' 프로모션을 실시한다. 예비 부부와 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 세탁기·건조기, AI 기능으로 해외 매체 호평 잇따라]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240331085722</link>
-            <guid>https://zdnet.co.kr/view/?no=20240331085722</guid>
-            <pubDate>Sun, 31 Mar 2024 02:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자 세탁기와 건조기 제품이 인공지능(AI)와 스마트싱스 기능으로 미국, 영국의 주요 리뷰 매체들로부터 최고의 제품으로 평가를 받고 있다. 미국 CBS(CBS News)는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
