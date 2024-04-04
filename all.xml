@@ -4,16 +4,56 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 03:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 04:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무하유, 한수원에 'GPT 킬러' 공급…"자소서 사용여부 판결" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240404110202</link>
+            <guid>https://zdnet.co.kr/view/?no=20240404110202</guid>
+            <pubDate>Thu, 04 Apr 2024 04:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[챗GPT 사용 여부를 걸러낼 수 있는 인공지능이 등장했다. 기업 채용 자기소개서에도 챗GPT 사용 여부를 분별할 수 있어 지원자 평가가 수월해질 전망이다. 무하유는 한국수력원자...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/04/04/81035b6f8f13458ff2a5c4b3460e1fa2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠콘, '청년 우대 소득확인 증명' API 제공 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240404112023</link>
+            <guid>https://zdnet.co.kr/view/?no=20240404112023</guid>
+            <pubDate>Thu, 04 Apr 2024 04:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[쿠콘(대표 김종현)이 청약 통장 가입에 필요한 서류를 온라인에서 발급·제출해주는 API를 공개했다. 쿠콘은 '청년 우대 소득확인 증명' API 제공을 통해 청년 주택드림 청약 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/04/04/c7c0e02973edd628c329d1ff0289329c-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[하이크, 디오리진과 콘텐츠 사업 확대 MOU 체결 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240404131259</link>
+            <guid>https://zdnet.co.kr/view/?no=20240404131259</guid>
+            <pubDate>Thu, 04 Apr 2024 04:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[하이크(대표 미카미 마사타카)는 종합 콘텐츠 IP 홀딩스 스타트업 디오리진(대표 정재식, 성대경)과 양해각서를 체결하고 콘텐츠 사업 확대를 위해 상호 협력하기로 결의했다고 4일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LG총수 일가, 상속세 일부 소송서 패소 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240404111045</link>
+            <guid>https://zdnet.co.kr/view/?no=20240404111045</guid>
+            <pubDate>Thu, 04 Apr 2024 04:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[구광모 LG그룹 회장 등 오너 일가가 상속세 중 일부를 취소해달라며 세무당국을 상대로 낸 소송 1심에서 패소했다. 서울행정법원 행정5부(김순열 부장판사)는 4일 구 회장, 모친...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[GIST 발전후원회 부회장에 반재경·김상균 씨 영입 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240404124250</link>
+            <guid>https://zdnet.co.kr/view/?no=20240404124250</guid>
+            <pubDate>Thu, 04 Apr 2024 04:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[·광주과학기술원(GIST, 총장 임기철)은 반재경 거명이앤씨㈜ 대표이사와 김상균 사회복지공동모금회 전 사무총장을 각각 GIST 발전후원회 부회장으로 임명했다고 4일 밝혔다. 반...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[의료이용 피해신고 1개월 반 동안 618건 접수…수술지연 최다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240404120538</link>
             <guid>https://zdnet.co.kr/view/?no=20240404120538</guid>
             <pubDate>Thu, 04 Apr 2024 03:19:38 GMT</pubDate>
             <content:encoded><![CDATA[보건복지부가 운영중인 의사 집단행동 피해신고·지원센터에 2월19일부터 4월3일까지 2천98건의 상담이 접수된 것으로 나타났다. 대부분은 의료이용불편상담으로 1천240건에 달했고...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/21/87105c4859359036a8743b866bb8368e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[에기연-삼성전기-범한퓨얼셀, 차세대 수소생산 가속 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +61,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240404105622</guid>
             <pubDate>Thu, 04 Apr 2024 03:19:38 GMT</pubDate>
             <content:encoded><![CDATA[한국에너지기술연구원과 삼성전기,범한퓨얼셀이 차세대 수소생산에 속도를 냈다. 한국에너지기술연구원(이하 '에너지연')은 수소연구단 유지행 박사 연구진이 차세대 수전해 기술로 주목받...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/04/04/feb948f4d1580b2c39a74dff0d3dad27-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국민들 택한 인기 공약은?…與 예금자보호한도↑·野 주4일제 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -125,46 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240404104624</guid>
             <pubDate>Thu, 04 Apr 2024 02:25:28 GMT</pubDate>
             <content:encoded><![CDATA[이종격투기 선수 추성훈 딸인 추사랑의 근황이 공개됐다. 지난 3일 유튜브 채널 '슈퍼마켙 소라'에는 '추성훈, 중년의 멋짐을 보여주는 상남자의 로맨스, 이소라의 슈퍼마켙 소라 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김종국 "결혼하고 싶은데…연예세포 예전 같지 않아" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240404104556</link>
-            <guid>https://zdnet.co.kr/view/?no=20240404104556</guid>
-            <pubDate>Thu, 04 Apr 2024 02:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[댄스듀오 '터보' 출신 김종국이 결혼에 대한 의지를 밝혔다. 지난 3일 방송된 MBC TV 예능물 '라디오스타'는 '히어로O난감' 특집으로 꾸며졌다. 게스트로 김종국, 헤어디자...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아임웹, 중소기업 웹사이트·쇼핑몰 구축비 80% 지원 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240404104015</link>
-            <guid>https://zdnet.co.kr/view/?no=20240404104015</guid>
-            <pubDate>Thu, 04 Apr 2024 02:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[브랜드 빌더 아임웹(대표 이수모)은 과학기술정보통신부와 정보통신산업진흥원이 주관하는 '2024년 중소기업 클라우드 서비스 보급·확산 사업'의 공급기업으로 선정됐다고 4일 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 골프 방송 들어보셨나요 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240404104353</link>
-            <guid>https://zdnet.co.kr/view/?no=20240404104353</guid>
-            <pubDate>Thu, 04 Apr 2024 02:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[SK브로드밴드는 KLPGA KPGA 투어 2024시즌 모든 골프 대회에 Btv 'AI 골프'를 적용해 중계 서비스한다고 4일 밝혔다. AI 골프 서비스는 Btv 채널 977번(...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한미마이크로닉스, 미들타워 PC 케이스 '쿨맥스 버디' 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240404103609</link>
-            <guid>https://zdnet.co.kr/view/?no=20240404103609</guid>
-            <pubDate>Thu, 04 Apr 2024 02:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[한미마이크로닉스가 4일 미들타워 PC 케이스 '쿨맥스 버디'를 출시했다. 이 제품은 심플한 블랙 색상을 바탕으로 조립 편의성을 강화했다. 양 옆 패널은 공구 없이 손으로 돌려 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가비아, AI 기업에 GPU 서비스 57% 할인 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240404103550</link>
-            <guid>https://zdnet.co.kr/view/?no=20240404103550</guid>
-            <pubDate>Thu, 04 Apr 2024 02:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[가비아(대표 김홍국)는 GPU 서비스를 인공지능(AI) 및 딥러닝 관련 기업에게 최대 57% 할인을 제공한다고 4일 밝혔다. 이 이벤트로 AI 서비스를 개발, 제공 중인 기업은...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
