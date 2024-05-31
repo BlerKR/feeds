@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 03:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 04:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[케어링, 3세대 프리미엄 주간보호센터 광주남구점 오픈]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240531131452</link>
+            <guid>https://zdnet.co.kr/view/?no=20240531131452</guid>
+            <pubDate>Fri, 31 May 2024 04:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[요양 서비스 스타트업 케어링(대표 김태성)이 3세대 프리미엄 주간보호센터 광주남구점(이하 광주남구점)을 6월1일 오픈하고 차별화된 요양 서비스를 전국으로 확장한다. 기존의 1세...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/05/31/f263bed4d9080578713f2e5048274063-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[토스뱅크 올 1분기 당기순익 148억원…전년比 152.8%↑]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240531113419</link>
+            <guid>https://zdnet.co.kr/view/?no=20240531113419</guid>
+            <pubDate>Fri, 31 May 2024 04:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[토스뱅크가 올해 1분기 당기순이익이 148억원으로 집계되면서 2023년 3분기 이후 3분기 연속 흑자를 냈다고 31일 밝혔다. 올해 당기순이익은 148억원으로 2023년 1분기...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/05/31/8ef5be35a8b2124f5a9255a42af970ab-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인사]한국재료연구원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240531122655</link>
+            <guid>https://zdnet.co.kr/view/?no=20240531122655</guid>
+            <pubDate>Fri, 31 May 2024 04:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[◇소장/본부장 ▲극한재료연구소장 이창훈 ▲경량재료연구본부장 염종택 ▲재료공정연구본부장 강성훈 ▲나노재료연구본부장 송인혁 ▲융․복합재료연구본부장 이상복 ▲에너지․환경재료연구본부장...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[인사]한국원자력연구원]]></title>
             <link>https://zdnet.co.kr/view/?no=20240531121240</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240531100302</guid>
             <pubDate>Fri, 31 May 2024 02:32:23 GMT</pubDate>
             <content:encoded><![CDATA[세계적인 게임 개발사이자 언리얼 엔진, 스토어 및 디지털 창작 생태계를 위한 모든 것을 제공하는 에픽게임즈의 한국법인 에픽게임즈 코리아(대표 박성철)는 올해 에픽 메가 세일의 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이강욱 SK하이닉스 부사장, 국내 최초 IEEE EPS 어워드 수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240531101337</link>
-            <guid>https://zdnet.co.kr/view/?no=20240531101337</guid>
-            <pubDate>Fri, 31 May 2024 02:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스는 이강욱 부사장(PKG개발 담당)이 30일(미국시간) 콜로라도주 덴버에서 진행된 '전기전자공학자협회(IEEE) 전자패키징학회(EPS) 어워드 2024'에서 한국인 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2038년 '무탄소' 에너지 70% 목표...원전 3기 증설]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240531074531</link>
-            <guid>https://zdnet.co.kr/view/?no=20240531074531</guid>
-            <pubDate>Fri, 31 May 2024 02:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 에너지 발전량 중 원전과 수소, 태양광과 풍력 등 무탄소 발전원 비중을 지난해 약 40% 수준에서 오는 2038년까지 70%로 상향할 계획이다. 이를 위해 원전과 신재생...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[어도어 대표 자리 지킨 민희진, 기자회견 열고 입장 밝힌다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240531102017</link>
-            <guid>https://zdnet.co.kr/view/?no=20240531102017</guid>
-            <pubDate>Fri, 31 May 2024 02:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[어도어 경영권을 지킨 민희진 대표가 기자회견을 열고 어도어 임시주주총회 관련 입장을 밝힐 예정이다. 기자회견은 31일 오후 2시30분 한국프레스센터에서 진행된다. 앞서 이날 오...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
