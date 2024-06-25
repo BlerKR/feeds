@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 03:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 04:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이상인 방통위 부위원장, 태국 NBTC와 정책 의견 공유]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240625130633</link>
+            <guid>https://zdnet.co.kr/view/?no=20240625130633</guid>
+            <pubDate>Tue, 25 Jun 2024 04:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[이상인 방송통신위원회 부위원장은 태국 국가방송통신위원회(NBTC)와 정책을 공유하고 의견을 나눴다. 이 부위원장은 25일 방통위를 방문한 NBTC 수파트 수파차라사이, 피롱롱 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/06/25/f0994e9b41629ee3777a6d7c5fa47fc9-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['IPO 흥행' 자신감 드러낸 시프트업…"스텔라 블레이드, 누적 판매 100만장 추산"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240625125435</link>
+            <guid>https://zdnet.co.kr/view/?no=20240625125435</guid>
+            <pubDate>Tue, 25 Jun 2024 04:20:56 GMT</pubDate>
+            <content:encoded><![CDATA['승리의 여신: 니케(니케)', '스텔라 블레이드'로 글로벌 게이머를 사로잡은 시프트업이 코스피 상장 후 사업 전략과 비전에 대해 발표했다. 시프트업은 25일 여의도 인근 63...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/06/25/e935b1f73b3c489ab5713c4508de3c8c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금전 이익 노리는 랜섬웨어, 더 빠르고 과감해졌다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240625121855</link>
+            <guid>https://zdnet.co.kr/view/?no=20240625121855</guid>
+            <pubDate>Tue, 25 Jun 2024 04:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[“금전적 이익을 노리는 랜섬웨어가 더 많은 이익을 내기 위해 보다 빠르고 과감하게 변하고 있다. 보안이 취약하고 돈을 낼 가능성이 높은 조직을 노려 적극적인 공격을 감행하는 만...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오뱅크 '여행' 중심 환전 No!…"달러를 원화처럼 쓰도록 할 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240625102935</link>
             <guid>https://zdnet.co.kr/view/?no=20240625102935</guid>
             <pubDate>Tue, 25 Jun 2024 03:20:11 GMT</pubDate>
             <content:encoded><![CDATA[카카오뱅크가 여행 때만 쓰는 외환 서비스를 일상에서도 늘 쓸 수 있는 외환 서비스로 거듭나겠다는 목표를 담은 '달러박스'를 출시했다. 25일 서울 강남 부띠크모나코에서 열린 기...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/06/25/7aec0340b15840627ac14f1247ce5ca2-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[유블럭스, 초소형 'LTE Cat 1bis 셀룰러 모듈' 2종 출시]]></title>
@@ -21,10 +45,10 @@
             <guid>https://zdnet.co.kr/view/?no=20240625115743</guid>
             <pubDate>Tue, 25 Jun 2024 03:20:11 GMT</pubDate>
             <content:encoded><![CDATA[위치추적 및 무선통신 부품 기업 유블럭스가 LTE Cat 1bis 셀룰러 연결을 위해 R10 제품군 2종을 출시한다고 밝혔다. 'LEXI-R10 글로벌'은 사람이나 반려동물 추...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/06/25/116c7eea89541ecf6f29d4fe8f03e4f7-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이석우 두나무 대표, DAXA 의장직 올해 말까지 연임]]></title>
+            <title><![CDATA[DAXA, 이석우 의장 체제 올해 말까지 이어간다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240625121053</link>
             <guid>https://zdnet.co.kr/view/?no=20240625121053</guid>
             <pubDate>Tue, 25 Jun 2024 03:20:11 GMT</pubDate>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240625110114</guid>
             <pubDate>Tue, 25 Jun 2024 02:34:36 GMT</pubDate>
             <content:encoded><![CDATA[보험사 보다 최대 32% 저렴한 배달종사자용 공제보험상품이 나왔다. 국토교통부는 배달종사자의 유상운송용 보험료를 낮추고 가입률을 높이기 위해 배달서비스 공제조합(이사장 주용완)...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중고차 플랫폼 엔카와 '기안84'의 만남]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240625105858</link>
-            <guid>https://zdnet.co.kr/view/?no=20240625105858</guid>
-            <pubDate>Tue, 25 Jun 2024 02:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 자동차 거래 플랫폼 엔카닷컴이 2024년 신규 광고 캠페인 모델로 만화가 및 방송인 '기안84'를 발탁했다고 25일 밝혔다. 엔카닷컴은 만능 아티스트로서 예술과 예능...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[11번가, 물놀이용품‧여름철 생필품 할인 판매]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240625103951</link>
-            <guid>https://zdnet.co.kr/view/?no=20240625103951</guid>
-            <pubDate>Tue, 25 Jun 2024 02:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[11번가가 이달 30일까지 물놀이용품과 모기 살충제·제습제 등 여름철 생필품을 할인 판매한다. 11번가는 물놀이 시즌을 미리 준비하는 꼼꼼한 소비자들을 위한 '파워 J의 물놀이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[직장인 중요 가치 1순위...뭐니뭐니 해도 '돈']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240625105659</link>
-            <guid>https://zdnet.co.kr/view/?no=20240625105659</guid>
-            <pubDate>Tue, 25 Jun 2024 02:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[경력 연차에 따라 회사 생활에서 중요하게 생각하는 가치가 다른 것으로 나타났다. '급여' 외에 저연차 직장인들은 '성장 가능성'을, 고연차 직장인들은 '워라밸'을 중요한 가치로...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
