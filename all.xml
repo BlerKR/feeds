@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 02:36:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 03:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KISA, 국민 '디지털 일상' 보호 위해 앞장선다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240709105640</link>
+            <guid>https://zdnet.co.kr/view/?no=20240709105640</guid>
+            <pubDate>Tue, 09 Jul 2024 03:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA)이 사이버 복원력 평가 지표와 도구를 개발하고 국가 핵심 인프라 및 대국민 디지털 일상 보호를 위해 본격 나선다. KISA는 과학기술정보통신부·정보통신...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/09/c486d2f5bf805d2dacfaef76a2cac66f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에오스블랙 띄운 블루포션게임즈, 방치형RPG '고잉 프린세스: 기사단 키우기' 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240709111823</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240709113215</guid>
             <pubDate>Tue, 09 Jul 2024 02:36:12 GMT</pubDate>
             <content:encoded><![CDATA[HPE는 데이터 중심의 지속 가능하고 책임감 있는 기술 솔루션을 창출하기 위해 지난 한 해 (회계연도 2023년 기준) 실천한 기업의 비즈니스 전략과 노력을 담은 '2023 리...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/09/bc2373956800b7d1c5de44ba1751d0f0-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[삼성전자 노조 총파업 이틀째…장기화되면 생산에 차질 우려 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240709104555</guid>
             <pubDate>Tue, 09 Jul 2024 02:36:12 GMT</pubDate>
             <content:encoded><![CDATA[생성형 인공지능(AI)이 전 세계를 강타하면서, 우리나라 금융사도 조금씩 생성형AI를 업무에 도입하고 있다. 오는 10월 망 분리 규제 완화가 이뤄진다면 생성형AI가 광범위하게...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중학교 교사 나체 사진에 '충격'…정부, 딥페이크 범죄 퇴출 나선다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240709104925</link>
-            <guid>https://zdnet.co.kr/view/?no=20240709104925</guid>
-            <pubDate>Tue, 09 Jul 2024 02:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[#. 부산 강서구 소재 한 고등학교 재학생 A군은 동급생 얼굴이 등장하는 음란물을 만들어 판매한 혐의로 최근 조사를 받게 됐다. 지난 5월에도 이 학교에서 B군이 여학생 7명 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
