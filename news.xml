@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jul 2024 02:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 03:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레벨인피니트 '승리의 여신: 니케', 여의도 더현대 팝업스토어 오픈]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240722103703</link>
+            <guid>https://zdnet.co.kr/view/?no=20240722103703</guid>
+            <pubDate>Mon, 22 Jul 2024 03:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[레벨 인피니트는 시프트업이 개발한 미소녀 건슈팅 액션 '승리의 여신: 니케'의 2024 여름 팝업스토어를 더현대 서울에 마련한다고 22일 밝혔다. 이번 팝업스토어는 여름 해변을...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/22/082f6a0ad2fa7cafe4de30ecf7ae8387-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라이엇게임즈 LoL, 여름 맞이 동물특공대 콘텐츠 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240722103344</link>
+            <guid>https://zdnet.co.kr/view/?no=20240722103344</guid>
+            <pubDate>Mon, 22 Jul 2024 03:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[라이엇 게임즈는 PC MOBA(다중사용자 온라인 전투 아레나) 게임 '리그 오브 레전드(League of Legends, 이하 LoL)'에 여름을 맞아 '동물특공대' 콘텐츠를 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/22/1045d55b040ebcabb4680fe8e25a814d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에픽게임즈 '포트나이트', '캐리비안의 해적' 의상 팩 선보여]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240722103004</link>
+            <guid>https://zdnet.co.kr/view/?no=20240722103004</guid>
+            <pubDate>Mon, 22 Jul 2024 03:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[에픽게임즈 코리아(대표 박성철)는 '포트나이트'에 디즈니 영화 '캐리비안의 해적' 협업 이벤트 '저주받은 항해'를 마련했다고 22일 밝혔다. 이번 협업을 기념해 회사 측은 다음...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KB스타뱅킹에 인도네시아어 서비스 시행]]></title>
             <link>https://zdnet.co.kr/view/?no=20240722110355</link>
             <guid>https://zdnet.co.kr/view/?no=20240722110355</guid>
             <pubDate>Mon, 22 Jul 2024 02:38:43 GMT</pubDate>
             <content:encoded><![CDATA[KB국민은행 'KB스타뱅킹'을 인도네시아어로 이용 가능해졌다. KB국민은행은 22일 인도네시아어를 포함해 총 10개 언어(▲영어 ▲중국어 ▲일본어 ▲캄보디아어 ▲베트남어 ▲태국...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/22/06732264599ef145ec9b7d0986a8087a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[유상임 후보자, MS 클라우드 혼란에 "한국만의 ICT 안정성 확보 필요"]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240722112253</guid>
             <pubDate>Mon, 22 Jul 2024 02:38:43 GMT</pubDate>
             <content:encoded><![CDATA[유상임 과학기술정보통신부 장관 후보자가 최근 마이크로소프트(MS) 클라우드 서비스 혼란과 관련해 한국 만의 ICT 안정성 확보 작업이 필요하다고 밝혔다. 유상임 후보자는 22일...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/19/27f4df37b47f6e2193090cff8cb43c45-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[에어팟4, 언제·어떻게 출시되나]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240722105934</guid>
             <pubDate>Mon, 22 Jul 2024 02:38:43 GMT</pubDate>
             <content:encoded><![CDATA[국민연금공단이 위탁운용사로 MBK 파트너스를 선정한 것을 두고 국회에서까지 뒷말이 나오고 있다. 해당 운용사의 과거 이력을 들어 선정 절차에 대한 경위 요구까지 제기된 상황이다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[암 돌연변이 DNA 검출 정확도 96%...상용화 계약 '직전']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240722105916</link>
-            <guid>https://zdnet.co.kr/view/?no=20240722105916</guid>
-            <pubDate>Mon, 22 Jul 2024 02:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[혈액 내 암 돌연변이 유전자를 1억분의 1수준까지 초고민감도로 검출 가능한 기술이 상용화를 앞뒀다. 현재 일부 업체와 이전 계약을 위한 블라인드 테스트를 진행 중이다. 한국재료...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이티센그룹, 인도네시아 전국체전 대회관리시스템 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240722105640</link>
-            <guid>https://zdnet.co.kr/view/?no=20240722105640</guid>
-            <pubDate>Mon, 22 Jul 2024 02:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[아이티센그룹이 전략적으로 추진 중인 서비스형 소프트웨어(SaaS) 사업이 글로벌 무대에서 하나둘씩 성과를 내고 있다. 이로써 '올인원(All-in-one) 클라우드 컴퍼니'로서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[니콘이미징코리아, 8월 니콘스쿨 프로그램 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240722105510</link>
-            <guid>https://zdnet.co.kr/view/?no=20240722105510</guid>
-            <pubDate>Mon, 22 Jul 2024 02:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[니콘이미징코리아가 오는 8월 진행될 니콘스쿨 프로그램을 공개했다. 니콘스쿨은 카메라 조작 방법과 소프트웨어 활용법, 사진 촬영 테크닉 등을 배울 수 있는 교육 프로그램이다. 공...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
