@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 02:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 03:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[르포] 호텔급 가격과 서비스 '바샤커피'…청담 플래그십 스토어 가보니]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240801095248</link>
+            <guid>https://zdnet.co.kr/view/?no=20240801095248</guid>
+            <pubDate>Thu, 01 Aug 2024 03:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[모로코에서 시작된 프리미엄 커피 브랜드 바샤커피가 청담동에 문을 열었다. 국내 1호점이자 전 세계 24호점이다. 바샤커피는 1910년 모로코 마라케시의 다르 엘 바샤(Dar e...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/01/8655a9125d96a935a0b74a31cde8ab76-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-푸드 열풍에 '라면' 수출 1조3천억원…24% 증가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240801093922</link>
+            <guid>https://zdnet.co.kr/view/?no=20240801093922</guid>
+            <pubDate>Thu, 01 Aug 2024 03:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[K-푸드 열풍에 '라면' 지난해 가장 많이 수출된 식품으로 나타났다. 수출 규모가 1조3천억원에 달했다. 업체별 국내 식품 생산실적은 CJ제일제당이 지난해 3조294억원으로 1...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/16/c035f0eb187147ebe770947ea690deff-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잘 나가던 스타벅스·블루보틀, 영업익 감소에 울상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240801113143</link>
+            <guid>https://zdnet.co.kr/view/?no=20240801113143</guid>
+            <pubDate>Thu, 01 Aug 2024 03:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[외국계 커피 프랜차이즈가 국내에서 고전하고 있다. 국내 커피시장 1위인 스타벅스를 비롯해 프리미엄 커피를 자부하는 블루보틀도 영업이익 감소 등 하락세를 보이고 있다. 스타벅스는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유상임 후보자 "망 사용료 문제, 국가 명운 달린 사안"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240801113958</link>
             <guid>https://zdnet.co.kr/view/?no=20240801113958</guid>
             <pubDate>Thu, 01 Aug 2024 02:41:23 GMT</pubDate>
             <content:encoded><![CDATA[유상임 과학기술정보통신부 장관 후보자가 망 사용료 이슈를 두고 1일 “국가의 명운이 달려있는 사안”이라며 “(글로벌 빅테크와 국내 통신사) 양측이 대립하는 만큼 소통할 수 있도...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/19/27f4df37b47f6e2193090cff8cb43c45-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[리튬 가격 바닥…세계 최대 생산 기업 앨버말, 호주 생산 확대 중단]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240801113648</guid>
             <pubDate>Thu, 01 Aug 2024 02:41:23 GMT</pubDate>
             <content:encoded><![CDATA[리튬 가격이 고점 대비 대폭 하락해 쉽게 반등하지 못하는 상황에서 세계 최대 리튬 생산 업체인 앨버말이 호주 공장 생산량 확장 계획을 중단했다. CNBC 등 외신에 따르면 앨버...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/08/2c3b70f336322aa9dcdb888374334550-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[유통 픽] 요플레도 저당으로…빙그레, '요플레 제로' 출시 外]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240801105349</guid>
             <pubDate>Thu, 01 Aug 2024 02:41:23 GMT</pubDate>
             <content:encoded><![CDATA["개인적으로 개발사가 더 나은 수익을 얻기 위해선 3자결제 시스템을 도입해야 한다고 본다." 한국게임미디어협회(KGMA, 회장 이택수)는 31일 OPGG 삼성동 사옥에서 이주찬...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NS홈쇼핑, 우수상품 만든 협력사에 '베스트상품상' 시상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240801105813</link>
-            <guid>https://zdnet.co.kr/view/?no=20240801105813</guid>
-            <pubDate>Thu, 01 Aug 2024 02:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[NS홈쇼핑이 지난 7월 31일 24년 상반기 우수상품을 선정하고, 해당 협력사에 '베스트 상품상'과 '베스트 신상품상'을 시상했다고 1일 밝혔다. NS홈쇼핑이 2024년 상반기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["구직 편하게 하세요"…잡코리아, PC 통합검색 UI·UX 개편]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240801102956</link>
-            <guid>https://zdnet.co.kr/view/?no=20240801102956</guid>
-            <pubDate>Thu, 01 Aug 2024 02:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[잡코리아가 PC 통합검색 서비스의 UI(사용자 인터페이스)와 UX(사용자 경험)을 전면 개편했다고 1일 밝혔다. 잡코리아 측은 채용 정보·공고 관련 검색의 신규 기능 추가, 웹...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[여기어때, '대전 관광' 3만원 쿠폰 선착순 지급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240801092502</link>
-            <guid>https://zdnet.co.kr/view/?no=20240801092502</guid>
-            <pubDate>Thu, 01 Aug 2024 02:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[여행·여가 플랫폼 여기어때가 대전광역시·대전관광공사와 함께 '꿀잼도시 대전어때' 프로모션을 진행한다고 1일 밝혔다. 이번 프로모션은 대전 지역 축제와 쇼핑을 위한 방문을 늘리기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
