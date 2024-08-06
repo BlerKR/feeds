@@ -4,16 +4,48 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Aug 2024 02:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 03:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디노도, 아마존 베드록 LLM 통합 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240806121836</link>
+            <guid>https://zdnet.co.kr/view/?no=20240806121836</guid>
+            <pubDate>Tue, 06 Aug 2024 03:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[디노도테크놀로지(이하 디노도)는 데이터 통합, 관리 솔루션인 디노도 플랫폼에 아마존웹서비스(AWS)의 '아마존 베드록' 대규모 언어 모델(LLM)과 원활한 통합을 제공한다고 6...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/04/11/1f361478720d1d64c1d24b616216d574-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[韓 블록체인 게임사, EU MiCA에 글로벌 시장 진출 고충 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240806115627</link>
+            <guid>https://zdnet.co.kr/view/?no=20240806115627</guid>
+            <pubDate>Tue, 06 Aug 2024 03:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[유럽연합(EU)에 새로운 가상자산 규제(MiCA)가 적용됨에 따라 한국 블록체인 게임사 행보에 어려움이 예상되고 있다. 지난 6월 30일 스테이블 코인 관련 규정을 사전 적용하...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/02/d8c29026c6b781adce5e28c8b8548dea-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국産 재고가 몰려온다..."저가공세 돌파구 찾아야" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240806092425</link>
+            <guid>https://zdnet.co.kr/view/?no=20240806092425</guid>
+            <pubDate>Tue, 06 Aug 2024 03:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[중국 저가 밀어내기 공세로 우리 기업의 피해가 현실화되고 있는 시점에서 중국내 재고물량이 다시 증가세를 보여 현재 국면이 장기화될 수 있다는 주장이 제기됐다. 대한상공회의소는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[세이프웨어, 부산항만공사에 '추락보호 에어백' 공급 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240806114833</link>
+            <guid>https://zdnet.co.kr/view/?no=20240806114833</guid>
+            <pubDate>Tue, 06 Aug 2024 03:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[휴먼 세이프티 솔루션 기업 세이프웨어는 부산항만공사(BPA)에 '스마트 추락보호 에어백 C3'를 공급했다고 6일 밝혔다. 부산항만공사는 추락·낙상사고로 인한 중대재해를 예방하기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스톰테크, 사업 영역 확대…EMS·PCBA 기업 인수 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240806112528</link>
             <guid>https://zdnet.co.kr/view/?no=20240806112528</guid>
             <pubDate>Tue, 06 Aug 2024 02:37:29 GMT</pubDate>
             <content:encoded><![CDATA[정수기 부품 제조 전문기업 스톰테크가 글로벌 종합 가전 부품 제조 전문기업으로 성장하기 위해 관련 기업들을 인수하며 사업 영역 확대에 나섰다. 스톰테크는 6일 경기권 최대 제조...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/01/26/bd30e4a49c8edb46e61c941d7ddbfec6-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[바로고, 핀테크와 손잡고 자금 정산 안전성 강화 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240806102516</guid>
             <pubDate>Tue, 06 Aug 2024 02:37:29 GMT</pubDate>
             <content:encoded><![CDATA[바로고는 전자금융업자(핀테크)와의 협약을 통해 '정산대행서비스'를 도입한다고 6일 밝혔다. 정산대행서비스가 도입되면 바로고에 선입금되는 결제 대금은 핀테크의 정산 시스템을 통해...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/08/06/f466a477231d21bb275a83b3e905d84b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[버즈니, 신세계라이브쇼핑에 '커머스AI 구독 서비스' 제공 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240806102412</guid>
             <pubDate>Tue, 06 Aug 2024 02:37:29 GMT</pubDate>
             <content:encoded><![CDATA[스타벅스가 카카오와 함께 톡학생증을 활용한 대학생 전용 혜택을 출시한다. 톡학생증은 카카오톡 지갑에서 제공하는 학생 신분 증명 서비스다. 제휴 대학·대학원 학적이 있는 재학생·...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중부발전, 수소전기버스 도입…친환경자동차 보급 확산 기여 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240806103628</link>
-            <guid>https://zdnet.co.kr/view/?no=20240806103628</guid>
-            <pubDate>Tue, 06 Aug 2024 02:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[한국중부발전은 수소전기차의 우수성을 홍보하고 친환경 자동차 보급 확산에 기여하기 위해 회사 통근버스로 수소전기버스(유니버스)를 도입했다고 6일 밝혔다. 수소전기버스는 대기오염물...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[원당 가격, 2022년 이후 최저치 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240806094926</link>
-            <guid>https://zdnet.co.kr/view/?no=20240806094926</guid>
-            <pubDate>Tue, 06 Aug 2024 02:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[원당(원료 설탕) 가격이 2022년 이후 최저치를 기록했다. 5일(현지 시간) 블룸버그 통신은 원당 가격이 파운드당 17.64센트(약 229원)을 기록해 지난 2022년 10월...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로보락, 로봇청소기 보상판매…최대 30만원 할인 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240806103434</link>
-            <guid>https://zdnet.co.kr/view/?no=20240806103434</guid>
-            <pubDate>Tue, 06 Aug 2024 02:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[청소가전 전문기업 로보락은 오는 30일까지 약 한 달간 보상판매 이벤트를 진행한다고 6일 밝혔다. 사용하고 있던 구형 로보락 로봇청소기의 본체를 반납하면 2024년 플래그십 모...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지역 빵집 보호 5년 연장…더본코리아 신규 참여 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240806102724</link>
-            <guid>https://zdnet.co.kr/view/?no=20240806102724</guid>
-            <pubDate>Tue, 06 Aug 2024 02:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[소상공인을 보호하기 위해 대기업의 제과점 신규 출점을 규제하는 협약이 5년 연장됐다. 동반성장위원회는 제과점업 대기업과 중소기업간 생상협약 연장 합의를 도출해 협약식을 개최한다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
