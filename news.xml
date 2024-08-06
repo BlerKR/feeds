@@ -4,16 +4,56 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Aug 2024 03:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 04:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사막 달리고 보잉747 끌던 VW 투아렉…새 얼굴로 韓 복귀]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240806125258</link>
+            <guid>https://zdnet.co.kr/view/?no=20240806125258</guid>
+            <pubDate>Tue, 06 Aug 2024 04:23:25 GMT</pubDate>
+            <content:encoded><![CDATA["투아렉하면 떠오르는 강인함이죠. 보잉 747기를 견인하고 다카르 랠리를 제패했던 것을 기억합니다. 타의 추종을 불허하는 강력한 프리미엄 스포츠유틸리티차(SUV) 투아렉은 새로...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/06/a5abc0080b1844def1b1e7307e1fc272-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NHN벅스, 에센셜 프로젝트 음원 가창자로 NCT 도영 선정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240806102442</link>
+            <guid>https://zdnet.co.kr/view/?no=20240806102442</guid>
+            <pubDate>Tue, 06 Aug 2024 04:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[NHN벅스가 '에센셜 오리지널 앨범 제작 프로젝트'에 NCT 도영이 참여한다고 6일 밝혔다. NHN벅스가 음악 큐레이션 브랜드 '에센셜'의 서비스 영역 확대를 위해 진행 중인 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/06/67c61cad5f8ceaf30e7fa0dc997381a1-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TI, 세계 최초 마그네틱 패키징 적용 '초소형 전력모듈' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240806105603</link>
+            <guid>https://zdnet.co.kr/view/?no=20240806105603</guid>
+            <pubDate>Tue, 06 Aug 2024 04:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[텍사스인스트루먼트(TI)가 세계 최초로 매그팩(MagPack) 통합 마그네틱 패키징 기술을 적용한 '초소형 전력 모듈' 6종을 6일 글로벌 출시했다. 통합 마그네틱 패키징 기술...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[유통 픽] 교촌·BBQ 치킨, 올림픽 맞이 포장할인 이벤트 진행 外]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240806111737</link>
+            <guid>https://zdnet.co.kr/view/?no=20240806111737</guid>
+            <pubDate>Tue, 06 Aug 2024 04:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[교촌치킨을 운영하는 교촌에프앤비가 올림픽을 맞아 포장 할인 이벤트를 진행한다. 회사는 앱을 통해 포장 주문하는 고객 모두에게 주문 횟수에 상관없이 10% 할인 혜택을 준다. 해...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[정부, 방송 4법 재의요구안 의결...대통령 재가시 다시 국회로]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240806122516</link>
+            <guid>https://zdnet.co.kr/view/?no=20240806122516</guid>
+            <pubDate>Tue, 06 Aug 2024 04:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 6일 방송 4법에 대한 재의요구안을 의결했다. 윤석열 대통령이 이를 재가하면 법안은 국회로 되돌아가 재표결 절차를 밟게 된다. 휴가 중인 윤 대통령의 재가 시점은 알려지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[디노도, 아마존 베드록 LLM 통합]]></title>
             <link>https://zdnet.co.kr/view/?no=20240806121836</link>
             <guid>https://zdnet.co.kr/view/?no=20240806121836</guid>
             <pubDate>Tue, 06 Aug 2024 03:20:59 GMT</pubDate>
             <content:encoded><![CDATA[디노도테크놀로지(이하 디노도)는 데이터 통합, 관리 솔루션인 디노도 플랫폼에 아마존웹서비스(AWS)의 '아마존 베드록' 대규모 언어 모델(LLM)과 원활한 통합을 제공한다고 6...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/04/11/1f361478720d1d64c1d24b616216d574-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[韓 블록체인 게임사, EU MiCA에 글로벌 시장 진출 고충]]></title>
@@ -21,7 +61,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240806115627</guid>
             <pubDate>Tue, 06 Aug 2024 03:20:59 GMT</pubDate>
             <content:encoded><![CDATA[유럽연합(EU)에 새로운 가상자산 규제(MiCA)가 적용됨에 따라 한국 블록체인 게임사 행보에 어려움이 예상되고 있다. 지난 6월 30일 스테이블 코인 관련 규정을 사전 적용하...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/08/02/d8c29026c6b781adce5e28c8b8548dea-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[중국産 재고가 몰려온다..."저가공세 돌파구 찾아야"]]></title>
@@ -125,46 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240806105046</guid>
             <pubDate>Tue, 06 Aug 2024 02:37:29 GMT</pubDate>
             <content:encoded><![CDATA[고 해담 어준선 안국약품 명예회장의 2주기 추도식이 지난 2일 회사 과천 신사옥 내에서 열렸다. 고인은 지난 1969년 대표이사로 취임한 이후 투수코친을 시작으로 국내 첫 눈 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스플랩 "우모, 행사 참석자 오작교 역할 톡톡”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240806105003</link>
-            <guid>https://zdnet.co.kr/view/?no=20240806105003</guid>
-            <pubDate>Tue, 06 Aug 2024 02:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[전시·이벤트(MICE) 산업의 디지털 전환을 돕는 스플랩은 '넥스트라이즈 2024'에 '우모'를 제공해 참석자들의 활발한 교류를 도왔다고 6일 밝혔다. 박람회 방문객 중 스타트...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["무슨 일 할까?"…中 기밀 우주선, 14인치 망원경에 포착 [영상]]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240806101828</link>
-            <guid>https://zdnet.co.kr/view/?no=20240806101828</guid>
-            <pubDate>Tue, 06 Aug 2024 02:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[우주에서 비밀 임무를 수행 중인 중국 기밀 우주선 '셴룽'의 모습이 망원경에 포착됐다고 우주과학매체 스페이스닷컴이 5일(현지시간) 보도했다. 중국 기밀 우주선 셴룽은 작년 12...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차-인천국제공항, 글로벌 메가 허브 공항 만든다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240806104829</link>
-            <guid>https://zdnet.co.kr/view/?no=20240806104829</guid>
-            <pubDate>Tue, 06 Aug 2024 02:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차와 인천국제공항공사는 6일 인천광역시 중구 인천국제공항공사 청사에서 장재훈 현대차 사장, 이학재 인천국제공항공사 사장 등이 참석한 가운데 '인천국제공항의 디지털전환 및...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN, 2분기도 성장세 지속…"게임사업 성과 속도 낸다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240806103901</link>
-            <guid>https://zdnet.co.kr/view/?no=20240806103901</guid>
-            <pubDate>Tue, 06 Aug 2024 02:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[NHN이 결제 및 광고, 커머스 부문 등의 고른 성장에 힘입어 올해 2분기 호실적을 거뒀다. 하반기엔 게임 사업 경쟁력 확대에 매진한다는 계획이다. NHN은 2024년 2분기 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스타벅스, 카카오 손잡고 톡학생증 전용 혜택 만든다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240806102412</link>
-            <guid>https://zdnet.co.kr/view/?no=20240806102412</guid>
-            <pubDate>Tue, 06 Aug 2024 02:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[스타벅스가 카카오와 함께 톡학생증을 활용한 대학생 전용 혜택을 출시한다. 톡학생증은 카카오톡 지갑에서 제공하는 학생 신분 증명 서비스다. 제휴 대학·대학원 학적이 있는 재학생·...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
