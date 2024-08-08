@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 02:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 03:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[검찰, SM 시세조종 혐의 '김범수' 카카오 구속 기소]]></title>
+            <title><![CDATA[카카오, 광고·커머스로 2분기도 성장…"카톡·AI로 혁신할 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240808104618</link>
+            <guid>https://zdnet.co.kr/view/?no=20240808104618</guid>
+            <pubDate>Thu, 08 Aug 2024 03:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[카카오가 김범수 창업자의 구속 등 어려운 대내외 환경 속에서도 시장 전망치를 웃도는 실적을 냈다. 올해 2분기 광고와 커머스 분야 성장이 두드러지면서 매출과 영업이익이 모두 늘...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/08/3e49ee677008c9e568b239a4a3bd3363-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[투이컨설팅, 와이즈와이어즈와 PMO와 테스팅 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240808114521</link>
+            <guid>https://zdnet.co.kr/view/?no=20240808114521</guid>
+            <pubDate>Thu, 08 Aug 2024 03:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[투이컨설팅(대표 김인현)은 와이즈와이어즈(사장 조경휘)와 7일 와이즈와이어즈 본사에서 'PMO와 테스팅을 접목한 통합 서비스 제공'을 위한 업무협약(MOU)을 체결했다. 이번 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/08/4070d2de0f1002a472463b165c94c09f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰, SM 시세조종 혐의 카카오 김범수 구속 기소]]></title>
             <link>https://zdnet.co.kr/view/?no=20240808111626</link>
             <guid>https://zdnet.co.kr/view/?no=20240808111626</guid>
             <pubDate>Thu, 08 Aug 2024 02:38:59 GMT</pubDate>
             <content:encoded><![CDATA[SM엔터테인먼트 인수 과정에서 시세 조종 의혹으로 지난달 구속된 카카오 창업자 김범수 경영쇄신위원장이 구속된 상태로 재판에 넘겨졌다. 서울남부지검 금융조사2부는 자본시장법 위반...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/23/075a2ee00a927e48129551c7153ac8d9-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[디지털헬스] 치밀 유방, 유방촬영술·AI 병행시 유방암 진단 향상]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240808111034</guid>
             <pubDate>Thu, 08 Aug 2024 02:38:59 GMT</pubDate>
             <content:encoded><![CDATA[유방촬영술에 인공지능(AI) 기술을 결합하면 진단 성능이 향상되고, 유방촬영술과 AI로 진단되지 않는 조기 유방암을 유방초음파를 추가하면 더 많이 발견할 수 있다는 연구 결과가...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/08/08/5bcf6897a6b5c24f5bdcad9c087741eb-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[유통 픽] 롯데칠성, 대구에 '새로 얼음 동굴' 팝업스토어 운영 外]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240808103113</guid>
             <pubDate>Thu, 08 Aug 2024 02:38:59 GMT</pubDate>
             <content:encoded><![CDATA[알리익스프레스가 모기업인 알리바바 그룹과 함께 2024 파리 올림픽을 찾는다. 올림픽 스폰서십은 후원 금액과 후원 서비스 카테고리에 따라 여러 등급으로 나뉘며, 그 중 알리바바...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[잡플래닛, 리뷰 운영 정책에 국제표준 반영]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240808102931</link>
-            <guid>https://zdnet.co.kr/view/?no=20240808102931</guid>
-            <pubDate>Thu, 08 Aug 2024 02:38:59 GMT</pubDate>
-            <content:encoded><![CDATA[브레인커머스 운영 커리어 플랫폼 잡플래닛은 국제표준화기구(ISO)가 제정한 온라인 소비자 리뷰 국제 규약(이하 ISO20488)을 적용해 리뷰 운영 정책을 고도화했다고 8일 밝...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[1분건강] 설사·복통·구토…여름철 세균성 장관감염증 주의보]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240808102745</link>
-            <guid>https://zdnet.co.kr/view/?no=20240808102745</guid>
-            <pubDate>Thu, 08 Aug 2024 02:38:59 GMT</pubDate>
-            <content:encoded><![CDATA[연일 고온다습한 날씨로 병원성 세균에 의한 장관감염증이 늘고 있어 주의가 요구된다. 전국 병원급 의료기관 210개소의 장관감염증 표본감시 결과, 지난달 넷째 주 신고환자 수는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
