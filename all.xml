@@ -4,16 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 03:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 04:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡, 아동·성인용 인기 상품 최대 80% 할인 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240816131527</link>
+            <guid>https://zdnet.co.kr/view/?no=20240816131527</guid>
+            <pubDate>Fri, 16 Aug 2024 04:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡이 이달 18일까지 아동과 성인 카테고리의 다양한 패션 상품을 총망라해 최대 80% 할인하는 기획전을 연다. 새 학기를 준비하는 학생을 위한 아이템부터 국내외 인기 브랜드 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/16/667428490b69e517d48bf36b94da51ff-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스파크랩, AI 모델 제작 스튜디오 운영사 '드래프타입' 투자 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240816131357</link>
+            <guid>https://zdnet.co.kr/view/?no=20240816131357</guid>
+            <pubDate>Fri, 16 Aug 2024 04:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[액셀러레이터 스파크랩(대표 김유진)이 인공지능(AI) 기반 브랜드 커스텀 모델 제작 솔루션을 운영하는 드래프타입에 프리시리즈A 투자를 완료했다고 16일 밝혔다. 드래프타입은 A...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/16/d627ee72f6219d928fa25dde0f8b65c4-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["DX로 불황 극복"...IT서비스기업 상반기 호실적 달성 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240816120337</link>
             <guid>https://zdnet.co.kr/view/?no=20240816120337</guid>
             <pubDate>Fri, 16 Aug 2024 03:23:16 GMT</pubDate>
             <content:encoded><![CDATA[경기 침체로 인한 불황 속에서도 주요 IT서비스 기업들이 상반기 높은 실적을 거뒀다. 클라우드, 생성형인공지능(AI), 스마트팩토리 등 기업의 디지털전환(DX)의 본격화와 대외...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2020/03/08/yong2_vQLqgXzN2MbOtn-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[비트코인, 6만 달러 못 넘고 또 급락…"당분간 약세" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240816115423</guid>
             <pubDate>Fri, 16 Aug 2024 03:23:16 GMT</pubDate>
             <content:encoded><![CDATA[지난 14일 급락하며 6만 달러가 붕괴된 비트코인 시세가 6만 달러선을 회복하지 못 하고 다시 크게 주춤했다. 글로벌 가상자산 데이터 플랫폼 코인마켓캡에서 비트코인 시세는 16...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/04/16/c604ec60f2883e16227deca60221f69c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[카카오게임즈, '2024 유스 e-스포츠 페스티벌'에 장학금 및 물품 후원 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -48,7 +64,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[한국소비자원, 티메프 사태 추가 집단분쟁조정(상품권) 신청 접수 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[소비자원, 티메프 사태 추가 집단분쟁조정(상품권) 신청 접수 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240816112626</link>
             <guid>https://zdnet.co.kr/view/?no=20240816112626</guid>
             <pubDate>Fri, 16 Aug 2024 02:38:02 GMT</pubDate>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240816105656</guid>
             <pubDate>Fri, 16 Aug 2024 02:38:02 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤이 최근 막을 내린 파리 올림픽에서 대한민국 국가대표로 참가해 선전을 펼친 '팀SK' 선수들을 환영하고 응원하기 위해 회사 구성원 대상 팬사인회를 16일 개최한다고 밝...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넵튠-트리플라, 방치형RPG '용감한 고양이들' 글로벌 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240816102031</link>
-            <guid>https://zdnet.co.kr/view/?no=20240816102031</guid>
-            <pubDate>Fri, 16 Aug 2024 02:38:02 GMT</pubDate>
-            <content:encoded><![CDATA[넵튠(각자대표 강율빈, 정욱)의 자회사 트리플라는 자체 개발한 모바일 방치형 롤플레잉 게임 '용감한 고양이들(Bumbling Cats)'을 구글플레이 스토어와 애플 앱스토어를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[성심당, 임차료보다 카드 수수료 더 냈다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240816101337</link>
-            <guid>https://zdnet.co.kr/view/?no=20240816101337</guid>
-            <pubDate>Fri, 16 Aug 2024 02:38:02 GMT</pubDate>
-            <content:encoded><![CDATA[카드업계가 가맹점 수수료율 현실화를 주장하고 있지만, 소상공인 경기가 살아나지 않는 이상 소상공인에게만 부담을 지울 것으로 관측된다. 오는 20일 금융위원회는 여신금융협회 및 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
