@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Aug 2024 02:39:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 03:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 찾은 국민의힘 포털TF "뉴스 편향성 없어야" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240819115332</link>
+            <guid>https://zdnet.co.kr/view/?no=20240819115332</guid>
+            <pubDate>Mon, 19 Aug 2024 03:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘 포털불공정개혁 태스크포스(TF) 위원들이 네이버 본사를 찾아 공정한 포털 환경 조성을 요구하고 뉴스 서비스 관련 편향성이 없어야 한다고 강조했다. 이에 네이버 측은 "...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/19/019fa87af005fcd02f749833946fe45a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['한-글로벌 혁신투자 얼라이언스' 뜬다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240819113158</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240819105735</guid>
             <pubDate>Mon, 19 Aug 2024 02:39:19 GMT</pubDate>
             <content:encoded><![CDATA[국내 패션 중고거래 플랫폼 번개장터가 자사 스니커즈 카테고리 거래 데이터를 분석한 '상반기 중고 스니커즈 트렌드'를 19일 발표했다. 번개장터가 올해 1월 1일부터 6월 30일...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/08/19/918af6efbaa8f1cf5ab4f8228104c75d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[경제계 "주주환원 촉진세제 시행, 올해로 앞당겨야" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -104,19 +112,19 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[기상청 기후위기 탈출 최후의 1인…센텀중학교 김알음 학생 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240819105750</link>
-            <guid>https://zdnet.co.kr/view/?no=20240819105750</guid>
-            <pubDate>Mon, 19 Aug 2024 02:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[기상청이 미래세대 주인공인 전국 중학생을 대상으로 기후변화에 대한 과학적 이해 증진과 기후위기 대응 인식 강화를 위해 실시한 '2024년 기후변화과학 퀴즈대회'에서 부산광역시 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA["공들인 내 프로필 어쩌나"...인스타그램, 프로필 바꾸나 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240819091657</link>
             <guid>https://zdnet.co.kr/view/?no=20240819091657</guid>
             <pubDate>Mon, 19 Aug 2024 02:39:19 GMT</pubDate>
             <content:encoded><![CDATA['정사각형' 프로필 그리드를 고수해왔던 인스타그램이 '수직 사각형'으로 변경하는 테스트를 진행하고 있다. 인스타그램은 프로필 그리드의 사각형을 수직 직사각형으로 만드는 방식을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[기상청 기후위기 탈출 최후의 1인…센텀중학교 김알음 학생 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240819105750</link>
+            <guid>https://zdnet.co.kr/view/?no=20240819105750</guid>
+            <pubDate>Mon, 19 Aug 2024 02:39:19 GMT</pubDate>
+            <content:encoded><![CDATA[기상청이 미래세대 주인공인 전국 중학생을 대상으로 기후변화에 대한 과학적 이해 증진과 기후위기 대응 인식 강화를 위해 실시한 '2024년 기후변화과학 퀴즈대회'에서 부산광역시 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240819103502</guid>
             <pubDate>Mon, 19 Aug 2024 02:39:19 GMT</pubDate>
             <content:encoded><![CDATA[달 뒷면 충돌구(크레이터) 한 개가 한국이름으로 명명됐다. 1천659번째지만, 처음있는 일이다. 경희대학교는 국제천문연맹이 달 뒷면에서 특이한 자기장 특성을 보이는 이름 없는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG, 유망 스타트업 발굴하는 '슈퍼스타트 데이 2024' 개최 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240819102347</link>
-            <guid>https://zdnet.co.kr/view/?no=20240819102347</guid>
-            <pubDate>Mon, 19 Aug 2024 02:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[LG 오픈이노베이션 플랫폼인 슈퍼스타트가 내달 4일부터 이틀간 마곡 LG사이언스파크에서 오픈이노베이션 페스티벌인 '슈퍼스타트 데이 2024'을 개최한다고 19일 밝혔다. '슈퍼...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
