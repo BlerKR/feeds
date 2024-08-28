@@ -4,16 +4,48 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 02:40:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 03:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에픽게임즈 "언리얼엔진, 다양한 산업군에서 활용도 무궁무진"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240828121749</link>
+            <guid>https://zdnet.co.kr/view/?no=20240828121749</guid>
+            <pubDate>Wed, 28 Aug 2024 03:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[세바스티안 미글리오 에픽게임즈 부사장이 언리얼엔진 생태계의 광범위한 활용성에 대해 자신감을 드러냈다. 에픽게임즈코리아(대표 박성철)가 28일과 29일 양일간 서울 잠실 롯데월드...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/28/6d8fa37e61d9b9c76306073a7da60986-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국토부 내년 예산안 58.2조원 편성…올해보다 4.5% 감소]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240828121713</link>
+            <guid>https://zdnet.co.kr/view/?no=20240828121713</guid>
+            <pubDate>Wed, 28 Aug 2024 03:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 국토부 예산안이 올해보다 4.5% 감소한 58조2천억원에 그쳤다. 국토교통부는 국민 주거안정과 교통격차 해소 등을 위해 2025년 예산안을 58조2천억원으로 편성했다...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/11/14/86016d11041c25defb4c258e248ccdb5-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방심위 "딥페이크 성범죄영상물 신속 대응…플랫폼 사업자들과 협의체도 구성"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240828113338</link>
+            <guid>https://zdnet.co.kr/view/?no=20240828113338</guid>
+            <pubDate>Wed, 28 Aug 2024 03:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신심의위원회가 딥페이크 기술로 제작된 성범죄영상물을 신속하게 차단하기 위해 전자심의를 강화한다. 또한 글로벌 온라인 플랫폼 사업자들과 협의체를 구성해 차단 조치와 자율 규...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[중동에서 주목한 '네이버 1784' 기술…서울 '태평로 빌딩'에 이식된다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240828114431</link>
+            <guid>https://zdnet.co.kr/view/?no=20240828114431</guid>
+            <pubDate>Wed, 28 Aug 2024 03:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[서울에 있는 태평로 빌딩이 네이버 제2사옥 '1784'에 적용된 테크 컨버전스 빌딩의 기술과 노하우를 접목해 새롭게 변화된다. 네이버클라우드와 네이버랩스는 이지스자산운용과 이지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[퓨어스토리지, v스피어 가상볼륨으로 스토리지 최적화]]></title>
             <link>https://zdnet.co.kr/view/?no=20240828112100</link>
             <guid>https://zdnet.co.kr/view/?no=20240828112100</guid>
             <pubDate>Wed, 28 Aug 2024 02:40:35 GMT</pubDate>
             <content:encoded><![CDATA[퓨어스토리지가 엔터프라이즈급 스토리지 강화를 위해 기존 솔루션에 새 기능을 지원한다. 퓨어스토리지는 이달 26~29일 미국 라스베이거스에서 열린 VM웨어 익스플로어에서 VM웨어...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/03/20/eac7793365e9789d2486683f0d134e7a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[1분건강] 노년기 우울증, 신체에 만성질환 유발]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240828113542</guid>
             <pubDate>Wed, 28 Aug 2024 02:40:35 GMT</pubDate>
             <content:encoded><![CDATA[노년기 우울증이 정신과적 질환뿐만 아니라 심혈관계 질환·당뇨·고지혈증·신장질환·신경퇴행성질환 등 신체 만성질환을 야기하는 것으로 나타났다. 복합만성질환이란 두 가지 이상의 만성...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/10/28/b37119bf1503d789cdb9558dae15f948-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[중동 시장 노린 지니언스, 38억 '잭팟'…현지 사이버보안 시스템 개발 나서]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240828104742</guid>
             <pubDate>Wed, 28 Aug 2024 02:40:35 GMT</pubDate>
             <content:encoded><![CDATA[엔씨소프트(공동대표 김택진, 박병무)가 수집형 MMORPG 신작 '호연'을 한국, 일본, 대만 아시아 3개 지역에 출시했다고 28일 밝혔다. 이용자는 ▲엔씨(NC) 크로스 플레...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[닛산 "전고체 배터리, 스포츠카에 적합”…'하이퍼포스' 탑재될 듯]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240828105042</link>
-            <guid>https://zdnet.co.kr/view/?no=20240828105042</guid>
-            <pubDate>Wed, 28 Aug 2024 02:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[닛산이 개발 중인 전고체 배터리가 스포츠카 모델에 적합하다는 의견을 내놓음에 따라, 현재 개발 중인 전기 스포츠카 '하이퍼포스'에 탑재될 것이란 전망에 힘이 실렸다. 자동차 전...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데백화점은 왜 롯카 아닌 현카 손잡았을까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240828090152</link>
-            <guid>https://zdnet.co.kr/view/?no=20240828090152</guid>
-            <pubDate>Wed, 28 Aug 2024 02:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[롯데백화점이 '롯데카드'가 아닌 '현대카드'의 손을 잡으면서 업계 관심이 촉발됐다. 28일 카드업계에 따르면 단일 신용카드 브랜드만 사용해 온 롯데백화점이 처음으로 현대카드와 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ams OSRAM, 특수 조명 위한 '오슬론 퓨어 1414 LED' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240828104312</link>
-            <guid>https://zdnet.co.kr/view/?no=20240828104312</guid>
-            <pubDate>Wed, 28 Aug 2024 02:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[지능형 센서 및 이미터 기업 ams OSRAM은 오슬론 퓨어(OSLON Pure) 1414 LED 신제품을 출시했다고 밝혔다. 오슬론 퓨어 1414는 크기가 1.4mm x 1....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤 다크앤다커모바일, 해외서 눈도장...출시 준비 시동]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240828103553</link>
-            <guid>https://zdnet.co.kr/view/?no=20240828103553</guid>
-            <pubDate>Wed, 28 Aug 2024 02:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[크래프톤이 신작 '다크앤다커 모바일'의 글로벌 서비스 준비에 박차를 가한 가운데, 게임스컴2024 기간 행사 현장을 찾은 게임팬들에 눈동장을 찍었다. 해당 신작은 오는 10월 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
