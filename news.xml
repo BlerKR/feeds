@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 02:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 03:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LGU+, 글로벌 5G 행사서 AI 활용 사례 공유]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240830120954</link>
+            <guid>https://zdnet.co.kr/view/?no=20240830120954</guid>
+            <pubDate>Fri, 30 Aug 2024 03:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[LG유플러스는 6G 포럼 대표의장사로서 인도 델리에서 열린 제11회 글로벌 5G 이벤트에 참가했다고 30일 밝혔다. 5G 성과의 최신 동향을 공유하고, 6G와 관련된 다양한 주...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/30/8e4134d191aa3b0e097b4547d2c4742b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자가 인수한다?...노키아, 즉각 부인]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240830120151</link>
+            <guid>https://zdnet.co.kr/view/?no=20240830120151</guid>
+            <pubDate>Fri, 30 Aug 2024 03:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 노키아의 모바일 네트워크 사업부를 인수할 수 있다는 보도가 나오자 노키아가 즉각 부인했다. 29일(현지시간) 블룸버그통신이 익명의 소식통을 인용해 삼성전자가 100억...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/27/61e6d747bc3110dd8a3d6b31fafdc815-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웹케시 "AICFO, 임원의 업무를 혁신하는 도구"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240830115056</link>
+            <guid>https://zdnet.co.kr/view/?no=20240830115056</guid>
+            <pubDate>Fri, 30 Aug 2024 03:21:09 GMT</pubDate>
+            <content:encoded><![CDATA["'인공지능(AI) 최고재무책임자(CFO)'를 활용하면 매일 아침 회의 전 자금 현황 보고서를 제공해 최선의 전략적 결정을 할 수 있도록 지원합니다. 전략적이고 창의적인 분야에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[패션플러스, 8월 신규 판매자 수 전월 대비 15% 증가]]></title>
             <link>https://zdnet.co.kr/view/?no=20240830102700</link>
             <guid>https://zdnet.co.kr/view/?no=20240830102700</guid>
             <pubDate>Fri, 30 Aug 2024 02:42:40 GMT</pubDate>
             <content:encoded><![CDATA[패션 쇼핑 플랫폼 패션플러스는 이달 신규 입점한 판매자 수가 전월 대비 15% 증가했다고 30일 밝혔다. 패션플러스의 8월 신규 판매자 수는 지난 달 대비 15% 상승했다. 패...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/08/30/9a4ef59c0233fb6dac696596fe743ce5-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[앤씨앤 "신성장동력 '안전운전 시스템' 성장세 뚜렷"]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240830101430</guid>
             <pubDate>Fri, 30 Aug 2024 02:42:40 GMT</pubDate>
             <content:encoded><![CDATA[앤씨앤은 전국개인택시공제조합 대전지부의 '고령 택시운전자 운전시계 확대를 위한 사각지대(BSD)효과 실증사업'에 참여하게 돼 협약을 체결했다고 30일 밝혔다. 최근 고령화사회 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/09/28/e6942eee301a869590a0f11dfe17ab74-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[멀어진 IRA 수혜…포스코퓨처엠, 기약 없는 '음극재' 보릿고개]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240830101054</guid>
             <pubDate>Fri, 30 Aug 2024 02:42:40 GMT</pubDate>
             <content:encoded><![CDATA[메타에서 서비스하는 대규모 언어모델(LLM) '라마(Llama)'의 인기가 급격하게 상승 중이다. 관련 업계에서는 메타의 오픈소스 전략이 점차 성공적으로 자리 잡고 있다는 분석...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["애플, 아이폰16 생산량 10% 늘렸다…AI로 승부"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240830085851</link>
-            <guid>https://zdnet.co.kr/view/?no=20240830085851</guid>
-            <pubDate>Fri, 30 Aug 2024 02:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 올해 출시될 인공지능(AI) 탑재 아이폰 '아이폰16'이 인기를 끌 것으로 예상하고 생산량을 전년 대비 10% 가량 늘려 잡았다고 일본 니혼게이자이신문이 29일(이하 현...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[바이낸스 FIU "가상자산 범죄 색출 위해 거래소-법 집행 기관 협업은 필수"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240830103244</link>
-            <guid>https://zdnet.co.kr/view/?no=20240830103244</guid>
-            <pubDate>Fri, 30 Aug 2024 02:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[최근 몇년 사이 가상자산에 대한 관심이 급증하면서 가상자산 시장이 금융 범죄와 관련된 여러 문제에 직면하고 있다. 이러한 문제를 해결하기 위해 각 거래소는 내부적으로 법 집행 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[망분리 규제 완화, 금융권 디지털 혁신 가속…주목 받는 기업은]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240830102640</link>
-            <guid>https://zdnet.co.kr/view/?no=20240830102640</guid>
-            <pubDate>Fri, 30 Aug 2024 02:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[금융위원회가 망분리 규제 완화를 발표하며 금융업계의 디지털 혁신이 가속화될 전망인 가운데 기술 혁신을 주도할 주요 테크 기업들도 함께 주목받고 있다. 30일 S2W가 발간한 자...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
