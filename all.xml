@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 02:46:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 03:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경제계, 금투세 폐지·장기투자 혜택 등 입법화 요청 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240902105633</link>
+            <guid>https://zdnet.co.kr/view/?no=20240902105633</guid>
+            <pubDate>Mon, 02 Sep 2024 03:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[출범 3개월을 맞은 제22대 첫 정기국회가 시작되는 가운데 금융회사들은 새로운 국회가 규제보다 금융·자본시장 발전을 위한 입법에 더 노력해줄 것을 요청했다. 2일 대한상공회의소...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2019/11/22/lejj_9BYXKOTTexynsbK-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['엔비디아 짝꿍' 델, AI 집중 전략 통했다…2Q 매출 예상치 '상회' (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240902104910</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240902113710</guid>
             <pubDate>Mon, 02 Sep 2024 02:46:22 GMT</pubDate>
             <content:encoded><![CDATA[최근 티맥스소프트 재인수로 완전체가 된 티맥스그룹이 티맥스에이앤씨(A&amp;C)의 수장을 새롭게 세우고 슈퍼앱 플랫폼 '가이아(GAIA)'를 통한 수익성 확보에 본격 돌입했다. 티맥...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/09/02/f81ab2e2212d798595f1c92403238379-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[글로벌 향한 컴투스, 신작 '스타시드' 글로벌 흥행 도전 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240902110338</guid>
             <pubDate>Mon, 02 Sep 2024 02:46:22 GMT</pubDate>
             <content:encoded><![CDATA[◇연세대학교의료원 행정부서 ▲의과학연구처장 김창오 ▲의과학연구처 연구지원부처장 이용호 ▲의과학연구처 기술사업화센터소장 박창욱 ▲의과학연구처 강남부처장 강신애 ▲의과학연구처 치과...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비만치료제 투약자, 코로나19 사망률 감소 연구 눈길 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240902105723</link>
-            <guid>https://zdnet.co.kr/view/?no=20240902105723</guid>
-            <pubDate>Mon, 02 Sep 2024 02:46:22 GMT</pubDate>
-            <content:encoded><![CDATA[노보 노디스크의 비만치료제 '위고비(세마글루타이드)' 투약자들이 코로나19 감염 시 사망확률을 유의미하게 감소시켰다는 연구결과가 화제다. '세마글루타이드가 사망률 및 COVID...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
