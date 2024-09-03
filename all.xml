@@ -4,16 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 02:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 03:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["자영업 업종별 평가, 적시에 자금 공급" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240903114254</link>
+            <guid>https://zdnet.co.kr/view/?no=20240903114254</guid>
+            <pubDate>Tue, 03 Sep 2024 03:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[기술이 발전합니다. 예전보다 더 빠른 속도로요. 신기술은 누구에게나 공평하진 않습니다. 기술 진보로 공유된 번영을 고루 나누는 일들이 선행되어 왔다고 경제학자 대런 아세모글로가...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/09/03/9b762824914bd932a5b2510eb5d8bf8a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PC 저장된 영상 속 단어도 검색 가능?…MS, 윈도서 新 AI 기능 공개 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240903115017</link>
+            <guid>https://zdnet.co.kr/view/?no=20240903115017</guid>
+            <pubDate>Tue, 03 Sep 2024 03:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)가 PC 내 저장된 오디오와 비디오 파일 내용을 쉽게 검색해 주는 온디바이스 인공지능(AI) 기능을 추가할 것으로 보인다. 3일 톰스하드웨어에 따르면 MS는...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/16/ca5b9a81d6bd5abe8ed3e1f81c4a5e21-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[게임위, 고용노동부 주관 '일·생활 균형 캠페인' 참여기업 선정 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240903113350</link>
             <guid>https://zdnet.co.kr/view/?no=20240903113350</guid>
             <pubDate>Tue, 03 Sep 2024 02:41:22 GMT</pubDate>
             <content:encoded><![CDATA[게임물관리위원회(이하 '게임위', 위원장 서태건)는 고용노동부가 주관하는 '2024년 일·생활균형캠페인' 참여기업으로 선정됐다고 밝혔다. '일·생활 균형 캠페인'은 일하는 방식...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2019/03/11/sini_43sa8aOvYazgzVs-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[메가존클라우드, '샌디몰' 재구축…UX 업그레이드 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240903103848</guid>
             <pubDate>Tue, 03 Sep 2024 02:41:22 GMT</pubDate>
             <content:encoded><![CDATA[메가존클라우드가 고객들과 담당 실무자들이 '샌디몰'을 조금 더 직관적이고 편하게 이해할 수 있도록 샌디몰 솔루션을 재구축했다. 메가존클라우드는 에스앤아이코퍼레이션의 건물 관리 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/01/23/89413efe085943d92627530beffbf2e2-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[HD현대, 2030년까지 중저압차단기 생산능력 2배 늘린다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240903102337</guid>
             <pubDate>Tue, 03 Sep 2024 02:41:22 GMT</pubDate>
             <content:encoded><![CDATA[기업 투자자들이 식품 공급 과정에서 과도한 항생제 사용을 줄여야 한다고 촉구했다. 3일(현지 시간) 파이낸셜타임즈는 이달 열리는 항생제 내성에 관한 두 번째 유엔 총회 고위급 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뤼튼테크놀로지스 "韓 스타트업 AI 기술, 글로벌 진출로 입증할 것" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240903095229</link>
-            <guid>https://zdnet.co.kr/view/?no=20240903095229</guid>
-            <pubDate>Tue, 03 Sep 2024 02:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[뤼튼테크놀로지스와 사이오닉AI가 일본·동남아시아·중동 등 글로벌 시장에서 K-스타트업의 인공지능(AI) 기술을 세계에 널리 알리기 위해 손을 잡았다. 뤼튼테크놀로지스는 두 회사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사 뷰티, 성수동 뷰티 로컬숍·F&B 제휴처 공개 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240903101414</link>
-            <guid>https://zdnet.co.kr/view/?no=20240903101414</guid>
-            <pubDate>Tue, 03 Sep 2024 02:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 뷰티가 '무신사 뷰티 페스타 인(IN) 성수'와 함께하는 40여 개 로컬숍 리스트를 3일 공개했다. 이번 제휴처는 대규모 오프라인 팝업 행사가 열리는 3일간(이달 6~8...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
