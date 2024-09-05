@@ -4,16 +4,48 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 02:43:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 03:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대힘스, 노르웨이선급협회 ISO 인증 16년 연속 획득 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240905122002</link>
+            <guid>https://zdnet.co.kr/view/?no=20240905122002</guid>
+            <pubDate>Thu, 05 Sep 2024 03:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[조선기자재 전문기업 현대힘스는 노르웨이선급협회(DNV.GL)로부터 취득한 ISO45001(안전보건경영시스템), ISO14001(환경경영시스템), ISO9001(품질경영시스템)을...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/11/17/d0c11247d974a8d91b66991a645abf39-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배터리협회 "내년 산업 지원 예산 확대 환영" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240905120609</link>
+            <guid>https://zdnet.co.kr/view/?no=20240905120609</guid>
+            <pubDate>Thu, 05 Sep 2024 03:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[한국배터리산업협회는 5일 글로벌 경기 둔화와 전기차 캐즘 등 배터리 산업의 성장률이 저하되고 있는 상황 속에서 산업통상자원부가 내년 배터리 산업 지원 예산을 확대한 것에 대해 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/08/2c3b70f336322aa9dcdb888374334550-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 전기차 판매 1위 BYD…테슬라와 격차 벌려 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240905111241</link>
+            <guid>https://zdnet.co.kr/view/?no=20240905111241</guid>
+            <pubDate>Thu, 05 Sep 2024 03:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[올해 1~7월 동안 전세계 전 시장조사업체 SNE리서치에 따르면 이 기간 동안 세계 각국에 차량 등록된 전기차 총 대수는 약 854만3천대로 전년 대비 약 20.8% 상승했다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["플랫폼 규제 법안, 과잉금지원칙 위반…헌법 충돌" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240905104810</link>
+            <guid>https://zdnet.co.kr/view/?no=20240905104810</guid>
+            <pubDate>Thu, 05 Sep 2024 03:21:36 GMT</pubDate>
+            <content:encoded><![CDATA["지금 논의되고 있는 온라인 플랫폼 규제 법안은 헌법적 관점에서 문제가 있다. 플랫폼 규제를 접근할 때 관련된 이해관계자가 세 가지 그룹(소비자·입점업체·플랫폼 사업자)이 있다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[바디프랜드, 한가위 더블찬스 프로모션 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240905114007</link>
             <guid>https://zdnet.co.kr/view/?no=20240905114007</guid>
             <pubDate>Thu, 05 Sep 2024 02:43:32 GMT</pubDate>
             <content:encoded><![CDATA[헬스케어 가전기업 바디프랜드가 9월 추석맞이 프로모션을 진행한다고 5일 밝혔다. 특정 제품을 렌탈·구매 시 마사지베드 '에이르', 마사지 소파 '파밀레', '아미고' 중 1대를...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/09/05/f9f7dcb46da320544344977275e5844e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국에서 아이폰 '나의찾기' 이용 가능해진다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240905113144</guid>
             <pubDate>Thu, 05 Sep 2024 02:43:32 GMT</pubDate>
             <content:encoded><![CDATA[내년부터 애플 아이폰에서 '나의 찾기(Find My)' 기능을 활용할 수 있게 됐다. 5일 애플코리아에 따르면 애플은 2025년 봄에 '나의 찾기' 기능을 국내에 도입할 예정이...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/09/05/fa99c4eedca169df8374da82032aa497-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[코지마, 추석 맞이 온라인 프로모션 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -84,7 +116,7 @@
             <link>https://zdnet.co.kr/view/?no=20240905104825</link>
             <guid>https://zdnet.co.kr/view/?no=20240905104825</guid>
             <pubDate>Thu, 05 Sep 2024 02:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[컴투스홀딩스가 운영 중인 블록체인 메인넷 엑스플라(XPLA) 출범이 2주년을 맞이했다. 지난 2년간 게임 중심 웹3 생태계로 발전한 엑스플라에는 12종의 게임이 추가됐으며, 다...]]></content:encoded>
+            <content:encoded><![CDATA[컴투스홀딩스가 핵심 파트너로 참여한 블록체인 메인넷 엑스플라(XPLA) 출범이 2주년을 맞이했다. 지난 2년간 게임 중심 웹3 생태계로 발전한 엑스플라에는 12종의 게임이 추가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240905103755</guid>
             <pubDate>Thu, 05 Sep 2024 02:43:32 GMT</pubDate>
             <content:encoded><![CDATA[KT 부산경남광역본부는 오는 10일부터 부산 벡스코에서 열리는 '2024 K-ICT 위크 인 부산'에 참여한다고 밝혔다. KT는 이 자리에 에이센 클라우드, AI 미래교육 플랫...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, IFA 2024서 공감지능 'AI홈 솔루션' 선봬 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240905101342</link>
-            <guid>https://zdnet.co.kr/view/?no=20240905101342</guid>
-            <pubDate>Thu, 05 Sep 2024 02:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자는 오는 6일(현지시간)부터 닷새간 독일 베를린에서 열리는 유럽 최대 가전전시회 IFA 2024에 참가해 AI홈 솔루션을 선보인다고 5일 밝혔다. LG전자의 올해 전시 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[케이온네트워크, 지하철 와이파이 백본망 사업자에 SK브로드밴드 선정 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240905103443</link>
-            <guid>https://zdnet.co.kr/view/?no=20240905103443</guid>
-            <pubDate>Thu, 05 Sep 2024 02:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[케이온네트워크가 6대 광역시와 주요 지방자치단체에 구축하는 메트로 초고속 통신망에 부합되는 안정적 전용회선을 공급하는 사업자로 SK브로드밴드를 선정했다고 5일 밝혔다. 케이온네...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[클로바 케어콜, 전국 시군구 절반 이상 도입…"독거 어르신에 도움” (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240905102041</link>
-            <guid>https://zdnet.co.kr/view/?no=20240905102041</guid>
-            <pubDate>Thu, 05 Sep 2024 02:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[AI 안부 전화 서비스 '클로바 케어콜'이 전국 시군구 중 절반 이상에 도입되며, 독거 어르신 및 중장년 1인 가구의 안전을 책임지고 있다. 2021년 11월 부산 해운대구 첫...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SBVA, AI 기반 검색 엔진 '유닷컴' 투자 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240905101757</link>
-            <guid>https://zdnet.co.kr/view/?no=20240905101757</guid>
-            <pubDate>Thu, 05 Sep 2024 02:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[SBVA(에스비브이에이, 대표 이준표)가 인공지능(AI) 기반 검색 플랫폼인 유닷컴의 미화 4천600만 달러(약 617억원) 규모 시리즈 B투자에 참여했다고 5일 밝혔다. 이번...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
