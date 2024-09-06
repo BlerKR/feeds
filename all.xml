@@ -4,16 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 02:43:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 03:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신축 건물 지하주차장 '습식 스프링클러' 설치 의무화...전기차 화재 예방 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240906101106</link>
+            <guid>https://zdnet.co.kr/view/?no=20240906101106</guid>
+            <pubDate>Fri, 06 Sep 2024 03:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 인천 아파트 지하주차장 화재 등으로 전기차와 충전시설에 대한 화재 우려가 커짐에 따라 정부가 종합 대책을 마련했다. 이번 대책에는 그 동안 소비자가 알 수 없었던 전기차...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/13/073e9e1ec0ed4449895c2c42aa1c32e9-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KETI, 전고체전지 보호층 기술 개발…전기차 화재 위험 낮춘다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240906115843</link>
+            <guid>https://zdnet.co.kr/view/?no=20240906115843</guid>
+            <pubDate>Fri, 06 Sep 2024 03:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[한국전자기술연구원(KETI·원장 신희동)은 고려대 유동주 교수팀, 성균관대 윤원섭 교수팀과 함께 전고체전지의 에너지 밀도와 안전성을 높이는 리튬금속 보호층 기술개발에 성공했다고...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/09/06/1fcdd950f6f5b92ce2b81d8c5ebe6a69-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소득 낮으면 사망위험 최대 2배 증가… (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240906113904</link>
             <guid>https://zdnet.co.kr/view/?no=20240906113904</guid>
             <pubDate>Fri, 06 Sep 2024 02:43:28 GMT</pubDate>
             <content:encoded><![CDATA[국민건강보험 유형과 보험료에 따른 사망률 비교 분석 결과 건강보험 지역가입자의 사망률이 직장가입자에 비해 높고, 소득 수준이 낮을수록 암과 같은 질환 등으로 인한 사망위험이 높...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/09/06/3b4c052fe6c67967f79e05cc1e6587e4-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[베르티스, 과기부 '공간단백체 멀티오믹스 분석 기술 개발' 과제 참여 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240906113424</guid>
             <pubDate>Fri, 06 Sep 2024 02:43:28 GMT</pubDate>
             <content:encoded><![CDATA[베르티스는 과학기술정보통신부와 한국연구재단의 '공간단백체 기반 멀티오믹스 분석용 소재 합성 및 부품 기술 개발'(과제번호 RS-2024-00454407) 과제의 공동 연구 기관...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/26/3675f3d756f8d93f1f752d0fe79fcdaf-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[여당, 딥페이크 디지털성범죄 대응 특위 구성...위원장에 안철수 의원 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240906095409</guid>
             <pubDate>Fri, 06 Sep 2024 02:43:28 GMT</pubDate>
             <content:encoded><![CDATA[미국 항공우주국(NASA)이 햇빛을 바람처럼 사용해 우주를 항해하는 신개념 우주선을 촬영해 공개했다고 우주과학매체 스페이스닷컴이 5일(현지시간) 보도했다. NASA는 이날 공식...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[텔레그램 CEO "급성장으로 부작용 발생…개선 노력하겠다" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240906090619</link>
-            <guid>https://zdnet.co.kr/view/?no=20240906090619</guid>
-            <pubDate>Fri, 06 Sep 2024 02:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[파벨 두로프 텔레그램 창업자이자 최고경영자(CEO)가 지난달 프랑스에서 체포된 이후 처음으로 공식 입장을 내놓았다. 두로프 CEO는 "텔레그램이 불법적으로 사용된 것에 대해 책...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[블록체인 기반 '전자공증시스템 고도화' 수행 사업자 에이투지시스템 선정 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240906102208</link>
-            <guid>https://zdnet.co.kr/view/?no=20240906102208</guid>
-            <pubDate>Fri, 06 Sep 2024 02:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(과기정통부)와 한국인터넷진흥원(KISA)이 공고한 '2024년도 블록체인 공공분야 집중· 확산사업' 일환인 법무부의 '블록체인 기반 사서증서 인증구현 및 공증...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
