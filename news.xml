@@ -4,16 +4,56 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 02:48:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 03:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대한상의, 사회문제 해결 기업 한자리에 모은다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240909101218</link>
+            <guid>https://zdnet.co.kr/view/?no=20240909101218</guid>
+            <pubDate>Mon, 09 Sep 2024 03:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[미아를 찾아주는 편의점, 시각장애인의 눈이 되어 준 애플리케이션, 저탄소 패션 등 사회 문제 해결을 위한 아이디어의 장이 열린다. 대한상공회의소는 12일 코엑스에서 '제1회 대...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/09/04/fd46d5ae14cf52d1fe5ab0b70d307bf4-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["EU 같은 규제 안돼"…美 AI 로비스트, 의회 여론 선점 나서]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240909085352</link>
+            <guid>https://zdnet.co.kr/view/?no=20240909085352</guid>
+            <pubDate>Mon, 09 Sep 2024 03:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 규제 논의와 발전 속도에 발맞춰 AI 산업 로비스트들이 발 빠르게 미국 의회에 손을 내밀고 있다. 9일 AP통신 등 외신에 따르면 AI 산업 로비스트들은 의원·...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/09/09/c9f12c483de940500c8a6bfe4fc19c50-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KBW 2024 마무리...韓 시장 관심 드러낸 글로벌 가상자산 시장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240909114756</link>
+            <guid>https://zdnet.co.kr/view/?no=20240909114756</guid>
+            <pubDate>Mon, 09 Sep 2024 03:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 블록체인 컨퍼런스 코리아 블록체인 위크 2024(KBW2024)가 성황리에 막을 내렸다. 이번 행사에는 블록체인, 가상자산, 웹3 게임 등 다양한 분야에서 활약하고 있는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[위메이드, 새 게임 이미르-위믹스페이로 재조명 받나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240909111902</link>
+            <guid>https://zdnet.co.kr/view/?no=20240909111902</guid>
+            <pubDate>Mon, 09 Sep 2024 03:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[위메이드가 신작 게임과 위믹스 사업 개편으로 하반기 새 성장 동력을 마련할 수 있을지 귀추가 주목되고 있다. 이 회사는 하반기 흥행 기대작 중 하나인 '레전드 오브 이미르'를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[과금 부담 줄인 호연, 정기 업데이트로 반등할까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240909112744</link>
+            <guid>https://zdnet.co.kr/view/?no=20240909112744</guid>
+            <pubDate>Mon, 09 Sep 2024 03:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[엔씨소프트가 호연 첫 번째 정기 업데이트를 진행했다. 기존작 게임과 비교해 상대적으로 라이트한 과금모델(BM)을 내세운 호연이 이번 업데이트로 반등에 성공할 수 있을지 기대를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[5G 요금제보다 더 비싸..."LTE 요금제 합리적 개편 필요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240909111656</link>
             <guid>https://zdnet.co.kr/view/?no=20240909111656</guid>
             <pubDate>Mon, 09 Sep 2024 02:48:49 GMT</pubDate>
             <content:encoded><![CDATA[통신 3사의 일부 LTE 요금제가 5G 요금제보다 데이터 제공량과 비교해 요금이 더 비싼 만큼 LTE 요금제에 합리적인 조정이 필요하다는 지적이 제기됐다. 국회 과학기술정보방송...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/08/12/b9bd554632bd4aba45c705f692f9ae2a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["갤럭시S25 울트라, 날씬해진다…울트라 모델 중 가장 얇아"]]></title>
@@ -21,7 +61,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240909093322</guid>
             <pubDate>Mon, 09 Sep 2024 02:48:49 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 내년 초 출시할 '갤럭시S25 울트라'의 크기 정보가 공개됐다고 IT매체 샘모바일이 최근 보도했다. 유명 IT팁스터 아이스유니버스는 자신의 엑스(@UniverseIc...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/08/19/60b5932877a661fbea33116429cb67ed-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[폐플라스틱에 헐떡이는 지구…'화학연'이 해결 방법 찾다]]></title>
@@ -125,46 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240909094538</guid>
             <pubDate>Mon, 09 Sep 2024 02:48:49 GMT</pubDate>
             <content:encoded><![CDATA[대만 반도체 파운드리(위탁생산) 업체 TSMC 미국 애리조나 공장에서 진행한 시범생산에서 대만 본토 공장과 동등한 수준의 생산 수율을 달성한 것으로 알려졌다. 이로써 TSMC의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신약허가 수수료 883만→4억1천만원 인상…"영세기업은 감면”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240909110317</link>
-            <guid>https://zdnet.co.kr/view/?no=20240909110317</guid>
-            <pubDate>Mon, 09 Sep 2024 02:48:49 GMT</pubDate>
-            <content:encoded><![CDATA[앞으로 신약허가 수수료가 4억1천만 원으로 오른다. 규제당국은 허가기간 단축과 전문 심사인력 비율 확충 등의 이점을 약속했지만 제약바이오 업계 부담 증가는 불가피할 것으로 전망...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[무협 "전기차 신흥 시장서 韓·中 격돌 예고…정책 지원 절실"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240909105137</link>
-            <guid>https://zdnet.co.kr/view/?no=20240909105137</guid>
-            <pubDate>Mon, 09 Sep 2024 02:48:49 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 전기차 시장에서 중국 영향력이 급속도로 확대되는 가운데, 중국 전기차 산업 약진 배경에 전 공정을 아우르는 종합적 전략과 공격적 투자가 있었다는 분석이 나왔다. 한국무역...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전기차 배터리 주요 정보 공개 의무화…10일 자동차관리법 입법예고]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240909102021</link>
-            <guid>https://zdnet.co.kr/view/?no=20240909102021</guid>
-            <pubDate>Mon, 09 Sep 2024 02:48:49 GMT</pubDate>
-            <content:encoded><![CDATA[국토교통부는 지난 6일 국정현안관계장관회의에서 발표한 '전기자동차 화재 안전관리대책'의 일환으로 전기차 배터리 정보공개 의무화를 위해 '자동차관리법 시행규칙'과 '자동차등록규칙...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[8월 주택용 전기요금 전년비 7500원 증가…요금 폭탄 없어]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240909101159</link>
-            <guid>https://zdnet.co.kr/view/?no=20240909101159</guid>
-            <pubDate>Mon, 09 Sep 2024 02:48:49 GMT</pubDate>
-            <content:encoded><![CDATA[지난 8월 주택용 전기요금 평균은 지난해 같은 달보다 7천500원(13%) 증가한 6만4천원을 기록했다. 사용량은 363kWh로 30kWh 증가에 그쳐 장기 폭염과 열대야에 따...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스맥, 美 공작기계 전시회 IMTS 참가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240909105830</link>
-            <guid>https://zdnet.co.kr/view/?no=20240909105830</guid>
-            <pubDate>Mon, 09 Sep 2024 02:48:49 GMT</pubDate>
-            <content:encoded><![CDATA[공작기계·로봇 자동화 솔루션 전문기업 스맥이 오는 9일부터 14일까지(현지시간) 미국 시카고에서 열리는 세계 최대 공작기계 전시회 'IMTS 2024'에 참가한다고 9일 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
