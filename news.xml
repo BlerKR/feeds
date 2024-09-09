@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 03:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 04:24:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애플워치10, 수면 무호흡 감지 O·고혈압 측정 X"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240909100505</link>
+            <guid>https://zdnet.co.kr/view/?no=20240909100505</guid>
+            <pubDate>Mon, 09 Sep 2024 04:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 9일(현지시간) 아이폰16 시리즈와 함께 공개할 예정인 차세대 스마트워치 '애플워치10'에 새롭게 수면 무호흡 감지 기능이 탑재될 예정이라고 블룸버그 등 외신들이 최근 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/21/1fdf84541923f999100423afcfaa2a2d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 지사 철수한 카스퍼스키, 韓선 투명성 외쳤다…왜?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240908184311</link>
+            <guid>https://zdnet.co.kr/view/?no=20240908184311</guid>
+            <pubDate>Mon, 09 Sep 2024 04:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[밀키트는 손질된 식재료와 양념을 알맞게 담은 간편식입니다. 누구나 밀키트만 있으면 별도 과정 없이 편리하게 맛있는 식사를 할 수 있습니다. [김미정의 SW키트]도 마찬가지입니다...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/09/08/fa824c2924345cacf72d60b4a2ccdb65-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대한상의, 사회문제 해결 기업 한자리에 모은다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240909101218</link>
             <guid>https://zdnet.co.kr/view/?no=20240909101218</guid>
             <pubDate>Mon, 09 Sep 2024 03:23:15 GMT</pubDate>
             <content:encoded><![CDATA[미아를 찾아주는 편의점, 시각장애인의 눈이 되어 준 애플리케이션, 저탄소 패션 등 사회 문제 해결을 위한 아이디어의 장이 열린다. 대한상공회의소는 12일 코엑스에서 '제1회 대...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/09/04/fd46d5ae14cf52d1fe5ab0b70d307bf4-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["EU 같은 규제 안돼"…美 AI 로비스트, 의회 여론 선점 나서]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240909085352</guid>
             <pubDate>Mon, 09 Sep 2024 03:23:15 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 규제 논의와 발전 속도에 발맞춰 AI 산업 로비스트들이 발 빠르게 미국 의회에 손을 내밀고 있다. 9일 AP통신 등 외신에 따르면 AI 산업 로비스트들은 의원·...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/09/09/c9f12c483de940500c8a6bfe4fc19c50-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KBW 2024 마무리...韓 시장 관심 드러낸 글로벌 가상자산 시장]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240909104900</guid>
             <pubDate>Mon, 09 Sep 2024 02:48:49 GMT</pubDate>
             <content:encoded><![CDATA[국내 반도체 IP(설계자산) 기업 퀄리타스반도체는 2나노미터(nm) 공정에서 게이트올어라운드(GAAFET) 기반의 MIPI DCPHY IP 솔루션을 미국 팹리스 업체에 공급한다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TSMC 독주 속 삼성 파운드리 투자 '안갯속']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240909092439</link>
-            <guid>https://zdnet.co.kr/view/?no=20240909092439</guid>
-            <pubDate>Mon, 09 Sep 2024 02:48:49 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 진행 중인 신규 파운드리 공장 건설 계획이 더뎌지고 있다. 현재 국내 제4 평택캠퍼스(P4)는 파운드리 라인을 생략하는 방안이 유력하며, 미국 테일러 파운드리 팹 역...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TSMC, 美 애리조나 팹 '시범생산 수율' 대만 팹 수준으로 달성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240909094538</link>
-            <guid>https://zdnet.co.kr/view/?no=20240909094538</guid>
-            <pubDate>Mon, 09 Sep 2024 02:48:49 GMT</pubDate>
-            <content:encoded><![CDATA[대만 반도체 파운드리(위탁생산) 업체 TSMC 미국 애리조나 공장에서 진행한 시범생산에서 대만 본토 공장과 동등한 수준의 생산 수율을 달성한 것으로 알려졌다. 이로써 TSMC의...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
