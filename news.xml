@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 03:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 04:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수산아이앤티, '생성형 AI 분석'으로 공공 ·금융권 업무망 사이버보안 강화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240912110949</link>
+            <guid>https://zdnet.co.kr/view/?no=20240912110949</guid>
+            <pubDate>Thu, 12 Sep 2024 04:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[네트워크 보안 전문기업 수산아이앤티(대표 정은아)는 11일 삼성동 코엑스에서 개최된 '제1회 사이버서밋코리아(CSK) 2024'에서 공공·금융 업무망 환경을 안전하게 만드는 보...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/09/12/84cb05567d66fd08e2ae4989f98fe5ee-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[르포] 하반신 마비도 걷는다…기적을 만드는 연구소]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240912092604</link>
+            <guid>https://zdnet.co.kr/view/?no=20240912092604</guid>
+            <pubDate>Thu, 12 Sep 2024 04:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[[대전=신영빈 기자] 이보다 더 뛰놀고 싶은 연구소가 있을까. 어릴 적 동심을 다시 환기하는 듯한 이 공간에서는 '입는 로봇' 연구가 한창이었다. 마치 영화 '아이언맨' 속 실...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/09/12/314841af10e25ea4c67859eecd95dfdd-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이훈기 의원, 인공지능법 제정안 대표 발의..."산업 발전과 규제 균형"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240912122519</link>
+            <guid>https://zdnet.co.kr/view/?no=20240912122519</guid>
+            <pubDate>Thu, 12 Sep 2024 04:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[국회 과학기술정보방송통신위원회 이훈기 의원(더불어민주당)은 12일 인공지능의 발전과 규제의 균형을 맞춘 '인공지능의 발전과 안전성 확보 등에 관한 법률안'을 대표발의 했다고 밝...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KAIT, 홍콩 WTIA와 ICT분야 협력 맞손]]></title>
             <link>https://zdnet.co.kr/view/?no=20240912111648</link>
             <guid>https://zdnet.co.kr/view/?no=20240912111648</guid>
             <pubDate>Thu, 12 Sep 2024 03:21:53 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부 산하 법정단체인 한국정보통신진흥협회(이하 KAIT)는 홍콩 무선산업기술협회(WTIA)와 ICT산업 발전 및 협력 증진을 위한 업무협약(MOU)을 체결했다고 1...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/09/12/6c5366c600e8ac9d9e1649be58fc6257-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["카톡 오픈채팅·네이버 라인에 성매매, 불법 환전 만연”]]></title>
@@ -21,14 +45,14 @@
             <guid>https://zdnet.co.kr/view/?no=20240912121941</guid>
             <pubDate>Thu, 12 Sep 2024 03:21:53 GMT</pubDate>
             <content:encoded><![CDATA[국회 과학기술정보방송통신위원회 박충권 의원(국민의힘)은 카카오톡 오픈채팅과 네이버 라인에서 성매매, 불법 마사지 홍보, 불법 환전 등 위법 행위가 확산되면서 불법 콘텐츠가 심각...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/09/12/a6d593ca6fa391e3ce1347521eb8310e-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[지스타 조직위, 지스타 2024 주요 일정 공개...20주년 맞아 다양한 이벤트 진행]]></title>
             <link>https://zdnet.co.kr/view/?no=20240912121632</link>
             <guid>https://zdnet.co.kr/view/?no=20240912121632</guid>
             <pubDate>Thu, 12 Sep 2024 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[지스타조직위원회(위원장 강신철, 조직위)는 '지스타 2024'의 주요 참가사 정보와 함께 확정된 주요 일정 및 프로그램을 9월 12일 공개했다. 이번 지스타에서는 기존 BTC,...]]></content:encoded>
+            <content:encoded><![CDATA[지스타조직위원회(위원장 강신철, 조직위)는 '지스타 2024'의 주요 참가사 정보와 함께 확정된 주요 일정 및 프로그램을 12일 공개했다. 이번 지스타에서는 기존 BTC, BT...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240911091623</guid>
             <pubDate>Thu, 12 Sep 2024 02:44:49 GMT</pubDate>
             <content:encoded><![CDATA[친환경 화학소재 전문기업 동성케미컬가 이마트 브랜드 자연주의 식품 포장재에 친환경 원료로 만든 에어캡을 적용하며 탄소배출 저감에 나서고 있다. 동성케미컬은 퇴비화 가능한 원료 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[산업단지에 '문화' 입힌다…문화융합 선도산단 10곳 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240912111228</link>
-            <guid>https://zdnet.co.kr/view/?no=20240912111228</guid>
-            <pubDate>Thu, 12 Sep 2024 02:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 산업단지를 청년이 찾는 핫플레이스로 탈바꿈하기 위해 산업단지에 문화를 입힌 '문화융합 선도산단(가칭 문화를 담은 산업단지)'을 2025년에 3개, 2027년까지 10개를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔씨소프트 '호연', 편의성 개선 업데이트...퀘스트 추적-무공 자동 사용]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240912110959</link>
-            <guid>https://zdnet.co.kr/view/?no=20240912110959</guid>
-            <pubDate>Thu, 12 Sep 2024 02:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[엔씨소프트(공동대표 김택진, 박병무)는 추석을 맞아 '호연'의 정기 업데이트를 실시했다고 11일 밝혔다. 호연은 이용자 플레이 경험 향상을 위해 다양한 편의성 개선을 적용했다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[개발자 채용 주춤해도 '서버·백엔드' 수요는 여전]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240912110639</link>
-            <guid>https://zdnet.co.kr/view/?no=20240912110639</guid>
-            <pubDate>Thu, 12 Sep 2024 02:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[올해 개발자 채용 수요가 전반적으로 감소한 가운데, 서버·백엔드 개발자에 대한 수요는 여전히 높은 것으로 나타났다. 그렙(대표 임성수)은 최근 진행한 개발자 채용 및 평가 동향...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
