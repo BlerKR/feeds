@@ -4,16 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Sep 2024 02:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 03:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차, 내년 말 유럽서 500만대 돌파…"체코공장 덕분" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240918121242</link>
+            <guid>https://zdnet.co.kr/view/?no=20240918121242</guid>
+            <pubDate>Wed, 18 Sep 2024 03:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[현대자동차가 세계 3대 자동차 시장인 유럽에서 내년 말 500만대 돌파를 앞뒀다. 이는 2008년 체코 공장이 가동을 시작한 뒤 17년 만의 기록이다. 체코 공장은 글로벌 금융...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/09/18/b6467384185f78e8c578c04ccb5d1fa0-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19일 브라질서 G20 연구혁신 장관회의 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240918102835</link>
+            <guid>https://zdnet.co.kr/view/?no=20240918102835</guid>
+            <pubDate>Wed, 18 Sep 2024 03:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 황판식 연구개발정책실장을 수석 대표로 19일 브라질 마나우스에서 개최되는 주요 20개국(G20) 연구혁신 장관회의에 참석할 예정이다. G20은 브라질(의장국...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/02/4462ae0630cdde941bea7f8236bc55d0-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[1분건강] 추석에 방문한 고향집 음식맛이 변했다면 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240918082946</link>
+            <guid>https://zdnet.co.kr/view/?no=20240918082946</guid>
+            <pubDate>Wed, 18 Sep 2024 03:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[추석 연휴 기간에 고향을 방문한 부모님에게 치매 증상이 없었는지를 따져보자. 내년 9월 21일은 세계보건기구(WHO)가 정한 세계 치매의 날이다. 노인성 질환인 치매는 환자의 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[내년 '초고령사회' 진입…액티브 시니어 모셔라 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240918112350</link>
             <guid>https://zdnet.co.kr/view/?no=20240918112350</guid>
             <pubDate>Wed, 18 Sep 2024 02:46:16 GMT</pubDate>
             <content:encoded><![CDATA[2025년 초고령사회 진입을 앞두고 액티브 시니어와 실버 산업이 주목받는다. 최근 행정안전부에 따르면 현재 우리나라 65살 이상 주민등록인구는 1천만62명으로, 전체 주민등록인...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/09/18/1b9d4dac368378dc98fd601568d89100-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[이기자의 게임픽] 추석 끝, 신작 또 나온다..로한2에 다크앤다커모바일 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240918105437</guid>
             <pubDate>Wed, 18 Sep 2024 02:46:16 GMT</pubDate>
             <content:encoded><![CDATA[주요 게임사가 추석 이후 신작 게임 준비에 더 속도를 낼 것으로 보여 귀추가 주목되고 있다. 플레이위드코리아는 '로한2' 출시일을 확정했다면, 위메이드는 '레전드 오브 이미르'...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/09/13/ca5d01260acbc13f7727a8321482836a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[기고] AI 시대의 현명한 개인정보 활용 방법 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240918091737</guid>
             <pubDate>Wed, 18 Sep 2024 02:46:16 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 올인원 세탁건조기 '비스포크 AI 콤보'를, 이달부터 페루·아르헨티나 등에 출시하며 중남미 시장 공략 강화에 나섰다. 삼성전자는 올해 2월 국내와 4월 북미 시장에 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[생수 '무라벨' 의무화 앞두고 제조사, 제품 차별화 어려워 고심 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240917193447</link>
-            <guid>https://zdnet.co.kr/view/?no=20240917193447</guid>
-            <pubDate>Wed, 18 Sep 2024 02:46:16 GMT</pubDate>
-            <content:encoded><![CDATA[오는 2026년부터 생수 제품에 무라벨 QR코드 표시가 의무화될 예정인 가운데, 제조사들은 무라벨 포장에서의 제품 차별화 방안을 고심 중이다. 환경부가 행정 예고한 '먹는샘물의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[라이엇게임즈, 넷플릭스 애니메이션 시리즈 아케인 시즌2 OST 수록곡 공개 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240917200611</link>
-            <guid>https://zdnet.co.kr/view/?no=20240917200611</guid>
-            <pubDate>Wed, 18 Sep 2024 02:46:16 GMT</pubDate>
-            <content:encoded><![CDATA[라이엇게임즈는 넷플릭스 독점 애니메이션 시리즈 '아케인' 시즌2(Arcane Season Two)의 OST 수록곡을 공개했다. 20여 곡으로 구성된 아케인 시즌2 OST에는 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[新무기 장착한 세일즈포스, MS 제치고 기업용 AI 시장 '왕좌' 차지할까 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240918081058</link>
-            <guid>https://zdnet.co.kr/view/?no=20240918081058</guid>
-            <pubDate>Wed, 18 Sep 2024 02:46:16 GMT</pubDate>
-            <content:encoded><![CDATA["앞으로 새로운 인공지능(AI) 에이전트를 통해 기업이 추가로 직원을 고용하지 않아도 짧은 시간 안에 업무 효율을 크게 높일 수 있을 것입니다. 이는 지금까지 우리가 일해왔던 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
