@@ -4,16 +4,48 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 02:51:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 03:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마우저, 유블럭스 'IRIS-W10 블루투스 모듈' 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240923115251</link>
+            <guid>https://zdnet.co.kr/view/?no=20240923115251</guid>
+            <pubDate>Mon, 23 Sep 2024 03:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[반도체 유통업체 마우저일렉트로닉스는 유블럭스의 IRIS-W10 모듈을 공급한다고 밝혔다. IRIS-W10 모듈은 산업 자동화, 스마트 홈, 스마트 빌딩, 스마트 시티, 의료 및...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/09/23/89ffee4e2dd1ddfd012fda962281e799-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[HD현대중공업, 필리핀 최대 방산전시회 참가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240923113122</link>
+            <guid>https://zdnet.co.kr/view/?no=20240923113122</guid>
+            <pubDate>Mon, 23 Sep 2024 03:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[HD현대중공업은 25일부터 사흘간 필리핀 마닐라 월드트레이드센터에서 개최되는 '제5회 아시안방산안보전시회(ADAS 2024)'에 참가한다고 23일 밝혔다. 올해로 10주년을 맞...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/09/23/23cb3d873171c665240b5c2abb4a9eca-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제4차 전파진흥기본계획안 공청회 열린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240923114249</link>
+            <guid>https://zdnet.co.kr/view/?no=20240923114249</guid>
+            <pubDate>Mon, 23 Sep 2024 03:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 25일 오후 한국과학기술회관에서 제4차 전파진흥기본계획안에 대한 공청회를 개최한다. 과기정통부는 지난해 5월부터 산학연 전문가 등 총 90여명이 참여하는 신...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[주니퍼 네트웍스, 와이파이7 지원 AI 네이티브 네트워킹 플랫폼 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240923115135</link>
+            <guid>https://zdnet.co.kr/view/?no=20240923115135</guid>
+            <pubDate>Mon, 23 Sep 2024 03:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[주니퍼 네트웍스의 인공지능(AI) 네이티브 네트워킹 플랫폼에서 와이파이7(Wi-Fi 7)을 지원한다. 주니퍼 네트웍스는 주니퍼 미스트 와이파이 액세스 포인트와 고 전압 POE ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엔씨, LLM 수행능력 검증하는 '바르코 Judge LLM' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240923114401</link>
             <guid>https://zdnet.co.kr/view/?no=20240923114401</guid>
             <pubDate>Mon, 23 Sep 2024 02:51:55 GMT</pubDate>
             <content:encoded><![CDATA[엔씨소프트(공동대표 김택진, 박병무, 엔씨)가 국내 최초로 거대언어모델(LLM) 성능과 수행능력을 검증하는 평가모델 'VARCO Judge LLM'('바르코 Judge LLM'...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/09/23/c0c9a9f088bdf477601bcf3488854b50-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[데이비드 왕 화웨이 의장 "산업 디지털화 위해 생태계 혁신 필요"]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240923113711</guid>
             <pubDate>Mon, 23 Sep 2024 02:51:55 GMT</pubDate>
             <content:encoded><![CDATA[데이비드 왕 화웨이 이사회 전무이사 겸 ICT 인프라 관리 이사회 의장이 “고객, 파트너와 협력해 미래 보장형 인프라를 구축하고 다양한 산업별 솔루션을 개발해 경제와 사회의 발...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/09/23/42787595655ed62eb9108b3ddb9bb3c2-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이스라엘 케드마, IBM 양자컴퓨터에 오류수정SW 탑재 협약]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240923104917</guid>
             <pubDate>Mon, 23 Sep 2024 02:51:55 GMT</pubDate>
             <content:encoded><![CDATA[토스뱅크가 토스뱅크 체크카드 결제 시 결제금액의 0.4%를 기부할 수 있는 서비스를 선보인다고 23일 밝혔다. 토스뱅크는 그간 결제 금액의 0.4%를 캐시백으로 쌓아줬는데 이를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["채용·성장·협업 고민 푼다"...'HR테크 어벤져스' 총출동]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240922235216</link>
-            <guid>https://zdnet.co.kr/view/?no=20240922235216</guid>
-            <pubDate>Mon, 23 Sep 2024 02:51:55 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 경기 침체와 더불어 코로나19 팬데믹과 엔데믹을 거치면서 직장인들이 생각하는 일에 대한 가치와 기준이 크게 바뀌었다. 기업들도 예전과 달라진 일에 대한 사회 인식에 맞춰...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[민주당 안도걸 의원 "국내 가상자산 시장...상위 1%가 투자 규모 70% 차지"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240923110941</link>
-            <guid>https://zdnet.co.kr/view/?no=20240923110941</guid>
-            <pubDate>Mon, 23 Sep 2024 02:51:55 GMT</pubDate>
-            <content:encoded><![CDATA[더불어민주당 안도걸 의원은 1억 원이 넘는 가상자산 계좌수는 전체 1%에 불과했으나 투자 규모는 전체 금액 70%를 차지하는 것으로 나타났다고 23일 밝혔다. 안도걸 의원이 금...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[블룸버그 "美 아폴로, 인텔에 최대 50억 달러 투자 제안"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240923085638</link>
-            <guid>https://zdnet.co.kr/view/?no=20240923085638</guid>
-            <pubDate>Mon, 23 Sep 2024 02:51:55 GMT</pubDate>
-            <content:encoded><![CDATA[미국에 본사를 둔 대체투자운용사 '아폴로 글로벌매니지먼트'가 인텔에 최대 50억 달러(약 6조 6천715억원) 규모 지분 투자를 제안했다. 블룸버그통신이 22일(미국 현지시간)...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코스포, 에스-트론과 韓·中 스타트업 생태계 교류 지원 맞손]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240923103931</link>
-            <guid>https://zdnet.co.kr/view/?no=20240923103931</guid>
-            <pubDate>Mon, 23 Sep 2024 02:51:55 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 스타트업 페스티벌 '컴업'의 주관기관 코리아스타트업포럼은 지난 20일~21일 중국 상해에서 열린 '에스-트론 상하이 2024'에 참석해 글로벌 파트너십 목적의 업무협약(...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
