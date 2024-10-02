@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 03:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 04:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온다, 두바이 '익스팬드 노스 스타 2024' 참가 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241002110841</link>
+            <guid>https://zdnet.co.kr/view/?no=20241002110841</guid>
+            <pubDate>Wed, 02 Oct 2024 04:25:30 GMT</pubDate>
+            <content:encoded><![CDATA[호스피탈리티 테크 기업 온다가 오는 13일부터 16일까지 4일간 두바이 하버에서 진행되는 '익스팬드 노스 스타 2024(이하 노스 스타)'에 참가한다고 2일 밝혔다. 노스 스타...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/02/4ec0283ea66bb24fdd0bda62e69b5365-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공정위, 카카오모빌리티에 724억원 과징금…"독점력 남용행위 제재" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20241002102237</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241002100516</guid>
             <pubDate>Wed, 02 Oct 2024 03:25:49 GMT</pubDate>
             <content:encoded><![CDATA[국내에 수입된 후 이물질이 검출된 중국산 김치에 대해 식품의약품안전처가 회수 조치를 내리지 않은 것으로 나타났다. 국회 보건복지위원회 소속 전진숙 더불어민주당 의원이 식약처로부...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/02/5edbd706442f04517c09d3c9e2129461-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[엔씨소프트-아마존게임즈, TL 글로벌 서비스 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241002105606</guid>
             <pubDate>Wed, 02 Oct 2024 02:51:22 GMT</pubDate>
             <content:encoded><![CDATA[LIG넥스원은 이날부터 5일간 충남 계룡대에서 개최되는 '대한민국 국제방위산업전시회(KADEX 2024)'에 참여해 군 정예화·첨단화에 기여할 미래 전장 솔루션과 수출주력 무기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[샘씨엔에스, 고성능 다층세라믹기판 개발 나서 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241002103117</link>
-            <guid>https://zdnet.co.kr/view/?no=20241002103117</guid>
-            <pubDate>Wed, 02 Oct 2024 02:51:22 GMT</pubDate>
-            <content:encoded><![CDATA[국내 반도체 부품기업 샘씨엔에스가 사업 영역 확장에 나선다. 기존 주력 제품에 적용해온 기술을 토대로 자율주행 등 여러 산업에 필요한 고성능 세라믹 기판을 개발할 계획이다. 샘...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
