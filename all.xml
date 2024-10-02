@@ -4,16 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 02:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 03:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공정위, 카카오모빌리티에 724억원 과징금…"독점력 남용행위 제재" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241002102237</link>
+            <guid>https://zdnet.co.kr/view/?no=20241002102237</guid>
+            <pubDate>Wed, 02 Oct 2024 03:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[공정거래위원회가 카카오모빌리티에 과징금 724억원과 검찰 고발을 진행키로 했다. 카카오모빌리티가 가맹택시 사업을 시작하면서 경쟁 가맹택시 사업자에게 영업상 비밀을 실시간 제공하...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/30/e6323eae33bdd5d3cd638fee5150c99c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국산 김치 몰려오는데…부적합 김치 그대로 유통 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241002100516</link>
+            <guid>https://zdnet.co.kr/view/?no=20241002100516</guid>
+            <pubDate>Wed, 02 Oct 2024 03:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[국내에 수입된 후 이물질이 검출된 중국산 김치에 대해 식품의약품안전처가 회수 조치를 내리지 않은 것으로 나타났다. 국회 보건복지위원회 소속 전진숙 더불어민주당 의원이 식약처로부...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/02/5edbd706442f04517c09d3c9e2129461-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[엔씨소프트-아마존게임즈, TL 글로벌 서비스 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241002113849</link>
+            <guid>https://zdnet.co.kr/view/?no=20241002113849</guid>
+            <pubDate>Wed, 02 Oct 2024 03:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[엔씨소프트(공동대표 김택진, 박병무)는 MMORPG(다중접속역할수행게임) '쓰론 앤 리버티(TL)'를 1일 오전 10시(이하 현지 기준) 글로벌 지역에 출시했다고 밝혔다. 이 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[크래프톤, 지스타2024 출품작 공개...인조이에 아크까지 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20241002111807</link>
             <guid>https://zdnet.co.kr/view/?no=20241002111807</guid>
             <pubDate>Wed, 02 Oct 2024 02:51:22 GMT</pubDate>
             <content:encoded><![CDATA[크래프톤(대표 김창한)은 11월 14일부터 17일까지 부산 벡스코에서 열리는 국제 게임 전시회 '지스타(G-STAR) 2024'에 8년 연속으로 참가한다고 밝혔다. 크래프톤은 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/05/14/0613e803958a6856a3bc8a33475ca3ca-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한미마이크로닉스, 위즈맥스 ML-360 뷰 케이스 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241002114008</guid>
             <pubDate>Wed, 02 Oct 2024 02:51:22 GMT</pubDate>
             <content:encoded><![CDATA[한미마이크로닉스가 2일 풀 파노라믹 디스플레이를 적용한 PC 케이스 '위즈맥스 ML-360 뷰'를 출시했다. 이 제품은 케이스 전면과 왼쪽에 강화유리를 적용해 메인보드와 그래픽...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/02/ca26756136bb01da09970747857ba83b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[통신 3사 3분기 합산 영업이익 1.2조원대 전망 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241002103117</guid>
             <pubDate>Wed, 02 Oct 2024 02:51:22 GMT</pubDate>
             <content:encoded><![CDATA[국내 반도체 부품기업 샘씨엔에스가 사업 영역 확장에 나선다. 기존 주력 제품에 적용해온 기술을 토대로 자율주행 등 여러 산업에 필요한 고성능 세라믹 기판을 개발할 계획이다. 샘...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["오래 달리고 연비에 좋아"…금호타이어, 환경기술대상 대상 수상 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241002105454</link>
-            <guid>https://zdnet.co.kr/view/?no=20241002105454</guid>
-            <pubDate>Wed, 02 Oct 2024 02:51:22 GMT</pubDate>
-            <content:encoded><![CDATA[금호타이어가 환경부와 한국환경산업기술원에서 주최한 '2024 글로벌탑 우수 환경기술대상'에서 '대상'을 수상했다고 2일 밝혔다. 글로벌탑 우수 환경기술대상은 국내 녹색산업 발전...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, Y아티스트가 만든 '나의 해리에게' 디지털 굿즈 배포 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241002092709</link>
-            <guid>https://zdnet.co.kr/view/?no=20241002092709</guid>
-            <pubDate>Wed, 02 Oct 2024 02:51:22 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 인기 드라마 '나의 해리에게'의 주요 장면을 담은 일러스트 및 디지털 굿즈를 KT Y 홈페이지와 SNS 채널을 통해 선보인다고 2일 밝혔다. 이번에 선보인 '나의 해리에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["전력제어 기술로 배터리 완성도 정밀 검증…中 기업과 경쟁 자신 있다" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240930160123</link>
-            <guid>https://zdnet.co.kr/view/?no=20240930160123</guid>
-            <pubDate>Wed, 02 Oct 2024 02:51:22 GMT</pubDate>
-            <content:encoded><![CDATA[지디넷코리아가 한국경제의 든든한 버팀목인 소·부·장(소재·부품·장비), 반도체·디스플레이, 배터리 등 핵심 기반 산업을 이끄는 [소부장반디배] 기업 탐방 시리즈를 새롭게 시작합...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
