@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Oct 2024 02:51:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Oct 2024 03:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡 로켓프레시에 부산 베이커리 '옵스' 입점]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241009121717</link>
+            <guid>https://zdnet.co.kr/view/?no=20241009121717</guid>
+            <pubDate>Wed, 09 Oct 2024 03:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡은 로켓프레시에 부산 대표 인기 베이커리 '옵스(OPS)'가 입점하며 유명 베이커리 상품 라인업을 확대한다고 9일 밝혔다. 옵스는 부산 3대 빵집 중 하나로 꼽히는 30년 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/09/276effa2e8360ef642a6616b8a92bef4-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마음AI-제우스, AI기반 자율주행 'WoRV' 활용 제주 농가 혁신 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241009120245</link>
+            <guid>https://zdnet.co.kr/view/?no=20241009120245</guid>
+            <pubDate>Wed, 09 Oct 2024 03:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[AI 전문기업 마음AI(대표 유태준)는 제주 대표 농업기업 제우스와 지난 7일 제주 농업 혁신과 발전을 위한 업무제휴(MOU) 협약을 체결했다고 밝혔다. 이번 협약은 AI기술을...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/09/1544caa94cb4ff8a556c1805697fe7fd-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경제계 "지배구조 규제강화 법안, 교각살우 될라"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241009112421</link>
+            <guid>https://zdnet.co.kr/view/?no=20241009112421</guid>
+            <pubDate>Wed, 09 Oct 2024 03:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[경제계가 기업지배구조 관련 19개 법안에 대해 교각살우 결과 발생을 우려했다. 기업가치를 제고하려다 기업경영의 근간이 흔들리는 상황을 마치 '쇠뿔을 고치려다 소 잡는다'는 뜻의...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 동남아 '비스포크 AI 콤보' 테크세미나 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20241009100019</link>
             <guid>https://zdnet.co.kr/view/?no=20241009100019</guid>
             <pubDate>Wed, 09 Oct 2024 02:51:58 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자는 지난 8일(현지 시간) 태국 방콕에서 올인원 세탁건조기 '비스포크 AI 콤보' 테크세미나를 개최했다고 9일 밝혔다. 이번 행사에는 싱가포르·인도네시아·필리핀·말레이시...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/09/e9c2a20dadfe9bd3d2d119b2a6cc9945-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[GM, 전기차 브랜드 '얼티엄' 버린다...배터리 멀티 벤더 전략 강화하나]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241009113929</guid>
             <pubDate>Wed, 09 Oct 2024 02:51:58 GMT</pubDate>
             <content:encoded><![CDATA[제너럴모터스(GM)가 자체 전기차 플랫폼 브랜드 '얼티엄'을 사용하지 않겠다고 밝힘에 따라, 전기차 배터리 공급망에 멀티 벤더 전략을 적극 활용할지 주목된다. GM은 8일(현지...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/09/0ad16e65ddd3fb9234babaeff092458f-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[삼성 TV, 'F45 트레이닝'과 파트너십…"집에서 무료 홈트 즐겨요"]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241008162219</guid>
             <pubDate>Wed, 09 Oct 2024 02:51:58 GMT</pubDate>
             <content:encoded><![CDATA[세계 최대 농업 국가 중 하나인 브라질에 가뭄이 닥쳐 전 세계의 식량 가격이 상승할 수 있다는 관측이 나오고 있다. 블룸버그 통신은 브라질 역사상 최악의 가뭄이 커피와 설탕, ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[578돌 한글날 기념…유통업계도 기념 마케팅]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241008162140</link>
-            <guid>https://zdnet.co.kr/view/?no=20241008162140</guid>
-            <pubDate>Wed, 09 Oct 2024 02:51:58 GMT</pubDate>
-            <content:encoded><![CDATA[유통업계가 578돌 한글날을 맞이해 한글을 포장에 활용한 한정판 제품을 선보이거나 체험형 콘텐츠를 마련하는 등 관련 마케팅에 나섰다. 백화점과 아울렛은 공휴일을 맞아 늘어나는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시프트업 '니케', 일본에서도 저력 과시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241008225437</link>
-            <guid>https://zdnet.co.kr/view/?no=20241008225437</guid>
-            <pubDate>Wed, 09 Oct 2024 02:51:58 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2022년 출시된 '승리의 여신: 니케(니케)'는 현재까지도 한국을 포함해 글로벌 전역에서 많은 사랑을 받고 있다. 특히 니케는 서브컬처의 종주국인 일본에서도 많은 사랑을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[허깅페이스 "코드 몇 줄만으로 AI 웹앱 완성"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241008181050</link>
-            <guid>https://zdnet.co.kr/view/?no=20241008181050</guid>
-            <pubDate>Wed, 09 Oct 2024 02:51:58 GMT</pubDate>
-            <content:encoded><![CDATA[허깅페이스가 몇 줄의 코드만으로 인공지능(AI) 기반 웹 앱을 만들 수 있는 개발 도구를 공개했다. 간단한 코드로 오픈AI의 AI모델을 적용한 앱을 개발하고 배포할 수 있는 만...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
