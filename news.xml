@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Oct 2024 02:51:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 03:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성창모 센터장 "한국형 ARPA-H, 실패 거듭해도 10배의 성과낼 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241011114053</link>
+            <guid>https://zdnet.co.kr/view/?no=20241011114053</guid>
+            <pubDate>Fri, 11 Oct 2024 03:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[실패를 거듭하더라도 높은 성과를 내는 것을 추구하겠다” 성창모 한국형 ARPA-H 추진단 PM 센터장은 11일 서울 코엑스에서 열린 디지털헬스케어포럼 2024(Digital H...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/11/2799c92fbc07956ffeb1a8c6068252d6-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["디지털 헬스케어 아직 시작 단계, 슈퍼 앱 선점 과제 남아"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241011114453</link>
+            <guid>https://zdnet.co.kr/view/?no=20241011114453</guid>
+            <pubDate>Fri, 11 Oct 2024 03:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[“2070년 인구 중 46%가 노년층으로 예상된다. 아픈 것이 일상인 시대가 올 것이고 그때 필요한 것이 바로 '슈퍼 앱'이다.” 한현욱 차의과학대학 정보의학교실 교수(디지털헬...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/11/d8b563309af346b944ff822c1d2f37fe-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이체 급한데…KB스타뱅킹 1시간여 대기]]></title>
             <link>https://zdnet.co.kr/view/?no=20241011114458</link>
             <guid>https://zdnet.co.kr/view/?no=20241011114458</guid>
             <pubDate>Fri, 11 Oct 2024 02:50:59 GMT</pubDate>
             <content:encoded><![CDATA[한 달여 만에 KB국민은행 모바일 뱅킹 애플리케이션 'KB스타뱅킹'의 접속 오류가 생겼다. 11일 오전 11시 40분께부터 KB스타뱅킹에 접속하면 "현재 접속 고객이 많다"며 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/11/94dccd0c3768ced680282899191b1dd9-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[바디프랜드, 차은우 광고 효과 '톡톡']]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241011113624</guid>
             <pubDate>Fri, 11 Oct 2024 02:50:59 GMT</pubDate>
             <content:encoded><![CDATA[헬스케어 가전기업 바디프랜드는 신규 브랜드 엠버서더 차은우의 발탁과 함께 공개한 '전신쾌감' 광고 조회수가 한 달 만에 2천만 회를 돌파했다고 11일 밝혔다. 바디프랜드는 지난...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/11/4310050508e5ada5e54d8ca81968f238-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['흑요석' 우나영 "개성과 보편성의 조화, 우리 국가유산이 나가야 할 길"]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241011105202</guid>
             <pubDate>Fri, 11 Oct 2024 02:50:59 GMT</pubDate>
             <content:encoded><![CDATA[라온시큐어가 옴니커넥트와 함께 시선 추적 기반 AI 심리검사로 분석한 MBTI 등 다양한 심리 분석 결과를 블록체인 디지털 ID로 발급하는 사업을 추진한다. 라온시큐어는 시선추...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[부산국제영화제 왓챠단편상에 김동은 감독 '과녁은 어디에']]></title>
-            <link>https://zdnet.co.kr/view/?no=20241011105143</link>
-            <guid>https://zdnet.co.kr/view/?no=20241011105143</guid>
-            <pubDate>Fri, 11 Oct 2024 02:50:59 GMT</pubDate>
-            <content:encoded><![CDATA[왓챠가 제29회 부산국제영화제 시상식에서 김동은 감독의 '과녁은 어디에' 작품에 왓챠단편상을 수여했다고 11일 밝혔다. 왓챠는 2021년부터 우수하고 역량 있는 감독들의 성장을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["아이폰17 프로, 배터리 제거 더 쉬워진다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241011104246</link>
-            <guid>https://zdnet.co.kr/view/?no=20241011104246</guid>
-            <pubDate>Fri, 11 Oct 2024 02:50:59 GMT</pubDate>
-            <content:encoded><![CDATA[내년에 출시될 예정인 아이폰17 프로 모델에도 아이폰16에 적용됐던 전기유도 배터리 접착 기술이 채택될 것이라는 전망이 나왔다. IT매체 맥루머스는 10일(현지시간) IT팁스터...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
