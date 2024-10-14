@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Oct 2024 02:56:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 03:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울반도체, 유럽 8개국서 특허 침해 소송 '승소']]></title>
+            <link>https://zdnet.co.kr/view/?no=20241014120203</link>
+            <guid>https://zdnet.co.kr/view/?no=20241014120203</guid>
+            <pubDate>Mon, 14 Oct 2024 03:29:18 GMT</pubDate>
+            <content:encoded><![CDATA[유럽통합특허법원(UPC)이 출범 최초로 유럽 8개국에서 판매되는 서울반도체의 LED 특허 제품이 침해 제품들에 판매를 금지하고 판매된 전 제품을 회수 후 폐기하라는 판결을 내렸...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/11/05/a3e71e5b2bb074195704d49e9f2bf9c8-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["디지털은 과학관에 '약'일까, '독'일까"…과학관, 국제 논의의 장 마련]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241014101250</link>
+            <guid>https://zdnet.co.kr/view/?no=20241014101250</guid>
+            <pubDate>Mon, 14 Oct 2024 03:29:18 GMT</pubDate>
+            <content:encoded><![CDATA[최근 대세로 자리잡은 디지털 대전환이 과학관에 기회인지, 도전 요소인지를 전세계 과학관 전문가가 한자리에 모여 논의하는 장이 마련됐다. 국립중앙과학관(관장 권석민)은 18일부터...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/14/8f19722f47f21e19a127ae5e1ecce21b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정부, 자율주행 개발 돕는 영상정보 이용 기준 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241014101459</link>
+            <guid>https://zdnet.co.kr/view/?no=20241014101459</guid>
+            <pubDate>Mon, 14 Oct 2024 03:29:18 GMT</pubDate>
+            <content:encoded><![CDATA[기업이 자율주행차, 배달로봇 등 이동형 영상정보처리기기에서 촬영된 영상을 인공지능(AI) 개발에 활용할 수 있게 돕는 개인영상정보 보호·활용 기준이 나왔다. 개인정보보호위원회는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[약인가 독인가…합성 데이터 사용에 AI 업계 의견 '분분']]></title>
             <link>https://zdnet.co.kr/view/?no=20241014113346</link>
             <guid>https://zdnet.co.kr/view/?no=20241014113346</guid>
             <pubDate>Mon, 14 Oct 2024 02:56:13 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 모델 훈련에 AI가 만든 데이터를 쓸 수 있는지 기업과 학계의 논쟁이 이어지고 있다. 학습 데이터 고갈과 모델 붕괴라는 현실적인 문제 사이에서 AI 업계 종사자...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/08/06/d004f234fb85343d10cadbf8b75ad2ac-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[압구정에 우주정거장이?…에이피알 유니버스 '스페이스 도산' 가보니]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241013163252</guid>
             <pubDate>Mon, 14 Oct 2024 02:56:13 GMT</pubDate>
             <content:encoded><![CDATA[압구정에 우주정거장과 탐사선이 나타났다. 에이피알이 서울 강남구 신사동에 새롭게 문을 연 '스페이스 도산'에 말이다. 우주 미디어 아트존에서 블랙홀 영상도 관람할 수 있고, 우...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/14/baa616d78573fefb6fecb26d7b650523-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[디원더, 올인원 정산 관리 서비스 '빌딩케어 파이낸스' 출시]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241014104317</guid>
             <pubDate>Mon, 14 Oct 2024 02:56:13 GMT</pubDate>
             <content:encoded><![CDATA[토탈 로봇 솔루션 기업 빅웨이브로보틱스는 로봇을 기반으로 한 스마트 병원에 특화된 사용량 기반의 로봇 서비스(RaaS) 요금제를 국내 최초로 도입했다고 14일 밝혔다. 빅웨이브...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[교촌, 유통마진 일방 인하 협력업체 피해유발 2억원대 과징금 철퇴]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241014102401</link>
-            <guid>https://zdnet.co.kr/view/?no=20241014102401</guid>
-            <pubDate>Mon, 14 Oct 2024 02:56:13 GMT</pubDate>
-            <content:encoded><![CDATA[교촌치킨이 협력사의 치킨 전용기름 가격을 일방적으로 인하했다는 혐의로 공정거래위원회의 제재를 받게 됐다. 공정위는 교촌치킨을 운영하는 교촌에프앤비에 불공정 행위를 이유로 시정명...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[캐논코리아, 최대 A2 출력 포토 잉크젯 프린터 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241014103912</link>
-            <guid>https://zdnet.co.kr/view/?no=20241014103912</guid>
-            <pubDate>Mon, 14 Oct 2024 02:56:13 GMT</pubDate>
-            <content:encoded><![CDATA[캐논코리아가 14일 대형 사진 출력에 특화된 대형 잉크젯프린터 '이미지프로그래프 프로-510'을 국내 출시했다. 이미지프로그래프 프로-510은 컬러 인쇄에 필요한 CMYK(시안...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데에너지머티, 익산시에 '나무심기' 성금 1천만원 기탁]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241014103330</link>
-            <guid>https://zdnet.co.kr/view/?no=20241014103330</guid>
-            <pubDate>Mon, 14 Oct 2024 02:56:13 GMT</pubDate>
-            <content:encoded><![CDATA[롯데에너지머티리얼즈(대표 김연섭)는 그린 생태계 조성의 일환으로 공장이 위치한 익산시에 나무심기 성금을 기탁했다고 14일 밝혔다. 롯데에너지머티리얼즈는 지난 11일 익산시청에서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
