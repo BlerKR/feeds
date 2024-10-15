@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 02:53:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 03:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벌써 수능 D-30... 이벤트 나서는 유통업계]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241015105531</link>
+            <guid>https://zdnet.co.kr/view/?no=20241015105531</guid>
+            <pubDate>Tue, 15 Oct 2024 03:27:22 GMT</pubDate>
+            <content:encoded><![CDATA[대학수학능력시험(수능)이 30일 앞으로 다가온 가운데, 유통업계가 수험생 대상 제품을 출시하고 행사를 진행하는 등 관련 활동에 나서고 있다. 스타벅스는 ▲클로버 쿠키 카드 ▲클...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/15/91cabcf65ca61f286671be9d25c29d3f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인터파크 투어, 미식 투어 패키지 상품 선봬]]></title>
             <link>https://zdnet.co.kr/view/?no=20241015093316</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241015114757</guid>
             <pubDate>Tue, 15 Oct 2024 02:53:30 GMT</pubDate>
             <content:encoded><![CDATA[KAIST 무기계약직은 육아 휴직시 대체 인력을 자신이 구해야 하고, 급여와 퇴직 충당금을 기관이 아닌 연구책임자(교수)가 책임지고 있는 것으로 드러났다. 국회 과학기술정보통신...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/15/c9c66c4e09c319516762312fa9d42e1d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[삼성메디슨, 프리미엄 초음파 진단기기 'HERA Z20' 국내 출시]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241015101835</guid>
             <pubDate>Tue, 15 Oct 2024 02:53:30 GMT</pubDate>
             <content:encoded><![CDATA[로옴은 덴소와 반도체 분야에서 전략적 파트너십 검토 개시에 합의했다고 15일 밝혔다. 탄소 중립 실현을 위해 전동차 개발 및 보급이 가속화됨에 따라, 자동차의 전동화에 필요한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구멍 술술 의료기술 재평가 제도에 국민 안전 위협]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241015105300</link>
-            <guid>https://zdnet.co.kr/view/?no=20241015105300</guid>
-            <pubDate>Tue, 15 Oct 2024 02:53:30 GMT</pubDate>
-            <content:encoded><![CDATA[권고하지 않는 의료기술이 버젓이 사용되는 등 현행 의료기술 재평가 제도 개선이 시급한 것으로 드러났다. 최보윤 국민의힘 의원이 한국보건의료연구원으로부터 제출받은 의료기술 재평가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
