@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Oct 2024 02:52:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 03:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[건기식 제조 셀로맥스사이언스, 연내 상장 추진]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241017120357</link>
+            <guid>https://zdnet.co.kr/view/?no=20241017120357</guid>
+            <pubDate>Thu, 17 Oct 2024 03:26:28 GMT</pubDate>
+            <content:encoded><![CDATA[셀로맥스사이언스가 한화플러스제3호스팩과 합병을 통해 오는 12월 상장을 추진한다. 합병가액은 1천 원, 합병비율은 1대 0.2270405다. 합병 승인을 위한 주주총회는 오는 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/17/17db55cb46f000fd990a38a03652010c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[롤스로이스, SUV '컬리넌' 부분변경 모델 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20241017114948</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241017113255</guid>
             <pubDate>Thu, 17 Oct 2024 02:52:28 GMT</pubDate>
             <content:encoded><![CDATA[17일 열린 국회 문화체육관광위원회 국정감사에서 국민의힘 진종오 의원은 서태건 게임물관리위원회 위원장을 상대로 게임물 등급 분류 제도의 문제점에 대해 질의했다. 이번 질의는 2...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/17/1177a2ef8eb71b732c98ead9ce6a2e84-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[로봇협회, 국방로봇 생태계 '원팀' 꾸린다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241017103921</guid>
             <pubDate>Thu, 17 Oct 2024 02:52:28 GMT</pubDate>
             <content:encoded><![CDATA[한국소프트웨어산업협회(회장 조준희, 이하 KOSA)는 메가존클라우드(대표 이주완)와 16일(현지시간) 아랍에미리트(UAE) 아부다비 글로벌 마켓(ADGM, Abu Dhabi G...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[유통 픽] 이마트24, 영화 '베놈: 라스트 댄스'와 협업 外]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241017100756</link>
-            <guid>https://zdnet.co.kr/view/?no=20241017100756</guid>
-            <pubDate>Thu, 17 Oct 2024 02:52:28 GMT</pubDate>
-            <content:encoded><![CDATA[이마트24가 오는 23일 개봉하는 영화 '베놈:라스트 댄스'의 글로벌 IP(지식재산권)를 활용한 신제품을 출시했다. 이번 신제품은 베놈 캐릭터 색상과 특징을 살린 '블랙비프버거...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
