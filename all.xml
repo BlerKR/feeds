@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 03:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 04:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당근 숏폼 '당근 스토리', 경기·인천 지역도 사용 가능 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241018122328</link>
+            <guid>https://zdnet.co.kr/view/?no=20241018122328</guid>
+            <pubDate>Fri, 18 Oct 2024 04:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[국내 대표 지역생활 커뮤니티 당근이 자체 숏폼 서비스 '당근 스토리'를 경기, 인천 지역까지 확대 오픈한다고 18일 밝혔다. 서울 전 지역으로 서비스를 확대한 지 4개월 만이다...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/18/40f5027f6a58231c0723505a5f84965b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공영홈쇼핑 "배추 대란 속 포장김치 '인기'" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20241018122054</link>
@@ -21,10 +29,10 @@
             <guid>https://zdnet.co.kr/view/?no=20241018121507</guid>
             <pubDate>Fri, 18 Oct 2024 03:28:13 GMT</pubDate>
             <content:encoded><![CDATA[현대홈쇼핑은 글로벌 구스 침구 브랜드 '브링크하우스'를 TV홈쇼핑을 통해 단독 출시한다고 18일 밝혔다. 첫 방송은 오는 19일 오전 8시 20분부터 간판 프로그램인 '왕영은의...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/18/eef3b40135c8356063c152d8df73b775-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[현장] 경희대 김상균 교수 "메타버스 산업, AI 달아야 날 수 있다" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[[현장] 김상균 경희대 교수 "메타버스, AI 달아야 날 수 있다" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20241018115623</link>
             <guid>https://zdnet.co.kr/view/?no=20241018115623</guid>
             <pubDate>Fri, 18 Oct 2024 03:28:13 GMT</pubDate>
@@ -40,7 +48,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[건보료는 납부·국민연금은 체납 사례 급증…왜? (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA['건보료는 납부, 국민연금은 체납' 사례 급증…왜? (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20241018115350</link>
             <guid>https://zdnet.co.kr/view/?no=20241018115350</guid>
             <pubDate>Fri, 18 Oct 2024 03:28:13 GMT</pubDate>
@@ -120,7 +128,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[한강 책 사며 다른 문학책도 산다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA['한강' 사며 다른 책도 산다…서점가 문학 열풍 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20241018111855</link>
             <guid>https://zdnet.co.kr/view/?no=20241018111855</guid>
             <pubDate>Fri, 18 Oct 2024 02:53:52 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241018105231</guid>
             <pubDate>Fri, 18 Oct 2024 02:53:52 GMT</pubDate>
             <content:encoded><![CDATA[굽네를 운영하는 지앤푸드가 IBK기업은행과 협력해 지난 7일부터 디지털 금융 서비스를 도입했다고 밝혔다. 해당 서비스는 기업은행 맞춤형 디지털 금융 '서비스형 뱅킹(BaaS)'...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스퀘어에닉스 요시다 P/D "파판14 한국 서비스 성공, 액토즈 헌신 덕" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241018033424</link>
-            <guid>https://zdnet.co.kr/view/?no=20241018033424</guid>
-            <pubDate>Fri, 18 Oct 2024 02:53:52 GMT</pubDate>
-            <content:encoded><![CDATA[스퀘어에닉스의 스타 개발자 요시다 나오키 P/D는 드래곤퀘스트와 파이널판타지 시리즈에서 핵심적인 역할을 맡아온 인물로, 파이널판타지14의 프로듀서 겸 디렉터(P/D)로 게임 팬...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
