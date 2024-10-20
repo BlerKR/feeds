@@ -4,16 +4,48 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Oct 2024 02:58:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Oct 2024 03:32:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KOSA-KTOA, AI·DX 신규 비즈니스 창출 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241020120248</link>
+            <guid>https://zdnet.co.kr/view/?no=20241020120248</guid>
+            <pubDate>Sun, 20 Oct 2024 03:32:18 GMT</pubDate>
+            <content:encoded><![CDATA[통신사업자와 클라우드 전문기업들이 신규 비즈니스 창출을 위해 협력한다. 한국소프트웨어산업협회(KOSA)는 한국통신사업자연합회(KTOA)와 '디지털 혁신 융합 비즈니스 창출과 회...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/20/c103f4af4b608e1fbf56318523c4cf66-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최수진 의원 "우주항공청에 왜 항공은 없나"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241020120238</link>
+            <guid>https://zdnet.co.kr/view/?no=20241020120238</guid>
+            <pubDate>Sun, 20 Oct 2024 03:32:18 GMT</pubDate>
+            <content:encoded><![CDATA[국내 항공 산업계에 취업하려는 외국인 항공제조 인력에 대한 정부 관리가 부실한 것으로 드러났다. 특히 항공기 및 부품 제조 인력 충원을 위한 올해 비자(E-7-3)를 신청한 1...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/20/d92a9266c6a0616471cfb22b16636714-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 기업 12곳, 중동서 551만달러 수출 관련 성과 창출]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241020094739</link>
+            <guid>https://zdnet.co.kr/view/?no=20241020094739</guid>
+            <pubDate>Sun, 20 Oct 2024 03:32:18 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 한국인터넷진흥원(KISA), 한국정보보호산업협회(KISIA)와 함께 민관합동 중동디지털 수출개척단 활동과 연계해 두바이 자이텍스(GITEX) 2024 전시회...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[KB국민은행, 인도 첸나이·푸네 지점 개점]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241020115834</link>
+            <guid>https://zdnet.co.kr/view/?no=20241020115834</guid>
+            <pubDate>Sun, 20 Oct 2024 03:32:18 GMT</pubDate>
+            <content:encoded><![CDATA[KB국민은행은 21일 인도 주요 경제 중심지인 첸나이와 푸네 지역에 신규 지점을 신설한다고 20일 밝혔다. 지난 2019년 구루구람 지점을 개점한 KB국민은행은 이번 지점 신설...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[하나은행 "퇴직연금 DC 수익률 6분기 연속 1위"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241020115630</link>
             <guid>https://zdnet.co.kr/view/?no=20241020115630</guid>
             <pubDate>Sun, 20 Oct 2024 02:58:17 GMT</pubDate>
             <content:encoded><![CDATA[하나은행은 2024년 3분기 말 기준 확정기여형(DC) 퇴직연금의 최근 1년간 운용 수익률 부문에서 6분기 연속 시중은행 중 1위를 달성했다고 20일 밝혔다. 금융감독원의 통합...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/20/6152946b0789310f973d75a23075bb71-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[농협은행, NH멤버스·현대백화점 H포인트 제휴 기념 이벤트 실시]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241020115354</guid>
             <pubDate>Sun, 20 Oct 2024 02:58:17 GMT</pubDate>
             <content:encoded><![CDATA[농협은행은 범농협 통합 멤버십 서비스인 NH멤버스(NH포인트)와 현대백화점그룹 통합 멤버십 H포인트가 제휴를 맺고, 이를 기념해 11월 30일까지 포인트 추가적립 이벤트를 진행...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/20/bc3491271a0d82b6d4a7668b90e8f2cb-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["섬유 발열시켜 보온하는 가방…60도로 2시간 유지"]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241019225506</guid>
             <pubDate>Sun, 20 Oct 2024 02:58:17 GMT</pubDate>
             <content:encoded><![CDATA[최근 오픈AI를 퇴사한 미라 무라티 전 최고기술책임자(CTO)가 새 스타트업 설립을 위해 자금을 유치 중 것으로 알려졌다. 로이터 등 외신은 20일 무라티 전 CTO가 인공지능...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국감 '뜨거운감자' 두산 합병…성공할 수 있을까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241018212948</link>
-            <guid>https://zdnet.co.kr/view/?no=20241018212948</guid>
-            <pubDate>Sun, 20 Oct 2024 02:58:17 GMT</pubDate>
-            <content:encoded><![CDATA[두산그룹 지배구조 개편 과정이 험난하다. 두산그룹은 최근 두산에너빌리티에서 두산밥캣을 분리해 두산로보틱스에 이전하는 지배구조 개편을 진행하고 있다. 소액주주의 반발과 금감원 신...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 생성형 AI 프롬프트 사내 대회로 역량 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241020094225</link>
-            <guid>https://zdnet.co.kr/view/?no=20241020094225</guid>
-            <pubDate>Sun, 20 Oct 2024 02:58:17 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 AI를 활용한 업무 혁신과 임직원 역량 강화를 위해 생성형 AI 프롬프트 경진 대회 '크롬프톤'을 개최했다고 20일 밝혔다. 크롬프톤은 KT와 프롬프트, 해커톤의 합성어...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국감 소환 김동관 한화 부회장…실제 출석 가능성은?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241018230254</link>
-            <guid>https://zdnet.co.kr/view/?no=20241018230254</guid>
-            <pubDate>Sun, 20 Oct 2024 02:58:17 GMT</pubDate>
-            <content:encoded><![CDATA[대기업 총수 중 유일하게 올해 국회 국정감사 증인으로 소환된 김동관 한화그룹 부회장의 출석 여부에 재계 관심이 주목된다. 18일 국회 등에 따르면 김 부회장의 21일 정무위원회...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오엔터 타파스 '끝이 아닌 시작', 애니로 만든다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241020092022</link>
-            <guid>https://zdnet.co.kr/view/?no=20241020092022</guid>
-            <pubDate>Sun, 20 Oct 2024 02:58:17 GMT</pubDate>
-            <content:encoded><![CDATA[카카오엔터테인먼트(대표 권기수·장윤중)는 북미 웹툰·웹소설 플랫폼 타파스의 대표 IP '끝이 아닌 시작(TBATE)'이 북미 애니메이션 플랫폼(OTT)인 크런치롤을 통해 애니메...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
