@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Oct 2024 02:56:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 03:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울장수막걸리, 오베이 협업해 막걸리 파티 개최 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241019002405</link>
+            <guid>https://zdnet.co.kr/view/?no=20241019002405</guid>
+            <pubDate>Mon, 21 Oct 2024 03:29:59 GMT</pubDate>
+            <content:encoded><![CDATA[서울장수막걸리와 스트릿 패션 브랜드 오베이(OBEY)가 파티를 개최했다. 행사는 지난 2016년 서울미래유산으로 선정된 서울 성수동 서울탁주 성동제조장에서 진행됐다. 현장에는 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/19/f3d72899fb9922f33846149b4a48f50e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컴투스, 대한민국 야구 대표팀 평가전 공식 후원 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20241021114736</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241021114554</guid>
             <pubDate>Mon, 21 Oct 2024 02:56:27 GMT</pubDate>
             <content:encoded><![CDATA[라온시큐어가 우리나라를 방문한 인도네시아 정부 관계자 대상의 역량강화 프로그램을 통해 한국형 모바일 신분증(K-DID) 기술에 대한 이해도를 높였다. 라온시큐어는 지난 16일 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/21/c81df7724589fdddadbff0c67d6450b0-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[슈퍼셀, 핀란드 헬싱키서 3종 월드 파이널 동시 개최 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241021104202</guid>
             <pubDate>Mon, 21 Oct 2024 02:56:27 GMT</pubDate>
             <content:encoded><![CDATA["디올의 립스틱 캠페인이 전 세계 900만 인스타그램 팔로워 중 92%의 참여를 이끌어낸 것은 생성 AI와 슈퍼앱의 결합 덕분입니다. 하나의 앱에서 모든 것을 해결하고 싶어하는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이기자의 게임픽] 카카오게임즈, 신작 준비 시동...11월 패스오브엑자일2 선보여 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241021102828</link>
-            <guid>https://zdnet.co.kr/view/?no=20241021102828</guid>
-            <pubDate>Mon, 21 Oct 2024 02:56:27 GMT</pubDate>
-            <content:encoded><![CDATA[카카오게임즈가 남은 하반기에 이어 내년까지 준비 중인 신작 게임을 순차적으로 선보일 계획이다. 이 회사는 퍼블리싱 신작 게임 '패스오브엑자일2'와 자회사 개발작인 '로스트 아이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
