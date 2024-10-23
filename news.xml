@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 02:52:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 03:26:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[유통 픽] 스타벅스, 다음 달부터 겨울 e-프리퀀시 시작 外]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241023110438</link>
+            <guid>https://zdnet.co.kr/view/?no=20241023110438</guid>
+            <pubDate>Wed, 23 Oct 2024 03:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[스타벅스가 다음 달 1일부터 12월 31일까지 '2024 겨울 e-프리퀀시' 이벤트를 진행한다. 회사는 사이렌 오더 혹은 매장에서 미션 음료 3잔을 포함해 제조 음료 총 17잔...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/23/016f111dc770ce944e0e901d24551a39-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1년 전 공약 지킨 '한컴家' 김연수, 유럽 이어 日 시장 본격 공략]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241023121731</link>
+            <guid>https://zdnet.co.kr/view/?no=20241023121731</guid>
+            <pubDate>Wed, 23 Oct 2024 03:26:09 GMT</pubDate>
+            <content:encoded><![CDATA["5년 내 해외에서도 한글과컴퓨터 브랜드를 쉽게 볼 수 있도록 글로벌 빅테크 기업 반열에 오르겠습니다. 글로벌화를 위해 해외 기업 인수와 일본을 시작으로 해외 영업법인 설립 확...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/04/01/eeea57099f26395f3d859bc0cddce2f5-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신성이엔지, 'SEDEX 2024'서 클린룸 기술력 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241023114333</link>
+            <guid>https://zdnet.co.kr/view/?no=20241023114333</guid>
+            <pubDate>Wed, 23 Oct 2024 03:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[신성이엔지는 오는 27까지 서울 코엑스에서 열리는 반도체대전(SEDEX 2024)에 참가한다고 23일 밝혔다. 1977년 설립된 신성이엔지는 클린룸 핵심 장비인 'FFU(산업용...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오 "AI로 일하는 방식 변화…일상에도 AI 스며들 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241023093935</link>
             <guid>https://zdnet.co.kr/view/?no=20241023093935</guid>
             <pubDate>Wed, 23 Oct 2024 02:52:14 GMT</pubDate>
             <content:encoded><![CDATA["카카오에서는 좋은 서비스를 만들려면 먼저 내부에서 경험해 봐야 한다고 말한다. 내부의 변화가 곧 혁신적인 서비스로 이어진다는 경험이 있었기 때문이다. 그렇기 때문에 일하는 방...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/23/768315c3b91eacbfad5741da7c776e4a-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[유상임 장관, 다음달 통신 3사 CEO 만난다]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241023114805</guid>
             <pubDate>Wed, 23 Oct 2024 02:52:14 GMT</pubDate>
             <content:encoded><![CDATA[유상임 과학기술정보통신부 장관이 내달 통신 3사 CEO와 회동을 갖는다. 장관 취임 후 첫 공식적인 만남으로 통신산업 현안에 대한 논의와 함께 통신사들이 공을 들이고 있는 인공...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/10/36cb2d1d8d2878bec0fd923d06fcbe64-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[튜링 수학대왕, 'AI 필기 인식' 기능 넣었다]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241023104744</guid>
             <pubDate>Wed, 23 Oct 2024 02:52:14 GMT</pubDate>
             <content:encoded><![CDATA[웹3 컨설팅 기업 디스프레드는 일본 웹3 컨설팅 기업 디파이맨즈와 파트너십을 맺고 각국 시장의 사업을 확대한다고 23일 밝혔다. 디스프레드는 글로벌 웹3 기업들의 한국 시장 진...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코인원, 가상자산 모니터링 시스템 자체 개발 및 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241023104315</link>
-            <guid>https://zdnet.co.kr/view/?no=20241023104315</guid>
-            <pubDate>Wed, 23 Oct 2024 02:52:14 GMT</pubDate>
-            <content:encoded><![CDATA[국내 대표 전문 가상자산 거래소 코인원(대표 차명훈)이 가상자산 모니터링 시스템을 자체 개발 및 구축했다고 23일 밝혔다. 거래지원 중인 프로젝트에 발생하는 보안 이슈부터 소셜...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["지병 때문에…증인 빼달라 청탁까지…" 국감 증인 불출석 사유 천태만상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241023103929</link>
-            <guid>https://zdnet.co.kr/view/?no=20241023103929</guid>
-            <pubDate>Wed, 23 Oct 2024 02:52:14 GMT</pubDate>
-            <content:encoded><![CDATA[국회로부터 국정감사 증인 출석을 요구받았음에도 이해하기 어려운 사유를 들어 불출석한 인사들에 대해 국회 차원의 무더기 고발이 예상된다. 제22대 국회의 첫 국정감사에서 주요 증...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스태빌리티AI, '스테이블디퓨전3.5' 출시…창작자 지원 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241023102539</link>
-            <guid>https://zdnet.co.kr/view/?no=20241023102539</guid>
-            <pubDate>Wed, 23 Oct 2024 02:52:14 GMT</pubDate>
-            <content:encoded><![CDATA[스태빌리티AI가 이미지 생성 모델 '스테이블디퓨전'의 차기 버전을 공개했다. 사용자의 요구 사항에 맞춰 모델을 더욱 세밀하게 조정할 수 있도록 사용자 정의 기능을 확대하는 등 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
