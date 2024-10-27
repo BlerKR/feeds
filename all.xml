@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Oct 2024 02:57:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2024 03:31:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반려동물 늘어나는데 보험가입률은 1%대 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241025083054</link>
+            <guid>https://zdnet.co.kr/view/?no=20241025083054</guid>
+            <pubDate>Sun, 27 Oct 2024 03:30:59 GMT</pubDate>
+            <content:encoded><![CDATA[반려동물도 늘어나고 관심도 높아지고 있지만 보험에 가입한 반려동물은 아직도 낮은 것으로 조사됐다. 27일 보험연구원은 보고서를 통해 2024년 상반기 반려동물 보험료(원수) 3...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/25/f51c68a04a4d64ddf675598e7980531c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글, 사람 대신 인터넷서 제품 구매·예약하는 AI 개발 중 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20241027093809</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241027022537</guid>
             <pubDate>Sun, 27 Oct 2024 02:57:15 GMT</pubDate>
             <content:encoded><![CDATA[한국로봇융합연구원(KIRO)이 지난 23일부터 26일까지 일산 킨텍스에서 열린 '2024 로보월드'에서 삭도시설 원격검사 로봇을 선보였다. 삭도시설 원격검사 로봇 시스템은 케이...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/27/da672d1beafa81a2c2d15da2fada8a4d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[ZD브리핑] 삼성전자, LG엔솔 등 3분기 실적 주목...애플 AI '인텔리전스' 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241026021404</guid>
             <pubDate>Sun, 27 Oct 2024 02:57:15 GMT</pubDate>
             <content:encoded><![CDATA[다음달 유상임 과학기술정보통신부 장관이 취임 후 처음으로 통신 3사 CEO와 공식 회동을 가진다. 이번 회동에서는 22대 과학기술정보방송통신위원회(과방위) 국정감사에서 제기된 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[만다린로보틱스, 로보월드서 '조리로봇' 선봬 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241027005429</link>
-            <guid>https://zdnet.co.kr/view/?no=20241027005429</guid>
-            <pubDate>Sun, 27 Oct 2024 02:57:15 GMT</pubDate>
-            <content:encoded><![CDATA[만다린로보틱스가 지난 23일부터 26일까지 일산 킨텍스에서 열린 '2024 로보월드' 전시회에 참가해 조리로봇 기술을 소개했다. 만다린로보틱스가 전시한 '로보틱웍'은 세계 최고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
