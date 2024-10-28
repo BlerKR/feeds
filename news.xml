@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Oct 2024 02:57:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 03:32:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그라비티, 지스타2024에 출품작 17종 선보여]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241028110342</link>
+            <guid>https://zdnet.co.kr/view/?no=20241028110342</guid>
+            <pubDate>Mon, 28 Oct 2024 03:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[그라비티가 국내 최대 게임쇼 지스타2024에 타이틀 17종을 이끌고 참가한다고 28일 밝혔다. 올해 지스타는 다음 달 14일부터 17일까지 나흘간 부산 벡스코에서 열린다. 그라...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/06/13/1cd1f513b6d7f4f863394971d847d908-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[韓 정부 데이터센터 관리역량, 아프리카 '튀니지'에 전수]]></title>
             <link>https://zdnet.co.kr/view/?no=20241028115104</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241028114319</guid>
             <pubDate>Mon, 28 Oct 2024 02:57:43 GMT</pubDate>
             <content:encoded><![CDATA[메가존클라우드가 클라우드 컴퓨팅 기초 역량을 갖춘 개발 및 운영 인력을 육성하기 위해 팔을 걷어 부쳤다. 메가존클라우드는 오는 30일 수원대학교 미래혁신관에서 'AWS 리스타트...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/28/e39f61c93caf045c68d6af8f260078a7-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[에이치이엠파마, 11월5일 코스닥 상장…일반청약 672.17대1 기록]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241028110949</guid>
             <pubDate>Mon, 28 Oct 2024 02:57:43 GMT</pubDate>
             <content:encoded><![CDATA[국토교통부 대도시권광역교통위원회는 철도·항공·버스·퍼스널모빌리티(PM) 등 다양한 교통수단을 모바일 앱 '슈퍼무브' 하나로 이용할 수 있는 전국 MaaS(K-MaaS) 서비스를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[브라더코리아, 한국전자전서 '전문가용 라벨 프린터' 선봬]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241028110906</link>
-            <guid>https://zdnet.co.kr/view/?no=20241028110906</guid>
-            <pubDate>Mon, 28 Oct 2024 02:57:43 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 프린팅 전문기업 브라더인터내셔널코리아는 한국전자전(KES 2024)에서 전문가용 라벨프린터 제품군을 선보였다고 28일 밝혔다. 이번 전시회에서는 ▲튜브넘버링기 ▲전기·통...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
