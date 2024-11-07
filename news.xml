@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 02:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 03:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황현식 LGU+ "고객이 원하는 것은 내게 필요한 AI"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241107104611</link>
+            <guid>https://zdnet.co.kr/view/?no=20241107104611</guid>
+            <pubDate>Thu, 07 Nov 2024 03:26:20 GMT</pubDate>
+            <content:encoded><![CDATA["현재 강력한 AI 엔진이 개발돼 있지만, 고객이 원하는 것은 내게 필요한 AI 서비스입니다. 하지만 원천 기술이 발전하고 있는 것 대비 그 속도를 응용 기술이 못 따라가고 있...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/07/15597a4026b7b54ff4187e07293329a6-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 트럼프 당선 韓 영향 'T.R.U.M.P'로 풀다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241107105137</link>
+            <guid>https://zdnet.co.kr/view/?no=20241107105137</guid>
+            <pubDate>Thu, 07 Nov 2024 03:26:20 GMT</pubDate>
+            <content:encoded><![CDATA[대한상공회의소는 7일 경제·산업 전문가 15명의 의견을 종합해 '미국 트럼프 대통령 당선이 한국경제에 미치는 영향'을 분야별로 분석해 정리했다. 대한상의는 “트럼프 당선은 수출...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/05/10/6038d9b52e948a6df4fe2f08b2fa74a2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IP 카메라·로봇청소기 등 가정용 IoT 기기 공격 급증]]></title>
             <link>https://zdnet.co.kr/view/?no=20241106142917</link>
             <guid>https://zdnet.co.kr/view/?no=20241106142917</guid>
             <pubDate>Thu, 07 Nov 2024 02:50:09 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 범유행 기간동안 가정 내 보급된 로봇청소기, IP 카메라, 냉장고와 에어컨 등 사물인터넷(IoT) 기기를 노린 공격이 기승이다. 최근에는 불쾌감을 유발하는 소리를 들...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/09/20/bbd9fffd769f2a31539d7be9043667c7-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넥슨, '2024 던전앤파이터 페스티벌: 중천' 개최 예고]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241107113214</guid>
             <pubDate>Thu, 07 Nov 2024 02:50:09 GMT</pubDate>
             <content:encoded><![CDATA[넥슨코리아(공동 대표 강대현·김정욱)는 7일 인기 온라인 액션게임 '던전앤파이터(이하 던파)'의 대표 행사 '던파 페스티벌'의 사전 안내 페이지를 오픈하고 세부 프로그램을 공개...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/07/6c01e0c2d32262bc991283e14b9dfcff-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[컨콜] 컴투스 "야구게임, 내년에도 추가성장 기대"]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241107100456</guid>
             <pubDate>Thu, 07 Nov 2024 02:50:09 GMT</pubDate>
             <content:encoded><![CDATA[안랩이 스마트폰 보안 솔루션의 높은 안전성·진단율로 글로벌 시장서 인정받았다. 안랩은 'V3 모바일 시큐리티'가 글로벌 보안제품 성능 테스트인 'AV-테스트'의 9월 평가서 전...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이지넷, IPO 착수…"韓 인슈어테크 시장 첫 사례"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241107104053</link>
-            <guid>https://zdnet.co.kr/view/?no=20241107104053</guid>
-            <pubDate>Thu, 07 Nov 2024 02:50:09 GMT</pubDate>
-            <content:encoded><![CDATA[아이지넷이 국내 인슈어테크 기업 중 처음으로 사업모델 특례상장 절차에 돌입했다. 아이지넷은 금융감독원에 증권신고서를 제출하고 사업모델 코스닥 상장을 위한 기업공개(IPO)에 착...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[웹젠, 지스타2024 출품작 2종 코스프레 화보 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241107104856</link>
-            <guid>https://zdnet.co.kr/view/?no=20241107104856</guid>
-            <pubDate>Thu, 07 Nov 2024 02:50:09 GMT</pubDate>
-            <content:encoded><![CDATA[웹젠(대표 김태영)은 '지스타2024' 출품작 2종의 코스프레 화보를 공개한다고 7일 밝혔다. 웹젠은 '지스타2024' 행사에 오픈월드 액션RPG '드래곤소드'와 서브컬처 수집...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
