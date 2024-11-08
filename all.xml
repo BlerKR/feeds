@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 02:50:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 03:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DJI, 드론 사진·동영상 대회…총 상금 2.2억원 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241108115849</link>
+            <guid>https://zdnet.co.kr/view/?no=20241108115849</guid>
+            <pubDate>Fri, 08 Nov 2024 03:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[중국 드론기업 DJI는 내년 2월 10일까지 '제10회 스카이픽셀 사진 및 동영상 대회'를 개최한다고 8일 밝혔다. DJI는 드론 사진·동영상 콘텐츠 공유 온라인 커뮤니티인 스...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/08/01be04d01ff6d20cf6e3ae8af1eae1c7-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG유플러스, 3Q 영업익 2460억…전년 比 3.2%↓ (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20241108113237</link>
@@ -20,8 +28,8 @@
             <link>https://zdnet.co.kr/view/?no=20241108104739</link>
             <guid>https://zdnet.co.kr/view/?no=20241108104739</guid>
             <pubDate>Fri, 08 Nov 2024 02:50:07 GMT</pubDate>
-            <content:encoded><![CDATA[유니테스트는 이달 BIXPO 2024(빛가람 국제전력기술엑스포) 전시회에서 선보인 다양한 색상의 페로브스카이트 태양광 모듈이 군용 제품으로 큰 인기를 끌었다고 8일 밝혔다. 페...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/08/6d5d30516e85f6182ae1bec28fff23f6-290x182.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[유니테스트는 지난달 'KADEX(국제방위산업전시회)'에서 선보인 다양한 색상의 페로브스카이트 태양광 모듈이 군용 제품으로 큰 인기를 끌었다고 8일 밝혔다. 페로브스카이트 태양전...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[모니터랩, 맞춤형 보안 솔루션 'AIZTNA' 출시…온프레미스 시장 '공략' (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241108104033</guid>
             <pubDate>Fri, 08 Nov 2024 02:50:07 GMT</pubDate>
             <content:encoded><![CDATA[아이티센 클로잇이 우리에프아이에스와 손잡고 금융권 클라우드 전환 및 이에 최적화된 서비스 개발에 본격 나선다. 클로잇은 우리에프아이에스와 전략적 업무협약(MOU)을 체결했다고 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT&G "허위 사실 공표 유감"…FCP 인삼공사 투자의향서에 회신 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241108102133</link>
-            <guid>https://zdnet.co.kr/view/?no=20241108102133</guid>
-            <pubDate>Fri, 08 Nov 2024 02:50:07 GMT</pubDate>
-            <content:encoded><![CDATA[KT&amp;G가 플래쉬라이트 캐피탈 파트너스(FCP)의 자회사 KGC인삼공사 투자 제안에 대해 회신을 전달했다고 밝혔다. 회사는 지난해 건강기능식품을 해외 궐련, 궐련형 사업과 함께...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
