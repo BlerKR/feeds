@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Nov 2024 02:53:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Nov 2024 03:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지스타2024 참가 그라비티, PC콘솔 출품작은 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241110091501</link>
+            <guid>https://zdnet.co.kr/view/?no=20241110091501</guid>
+            <pubDate>Sun, 10 Nov 2024 03:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 게임 기업 그라비티가 '지스타2024' 출품작 중 PC 및 콘솔 라인업의 정보를 사전에 공개했다. 그라비티는 올해 지스타에서 추억의 고전 인기 게임부터 독창적이고 참신한...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/10/aa350b943d1ed1bdf8c1c92124fa5502-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GS리테일, 신한카드와 PLCC 개발 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20241110112421</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241110111422</guid>
             <pubDate>Sun, 10 Nov 2024 02:53:22 GMT</pubDate>
             <content:encoded><![CDATA[기아는 EV3가 독일 자동차 전문 매체 아우토빌트와 주간지 빌트 암 존탁이 공동 주관하는 '2024 골든 스티어링 휠 어워드'에서 '4만 유로(6천만원) 미만 최고의 차'로 선...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/29/1d24139197a51f29646476ef35052fd4-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] "IoT와 생성 AI 융합 시작... 취약점 대비 시급" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241110093136</guid>
             <pubDate>Sun, 10 Nov 2024 02:53:22 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 초대형 LED 사이니지를 통해 '갤럭시 Z 폴드 스페셜 에디션' 알리기에 나섰다. 삼성전자는 이달 8일부터 13일까지 서울 중구 신세계스퀘어 본관에서 '갤럭시 Z 폴...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[올 3분기 가장 많이 팔린 폰은 '아이폰15' (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241109202312</link>
-            <guid>https://zdnet.co.kr/view/?no=20241109202312</guid>
-            <pubDate>Sun, 10 Nov 2024 02:53:22 GMT</pubDate>
-            <content:encoded><![CDATA[올해 3분기 스마트폰 시장에서 가장 많이 팔린 폰은 애플 '아이폰15'인 것으로 나타났다. 10일 시장조사업체 카운터포인트리서치가 조사한 결과에 따르면 애플 '아이폰 15' 기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
