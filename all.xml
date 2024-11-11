@@ -4,16 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 03:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 04:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[STEPI 황성호 박사 "한국 벤처·스타트업 글로벌화하려면 국내 VC 해외 진출 병행해야" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241111131542</link>
+            <guid>https://zdnet.co.kr/view/?no=20241111131542</guid>
+            <pubDate>Mon, 11 Nov 2024 04:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[한국 벤처·스타트업의 글로벌화를 위해서는 이들에게 투자하는 벤처캐피털(VC)의 해외 진출이 병행돼야 한다는 주장이 제기됐다. 과학기술정책연구원(이하 STEPI, 원장 윤지웅)은...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/11/d04e7fbe35ead4b8575d1458cc5ec173-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핵융합연, 인공태양 'KSTAR' 기술 조기 확보나서…미국·프랑스 등과 손잡아 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241111124405</link>
+            <guid>https://zdnet.co.kr/view/?no=20241111124405</guid>
+            <pubDate>Mon, 11 Nov 2024 04:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[한국핵융합에너지연구원(원장 오영국)이 '한국의 인공태양' 케이스타(KSTAR)의 조기 기술 확보에 나선다. 11일 핵융합연은 케이스타'의 텅스텐 디버터 환경에서 고온·고밀도·고...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/11/e7b3e05c1baa6a4b32eeb63acbb130a9-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙록 비트코인 ETF, 순자산 규모에서 금 ETF 추월 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20241111120238</link>
             <guid>https://zdnet.co.kr/view/?no=20241111120238</guid>
             <pubDate>Mon, 11 Nov 2024 03:25:33 GMT</pubDate>
             <content:encoded><![CDATA[블랙록이 출시한 비트코인 현물 ETF 상품 IBIT가 금 현물 ETF 상품 IAU의 순자산 규모를 넘어섰다고 미국 가장자산 미디어 디크립트가 11일(현지시간) 보도했다. 지난 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/05/01/4bb2d162eabcc5e8e04d931133fb919b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[양자통신 보안 등에 활용 가능한 광자기반 Li-Fi 핵심기술 개발 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241111110357</guid>
             <pubDate>Mon, 11 Nov 2024 03:25:33 GMT</pubDate>
             <content:encoded><![CDATA[와이파이 등 무선 주파수가 아닌 광자 기반(Li-Fi)의 차세대 통신 핵심 기술이 개발됐다. 한국연구재단(이사장 이광복)은 중앙대 왕동환 교수와 캘리포니아대 응우옌(T.-Q. ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/11/b09c7419f8aab197b32ec1e540664f51-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립전파연구원, 전자파 안전포럼 14일 개최 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241111105845</guid>
             <pubDate>Mon, 11 Nov 2024 02:51:13 GMT</pubDate>
             <content:encoded><![CDATA[전기화학 임피던스 분광법(EIS) 기반 이차전지 검사 진단 전문 기업 민테크(대표 홍영진)는 현대자동차와 수소차 연료전지 검사용 전자부하기 6세트를 내년 5월까지 공급하는 계약...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['AI·클라우드 퍼스트' 더존비즈온...옴니이솔 앞세워 글로벌 간다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241111105209</link>
-            <guid>https://zdnet.co.kr/view/?no=20241111105209</guid>
-            <pubDate>Mon, 11 Nov 2024 02:51:13 GMT</pubDate>
-            <content:encoded><![CDATA[기업정보화 전문기업 더존비즈온이 인공지능(AI)와 클라우드에 집중하며 가파른 상승세를 이어가고 있다. 더존비즈온은 주력 비즈니스 모델인 전사적자원관리(ERP)의 클라우드 전환과...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[컴투스 'SWC2024' 월드 파이널, 도쿄 뜨겁게 달궜다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241111110609</link>
-            <guid>https://zdnet.co.kr/view/?no=20241111110609</guid>
-            <pubDate>Mon, 11 Nov 2024 02:51:13 GMT</pubDate>
-            <content:encoded><![CDATA['서머너즈 워 월드 아레나 챔피언십 2024(이하 SWC2024)'의 마지막 무대인 월드 파이널이 도쿄를 뜨겁게 달구며 올해의 대단원을 성대하게 마무리했다. 컴투스(대표 남재관...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
