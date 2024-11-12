@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Nov 2024 03:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 04:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위메이드맥스, 이길형-손면석 각자대표 체제 출범]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241112132100</link>
+            <guid>https://zdnet.co.kr/view/?no=20241112132100</guid>
+            <pubDate>Tue, 12 Nov 2024 04:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[위메이드맥스가 이길형-손면석 각자대표 체제로 전환된다. 위메이드맥스는 이사회를 열고 손면석 대표이사를 선임했다고 12일 밝혔다. 이번 각자대표 체제 구축은 위메이드맥스의 게임 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/12/a879f106ff1a9eb2e6c2ae49a0244fe8-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한미반도체, 400억 자사주 취득 신탁계약]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241112130516</link>
+            <guid>https://zdnet.co.kr/view/?no=20241112130516</guid>
+            <pubDate>Tue, 12 Nov 2024 04:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[한미반도체가 400억원의 규모의 자기주식 취득 신탁계약을 체결했다고 12일 밝혔다. 계약기간은 오늘부터 2025년 5월 12일까지며 계약체결기관은 삼성증권이다. 한미반도체 대표...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/06/03/fb6f3b8838aaf4463aba09adb354277f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서린씨앤아이, 전자랜드 용산DCS에 입점]]></title>
             <link>https://zdnet.co.kr/view/?no=20241112120336</link>
             <guid>https://zdnet.co.kr/view/?no=20241112120336</guid>
             <pubDate>Tue, 12 Nov 2024 03:22:56 GMT</pubDate>
             <content:encoded><![CDATA[서린씨앤아이는 최근 서울 용산구 소재 전자랜드 용산DCS(디지털편의점)에 입점해 PC 메모리와 케이스 전시·판매를 시작한다고 밝혔다. 전자랜드 용산DCS는 전자랜드 용산점 신관...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/12/4f6757445c4bf12832e4b6fcd845d5e0-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["디지털플랫폼정부 성과, 직접 체험해보세요"]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241112111856</guid>
             <pubDate>Tue, 12 Nov 2024 03:22:56 GMT</pubDate>
             <content:encoded><![CDATA[디지털플랫폼정부위원회는 13일 김대중컨벤션센터에서 열리는 2024 대한민국 정부박람회에서 '국민드림 프로젝트' 성과보고회를 개최한다. 디플정위에서 추진하고 있는 국민드림 프로젝...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/12/04069337d5d808683a8f0f425e03c156-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[정부의 디지털 전환 성과, 광주에서 꽃핀다]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241112110918</guid>
             <pubDate>Tue, 12 Nov 2024 02:47:40 GMT</pubDate>
             <content:encoded><![CDATA[한국산업기술시험원(KTL)은 문화체육관광부가 주최하고 지역문화진흥원이 주관하는 '2024년 여가친화 인증기관'으로 선정됐다고 12일 밝혔다. KTL은 소속 직원들의 여가시간을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, 전력 사용 줄이는 6G 네트워크 기술 실증]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241112094120</link>
-            <guid>https://zdnet.co.kr/view/?no=20241112094120</guid>
-            <pubDate>Tue, 12 Nov 2024 02:47:40 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 6G 시대를 열기 위한 핵심 네트워크 기술 중 하나인 '전광형(All-Photonic) 트랜스포트 네트워크'를 실증했다고 12일 밝혔다. LG유플러스와 글로벌 통...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차, 자동차 명장 만드는 '인증 평가' 실시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241112110512</link>
-            <guid>https://zdnet.co.kr/view/?no=20241112110512</guid>
-            <pubDate>Tue, 12 Nov 2024 02:47:40 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차가 글로벌 최고 수준의 서비스 엔지니어 양성을 위한 '2024 그랜드마스터 인증 평가'를 실시했다고 12일 밝혔다. 그랜드마스터 인증 평가는 현대차가 서비스 엔지니어들...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
