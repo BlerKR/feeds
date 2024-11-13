@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Nov 2024 03:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 04:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로터스 디자인 총괄 "韓 시장 중요해...럭셔리 밀도 높고 트렌드 빨라" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241113124637</link>
+            <guid>https://zdnet.co.kr/view/?no=20241113124637</guid>
+            <pubDate>Wed, 13 Nov 2024 04:24:33 GMT</pubDate>
+            <content:encoded><![CDATA["한국 시장은 지금 강력한 럭셔리 시장이 형성된 것이 장점이라고 생각합니다. 전체 인구 대비해 명품, 럭셔리를 대변하는 데에서 그 밀도가 굉장히 높아 저희가 궁극적으로 럭셔리로...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/13/67acf50cb317a568d2192305b909e0b0-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다쏘시스템, 스남에 3DX 공급…"지속가능 에너지 생산 도와" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20241113111109</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241113114240</guid>
             <pubDate>Wed, 13 Nov 2024 02:50:41 GMT</pubDate>
             <content:encoded><![CDATA[카카오 그룹이 투자∙감사 준칙을 마련하고 의사결정의 투명성을 한 층 더 강화한다. 카카오 협약계열사의 준법·신뢰경영을 지원하는 독립 기구인 카카오 준법과신뢰위원회(이하 '준신위...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/13/11935d706b5d7ff607305a98255e3535-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["韓 제조업 AI 도입 비율, 글로벌 평균 이하"…이유는? (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241113110318</guid>
             <pubDate>Wed, 13 Nov 2024 02:50:41 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤이 올해 탁월한 협업 성과를 창출하고 동반성장에 기여한 비즈니스 파트너들을 초대해 '2024 최우수 파트너사 시상식'을 개최했다고 13일 밝혔다. 올해 시상식에는 '시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[알리익스프레스, 11.11 광군제 인기..."K-베뉴, 전체 매출 절반 차지” (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241113110141</link>
-            <guid>https://zdnet.co.kr/view/?no=20241113110141</guid>
-            <pubDate>Wed, 13 Nov 2024 02:50:41 GMT</pubDate>
-            <content:encoded><![CDATA[알리익스프레스는 11.11 광군제가 성황리에 진행 중이라고 13일 밝혔다. 이번 광군제 판매 첫날 기준, 알리익스프레스 국내 상품 전용관 K-베뉴 셀러 판매액(GMV) 비율이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
