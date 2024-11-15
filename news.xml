@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Nov 2024 03:34:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 04:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크래프톤 지스타 참전...테마별 시연 공간 게임팬 잡았다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241115122022</link>
+            <guid>https://zdnet.co.kr/view/?no=20241115122022</guid>
+            <pubDate>Fri, 15 Nov 2024 04:26:20 GMT</pubDate>
+            <content:encoded><![CDATA[[부산=최병준, 이도원, 남혁우, 강한결 기자] 크래프톤이 지스타2024에 신작 게임을 출품한 가운데, 테마별 시연 공간으로 관람객들의 발길을 사로잡았다. 크래프톤은 오는 17...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/15/9657d08c370d7d4047b5f17413f28785-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프로필] 호세 무뇨스 신임 현대차 대표이사 사장]]></title>
             <link>https://zdnet.co.kr/view/?no=20241115113643</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241115113442</guid>
             <pubDate>Fri, 15 Nov 2024 03:34:52 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차그룹은 완성차 사업의 근본적 체질개선과 미래 경쟁력 강화를 위해 현대차 대표이사인 장재훈 사장을 완성차담당 부회장으로 승진, 임명할 예정이라고 15일 밝혔다. 장재훈 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/15/5e00532a29f669cd8de9a8c3a1355d9c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[GC녹십자웰빙, '라이넥주' 연구 결과 눈길 外]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241115101951</guid>
             <pubDate>Fri, 15 Nov 2024 02:59:13 GMT</pubDate>
             <content:encoded><![CDATA[국내에도 판매되고 있는 미국 아이스크림 브랜드 벤앤제리스가 모회사 유니레버를 팔레스타인 권리를 지지하는 입장을 막고 독립 이사회를 해체하려 위협했다며 소송을 제기했다. 월스트리...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[풀무원, 3분기 매출 8336억원…영업이익 332억원, 전년동기 대비 52% 증가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241114174335</link>
-            <guid>https://zdnet.co.kr/view/?no=20241114174335</guid>
-            <pubDate>Fri, 15 Nov 2024 02:59:13 GMT</pubDate>
-            <content:encoded><![CDATA[풀무원이 국내와 해외 시장에서 성장세를 거두며 올해 3분기 매출과 영업이익이 모두 증가했다. 회사는 3분기 연결 기준 매출액 8천336억5천713만원, 영업이익 332억8천92...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
