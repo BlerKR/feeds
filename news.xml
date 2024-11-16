@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Nov 2024 02:56:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Nov 2024 03:30:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[컴투스플랫폼 "엑스플래닛-하이브, 지스타 성과 커…국내외 클라이언트 만났다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241116112637</link>
+            <guid>https://zdnet.co.kr/view/?no=20241116112637</guid>
+            <pubDate>Sat, 16 Nov 2024 03:30:26 GMT</pubDate>
+            <content:encoded><![CDATA[[부산=최병준, 이도원, 남혁우, 강한결] "3년 전만 해도 B2B 관을 찾아서 하이브를 홍보하기 위해 팜플랫을 돌렸다. 그런데 올해는 BTB에 들어온 업체 가운데 절반 이상이...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/16/ad4aef2f5903a0c483629acd566370d2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["공공기관 분산 데이터 통합 관리"···데이터스트림즈, '2024 정부 박람회' 참가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241116115936</link>
+            <guid>https://zdnet.co.kr/view/?no=20241116115936</guid>
+            <pubDate>Sat, 16 Nov 2024 03:30:26 GMT</pubDate>
+            <content:encoded><![CDATA[데이터 기반 디지털 전환 선도기업 데이터스트림즈(대표 이영상)는 13~15일 광주 김대중컨벤션센터에서 열린 '2024 대한민국 정부 박람회'에 참가해 데이터 패브릭 기술을 선보...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/16/69f9e36f1cbbe7f459608a978f16a90b-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["오딘 이어 흥행 도전"…라이온하트, 신작 4종 지스타 관람객 몰이]]></title>
             <link>https://zdnet.co.kr/view/?no=20241116110423</link>
             <guid>https://zdnet.co.kr/view/?no=20241116110423</guid>
             <pubDate>Sat, 16 Nov 2024 02:56:12 GMT</pubDate>
             <content:encoded><![CDATA[[부산=최병준, 이도원, 남혁우, 강한결] 라이온하트스튜디오가 오딘 발할라 라이즈의 성공을 이을 신작 찾기에 나선다. 이를 위해 이용자의 입맛을 맞출 다양한 장르의 게임을 지스...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/16/5c2b2480c1ded4edda852c57bfe20400-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[크래프톤 '딩컴 투게더', 캥거루와 투닥거리는 호주판 동물의숲]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241116105929</guid>
             <pubDate>Sat, 16 Nov 2024 02:56:12 GMT</pubDate>
             <content:encoded><![CDATA[[부산=최병준, 이도원, 남혁우, 강한결] 크래프톤이 오는 17일까지 부산 벡스코에서 열리는 '2024 지스타'에서 처음으로 '딩컴 투게더'를 공개한다. 딩컴 투게더는 호주의 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/16/215ef3bdd4e9ce4c4c17f166d4ca8354-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[펄어비스 '붉은사막', 지스타2024서 흥행성 입증...출시는]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241115152853</guid>
             <pubDate>Sat, 16 Nov 2024 02:56:12 GMT</pubDate>
             <content:encoded><![CDATA[“올해 정식기까지 무더위가 이어지면서 어려움이 있었지만, 배추 작황 상태는 아주 좋습니다.” 지난 14일 오전 전남 해남군 북평면에 위치한 배추밭에서 만난 정현석 농업회사법인 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[남동발전, 국내 최초 특고압(345kV) '초(超)장조장' 지중선로 기술 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241116022935</link>
-            <guid>https://zdnet.co.kr/view/?no=20241116022935</guid>
-            <pubDate>Sat, 16 Nov 2024 02:56:12 GMT</pubDate>
-            <content:encoded><![CDATA[남동발전이 발전소 지중 선로를 1km이상 한번에 설치 할 수 있는 '초(超) 장조장' 기술을 국내 최초로 적용한다. 한국남동발전(대표 강기윤)은 신규 건설 중인 고성천연가스 발...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한전, 사이버보안 합동훈련 개최…에너지분야 정보보안 협력체계 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241116021637</link>
-            <guid>https://zdnet.co.kr/view/?no=20241116021637</guid>
-            <pubDate>Sat, 16 Nov 2024 02:56:12 GMT</pubDate>
-            <content:encoded><![CDATA[한국전력(대표 김동철)은 13일부터 14일까지 나주 한전 본사에서 국정원 지부와 공동주관으로 공공 에너지분야 특화 사이버 훈련인 '제4회 ELECCON(일렉콘·ELEctric ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
