@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 03:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 04:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ACM리서치, 반도체 제조용 '울트라C 타호 세정 장비' 성능 향상 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241121130643</link>
+            <guid>https://zdnet.co.kr/view/?no=20241121130643</guid>
+            <pubDate>Thu, 21 Nov 2024 04:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[반도체 장비 업체 ACM리서치는 주력 제품인 울트라C 타호(Tahoe) 세정 장비의 성능을 크게 향상시켰다고 21일 발표했다. 울트라 C 타호는 중저온 과산화황 혼합물(sulf...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/21/17504d9dba74d8b37a6ab5e63da5d0bb-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LGU+ CEO에 그룹 신사업 전략통 홍범식 ㈜LG 사장 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20241121121955</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241121103644</guid>
             <pubDate>Thu, 21 Nov 2024 02:58:09 GMT</pubDate>
             <content:encoded><![CDATA[애플이 내년 가을 아이폰 플러스 모델을 버리고 새로워진 초박형 '아이폰17 에어'를 내놓을 것이란 전망이 힘을 얻고 있다. 전망대로 될 경우 아이폰17 에어는 그 동안 나온 아...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[바디프랜드, CES 2025 혁신상 3관왕 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241121111751</link>
-            <guid>https://zdnet.co.kr/view/?no=20241121111751</guid>
-            <pubDate>Thu, 21 Nov 2024 02:58:09 GMT</pubDate>
-            <content:encoded><![CDATA[헬스케어 가전기업 바디프랜드는 'CES 2025' 혁신상 3개를 수상했다고 21일 밝혔다. 이번 CES 2025에는 한층 업그레이드된 로보틱스 테크놀로지를 적용한 헬스케어로봇 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
