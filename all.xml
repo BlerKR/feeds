@@ -4,16 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 02:59:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 03:34:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠첸, 'IR미작 밥솥' 신제품 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241122123203</link>
+            <guid>https://zdnet.co.kr/view/?no=20241122123203</guid>
+            <pubDate>Fri, 22 Nov 2024 03:34:43 GMT</pubDate>
+            <content:encoded><![CDATA[주방가전기업 쿠첸은 디자인과 기능을 업그레이드한 IR미작 신제품을 출시한다고 22일 밝혔다. 쿠첸 IR미작은 적외선(IR) 센서를 적용한 밥솥이다. 비접촉식 적외선 온도제어 방...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/22/a7757d9c21e8fe05ed80a9e84c6295c6-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[현대힘스, 증권사 대상 대불공장 탐방 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241122122514</link>
+            <guid>https://zdnet.co.kr/view/?no=20241122122514</guid>
+            <pubDate>Fri, 22 Nov 2024 03:34:43 GMT</pubDate>
+            <content:encoded><![CDATA[조선기자재 전문기업 현대힘스는 20일과 21일 양일에 걸쳐 국내 주요 증권사 애널리스트 약 10여명을 초청해 전남 영암에 위치한 현대힘스 대불공장에서 기업탐방 행사를 개최했다고...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/22/cb9e354d35ba5e863b7fdc524f6a8ca4-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버 MY플레이스, 개인 맞춤형 로컬 콘텐츠 플랫폼으로 재단장 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241122112855</link>
+            <guid>https://zdnet.co.kr/view/?no=20241122112855</guid>
+            <pubDate>Fri, 22 Nov 2024 03:34:43 GMT</pubDate>
+            <content:encoded><![CDATA[네이버는 MY플레이스를 리뷰 플랫폼에서 이용자가 로컬 경험 전반을 관리하는 개인화 플랫폼으로 개편한다고 22일 밝혔다. 개편된 MY플레이스는 네이버앱·웹, 네이버 지도앱 MY탭...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SSG닷컴, 남해산 생굴 사전예약 판매 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20241122100209</link>
             <guid>https://zdnet.co.kr/view/?no=20241122100209</guid>
             <pubDate>Fri, 22 Nov 2024 02:59:11 GMT</pubDate>
             <content:encoded><![CDATA[SSG닷컴이 자연산 생굴 3종을 사전예약 판매한다고 22일 밝혔다. 22일부터 오는 26일까지 닷새간 사전예약 주문을 받고 28일부터 전국 택배 배송을 시작한다. 쓱닷컴 미식관...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/22/792ef3788b5114ea530c2a816551499d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스노우플레이크, MS 파워 플랫폼용 커넥터 내년 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241122112411</guid>
             <pubDate>Fri, 22 Nov 2024 02:59:11 GMT</pubDate>
             <content:encoded><![CDATA[앞으로 마이크로소프트 파워 플랫폼 사용자는 스노우플레이크 플랫폼 내 데이터로 인공지능(AI) 애플리케이션 개발을 간소화할 수 있다. 스노우플레이크는 지난 18일 미국 워싱턴주 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/22/f737056ac0cefd10c4b563ef024cb952-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["설계부터 운영까지"…퓨어스토리지, 생성형 AI 포드 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241122105734</guid>
             <pubDate>Fri, 22 Nov 2024 02:59:11 GMT</pubDate>
             <content:encoded><![CDATA[포티넷이 자사 제품군에 생성형 인공지능(AI)을 적용해 보안 자동화 기능을 강화한다. 포티넷은 '포티NDR 클라우드'와 '레이스워크 포티CNAPP'에 생성형 AI 어시스턴트 '...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넷마블 '블레이드앤소울 레볼루션', 6주년 업데이트 예고 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241122104924</link>
-            <guid>https://zdnet.co.kr/view/?no=20241122104924</guid>
-            <pubDate>Fri, 22 Nov 2024 02:59:11 GMT</pubDate>
-            <content:encoded><![CDATA[넷마블(대표 권영식, 김병규)은 모바일 MMORPG '블레이드 &amp; 소울 레볼루션'의 6주년 업데이트를 기념해 특별 페이지를 오픈하고 '스페셜 쿠폰'을 사전 예약하는 이벤트를 진...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK스퀘어, 거버넌스포럼 비금융권 최고 등급 A 평가 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241122105514</link>
-            <guid>https://zdnet.co.kr/view/?no=20241122105514</guid>
-            <pubDate>Fri, 22 Nov 2024 02:59:11 GMT</pubDate>
-            <content:encoded><![CDATA[한국기업거버넌스포럼이 SK스퀘어가 전일 발표한 기업가치제고(밸류업) 계획에 대해 22일 'A' 등급을 부여했다. 거버넌스포럼이 지금까지 평가한 국내 비금융권 회사 가운데 최고 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테일즈런너RPG, 동화 속에서 펼쳐지는 새로운 모험 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241122105055</link>
-            <guid>https://zdnet.co.kr/view/?no=20241122105055</guid>
-            <pubDate>Fri, 22 Nov 2024 02:59:11 GMT</pubDate>
-            <content:encoded><![CDATA[테일즈런너RPG는 PC 온라인게임 시장에서 확고한 팬덤을 구축한 테일즈런너 지적재산권(IP)를 확용하고 그 세계관을 확장한 모바일 RPG다. 원작 이후 10년 뒤의 이야기를 배...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
