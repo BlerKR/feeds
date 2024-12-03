@@ -4,16 +4,64 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 03:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 04:27:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HD현대, 연말 이웃사랑성금 20억원 전달]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241203132404</link>
+            <guid>https://zdnet.co.kr/view/?no=20241203132404</guid>
+            <pubDate>Tue, 03 Dec 2024 04:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[HD현대는 연말을 맞아 취약계층 지원을 위해 사회복지공동모금회에 성금 20억원을 기탁했다고 3일 밝혔다. HD현대는 2011년부터 임직원들의 급여 나눔으로 만들어진 HD현대1%...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/12/03/1a67bf2c5b30d026c98cdde09ac793d1-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["금성, 지구와 쌍둥이 아냐…과거에도 뜨겁고 바다 없었다" [우주로 간다]]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241203105810</link>
+            <guid>https://zdnet.co.kr/view/?no=20241203105810</guid>
+            <pubDate>Tue, 03 Dec 2024 04:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[지구의 이웃 행성인 금성에 한때 생명체가 존재했다는 이론에 찬물을 끼얹는 연구결과가 공개됐다고 우주과학매체 스페이스닷컴이 2일(현지시간) 보도했다. 금성은 종종 지구의 '사악한...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/12/03/dac3c22d79638578c5b3ba862bf4d146-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정부, AWS리인벤트 부스 꾸려…"韓 기업 해외 진출 도울 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241203112413</link>
+            <guid>https://zdnet.co.kr/view/?no=20241203112413</guid>
+            <pubDate>Tue, 03 Dec 2024 04:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=김미정 기자] 정부가 유망한 국내 기업의 글로벌 시장 진출 발판을 마련했다. 국내 생성형 인공지능(AI)과 보안 기업을 지원하고 해외 네트워크 구축을 본격...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["AWS 개발툴 사용"…GE 헬스케어, 세계 첫 '3D MRI 모델' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241203122816</link>
+            <guid>https://zdnet.co.kr/view/?no=20241203122816</guid>
+            <pubDate>Tue, 03 Dec 2024 04:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=김미정 기자] 3D로 자기공명영상(MRI)을 지원하는 모델이 세계에서 처음 나왔다. 아마존웹서비스(AWS)의 개발 도구 'AWS 세이지메이커'를 통해 탄생...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인스웨이브, 3세대 앱 플랫폼 '매트릭스 2.0' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241203123427</link>
+            <guid>https://zdnet.co.kr/view/?no=20241203123427</guid>
+            <pubDate>Tue, 03 Dec 2024 04:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[인스웨이브시스템즈(대표 어세룡)가 인공지능(AI)을 적용한 3세대 앱 플랫폼 '매트릭스 2.0'을 공개했다. 인스웨이브시스템즈는 '인스포지엄 개발자 밋업-3차' 행사를 개최했다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장] AI 악용한 사이버 공격 급증… SK쉴더스, 선제적 방어 전략 제시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241203105343</link>
+            <guid>https://zdnet.co.kr/view/?no=20241203105343</guid>
+            <pubDate>Tue, 03 Dec 2024 04:27:16 GMT</pubDate>
+            <content:encoded><![CDATA["인공지능(AI) 기술의 발전으로 보안 위협도 고도화되고 있습니다. 그럼에도 불구하고 이는 선제적인 대응 전략으로 충분히 극복할 수 있습니다." 이재우 SK쉴더스 전무는 3일 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장] "랜섬웨어, 기업 생존 위협한다… SK쉴더스가 제시한 대응 전략은?"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241203111319</link>
             <guid>https://zdnet.co.kr/view/?no=20241203111319</guid>
             <pubDate>Tue, 03 Dec 2024 03:06:36 GMT</pubDate>
             <content:encoded><![CDATA["랜섬웨어로 인한 피해는 단순히 기업의 비용 문제가 아니라 이제는 생존 문제로까지 확산되고 있습니다. 기업은 더 나은 복구 계획과 예방 조치가 필요합니다." 최재호 SK쉴더스 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/12/03/2f63ff5ab449f6d7a07916cd6e9cbf98-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[AI·디지털 기반 미디어 융합인재 성과 발표회 열린다]]></title>
@@ -21,7 +69,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241203101209</guid>
             <pubDate>Tue, 03 Dec 2024 03:06:36 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부와 정보통신산업진흥원(NIPA)이 AI 디지털 기반 미디어 융합인재 사업 성과발표회를 4일 서울 상암동 골든마우스홀에서 개최한다. 이는 과기정통부와 NIPA가 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/12/03/118f3a276035d1fe74616f7a3b8858b1-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[AI·IT 들어간 새로운 kr도메인 풀린다…상표권 가져갈 주인공은?]]></title>
@@ -117,54 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241203110423</guid>
             <pubDate>Tue, 03 Dec 2024 03:06:36 GMT</pubDate>
             <content:encoded><![CDATA[갈라가 자사 토큰 스왑 플랫폼 '갈라스왑'을 '갈라커넥트(GalaConnect)'로 리브랜딩했다고 3일 밝혔다. 갈라커넥트는 갈라의 L1 블록체인 네트워크인 '갈라체인'을 기반...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프 2기 대응...정부, 삼성·LG전자 만나 '가전산업' 점검]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241203092638</link>
-            <guid>https://zdnet.co.kr/view/?no=20241203092638</guid>
-            <pubDate>Tue, 03 Dec 2024 03:06:36 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 내년 1월 트럼프 2기 출범을 앞두고 삼성전자, LG전자, 코웨이 등 가전 기업을 만나 글로벌 통상 변화에 따른 가전 산업 점검에 나선다. 산업통상자원부는 3일 서울 강...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 차량 사이버보안 최고 수준 인증...전장사업 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241203090018</link>
-            <guid>https://zdnet.co.kr/view/?no=20241203090018</guid>
-            <pubDate>Tue, 03 Dec 2024 03:06:36 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자가 업계 최고 수준의 차량 사이버보안 관리체계(Cyber Security Management system, 이하 CSMS) 인증인 레벨3를 획득하며 글로벌 전장시장 공략...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[레드햇, AWS 하이브리드 클라우드 인프라..."자동화로 간단하게"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241203105234</link>
-            <guid>https://zdnet.co.kr/view/?no=20241203105234</guid>
-            <pubDate>Tue, 03 Dec 2024 03:06:36 GMT</pubDate>
-            <content:encoded><![CDATA[레드햇이 복잡하고 오류가 발생하기 쉬운 하이브리드 클라우드 인프라를 쉽게 관리할 수 있는 서비스를 선보인다. 레드햇은 '레드햇 앤서블 오토메이션 플랫폼 온 AWS'를 정식 출시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[컴투스플랫폼, 편리한 탈중앙화 블록체인 지갑 'X-PLANET Wallet' 특허 등록]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241203104950</link>
-            <guid>https://zdnet.co.kr/view/?no=20241203104950</guid>
-            <pubDate>Tue, 03 Dec 2024 03:06:36 GMT</pubDate>
-            <content:encoded><![CDATA[컴투스홀딩스(대표 정철호) 자회사 컴투스플랫폼(대표 최석원)은 탈중앙화 블록체인 지갑 'X-PLANET Wallet(엑스플래닛 월렛)'에 대해 국내 특허 등록을 완료했다고 3일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가까이서 본 수성…베피콜롬보, 5번째 근접비행 [우주로 간다]]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241203095731</link>
-            <guid>https://zdnet.co.kr/view/?no=20241203095731</guid>
-            <pubDate>Tue, 03 Dec 2024 03:06:36 GMT</pubDate>
-            <content:encoded><![CDATA[유럽과 일본이 개발한 수성 탐사선 베피콜롬보가 다섯 번째 근접 비행을 통해 촬영한 사진을 보내왔다고 우주과학매체 스페이스닷컴이 2일(이하 현지시간) 보도했다. 지난 1일 베피콜...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성바이오로직스, ESG 경영 노하우 소개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241203104331</link>
-            <guid>https://zdnet.co.kr/view/?no=20241203104331</guid>
-            <pubDate>Tue, 03 Dec 2024 03:06:36 GMT</pubDate>
-            <content:encoded><![CDATA[삼성바이오로직스가 2일 2024 공급망 ESG 데이(Supplier ESG Day)를 온라인 개최했다. 올해가 2회째. 지난해 행사에서는 재화를 공급하는 공급사를 대상으로만 E...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
