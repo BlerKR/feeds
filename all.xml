@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 02:52:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 03:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["글로벌 협력, 과학 변방에서 중심국 가기 위한 마중물” (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241220120725</link>
+            <guid>https://zdnet.co.kr/view/?no=20241220120725</guid>
+            <pubDate>Fri, 20 Dec 2024 03:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[기초과학연구원(IBS)이 한국과학기자협회(과기협)와 20일 서울 강남 소재 한국과학기술회관에서 '기초과학 글로벌 협력 성과 및 전략 방안' 정책토론회를 개최했다. 이날 하성도 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/12/20/d05c4cd39a8d5bbcf208aaaab1cb8545-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[액션스퀘어, 제3자 배정 유상증자...50억원 자금 조달 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20241220115155</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241220110017</guid>
             <pubDate>Fri, 20 Dec 2024 02:52:15 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차가 내년 초 출시 예정인 '디 올 뉴 팰리세이드(팰리세이드)'의 주요 사양과 가격을 공개하고 20일부터 사전계약을 시작한다. 현대차 플래그십 대형 스포츠유틸리티차(SU...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/12/20/7ccbb7502be66aaa433b02191a188f9f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[유통 픽] 이랜드킴스클럽, 델리 바이 애슐리 평촌점 오픈 外 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241220101135</guid>
             <pubDate>Fri, 20 Dec 2024 02:52:15 GMT</pubDate>
             <content:encoded><![CDATA[펩시코가 중동 분쟁의 여파로 직원이 납치되고 항의 시위가 발생하는 등 어려움을 겪고 있다. 블룸버그통신은 지난해 10월 펩시코 자회사 소다스트림의 직원 가이 길보아달랄이 가자지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[주검 돼 車 트렁크 실린 남친…구글 '스트리트 뷰'에 딱 걸린 범인, 알고 보니 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241220101507</link>
-            <guid>https://zdnet.co.kr/view/?no=20241220101507</guid>
-            <pubDate>Fri, 20 Dec 2024 02:52:15 GMT</pubDate>
-            <content:encoded><![CDATA[구글 스트리트 뷰가 스페인에서 살인 사건 해결에 단서가 되는 장면을 포착해 화제다. 20일 영국 BBC, 뉴욕타임스 등 외신에 따르면 스페인 당국은 지난해 실종된 한 남성의 사...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
