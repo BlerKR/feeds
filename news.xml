@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 02:53:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 03:26:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크리에이츠, 반포로 연구개발센터·연구소 통합 이전]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241223122258</link>
+            <guid>https://zdnet.co.kr/view/?no=20241223122258</guid>
+            <pubDate>Mon, 23 Dec 2024 03:26:58 GMT</pubDate>
+            <content:encoded><![CDATA[원스톱 골프 테크놀로지 기업 크리에이츠는 연구개발(R&amp;D) 부서와 연구소를 서울 반포로 통합 이전했다고 23일 밝혔다. 크리에이츠는 업무 효율성과 조직 간의 시너지를 극대화하기...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/12/23/3d1dcad3d607f174aa05b9ec97f55d91-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VOD 광고도 줄었다...유료방송 품질평가 결과 전반적 개선]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241223094142</link>
+            <guid>https://zdnet.co.kr/view/?no=20241223094142</guid>
+            <pubDate>Mon, 23 Dec 2024 03:26:58 GMT</pubDate>
+            <content:encoded><![CDATA[IPTV와 케이블TV 등 유료방송에서 VOD 서비스의 광고 횟수와 시관이 줄어든 것으로 나타났다. 전반적인 유료방송 품질이 개선된 것으로 나타난 가운데 VOD 광고 감소는 시장...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2020/06/10/334d3c4f731a1c77534b3dd3dcaabc5d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다이슨, 초·중등생 대상 실내 공기질 관리 교육 실시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241223115828</link>
+            <guid>https://zdnet.co.kr/view/?no=20241223115828</guid>
+            <pubDate>Mon, 23 Dec 2024 03:26:58 GMT</pubDate>
+            <content:encoded><![CDATA[다이슨코리아는 국내 초·중등생 대상 '대기오염 및 실내 공기질 문제 해결 방법 알아보기' 교육을 성황리에 마무리했다고 23일 밝혔다. 해당 교육은 다이슨코리아가 한국환경교육협회...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NS홈쇼핑, 로보락 큐레보S 출시 방송]]></title>
             <link>https://zdnet.co.kr/view/?no=20241223114947</link>
             <guid>https://zdnet.co.kr/view/?no=20241223114947</guid>
             <pubDate>Mon, 23 Dec 2024 02:53:00 GMT</pubDate>
             <content:encoded><![CDATA[NS홈쇼핑이 25일 밤 9시45분 로봇청소기 '로보락Qrevo S(큐레보S)'를 론칭 방송한다고 23일 밝혔다. 워너비 청소기로 불리우는 로봇청소기 '로보락'은 진공청소부터 물...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/12/23/99290546f572db6a11c3f4d0c3581b14-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국형 서브컬처 액션 RPG, 글로벌 시장서도 통할 수 있을까]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241223112746</guid>
             <pubDate>Mon, 23 Dec 2024 02:53:00 GMT</pubDate>
             <content:encoded><![CDATA[최근 국내 게임사들이 액션 RPG 서브컬처 게임을 대대적으로 선보이고 있다. 이전까지 국내 서브컬처 게임은 수집형 RPG를 표방해왔지만, 이제는 차별화된 퀄리티와 콘텐츠 볼륨을...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/19/4a47ce8d0252bf1710362404192c7644-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[구글 양자칩 윌로우, 비트코인 암호 무력화할까]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241223105350</guid>
             <pubDate>Mon, 23 Dec 2024 02:53:00 GMT</pubDate>
             <content:encoded><![CDATA[스마일게이트-한국콘텐츠진흥원, 포용적 게임 디자인 교육을 위한 MOU 체결 스마일게이트가 한국콘텐츠진흥원(원장직무대행 유현석)과 포용적 게임 디자인 교육 활성화를 위해 교육용 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[태양탐사선, 크리스마스 이브에 태양 가장 가까이 간다 [우주로 간다]]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241223100313</link>
-            <guid>https://zdnet.co.kr/view/?no=20241223100313</guid>
-            <pubDate>Mon, 23 Dec 2024 02:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[태양 가까이 다가가고 있는 미국 항공우주국(NASA)의 태양 탐사선 '파커 솔라 프로브'(Parker Solar Probe)가 크리스마스 이브에 태양에 더 가까이 다가갈 예정이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[인사] 국토교통부]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241223105313</link>
-            <guid>https://zdnet.co.kr/view/?no=20241223105313</guid>
-            <pubDate>Mon, 23 Dec 2024 02:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[◇부이사관 승진 ▲공항정책과장 박문수 ▲홍보담당관 정천우 ▲운영지원과장 김기용 ▲혁신행정담당관 박정호 ▲도시정책과장 정진훈...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이지, IBK·코오롱서 50억원 벤처투자 유치]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241223105232</link>
-            <guid>https://zdnet.co.kr/view/?no=20241223105232</guid>
-            <pubDate>Mon, 23 Dec 2024 02:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[아이지는 IBK벤처투자와 코오롱인베스트먼트로부터 총 50억원 규모의 벤처투자를 유치했다고 23일 밝혔다. 아이지는 스마트팩토리와 반도체, 로봇, 증강현실(AR)·가상현실(VR)...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
