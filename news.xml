@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Dec 2024 03:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 04:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 의회, 고려아연 사태 우려…"中 기술유출 막아야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241226122127</link>
+            <guid>https://zdnet.co.kr/view/?no=20241226122127</guid>
+            <pubDate>Thu, 26 Dec 2024 04:25:19 GMT</pubDate>
+            <content:encoded><![CDATA[미국 하원의원이 고려아연 경영권 분쟁 사태에 대해 우려하는 내용의 공식 서한을 미국 국무부에 보냈다. 26일 고려아연 등에 따르면 에릭 스왈웰 미 하원의원은 최근 호세 페르난데...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/18/75d885813f5282cbb0f9be0da20b1733-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넷마블 '세븐나이츠 키우기', 중국 외자 판호 획득]]></title>
             <link>https://zdnet.co.kr/view/?no=20241226122317</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241226122011</guid>
             <pubDate>Thu, 26 Dec 2024 03:25:40 GMT</pubDate>
             <content:encoded><![CDATA[장비·부품 공급 전문기업 서진시스템이 에너지저장장치(ESS) 신규 수주에 성공했다. 서진지스템은 공시에서 에이스엔지니어링과 910억원 규모 ESS 공급 계약을 체결했다고 26일...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/05/28/83f050fe5a74b069cfae292c5f91344e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[입법조사처 "기금·조세...빅테크 망대가 간접 납부도 검토해야"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241226102542</guid>
             <pubDate>Thu, 26 Dec 2024 02:50:25 GMT</pubDate>
             <content:encoded><![CDATA[RWA 플랫폼 개발사 크레더(대표 임대훈)는 일본토큰증권협회(JSTA) 총회에서 실물연계자산(RWA)의 디파이(탈중앙화금융) 확장성에 대해 발표했다고 26일 밝혔다. 회사 측에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[용인 반도체 국가산업단지 지정, 세계 최대 '반도체 특화 도시' 조성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241226103951</link>
-            <guid>https://zdnet.co.kr/view/?no=20241226103951</guid>
-            <pubDate>Thu, 26 Dec 2024 02:50:25 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 용인 반도체 국가산업단지를 조기 지정, 세계 최대 '반도체 특화 도시'로 조성한다. 국토교통부는 26일 용인 반도체 국가산단의 산업단지계획 승인이 완료됨에 따라 31일 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
