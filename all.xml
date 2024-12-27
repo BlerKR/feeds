@@ -4,16 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Dec 2024 03:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 04:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK가스-서부발전, 친환경 에너지전환 연착륙 맞손 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241227131324</link>
+            <guid>https://zdnet.co.kr/view/?no=20241227131324</guid>
+            <pubDate>Fri, 27 Dec 2024 04:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[SK가스와 한국서부발전이 정부 탄소중립 목표 달성과 에너지전환 연착륙을 위해 협력한다. SK가스는 27일 경기 성남 SK가스 본사에서 한국서부발전과 '친환경 에너지경영 업무협약...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/12/27/28276a344e8151c9ce58aa67904a9871-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달러화 대비 원화 가치 한때 1%대 폭락 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241227102210</link>
+            <guid>https://zdnet.co.kr/view/?no=20241227102210</guid>
+            <pubDate>Fri, 27 Dec 2024 04:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[미국 달러화 대비 원화 가치가 무서운 속도로 떨어졌다. 27일 서울 외환시장에서 오전 11시 33분께 원·달러 환율은 전 거래일 대비 1% 이상 상승(원화 가치 하락)한 148...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/12/18/363957d82081539b76f13c8633ca1b82-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장] "공공·민간 경계 허문다"…NIA, 'AI 기반 사회현안 해결 세미나' 개최 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241227115810</link>
+            <guid>https://zdnet.co.kr/view/?no=20241227115810</guid>
+            <pubDate>Fri, 27 Dec 2024 04:24:43 GMT</pubDate>
+            <content:encoded><![CDATA["전자정부 분야에서 세계적 선도 역할을 해온 한국이 AI 시대에도 혁신을 이어가야 합니다. 단순한 업무 디지털화가 아닌 국민 체감도와 신뢰를 높이는 것이 핵심입니다." 민홍기 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["임직원 삶의 질 향상 노력"…아이티센, 가족친화기업 인증 획득 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20241227122031</link>
             <guid>https://zdnet.co.kr/view/?no=20241227122031</guid>
             <pubDate>Fri, 27 Dec 2024 03:24:48 GMT</pubDate>
             <content:encoded><![CDATA[아이티센그룹의 주요 계열사들이 임직원 삶의 질 향상을 위한 노력을 인정 받았다. 아이티센그룹은 아이티센글로벌(現 아이티센)과 아이티센코어(舊 굿센)이 여성가족부가 주관하는 '가...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/01/4f55a02150e19c9dae1daff6ea574150-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[남성 5명 중 2명은 살면서 '암' 발생…여성은 3명 중 1명 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241227093623</guid>
             <pubDate>Fri, 27 Dec 2024 03:24:48 GMT</pubDate>
             <content:encoded><![CDATA[(출처=2022년 국가암등록통계) 가장 많은 신규암은 '갑상선암'…대장암-폐암-유방암-위암-전립선암-간암 뒤이어 2022년 신규 발생 암환자 28만2047명…암환자 5년 생존율...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/12/27/f580232e4fcf905dbb626e18eaa4cbc1-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[서른 돌 맞은 넥슨, IP 파워로 글로벌 시장 공략 박차 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241227094127</guid>
             <pubDate>Fri, 27 Dec 2024 02:51:07 GMT</pubDate>
             <content:encoded><![CDATA[애플의 시가총액이 3조9천억 달러를 넘어서며 4조 달러 달성을 눈앞에 두고 있다고 배런스 등 외신들이 26일(현지시간) 보도했다. 애플 주가는 26일 뉴욕증시에서 0.32% 상...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[다른 나라는 어떻게 OTT 볼까 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241227100741</link>
-            <guid>https://zdnet.co.kr/view/?no=20241227100741</guid>
-            <pubDate>Fri, 27 Dec 2024 02:51:07 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신위원회는 해외 온라인동영상서비스(OTT) 시장조사와 이용행태조사 결과를 27일 발표했다. 국내 OTT 회사의 해외진출 전략을 수립하기 위한 자료다. 올해 해외 OTT 시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[인사] 건강보험심사평가원 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241227100442</link>
-            <guid>https://zdnet.co.kr/view/?no=20241227100442</guid>
-            <pubDate>Fri, 27 Dec 2024 02:51:07 GMT</pubDate>
-            <content:encoded><![CDATA[◇1급 승진 ▲김경화(고객지원실장) ▲신소연(급여관리실장) ◇전보 ▲기획조정실장 김산(법무지원단장, 경영혁신본부 경영리스크관리단장 겸임) ▲급여전략실장 김상지 ▲DUR관리실장 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["글로벌 AI 숏폼 제작 지원"…이스트소프트, 페르소 서포터즈 모집 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241227095644</link>
-            <guid>https://zdnet.co.kr/view/?no=20241227095644</guid>
-            <pubDate>Fri, 27 Dec 2024 02:51:07 GMT</pubDate>
-            <content:encoded><![CDATA[이스트소프트(대표 정상원)가 숏폼 제작으로 인공지능(AI) 휴먼 서비스 페르소닷에이아이(PERSO.ai)를 알릴 서포터즈를 모집한다. 이스트소프트는 생성할 페르소닷에이아이 서포...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
