@@ -4,16 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jan 2025 02:55:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 03:28:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오VX, '프렌즈 스크린 퀀텀' T2 통합대회 개최 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250106103602</link>
+            <guid>https://zdnet.co.kr/view/?no=20250106103602</guid>
+            <pubDate>Mon, 06 Jan 2025 03:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[카카오 VX(대표 문태식)가 자체 기술력으로 실제 골프장 필드를 실감하도록 구현한 스크린 골프 시스템 '프렌즈 스크린 퀀텀(Q)'과 스크린 골프 대중화를 이끈 '프렌즈 스크린 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/01/06/03e408a9a8eab3de940c161715bfc49f-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[우정사업본부, 지난해 공익사업으로 18만2천여명 지원 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250106110758</link>
+            <guid>https://zdnet.co.kr/view/?no=20250106110758</guid>
+            <pubDate>Mon, 06 Jan 2025 03:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[우정사업본부가 지난해 우체국 인프라 기반, 소외계층 지원, 미래세대 육성, 지속가능 친환경 등 4개 분야 13개 공익사업과 공익보험 운영을 통해 총 18만2천여 명을 지원했다고...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/16/01fab91d60abf0d5383fd1646591e709-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TV 1위 수성 위한 삼성의 신무기 'AI 비전'…실시간 번역도 OK (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250105163504</link>
+            <guid>https://zdnet.co.kr/view/?no=20250105163504</guid>
+            <pubDate>Mon, 06 Jan 2025 03:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=류은주 기자] 삼성전자가 인공지능(AI) 스크린의 미래를 제시했다. 삼성전자는 미국 라스베이거스에서 열리는 세계 최대 전자 전시회 'CES 2025' 개막...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KISIA, 뉴스레터 구독자 메일 1만건 유출…"휴먼에러 원인" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20250106102111</link>
             <guid>https://zdnet.co.kr/view/?no=20250106102111</guid>
             <pubDate>Mon, 06 Jan 2025 02:55:49 GMT</pubDate>
             <content:encoded><![CDATA[한국정보보호산업협회(KISIA)가 뉴스레터 발송 과정서 수신인 메일 주소 1만 건을 실수로 유출한 사건이 발생했다. 원인은 내부 시스템 오류가 아닌 직원 실수인 것으로 밝혀졌다...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/01/06/857686bf75e4bf64ebd613af6b5d3510-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[차세대 나라장터, 개통과 함께 장애 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250106114004</guid>
             <pubDate>Mon, 06 Jan 2025 02:55:49 GMT</pubDate>
             <content:encoded><![CDATA[차세대 나라장터가 개통과 함께 장애가 발생했다. 6일 국가종합전자조달(나라장터)은 나라장터 서비스에 장애가 발생했다고 공지를 통해 밝혔다. 공지에 따르면 오전 9시36분에서 1...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/01/06/830d3321d80d21c73206638a4a80410a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[NHN, '한게임포커' 출시 25주년...브랜딩 사이트 '한게임포커 INSIDE' 오픈 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250106110622</guid>
             <pubDate>Mon, 06 Jan 2025 02:55:49 GMT</pubDate>
             <content:encoded><![CDATA[코오롱베니트가 AI 얼라이언스 참여사를 위한 연구개발(R&amp;D)지원을 확대한다. 대상으로 하는 'AI 얼라이언스 부스트팩'을 올해 본격 시행한다. 이프로그램은 국내 70여 개 A...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[씽크프리, CES 2025 참가…AI 기반 미래 업무 환경 '혁신' (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250106104327</link>
-            <guid>https://zdnet.co.kr/view/?no=20250106104327</guid>
-            <pubDate>Mon, 06 Jan 2025 02:55:49 GMT</pubDate>
-            <content:encoded><![CDATA[한글과컴퓨터의 자회사인 씽크프리가 오는 7일부터 나흘간 미국 라스베이거스에서 열리는 세계 최대 IT·가전 전시회 'CES 2025'에 참가해 AI를 통한 미래의 업무방식을 선보...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오렌지플래닛 창업재단, 2025년 상반기 정기모집 실시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250106110201</link>
-            <guid>https://zdnet.co.kr/view/?no=20250106110201</guid>
-            <pubDate>Mon, 06 Jan 2025 02:55:49 GMT</pubDate>
-            <content:encoded><![CDATA[스마일게이트 오렌지플래닛 창업재단(센터장 서상봉, 오렌지플래닛)이 2025 상반기 정기모집을 시작한다고 6일 밝혔다. 상반기 정기모집 대상은 2인 이상 팀으로 구성된 5년 이내...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마·영화·음악 신진작가 발굴...CJ ENM, 오펜 공모전 개최 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250106110038</link>
-            <guid>https://zdnet.co.kr/view/?no=20250106110038</guid>
-            <pubDate>Mon, 06 Jan 2025 02:55:49 GMT</pubDate>
-            <content:encoded><![CDATA[CJ ENM이 신인 창작자 발굴과 육성을 위한 2025 '오펜(O'PEN)' 공개 모집에 나선다. 공모는 콘텐츠 분야의 '오펜 스토리텔러'와 음악 분야의 '오펜 뮤직'으로 나뉜...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
