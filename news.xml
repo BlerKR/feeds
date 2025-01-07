@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 02:53:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 03:27:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클라썸, 개인 맞춤형 대학 학사 상담 시스템 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250107115431</link>
+            <guid>https://zdnet.co.kr/view/?no=20250107115431</guid>
+            <pubDate>Tue, 07 Jan 2025 03:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[교육 및 지식 공유 플랫폼 클라썸(대표 이채린·최유진)이 AI 기반 개인 맞춤형 대학 학사 상담 시스템 '클라썸 커넥트'를 출시했다고 7일 밝혔다. 클라썸 커넥트는 대학별 학사...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/01/07/3061a45d7b07b6846a4f4cb8f3ee9206-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메디톡스, 바이오 스타트업 2개社 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20250107114322</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250107114132</guid>
             <pubDate>Tue, 07 Jan 2025 02:53:28 GMT</pubDate>
             <content:encoded><![CDATA[신라젠이 베이진으로부터 PD-1 억제제 티슬리주맙(Tislelizumab)을 제공받아 고형암 치료를 위해 개발 중인 BAL0891과의 병용 임상 시험을 진행한다. BAL0891...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/01/07/e41de5b60ceef32b1ec253bf57c1b4ec-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[중소 알뜰폰 사업자 줄도산 우려...비용 부담 가중]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250107102514</guid>
             <pubDate>Tue, 07 Jan 2025 02:53:28 GMT</pubDate>
             <content:encoded><![CDATA[[라스베이거스(미국)=류은주 기자] 삼성전자가 인공지능(AI) 컴패니언 '볼리'를 올해 상반기 공식 출시한다. 삼성전자는 세계 최대 가전·IT 전시회 'CES 2025' 개막에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국회, 제주항공 참사 특위 구성...위원장에 권영진 의원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250107110520</link>
-            <guid>https://zdnet.co.kr/view/?no=20250107110520</guid>
-            <pubDate>Tue, 07 Jan 2025 02:53:28 GMT</pubDate>
-            <content:encoded><![CDATA[여야가 7일 제주항공 여객기 참사 유가족 지원과 대책 마련 등을 위한 국회 특별위원회를 구성했다. 국민의힘 박형수 원내수석부대표는 이날 국회서 열린 원내대책회의에서 “전날 여야...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
