@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jan 2025 02:43:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 03:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['꽉' 죄던 가계대출 5분기 만에 '완화' 기조로]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250114093834</link>
+            <guid>https://zdnet.co.kr/view/?no=20250114093834</guid>
+            <pubDate>Tue, 14 Jan 2025 03:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[꽉 조여졌던 가계대출이 5분기 만에 완화 기조로 돌아섰다. 14일 한국은행이 낸 '금융기관 대출 행태 서베이'에 따르면 올해 1분기 중 국내은행의 대출태도 점수는 주택 관련 가...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/01/14/630242de7209ada09a60e81a65eb427a-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[KB국민은행 손 잡고 점유율 반등 노리는 빗썸…가상자산 거래소 경쟁 재점화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250114114650</link>
+            <guid>https://zdnet.co.kr/view/?no=20250114114650</guid>
+            <pubDate>Tue, 14 Jan 2025 03:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[가상자산 거래소 빗썸이 제휴 은행을 오는 3월부터 NH농협은행에서 KB국민은행으로 변경한다. 가상자산 업계는 이로 인해 점유율 경쟁 불꽃이 다시 재점화할 것이라는 전망이다. 빗...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/01/13/bf281a1cfe28c6bed71873279dba9bf9-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[작년 ICT 수출액 역대 최대치 갈아치워...반도체 비중 60%]]></title>
             <link>https://zdnet.co.kr/view/?no=20250114113844</link>
             <guid>https://zdnet.co.kr/view/?no=20250114113844</guid>
             <pubDate>Tue, 14 Jan 2025 02:43:21 GMT</pubDate>
             <content:encoded><![CDATA[지난해 ICT 수출액이 2천350억 달러를 기록, 역대 최대치를 경신했다. ICT 수출액 증가는 전체 60% 비중을 차지한 반도체 수출 확대에 힘입었다. 인공지능(AI) 관련 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/06/06/484617cbbe49a954ceba83d7df2824c5-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["영풍·MBK, 고려아연 인수 시 아연 시장 독점 우려"]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250114105243</guid>
             <pubDate>Tue, 14 Jan 2025 02:43:21 GMT</pubDate>
             <content:encoded><![CDATA[MBK파트너스와 영풍이 아연 제련기업 고려아연의 M&amp;A 시도를 이어가는 가운데 산업계에서는 국내 아연 공급망 교란 우려가 나온다. 사모퍈드가 이끄는 영풍·MBK로 고려아연 경영...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/03/b92e5088f76a932d4328992f1c7ba390-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["AI 시대, 국가 전략의 재구성 논의한다"…정보세계정치학회, 집중세미나 개최]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250114104510</guid>
             <pubDate>Tue, 14 Jan 2025 02:43:21 GMT</pubDate>
             <content:encoded><![CDATA[뱅크샐러드가 2026년 하반기 코스닥 상장을 목표로 본격적인 기업공개(IPO) 준비에 돌입한다. 뱅크샐러드는 14일 미래에셋증권을 최종 IPO 주관사로 선정했다고 밝혔다. 앞서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[벤큐코리아, 22회 교육박람회에 전자칠판 4종 출품]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250114104948</link>
-            <guid>https://zdnet.co.kr/view/?no=20250114104948</guid>
-            <pubDate>Tue, 14 Jan 2025 02:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[벤큐코리아는 오는 15일부터 17일까지 3일간 서울 코엑스에서 열리는 '제22회 대한민국 교육박람회'에 AI 기능 탑재 전자칠판 4종을 출품한다고 밝혔다. 대한민국 교육박람회는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[교원투어 여행이지, 여행 설명회 '트래블이지쇼' 개최 활성화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250114093825</link>
-            <guid>https://zdnet.co.kr/view/?no=20250114093825</guid>
-            <pubDate>Tue, 14 Jan 2025 02:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[교원투어 여행이지가 여행 설명회 '트래블이지쇼' 개최 활성화를 통해 오프라인 소비자 접점 강화에 나선다고 14일 밝혔다. 여행이지는 여행 꿀팁을 전달하고 할인, 특전 등을 제공...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
