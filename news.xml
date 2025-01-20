@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 02:49:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 03:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[교보문고, 에버스핀 '에버세이프'로 고객정보 보호한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250120120148</link>
+            <guid>https://zdnet.co.kr/view/?no=20250120120148</guid>
+            <pubDate>Mon, 20 Jan 2025 03:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 보안기업 에버스핀(대표 하영빈)은 해킹방지 솔루션 '에버세이프(EVERSAFE)'를 교보문고에 공급했다고 20일 밝혔다. 에버세이프는 세계 33개 특허를 보유한...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/01/20/642928b82a49678d42b525b480896e68-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설 연휴 기간 영상통화 공짜로 쓰세요]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250120113504</link>
+            <guid>https://zdnet.co.kr/view/?no=20250120113504</guid>
+            <pubDate>Mon, 20 Jan 2025 03:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[오는 25일부터 30일까지 설 연휴 기간 데이터 통신 요금 부담 없이 영상통화가 무료로 제공된다. 과학기술정보통신부는 설 명절을 맞이해 가계 부담을 완화하고 안전한 디지털 이용...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/01/20/f5f962c2d7fa6a542f311df93456443f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코스모신소재, 작년 영업익 250억…22.7% ↓]]></title>
             <link>https://zdnet.co.kr/view/?no=20250120112721</link>
             <guid>https://zdnet.co.kr/view/?no=20250120112721</guid>
             <pubDate>Mon, 20 Jan 2025 02:49:28 GMT</pubDate>
             <content:encoded><![CDATA[양극재 기업 코스모신소재(대표 홍동환)는 20일 매출액 또는 손익구조 30%(대규모법인 15%) 변동 공시를 내고 지난해 매출 5천697억원, 영업이익 250억원, 당기순이익 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/01/20/a2524a324edcbf8dc232a1b0453e6cd0-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[식약처, 아모레퍼시픽에 광고업무정지 2개월 처분]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250120105749</guid>
             <pubDate>Mon, 20 Jan 2025 02:49:28 GMT</pubDate>
             <content:encoded><![CDATA[아모레퍼시픽의 헤라가 식품의약품안전처로부터 광고업무정지 처분을 받았다. 20일 식약처에 따르면 헤라는 지난해 12월 30일 화장품 '헤라 센슈얼 누드글로스 5g'에 대해 광고업...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/01/20/8fe1eb01ca3f2a7f36a39b133380254c-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[파나소닉코리아, 나노케어 헤어드라이어 2종 출시]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250120102059</guid>
             <pubDate>Mon, 20 Jan 2025 02:49:28 GMT</pubDate>
             <content:encoded><![CDATA[쿠팡 창업자 김범석 의장이 도널드 트럼프 대통령 당선인의 장남 트럼프 주니어와 국무·상무장관 후보자 등을 만났다. 업계에 따르면 김 의장은 지난 18일(현지 시간) 워싱턴D.C...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[컴투스표 신작 게임, 새해 글로벌 시장 공략 본격]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250120100503</link>
-            <guid>https://zdnet.co.kr/view/?no=20250120100503</guid>
-            <pubDate>Mon, 20 Jan 2025 02:49:28 GMT</pubDate>
-            <content:encoded><![CDATA[컴투스와 컴투스홀딩스가 새해 다양한 신작 게임 앞세워 글로벌 시장 공략에 박차를 가한다. 두 회사는 지난해 준비해왔던 자체 개발 및 퍼블리싱작을 상반기부터 하반기까지 순차적으로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["MZ 필수 스토리지 됐다"…네이버클라우드, '마이박스' 유료 사용자 200만 돌파]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250120103940</link>
-            <guid>https://zdnet.co.kr/view/?no=20250120103940</guid>
-            <pubDate>Mon, 20 Jan 2025 02:49:28 GMT</pubDate>
-            <content:encoded><![CDATA[네이버클라우드 개인 스토리지 서비스 '마이박스' 유료 사용자가 2년만에 2배 급증하면서 MZ세대의 디지털 필수품으로 자리매김했다. 네이버클라우드가 자사의 개인용 파일 저장 클라...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
